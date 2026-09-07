@@ -6,7 +6,7 @@
       "title": "Accordion",
       "type": "sections",
       "categories": ["Agency", "Business"],
-      "file": "pages/accordion-1",
+      "file": "sections/accordion-1",
       "thumbnail": "screenshots/agency-home-v1.webp"
     }
   ]
