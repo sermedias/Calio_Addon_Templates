@@ -1,4 +1,14 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+        {
+      "id": "accordion-1",
+      "title": "Accordion",
+      "type": "sections",
+      "categories": ["Agency", "Business"],
+      "file": "pages/accordion-1",
+      "thumbnail": "screenshots/agency-home-v1.webp"
+    }
+  ]
+  
 }
