@@ -16,7 +16,7 @@ The catalog starts empty. Add original, tested Elementor exports and actual scre
 
 ## Add a template
 
-1. Build the design with Elementor Free and/or enabled Calio Free widgets. Use classic containers, sections, columns and widgets. Atomic v4 elements and third-party/premium dependencies are not supported in the initial catalog.
+1. Build the design with Elementor Free and/or enabled Calio Free widgets. Classic layouts and registered Elementor Atomic elements (including e-flexbox) are supported. The destination site must have every element and widget used by the design enabled. Calio preserves and remaps Atomic local style references during import.
 2. Export the design as Elementor JSON. Place it in `templates/`, `pages/` or `sections/`.
 3. Capture the actual design and add a PNG, JPG or WebP preview under `screenshots/`. Use a descriptive, versioned name when replacing an image, e.g. `agency-home-v2.webp`. Prefer optimized previews under 300 KB.
 4. Add an entry to `manifest.json` and commit JSON, image and catalog together to `main`:
