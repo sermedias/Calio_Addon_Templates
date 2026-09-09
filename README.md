@@ -12,11 +12,22 @@ sections/<slug>.json
 screenshots/<slug>.webp
 ```
 
-The catalog starts empty. Add original, tested Elementor exports and actual screenshots before adding their entries to the manifest. ElementsKit is a UI reference; its templates and artwork are not included.
+Add original, tested Elementor exports and actual screenshots before adding their entries to the manifest. ElementsKit is a UI reference; its templates and artwork are not included.
+
+## Included templates
+
+- **Forma Studio — Calio Free**: a responsive creative studio page, saved and exported from Elementor. It uses only Calio Free Advanced Heading, Advanced Button and Accordion widgets, with Elementor containers for layout. No Pro plugin, external images, custom CSS or paid fonts are required. Replace the demo copy and `hello@example.com` before using it for a business.
+- **Accordion**: the original uploaded accordion section.
+
+## Automatic Free / Pro classification
+
+Calio reads each export's actual nested element tree when refreshing the catalog. Templates containing only Free widgets appear under **Free**. A single Calio Pro widget anywhere in that tree moves the entire template to **Pro**. You do not set a `tier` manually in this manifest; widget ownership comes from the widget catalog shipped with Calio Free, even when Pro is not installed.
+
+Pro layouts remain previewable, but insertion requires an active, compatible and licensed Calio Pro plugin. The server re-downloads and re-checks the JSON before every import and rejects Pro content before importing any media. A stale or manually altered Free label cannot bypass this check. Other required widgets must also be installed and enabled. Unknown Calio widget names are locked conservatively until the Free plugin recognizes them.
 
 ## Add a template
 
-1. Build the design with Elementor Free and/or enabled Calio Free widgets. Classic layouts and registered Elementor Atomic elements (including e-flexbox) are supported. The destination site must have every element and widget used by the design enabled. Calio preserves and remaps Atomic local style references during import.
+1. Build the design with Elementor and enabled Calio widgets. Use only Free widgets for a Free template; including any Calio Pro widget makes it a Pro template automatically. Classic layouts and registered Elementor Atomic elements (including e-flexbox) are supported. The destination site must have every element and widget used by the design enabled. Calio preserves and remaps Atomic local style references during import.
 2. Export the design as Elementor JSON. Place it in `templates/`, `pages/` or `sections/`.
 3. Capture the actual design and add a PNG, JPG or WebP preview under `screenshots/`. Use a descriptive, versioned name when replacing an image, e.g. `agency-home-v2.webp`. Prefer optimized previews under 300 KB.
 4. Add an entry to `manifest.json` and commit JSON, image and catalog together to `main`:

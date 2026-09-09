@@ -1,6 +1,14 @@
 {
   "version": 1,
   "items": [
+    {
+      "id": "forma-studio-free",
+      "title": "Forma Studio — Calio Free",
+      "type": "templates",
+      "categories": ["Agency", "Creative", "Business"],
+      "file": "templates/forma-studio-free.json",
+      "thumbnail": "screenshots/forma-studio-free.webp"
+    },
         {
       "id": "accordion-1",
       "title": "Accordion",
