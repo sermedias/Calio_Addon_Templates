@@ -9,6 +9,14 @@
       "file": "templates/forma-studio-free.json",
       "thumbnail": "screenshots/forma-studio-free.webp"
     },
+    {
+      "id": "northstar-digital-studio-free",
+      "title": "Northstar — Digital Studio / Free",
+      "type": "templates",
+      "categories": ["Agency", "Creative", "Technology"],
+      "file": "templates/northstar-digital-studio-free.json",
+      "thumbnail": "screenshots/northstar-digital-studio-free.webp"
+    },
         {
       "id": "accordion-1",
       "title": "Accordion",

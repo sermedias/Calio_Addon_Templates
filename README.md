@@ -17,6 +17,7 @@ Add original, tested Elementor exports and actual screenshots before adding thei
 ## Included templates
 
 - **Forma Studio — Calio Free**: a responsive creative studio page, saved and exported from Elementor. It uses only Calio Free Advanced Heading, Advanced Button and Accordion widgets, with Elementor containers for layout. No Pro plugin, external images, custom CSS or paid fonts are required. Replace the demo copy and `hello@example.com` before using it for a business.
+- **Northstar — Digital Studio / Free**: a responsive digital studio page saved and exported from Elementor with ten Calio Free widget types: Accent Headline, Accordion, Advanced Heading, Animated Link, Call Out, Fancy Tabs, Feature List, Filterable Gallery, Image Comparison Slider and Multicolumn Pricing Table. Its four original interface mockups are bundled in `media/northstar/`; no stock photography, external fonts, Elementor Pro, Calio Pro, WooCommerce or saved-template IDs are required. Orbit, Field and Mono are fictional concepts rather than client work. Replace the illustrative `$900` / `$2,400` starting prices, `hello@example.com`, demo copy and project details before publishing a real business site.
 - **Accordion**: the original uploaded accordion section.
 
 ## Automatic Free / Pro classification
