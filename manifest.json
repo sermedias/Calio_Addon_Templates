@@ -17,6 +17,14 @@
       "file": "templates/northstar-digital-studio-free.json",
       "thumbnail": "screenshots/northstar-digital-studio-free.webp"
     },
+    {
+      "id": "atelier-architecture-free",
+      "title": "Atelier — Architecture & Interiors / Free",
+      "type": "templates",
+      "categories": ["Architecture", "Interior", "Portfolio"],
+      "file": "templates/atelier-architecture-free.json",
+      "thumbnail": "screenshots/atelier-architecture-free.webp"
+    },
         {
       "id": "accordion-1",
       "title": "Accordion",
