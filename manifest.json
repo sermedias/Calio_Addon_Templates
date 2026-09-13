@@ -25,7 +25,15 @@
       "file": "templates/atelier-architecture-free.json",
       "thumbnail": "screenshots/atelier-architecture-free.webp"
     },
-        {
+    {
+      "id": "gather-creative-conference-free",
+      "title": "Gather — Creative Conference / Free",
+      "type": "templates",
+      "categories": ["Events", "Conference", "Creative"],
+      "file": "templates/gather-creative-conference-free.json",
+      "thumbnail": "screenshots/gather-creative-conference-free.webp"
+    },
+    {
       "id": "accordion-1",
       "title": "Accordion",
       "type": "sections",
