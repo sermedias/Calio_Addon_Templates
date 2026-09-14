@@ -1,0 +1,317 @@
+{
+    "content": [
+        {
+            "id": "4810a603",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "40",
+                    "bottom": "88",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "68",
+                    "right": "28",
+                    "bottom": "68",
+                    "left": "28",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "52",
+                    "right": "22",
+                    "bottom": "52",
+                    "left": "22",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "_element_id": "pricing"
+            },
+            "elements": [
+                {
+                    "id": "549c40ae",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1160,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3700cc26",
+                            "settings": {
+                                "title": "A focused engagement for the stage you are in.",
+                                "subtitle": "WAYS TO WORK TOGETHER",
+                                "description": "Illustrative starting prices for this demo template; final scope and pricing should be replaced.",
+                                "tag": "h2",
+                                "content_width": "wide",
+                                "panel_skin": "none",
+                                "align": "left",
+                                "show_divider": "",
+                                "show_accent_bar": "",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Arial",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 44,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "700",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1200000000000001,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.3999999999999999,
+                                    "sizes": []
+                                },
+                                "heading_title_normal_paint_mode": "classic",
+                                "heading_title_normal_color": "#101C2B",
+                                "heading_highlight_normal_paint_mode": "classic",
+                                "heading_highlight_normal_color": "#6FE0CE",
+                                "heading_subtitle_paint_mode": "classic",
+                                "heading_subtitle_color": "#637082",
+                                "heading_desc_paint_mode": "classic",
+                                "heading_desc_color": "#637082",
+                                "subtitle_typography_typography": "custom",
+                                "subtitle_typography_font_family": "Arial",
+                                "subtitle_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "subtitle_typography_font_weight": "700",
+                                "subtitle_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "desc_typography_typography": "custom",
+                                "desc_typography_font_family": "Arial",
+                                "desc_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "desc_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.6499999999999999,
+                                    "sizes": []
+                                },
+                                "title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "subtitle_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "panel_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-advanced-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "69d8cd3a",
+                            "settings": {
+                                "plan_count": "3",
+                                "skin": "minimal",
+                                "featured_skin": "spotlight",
+                                "enable_billing_switch": "",
+                                "show_feature_labels": "yes",
+                                "collapse_rows": "",
+                                "mobile_compare_mode": "stacked",
+                                "feature_rows": [
+                                    {
+                                        "_id": "57029a43",
+                                        "row_kind": "group",
+                                        "label": "Engagement",
+                                        "row_note": "Illustrative scope and starting points"
+                                    },
+                                    {
+                                        "_id": "2323d071",
+                                        "row_kind": "feature",
+                                        "label": "Best for",
+                                        "value_1": "One key decision",
+                                        "value_2": "A focused launch",
+                                        "value_3": "Ongoing momentum"
+                                    },
+                                    {
+                                        "_id": "6adf8391",
+                                        "row_kind": "feature",
+                                        "label": "Typical rhythm",
+                                        "value_1": "1–2 weeks",
+                                        "value_2": "4–8 weeks",
+                                        "value_3": "Monthly"
+                                    },
+                                    {
+                                        "_id": "6dd66d1b",
+                                        "row_kind": "feature",
+                                        "label": "Core delivery",
+                                        "value_1": "Direction + prototype",
+                                        "value_2": "System + responsive site",
+                                        "value_3": "Embedded design support",
+                                        "highlight_row": "yes"
+                                    },
+                                    {
+                                        "_id": "4e7050a6",
+                                        "row_kind": "feature",
+                                        "label": "Handover",
+                                        "value_1": "Action plan",
+                                        "value_2": "Documentation",
+                                        "value_3": "Shared backlog"
+                                    }
+                                ],
+                                "plan_1_title": "Sprint",
+                                "plan_1_subtitle": "Clarify one important move",
+                                "plan_1_price": "$900",
+                                "plan_1_period": "starting",
+                                "plan_1_badge": "",
+                                "plan_1_featured": "",
+                                "plan_1_button_text": "Book a sprint",
+                                "plan_1_button_url": {
+                                    "url": "#contact"
+                                },
+                                "plan_2_title": "Website",
+                                "plan_2_subtitle": "Shape and launch a clear site",
+                                "plan_2_price": "$2,400",
+                                "plan_2_period": "starting",
+                                "plan_2_badge": "Most popular",
+                                "plan_2_featured": "yes",
+                                "plan_2_button_text": "Plan a website",
+                                "plan_2_button_url": {
+                                    "url": "#contact"
+                                },
+                                "plan_3_title": "Partnership",
+                                "plan_3_subtitle": "An ongoing senior design partner",
+                                "plan_3_price": "Let's talk",
+                                "plan_3_period": "",
+                                "plan_3_badge": "",
+                                "plan_3_featured": "",
+                                "plan_3_button_text": "Start a conversation",
+                                "plan_3_button_url": {
+                                    "url": "#contact"
+                                },
+                                "pricing_plan_card_bg_normal_group_background": "classic",
+                                "pricing_plan_card_bg_normal_group_color": "#FFFFFF",
+                                "pricing_plan_card_bg_featured_group_background": "classic",
+                                "pricing_plan_card_bg_featured_group_color": "#DFF8F3",
+                                "pricing_plan_title_normal_paint_mode": "classic",
+                                "pricing_plan_title_normal_color": "#101C2B",
+                                "pricing_plan_price_normal_paint_mode": "classic",
+                                "pricing_plan_price_normal_color": "#101C2B",
+                                "pricing_plan_title_featured_paint_mode": "classic",
+                                "pricing_plan_title_featured_color": "#101C2B",
+                                "pricing_plan_price_featured_paint_mode": "classic",
+                                "pricing_plan_price_featured_color": "#101C2B",
+                                "pricing_row_label_paint_mode": "classic",
+                                "pricing_row_label_color": "#637082",
+                                "pricing_row_value_paint_mode": "classic",
+                                "pricing_row_value_color": "#101C2B",
+                                "pricing_button_text_normal_paint_mode": "classic",
+                                "pricing_button_text_normal_color": "#FFFFFF",
+                                "pricing_button_bg_normal_group_background": "classic",
+                                "pricing_button_bg_normal_group_color": "#101C2B",
+                                "pricing_featured_button_text_normal_paint_mode": "classic",
+                                "pricing_featured_button_text_normal_color": "#101C2B",
+                                "pricing_featured_button_bg_normal_group_background": "classic",
+                                "pricing_featured_button_bg_normal_group_color": "#6FE0CE",
+                                "plan_card_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": false
+                                },
+                                "plan_card_padding": {
+                                    "unit": "px",
+                                    "top": "28",
+                                    "right": "28",
+                                    "bottom": "28",
+                                    "left": "28",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-multicolumn-pricing-table",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Northstar — Engagement Pricing / Free",
+    "type": "section"
+}

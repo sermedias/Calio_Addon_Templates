@@ -40,6 +40,230 @@
       "categories": ["Agency", "Business"],
       "file": "sections/accordion-1.json",
       "thumbnail": "screenshots/accordion-1.webp"
+    },
+    {
+      "id": "forma-hero-free",
+      "title": "Forma — Creative Studio Hero / Free",
+      "type": "sections",
+      "categories": ["Creative","Agency","Hero"],
+      "file": "sections/forma-hero-free.json",
+      "thumbnail": "screenshots/forma-hero-free.webp"
+    },
+    {
+      "id": "forma-services-free",
+      "title": "Forma — Creative Services / Free",
+      "type": "sections",
+      "categories": ["Creative","Agency","Services"],
+      "file": "sections/forma-services-free.json",
+      "thumbnail": "screenshots/forma-services-free.webp"
+    },
+    {
+      "id": "forma-statement-free",
+      "title": "Forma — Conversation Statement / Free",
+      "type": "sections",
+      "categories": ["Creative","Agency","Content"],
+      "file": "sections/forma-statement-free.json",
+      "thumbnail": "screenshots/forma-statement-free.webp"
+    },
+    {
+      "id": "forma-faq-free",
+      "title": "Forma — Studio FAQ / Free",
+      "type": "sections",
+      "categories": ["Creative","Agency","FAQ"],
+      "file": "sections/forma-faq-free.json",
+      "thumbnail": "screenshots/forma-faq-free.webp"
+    },
+    {
+      "id": "forma-contact-cta-free",
+      "title": "Forma — Contact CTA / Free",
+      "type": "sections",
+      "categories": ["Creative","Agency","Call to Action"],
+      "file": "sections/forma-contact-cta-free.json",
+      "thumbnail": "screenshots/forma-contact-cta-free.webp"
+    },
+    {
+      "id": "atelier-hero-free",
+      "title": "Atelier — Architecture Hero / Free",
+      "type": "sections",
+      "categories": ["Architecture","Interior","Hero"],
+      "file": "sections/atelier-hero-free.json",
+      "thumbnail": "screenshots/atelier-hero-free.webp"
+    },
+    {
+      "id": "atelier-approach-free",
+      "title": "Atelier — Design Approach / Free",
+      "type": "sections",
+      "categories": ["Architecture","Interior","Features"],
+      "file": "sections/atelier-approach-free.json",
+      "thumbnail": "screenshots/atelier-approach-free.webp"
+    },
+    {
+      "id": "atelier-spaces-free",
+      "title": "Atelier — Featured Spaces / Free",
+      "type": "sections",
+      "categories": ["Architecture","Interior","Portfolio"],
+      "file": "sections/atelier-spaces-free.json",
+      "thumbnail": "screenshots/atelier-spaces-free.webp"
+    },
+    {
+      "id": "atelier-material-gallery-free",
+      "title": "Atelier — Material Gallery / Free",
+      "type": "sections",
+      "categories": ["Architecture","Interior","Gallery"],
+      "file": "sections/atelier-material-gallery-free.json",
+      "thumbnail": "screenshots/atelier-material-gallery-free.webp"
+    },
+    {
+      "id": "atelier-image-flow-free",
+      "title": "Atelier — Image Flow / Free",
+      "type": "sections",
+      "categories": ["Architecture","Interior","Gallery"],
+      "file": "sections/atelier-image-flow-free.json",
+      "thumbnail": "screenshots/atelier-image-flow-free.webp"
+    },
+    {
+      "id": "atelier-process-free",
+      "title": "Atelier — Studio Process / Free",
+      "type": "sections",
+      "categories": ["Architecture","Interior","Process"],
+      "file": "sections/atelier-process-free.json",
+      "thumbnail": "screenshots/atelier-process-free.webp"
+    },
+    {
+      "id": "atelier-team-free",
+      "title": "Atelier — Studio Team / Free",
+      "type": "sections",
+      "categories": ["Architecture","Interior","Team"],
+      "file": "sections/atelier-team-free.json",
+      "thumbnail": "screenshots/atelier-team-free.webp"
+    },
+    {
+      "id": "atelier-contact-free",
+      "title": "Atelier — Studio Visit / Free",
+      "type": "sections",
+      "categories": ["Architecture","Interior","Contact"],
+      "file": "sections/atelier-contact-free.json",
+      "thumbnail": "screenshots/atelier-contact-free.webp"
+    },
+    {
+      "id": "northstar-hero-free",
+      "title": "Northstar — Digital Studio Hero / Free",
+      "type": "sections",
+      "categories": ["Agency","Technology","Hero"],
+      "file": "sections/northstar-hero-free.json",
+      "thumbnail": "screenshots/northstar-hero-free.webp"
+    },
+    {
+      "id": "northstar-services-tabs-free",
+      "title": "Northstar — Services Tabs / Free",
+      "type": "sections",
+      "categories": ["Agency","Technology","Services"],
+      "file": "sections/northstar-services-tabs-free.json",
+      "thumbnail": "screenshots/northstar-services-tabs-free.webp"
+    },
+    {
+      "id": "northstar-project-gallery-free",
+      "title": "Northstar — Project Gallery / Free",
+      "type": "sections",
+      "categories": ["Agency","Technology","Portfolio"],
+      "file": "sections/northstar-project-gallery-free.json",
+      "thumbnail": "screenshots/northstar-project-gallery-free.webp"
+    },
+    {
+      "id": "northstar-process-free",
+      "title": "Northstar — Delivery Process / Free",
+      "type": "sections",
+      "categories": ["Agency","Technology","Process"],
+      "file": "sections/northstar-process-free.json",
+      "thumbnail": "screenshots/northstar-process-free.webp"
+    },
+    {
+      "id": "northstar-comparison-free",
+      "title": "Northstar — Experience Comparison / Free",
+      "type": "sections",
+      "categories": ["Agency","Technology","Comparison"],
+      "file": "sections/northstar-comparison-free.json",
+      "thumbnail": "screenshots/northstar-comparison-free.webp"
+    },
+    {
+      "id": "northstar-pricing-free",
+      "title": "Northstar — Engagement Pricing / Free",
+      "type": "sections",
+      "categories": ["Agency","Technology","Pricing"],
+      "file": "sections/northstar-pricing-free.json",
+      "thumbnail": "screenshots/northstar-pricing-free.webp"
+    },
+    {
+      "id": "northstar-faq-free",
+      "title": "Northstar — Agency FAQ / Free",
+      "type": "sections",
+      "categories": ["Agency","Technology","FAQ"],
+      "file": "sections/northstar-faq-free.json",
+      "thumbnail": "screenshots/northstar-faq-free.webp"
+    },
+    {
+      "id": "northstar-contact-free",
+      "title": "Northstar — Contact Callout / Free",
+      "type": "sections",
+      "categories": ["Agency","Technology","Call to Action"],
+      "file": "sections/northstar-contact-free.json",
+      "thumbnail": "screenshots/northstar-contact-free.webp"
+    },
+    {
+      "id": "gather-event-hero-free",
+      "title": "Gather — Conference Hero / Free",
+      "type": "sections",
+      "categories": ["Events","Conference","Hero"],
+      "file": "sections/gather-event-hero-free.json",
+      "thumbnail": "screenshots/gather-event-hero-free.webp"
+    },
+    {
+      "id": "gather-workshops-free",
+      "title": "Gather — Workshop Slider / Free",
+      "type": "sections",
+      "categories": ["Events","Conference","Workshops"],
+      "file": "sections/gather-workshops-free.json",
+      "thumbnail": "screenshots/gather-workshops-free.webp"
+    },
+    {
+      "id": "gather-speakers-free",
+      "title": "Gather — Speaker Grid / Free",
+      "type": "sections",
+      "categories": ["Events","Conference","Team"],
+      "file": "sections/gather-speakers-free.json",
+      "thumbnail": "screenshots/gather-speakers-free.webp"
+    },
+    {
+      "id": "gather-tracks-free",
+      "title": "Gather — Conference Tracks / Free",
+      "type": "sections",
+      "categories": ["Events","Conference","Tabs"],
+      "file": "sections/gather-tracks-free.json",
+      "thumbnail": "screenshots/gather-tracks-free.webp"
+    },
+    {
+      "id": "gather-program-free",
+      "title": "Gather — Conference Program / Free",
+      "type": "sections",
+      "categories": ["Events","Conference","Schedule"],
+      "file": "sections/gather-program-free.json",
+      "thumbnail": "screenshots/gather-program-free.webp"
+    },
+    {
+      "id": "gather-faq-free",
+      "title": "Gather — Event FAQ / Free",
+      "type": "sections",
+      "categories": ["Events","Conference","FAQ"],
+      "file": "sections/gather-faq-free.json",
+      "thumbnail": "screenshots/gather-faq-free.webp"
+    },
+    {
+      "id": "gather-registration-cta-free",
+      "title": "Gather — Registration CTA / Free",
+      "type": "sections",
+      "categories": ["Events","Conference","Call to Action"],
+      "file": "sections/gather-registration-cta-free.json",
+      "thumbnail": "screenshots/gather-registration-cta-free.webp"
     }
   ]
 }

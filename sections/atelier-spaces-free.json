@@ -1,0 +1,982 @@
+{
+    "content": [
+        {
+            "id": "2ee2049e",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "96",
+                    "right": "48",
+                    "bottom": "96",
+                    "left": "48",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "72",
+                    "right": "30",
+                    "bottom": "72",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "56",
+                    "right": "22",
+                    "bottom": "56",
+                    "left": "22",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F2EFE7",
+                "_element_id": "spaces"
+            },
+            "elements": [
+                {
+                    "id": "46ec6c89",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1200,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "44edf2a7",
+                            "settings": {
+                                "title": "A small collection of places to pause.",
+                                "subtitle": "SELECTED SPACES",
+                                "description": "Three fictional architectural studies drawn specifically for this demo template.",
+                                "tag": "h2",
+                                "content_width": "wide",
+                                "panel_skin": "none",
+                                "align": "left",
+                                "show_divider": "",
+                                "show_accent_bar": "",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Georgia",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 46,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "400",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1200000000000001,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.1000000000000001,
+                                    "sizes": []
+                                },
+                                "heading_title_normal_paint_mode": "classic",
+                                "heading_title_normal_color": "#262A25",
+                                "heading_highlight_normal_paint_mode": "classic",
+                                "heading_highlight_normal_color": "#B47356",
+                                "heading_subtitle_paint_mode": "classic",
+                                "heading_subtitle_color": "#B47356",
+                                "heading_desc_paint_mode": "classic",
+                                "heading_desc_color": "#555A52",
+                                "subtitle_typography_typography": "custom",
+                                "subtitle_typography_font_family": "Arial",
+                                "subtitle_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "subtitle_typography_font_weight": "700",
+                                "subtitle_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "desc_typography_typography": "custom",
+                                "desc_typography_font_family": "Arial",
+                                "desc_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "desc_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "subtitle_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "panel_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-advanced-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7c85c0cb",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_gap": {
+                                    "column": "24",
+                                    "row": "34",
+                                    "unit": "px",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "flex_direction_tablet": "row",
+                                "flex_direction_mobile": "column",
+                                "flex_wrap": "wrap"
+                            },
+                            "elements": [
+                                {
+                                    "id": "65b89007",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "18",
+                                            "row": "18",
+                                            "unit": "px",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 31.899999999999999,
+                                            "sizes": []
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "53962d35",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/courtyard-house.png",
+                                                    "id": "",
+                                                    "alt": "Courtyard House architectural illustration",
+                                                    "caption": ""
+                                                },
+                                                "title_text": "Courtyard House",
+                                                "title_link_url": {
+                                                    "url": "#details"
+                                                },
+                                                "sub_title_text": "RESIDENTIAL / COURTYARD",
+                                                "description_text": "<p>A low, light-filled home organized around a sheltered garden.</p>",
+                                                "item_height": {
+                                                    "unit": "px",
+                                                    "size": 390,
+                                                    "sizes": []
+                                                },
+                                                "item_height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 390,
+                                                    "sizes": []
+                                                },
+                                                "item_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 340,
+                                                    "sizes": []
+                                                },
+                                                "layout_direction": "style-1",
+                                                "preset_style": "custom",
+                                                "show_title": "",
+                                                "show_sub_title": "",
+                                                "show_description": "",
+                                                "readmore": "",
+                                                "image_height": {
+                                                    "unit": "px",
+                                                    "size": 330,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_height": {
+                                                    "unit": "px",
+                                                    "size": 350,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_horizontal_offset": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_vertical_offset": {
+                                                    "unit": "px",
+                                                    "size": -8,
+                                                    "sizes": []
+                                                },
+                                                "image_opacity": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_opacity": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "card_reveal_radius": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                },
+                                                "card_reveal_radius_hover": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-kinetic-card",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3db5fb3c",
+                                            "settings": {
+                                                "title": "Courtyard House",
+                                                "subtitle": "RESIDENTIAL / COURTYARD",
+                                                "description": "A low, light-filled home organized around a sheltered garden.",
+                                                "tag": "h3",
+                                                "content_width": "wide",
+                                                "panel_skin": "none",
+                                                "align": "left",
+                                                "show_divider": "",
+                                                "show_accent_bar": "",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Georgia",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "400",
+                                                "title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.1200000000000001,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1.1000000000000001,
+                                                    "sizes": []
+                                                },
+                                                "heading_title_normal_paint_mode": "classic",
+                                                "heading_title_normal_color": "#262A25",
+                                                "heading_highlight_normal_paint_mode": "classic",
+                                                "heading_highlight_normal_color": "#B47356",
+                                                "heading_subtitle_paint_mode": "classic",
+                                                "heading_subtitle_color": "#B47356",
+                                                "heading_desc_paint_mode": "classic",
+                                                "heading_desc_color": "#555A52",
+                                                "subtitle_typography_typography": "custom",
+                                                "subtitle_typography_font_family": "Arial",
+                                                "subtitle_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "subtitle_typography_font_weight": "700",
+                                                "subtitle_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_typography": "custom",
+                                                "desc_typography_font_family": "Arial",
+                                                "desc_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.7,
+                                                    "sizes": []
+                                                },
+                                                "title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "10",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "panel_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-advanced-heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "161cd1d2",
+                                            "settings": {
+                                                "link_text": "View details",
+                                                "link_url": {
+                                                    "url": "#details"
+                                                },
+                                                "link_style": "signal-line",
+                                                "alignment": "left",
+                                                "link_text_color": "#262A25",
+                                                "link_hover_text_color": "#262A25",
+                                                "link_style_color": "#B47356",
+                                                "transition_speed": 220,
+                                                "link_padding": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "0",
+                                                    "bottom": "8",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-animated-link",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "1606086f",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "18",
+                                            "row": "18",
+                                            "unit": "px",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 31.899999999999999,
+                                            "sizes": []
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5bd7336",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/urban-retreat.png",
+                                                    "id": "",
+                                                    "alt": "Urban Retreat architectural illustration",
+                                                    "caption": ""
+                                                },
+                                                "title_text": "Urban Retreat",
+                                                "title_link_url": {
+                                                    "url": "#details"
+                                                },
+                                                "sub_title_text": "INTERIOR / CITY",
+                                                "description_text": "<p>A compact city home opened up through calm materials and measured light.</p>",
+                                                "item_height": {
+                                                    "unit": "px",
+                                                    "size": 390,
+                                                    "sizes": []
+                                                },
+                                                "item_height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 390,
+                                                    "sizes": []
+                                                },
+                                                "item_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 340,
+                                                    "sizes": []
+                                                },
+                                                "layout_direction": "style-1",
+                                                "preset_style": "custom",
+                                                "show_title": "",
+                                                "show_sub_title": "",
+                                                "show_description": "",
+                                                "readmore": "",
+                                                "image_height": {
+                                                    "unit": "px",
+                                                    "size": 330,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_height": {
+                                                    "unit": "px",
+                                                    "size": 350,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_horizontal_offset": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_vertical_offset": {
+                                                    "unit": "px",
+                                                    "size": -8,
+                                                    "sizes": []
+                                                },
+                                                "image_opacity": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_opacity": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "card_reveal_radius": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                },
+                                                "card_reveal_radius_hover": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-kinetic-card",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5768ac4",
+                                            "settings": {
+                                                "title": "Urban Retreat",
+                                                "subtitle": "INTERIOR / CITY",
+                                                "description": "A compact city home opened up through calm materials and measured light.",
+                                                "tag": "h3",
+                                                "content_width": "wide",
+                                                "panel_skin": "none",
+                                                "align": "left",
+                                                "show_divider": "",
+                                                "show_accent_bar": "",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Georgia",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "400",
+                                                "title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.1200000000000001,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1.1000000000000001,
+                                                    "sizes": []
+                                                },
+                                                "heading_title_normal_paint_mode": "classic",
+                                                "heading_title_normal_color": "#262A25",
+                                                "heading_highlight_normal_paint_mode": "classic",
+                                                "heading_highlight_normal_color": "#B47356",
+                                                "heading_subtitle_paint_mode": "classic",
+                                                "heading_subtitle_color": "#B47356",
+                                                "heading_desc_paint_mode": "classic",
+                                                "heading_desc_color": "#555A52",
+                                                "subtitle_typography_typography": "custom",
+                                                "subtitle_typography_font_family": "Arial",
+                                                "subtitle_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "subtitle_typography_font_weight": "700",
+                                                "subtitle_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_typography": "custom",
+                                                "desc_typography_font_family": "Arial",
+                                                "desc_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.7,
+                                                    "sizes": []
+                                                },
+                                                "title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "10",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "panel_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-advanced-heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "358d7755",
+                                            "settings": {
+                                                "link_text": "View details",
+                                                "link_url": {
+                                                    "url": "#details"
+                                                },
+                                                "link_style": "signal-line",
+                                                "alignment": "left",
+                                                "link_text_color": "#262A25",
+                                                "link_hover_text_color": "#262A25",
+                                                "link_style_color": "#B47356",
+                                                "transition_speed": 220,
+                                                "link_padding": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "0",
+                                                    "bottom": "8",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-animated-link",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "242dfff8",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "18",
+                                            "row": "18",
+                                            "unit": "px",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 31.899999999999999,
+                                            "sizes": []
+                                        },
+                                        "width_tablet": {
+                                            "unit": "%",
+                                            "size": 48,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7a7e5997",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/hillside-cabin.png",
+                                                    "id": "",
+                                                    "alt": "Hillside Cabin architectural illustration",
+                                                    "caption": ""
+                                                },
+                                                "title_text": "Hillside Cabin",
+                                                "title_link_url": {
+                                                    "url": "#details"
+                                                },
+                                                "sub_title_text": "RETREAT / LANDSCAPE",
+                                                "description_text": "<p>A modest timber retreat that settles quietly into the slope.</p>",
+                                                "item_height": {
+                                                    "unit": "px",
+                                                    "size": 390,
+                                                    "sizes": []
+                                                },
+                                                "item_height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 390,
+                                                    "sizes": []
+                                                },
+                                                "item_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 340,
+                                                    "sizes": []
+                                                },
+                                                "layout_direction": "style-1",
+                                                "preset_style": "custom",
+                                                "show_title": "",
+                                                "show_sub_title": "",
+                                                "show_description": "",
+                                                "readmore": "",
+                                                "image_height": {
+                                                    "unit": "px",
+                                                    "size": 330,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_height": {
+                                                    "unit": "px",
+                                                    "size": 350,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_horizontal_offset": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_vertical_offset": {
+                                                    "unit": "px",
+                                                    "size": -8,
+                                                    "sizes": []
+                                                },
+                                                "image_opacity": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "image_hover_opacity": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "card_reveal_radius": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                },
+                                                "card_reveal_radius_hover": {
+                                                    "unit": "px",
+                                                    "top": "2",
+                                                    "right": "2",
+                                                    "bottom": "2",
+                                                    "left": "2",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-kinetic-card",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "67f3531a",
+                                            "settings": {
+                                                "title": "Hillside Cabin",
+                                                "subtitle": "RETREAT / LANDSCAPE",
+                                                "description": "A modest timber retreat that settles quietly into the slope.",
+                                                "tag": "h3",
+                                                "content_width": "wide",
+                                                "panel_skin": "none",
+                                                "align": "left",
+                                                "show_divider": "",
+                                                "show_accent_bar": "",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Georgia",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "400",
+                                                "title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.1200000000000001,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1.1000000000000001,
+                                                    "sizes": []
+                                                },
+                                                "heading_title_normal_paint_mode": "classic",
+                                                "heading_title_normal_color": "#262A25",
+                                                "heading_highlight_normal_paint_mode": "classic",
+                                                "heading_highlight_normal_color": "#B47356",
+                                                "heading_subtitle_paint_mode": "classic",
+                                                "heading_subtitle_color": "#B47356",
+                                                "heading_desc_paint_mode": "classic",
+                                                "heading_desc_color": "#555A52",
+                                                "subtitle_typography_typography": "custom",
+                                                "subtitle_typography_font_family": "Arial",
+                                                "subtitle_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "subtitle_typography_font_weight": "700",
+                                                "subtitle_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_typography": "custom",
+                                                "desc_typography_font_family": "Arial",
+                                                "desc_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.7,
+                                                    "sizes": []
+                                                },
+                                                "title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "10",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "panel_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-advanced-heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7b82c104",
+                                            "settings": {
+                                                "link_text": "View details",
+                                                "link_url": {
+                                                    "url": "#details"
+                                                },
+                                                "link_style": "signal-line",
+                                                "alignment": "left",
+                                                "link_text_color": "#262A25",
+                                                "link_hover_text_color": "#262A25",
+                                                "link_style_color": "#B47356",
+                                                "transition_speed": 220,
+                                                "link_padding": {
+                                                    "unit": "px",
+                                                    "top": "8",
+                                                    "right": "0",
+                                                    "bottom": "8",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-animated-link",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": false,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Atelier — Featured Spaces / Free",
+    "type": "section"
+}

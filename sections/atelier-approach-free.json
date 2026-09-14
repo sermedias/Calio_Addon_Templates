@@ -1,0 +1,270 @@
+{
+    "content": [
+        {
+            "id": "1ed6a10",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "96",
+                    "right": "48",
+                    "bottom": "96",
+                    "left": "48",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "72",
+                    "right": "30",
+                    "bottom": "72",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "56",
+                    "right": "22",
+                    "bottom": "56",
+                    "left": "22",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FBFAF6",
+                "_element_id": "approach"
+            },
+            "elements": [
+                {
+                    "id": "4c7892d",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1200,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "baf46ad",
+                            "settings": {
+                                "title": "Designed around your everyday.",
+                                "subtitle": "OUR APPROACH",
+                                "description": "Three quiet principles guide every room, material and threshold.",
+                                "tag": "h2",
+                                "content_width": "wide",
+                                "panel_skin": "none",
+                                "align": "left",
+                                "show_divider": "",
+                                "show_accent_bar": "",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Georgia",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 46,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "400",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1200000000000001,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.1000000000000001,
+                                    "sizes": []
+                                },
+                                "heading_title_normal_paint_mode": "classic",
+                                "heading_title_normal_color": "#262A25",
+                                "heading_highlight_normal_paint_mode": "classic",
+                                "heading_highlight_normal_color": "#B47356",
+                                "heading_subtitle_paint_mode": "classic",
+                                "heading_subtitle_color": "#B47356",
+                                "heading_desc_paint_mode": "classic",
+                                "heading_desc_color": "#555A52",
+                                "subtitle_typography_typography": "custom",
+                                "subtitle_typography_font_family": "Arial",
+                                "subtitle_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "subtitle_typography_font_weight": "700",
+                                "subtitle_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "desc_typography_typography": "custom",
+                                "desc_typography_font_family": "Arial",
+                                "desc_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "desc_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "subtitle_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "panel_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-advanced-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7864cb6b",
+                            "settings": {
+                                "icon_shape": "square",
+                                "shape_view": "framed",
+                                "hover_skin": "none",
+                                "content_alignment": "start",
+                                "media_position": "top",
+                                "show_connector": "yes",
+                                "show_side_panel": "",
+                                "items": [
+                                    {
+                                        "_id": "5ef7a279",
+                                        "media_type": "icon",
+                                        "icon": {
+                                            "value": "far fa-sun",
+                                            "library": "fa-regular"
+                                        },
+                                        "title": "Light first",
+                                        "description": "Daylight leads every plan, bringing ease and rhythm to the rooms you use most.",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "fa4ad1c",
+                                        "media_type": "icon",
+                                        "icon": {
+                                            "value": "fas fa-layer-group",
+                                            "library": "fa-solid"
+                                        },
+                                        "title": "Materials with character",
+                                        "description": "Natural finishes are chosen to age with grace and reward everyday touch.",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "5e2aac1f",
+                                        "media_type": "icon",
+                                        "icon": {
+                                            "value": "fas fa-wind",
+                                            "library": "fa-solid"
+                                        },
+                                        "title": "Room to breathe",
+                                        "description": "Calm proportions and clear circulation make space for life to unfold.",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    }
+                                ],
+                                "feature_list_simple_gap": {
+                                    "unit": "px",
+                                    "size": 34,
+                                    "sizes": []
+                                },
+                                "feature_list_simple_icon_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "feature_list_simple_media_width": {
+                                    "unit": "px",
+                                    "size": 56,
+                                    "sizes": []
+                                },
+                                "feature_list_simple_item_bg_background": "classic",
+                                "feature_list_simple_item_bg_color": "#F2EFE7",
+                                "feature_list_simple_title_text_paint_mode": "classic",
+                                "feature_list_simple_title_text_color": "#262A25",
+                                "feature_list_simple_desc_text_paint_mode": "classic",
+                                "feature_list_simple_desc_text_color": "#555A52",
+                                "feature_list_simple_icon_text_paint_mode": "classic",
+                                "feature_list_simple_icon_text_color": "#737A57"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-feature-list-simple",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Atelier — Design Approach / Free",
+    "type": "section"
+}

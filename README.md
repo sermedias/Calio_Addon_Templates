@@ -22,6 +22,17 @@ Add original, tested Elementor exports and actual screenshots before adding thei
 - **Gather — Creative Conference / Free**: a responsive two-day creative-conference page built with exactly ten Calio Free widget types: Countdown, Cube Slider, Team Member, Fancy Chart, Table, Advanced Heading, Advanced Button, Animated Link, Fancy Tabs and Accordion. Three original workshop posters and four fictional initials-based speaker portraits are bundled in `media/gather/`. The 12-session program and its 6/4/2 track chart share one source, and the countdown targets March 12, 2027 at 09:30 UTC. No stock photography, external fonts, Elementor Pro, Calio Pro, WooCommerce, menu IDs or saved-template IDs are required. Replace `hello@example.com`, the fictional speakers, program and event details before publishing a real event.
 - **Accordion**: the original uploaded accordion section.
 
+## Included reusable sections
+
+The four complete Calio Free templates also provide 28 standalone Elementor sections. Each section is a native `section` export, keeps the source design intact and can be inserted independently from the library.
+
+- **Forma (5):** hero, services, statement, FAQ and contact CTA.
+- **Atelier (8):** hero, approach, featured spaces, material gallery, image flow, process, team and contact.
+- **Northstar (8):** hero, services tabs, project gallery, process, image comparison, pricing, FAQ and contact callout.
+- **Gather (7):** event hero, workshop slider, speakers, tracks, program, FAQ and registration CTA.
+
+Navigation headers and footers remain part of the complete templates and are intentionally not duplicated as standalone sections. Every section uses only Elementor and widgets shipped in Calio Free; preview images are captured from the actual standalone frontend render.
+
 ## Automatic Free / Pro classification
 
 Calio reads each export's actual nested element tree when refreshing the catalog. Templates containing only Free widgets appear under **Free**. A single Calio Pro widget anywhere in that tree moves the entire template to **Pro**. You do not set a `tier` manually in this manifest; widget ownership comes from the widget catalog shipped with Calio Free, even when Pro is not installed.

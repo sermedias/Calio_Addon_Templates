@@ -1,0 +1,341 @@
+{
+    "content": [
+        {
+            "id": "1f11d3c",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "72",
+                    "right": "48",
+                    "bottom": "96",
+                    "left": "48",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "72",
+                    "right": "30",
+                    "bottom": "72",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "22",
+                    "bottom": "56",
+                    "left": "22",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F2EFE7"
+            },
+            "elements": [
+                {
+                    "id": "233fb5",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1200,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "51a7d6f0",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "column",
+                                "flex_gap": {
+                                    "column": "30",
+                                    "row": "30",
+                                    "unit": "px",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 72,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "5c40ab10",
+                                    "settings": {
+                                        "title": "Spaces for a slower kind of living.",
+                                        "subtitle": "ARCHITECTURE / INTERIORS",
+                                        "description": "Thoughtful architecture and interiors, shaped around the way you live.",
+                                        "tag": "h1",
+                                        "content_width": "wide",
+                                        "panel_skin": "none",
+                                        "align": "left",
+                                        "show_divider": "",
+                                        "show_accent_bar": "",
+                                        "title_typography_typography": "custom",
+                                        "title_typography_font_family": "Georgia",
+                                        "title_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 78,
+                                            "sizes": []
+                                        },
+                                        "title_typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 44,
+                                            "sizes": []
+                                        },
+                                        "title_typography_font_weight": "400",
+                                        "title_typography_line_height": {
+                                            "unit": "em",
+                                            "size": 1.04,
+                                            "sizes": []
+                                        },
+                                        "title_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": -2.2000000000000002,
+                                            "sizes": []
+                                        },
+                                        "heading_title_normal_paint_mode": "classic",
+                                        "heading_title_normal_color": "#262A25",
+                                        "heading_highlight_normal_paint_mode": "classic",
+                                        "heading_highlight_normal_color": "#B47356",
+                                        "heading_subtitle_paint_mode": "classic",
+                                        "heading_subtitle_color": "#B47356",
+                                        "heading_desc_paint_mode": "classic",
+                                        "heading_desc_color": "#555A52",
+                                        "subtitle_typography_typography": "custom",
+                                        "subtitle_typography_font_family": "Arial",
+                                        "subtitle_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 11,
+                                            "sizes": []
+                                        },
+                                        "subtitle_typography_font_weight": "700",
+                                        "subtitle_typography_letter_spacing": {
+                                            "unit": "px",
+                                            "size": 1.8,
+                                            "sizes": []
+                                        },
+                                        "desc_typography_typography": "custom",
+                                        "desc_typography_font_family": "Arial",
+                                        "desc_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 17,
+                                            "sizes": []
+                                        },
+                                        "desc_typography_line_height": {
+                                            "unit": "em",
+                                            "size": 1.7,
+                                            "sizes": []
+                                        },
+                                        "title_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "subtitle_margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "18",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "panel_padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "calio-advanced-heading",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "1233e9bc",
+                                    "settings": {
+                                        "text": "Explore our spaces",
+                                        "link": {
+                                            "url": "#spaces"
+                                        },
+                                        "skin": "solid",
+                                        "preset": "cta",
+                                        "chrome": "flat",
+                                        "density": "comfy",
+                                        "effect": "none",
+                                        "btn_typography_typography": "custom",
+                                        "btn_typography_font_family": "Arial",
+                                        "btn_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "btn_typography_font_weight": "700",
+                                        "btn_text_normal_paint_mode": "classic",
+                                        "btn_text_normal_color": "#FBFAF6",
+                                        "btn_bg_normal_group_background": "classic",
+                                        "btn_bg_normal_group_color": "#262A25",
+                                        "btn_text_hover_paint_mode": "classic",
+                                        "btn_text_hover_color": "#FBFAF6",
+                                        "btn_bg_hover_group_background": "classic",
+                                        "btn_bg_hover_group_color": "#737A57",
+                                        "full_width": "",
+                                        "_element_width": "auto",
+                                        "button_padding": {
+                                            "unit": "px",
+                                            "top": "17",
+                                            "right": "25",
+                                            "bottom": "17",
+                                            "left": "25",
+                                            "isLinked": false
+                                        },
+                                        "button_padding_mobile": {
+                                            "unit": "px",
+                                            "top": "16",
+                                            "right": "22",
+                                            "bottom": "16",
+                                            "left": "22",
+                                            "isLinked": false
+                                        },
+                                        "btn_radius": {
+                                            "unit": "px",
+                                            "top": "3",
+                                            "right": "3",
+                                            "bottom": "3",
+                                            "left": "3",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "calio-advanced-button",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": false,
+                            "elType": "container"
+                        },
+                        {
+                            "id": "60cceb65",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "column",
+                                "flex_gap": {
+                                    "column": "24",
+                                    "row": "24",
+                                    "unit": "px",
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "min_height": {
+                                    "unit": "px",
+                                    "size": 480,
+                                    "sizes": []
+                                },
+                                "min_height_mobile": {
+                                    "unit": "px",
+                                    "size": 280,
+                                    "sizes": []
+                                },
+                                "background_background": "classic",
+                                "background_image": {
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/courtyard-house.png",
+                                    "id": "",
+                                    "alt": "",
+                                    "caption": ""
+                                },
+                                "background_position": "center center",
+                                "background_repeat": "no-repeat",
+                                "background_size": "cover",
+                                "border_radius": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Atelier — Architecture Hero / Free",
+    "type": "section"
+}

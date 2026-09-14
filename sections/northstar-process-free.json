@@ -1,0 +1,277 @@
+{
+    "content": [
+        {
+            "id": "2c071c0e",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "40",
+                    "bottom": "88",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "68",
+                    "right": "28",
+                    "bottom": "68",
+                    "left": "28",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "52",
+                    "right": "22",
+                    "bottom": "52",
+                    "left": "22",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F5F3ED"
+            },
+            "elements": [
+                {
+                    "id": "5bdc1563",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1160,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2dd08497",
+                            "settings": {
+                                "title": "A compact path from ambiguity to action.",
+                                "subtitle": "OUR PROCESS",
+                                "description": "",
+                                "tag": "h2",
+                                "content_width": "wide",
+                                "panel_skin": "none",
+                                "align": "left",
+                                "show_divider": "",
+                                "show_accent_bar": "",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Arial",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 44,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "700",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1200000000000001,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.3999999999999999,
+                                    "sizes": []
+                                },
+                                "heading_title_normal_paint_mode": "classic",
+                                "heading_title_normal_color": "#101C2B",
+                                "heading_highlight_normal_paint_mode": "classic",
+                                "heading_highlight_normal_color": "#6FE0CE",
+                                "heading_subtitle_paint_mode": "classic",
+                                "heading_subtitle_color": "#637082",
+                                "heading_desc_paint_mode": "classic",
+                                "heading_desc_color": "#637082",
+                                "subtitle_typography_typography": "custom",
+                                "subtitle_typography_font_family": "Arial",
+                                "subtitle_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "subtitle_typography_font_weight": "700",
+                                "subtitle_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "desc_typography_typography": "custom",
+                                "desc_typography_font_family": "Arial",
+                                "desc_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "desc_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.6499999999999999,
+                                    "sizes": []
+                                },
+                                "title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "subtitle_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "panel_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-advanced-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "66be55f9",
+                            "settings": {
+                                "layout_skin": "cards",
+                                "featured_preset": "soft",
+                                "item_motion": "lift",
+                                "media_hover_skin": "none",
+                                "show_media_ring": "",
+                                "media_position": "top",
+                                "columns": "3",
+                                "show_connector": "",
+                                "show_numbers": "yes",
+                                "show_badges": "",
+                                "show_support_note": "",
+                                "show_support_chip": "",
+                                "show_featured_marker": "",
+                                "show_checklist": "",
+                                "show_link_arrow": "",
+                                "items": [
+                                    {
+                                        "_id": "58117d37",
+                                        "media_type": "number",
+                                        "eyebrow": "DISCOVER",
+                                        "title": "Find the useful question",
+                                        "description": "We align on the problem, the people and what a better outcome should make possible.",
+                                        "badge_text": "",
+                                        "support_note": "",
+                                        "support_chip": "",
+                                        "checklist_items": "",
+                                        "is_featured": "",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "c62dcf0",
+                                        "media_type": "number",
+                                        "eyebrow": "SHAPE",
+                                        "title": "Build the clearest direction",
+                                        "description": "We turn evidence into a focused story, interface and system your team can use.",
+                                        "badge_text": "",
+                                        "support_note": "",
+                                        "support_chip": "",
+                                        "checklist_items": "",
+                                        "is_featured": "",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "16060028",
+                                        "media_type": "number",
+                                        "eyebrow": "DELIVER",
+                                        "title": "Make it ready to move",
+                                        "description": "We refine, document and hand over a responsive experience built for the next step.",
+                                        "badge_text": "",
+                                        "support_note": "",
+                                        "support_chip": "",
+                                        "checklist_items": "",
+                                        "is_featured": "",
+                                        "link": {
+                                            "url": ""
+                                        }
+                                    }
+                                ],
+                                "feature_list_item_bg_background": "classic",
+                                "feature_list_item_bg_color": "#FFFFFF",
+                                "feature_list_title_text_paint_mode": "classic",
+                                "feature_list_title_text_color": "#101C2B",
+                                "feature_list_desc_text_paint_mode": "classic",
+                                "feature_list_desc_text_color": "#637082",
+                                "feature_list_eyebrow_text_paint_mode": "classic",
+                                "feature_list_eyebrow_text_color": "#637082",
+                                "feature_list_media_text_paint_mode": "classic",
+                                "feature_list_media_text_color": "#101C2B",
+                                "feature_list_media_bg_background": "classic",
+                                "feature_list_media_bg_color": "#6FE0CE",
+                                "feature_list_item_gap": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-feature-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Northstar — Delivery Process / Free",
+    "type": "section"
+}

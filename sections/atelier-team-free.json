@@ -1,0 +1,315 @@
+{
+    "content": [
+        {
+            "id": "1ba34601",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "96",
+                    "right": "48",
+                    "bottom": "96",
+                    "left": "48",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "72",
+                    "right": "30",
+                    "bottom": "72",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "56",
+                    "right": "22",
+                    "bottom": "56",
+                    "left": "22",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FBFAF6",
+                "_element_id": "studio"
+            },
+            "elements": [
+                {
+                    "id": "17232a08",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1200,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "21527df9",
+                            "settings": {
+                                "title": "The people behind the spaces.",
+                                "subtitle": "THE STUDIO",
+                                "description": "Four fictional profiles represented by original initials-based illustrations.",
+                                "tag": "h2",
+                                "content_width": "wide",
+                                "panel_skin": "none",
+                                "align": "left",
+                                "show_divider": "",
+                                "show_accent_bar": "",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Georgia",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 46,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "400",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1200000000000001,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.1000000000000001,
+                                    "sizes": []
+                                },
+                                "heading_title_normal_paint_mode": "classic",
+                                "heading_title_normal_color": "#262A25",
+                                "heading_highlight_normal_paint_mode": "classic",
+                                "heading_highlight_normal_color": "#B47356",
+                                "heading_subtitle_paint_mode": "classic",
+                                "heading_subtitle_color": "#B47356",
+                                "heading_desc_paint_mode": "classic",
+                                "heading_desc_color": "#555A52",
+                                "subtitle_typography_typography": "custom",
+                                "subtitle_typography_font_family": "Arial",
+                                "subtitle_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "subtitle_typography_font_weight": "700",
+                                "subtitle_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "desc_typography_typography": "custom",
+                                "desc_typography_font_family": "Arial",
+                                "desc_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "desc_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "subtitle_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "panel_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-advanced-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3ac5b13c",
+                            "settings": {
+                                "show_description": "yes",
+                                "show_socials": "",
+                                "show_button": "",
+                                "show_details_popup": "",
+                                "card_skin": "minimal",
+                                "visual_preset": "custom",
+                                "image_hover_effect": "none",
+                                "content_alignment": "left",
+                                "members": [
+                                    {
+                                        "_id": "ed27127",
+                                        "member_image": {
+                                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/avatar-em.png",
+                                            "id": "",
+                                            "alt": "Elena Moore illustrated initials avatar",
+                                            "caption": ""
+                                        },
+                                        "member_name": "Elena Moore",
+                                        "member_position": "Founding Architect",
+                                        "member_description": "Spatial planning and the quiet choreography of natural light.",
+                                        "member_details": "",
+                                        "member_button_text": "",
+                                        "member_button_url": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "596490fb",
+                                        "member_image": {
+                                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/avatar-jr.png",
+                                            "id": "",
+                                            "alt": "Jonas Reed illustrated initials avatar",
+                                            "caption": ""
+                                        },
+                                        "member_name": "Jonas Reed",
+                                        "member_position": "Interior Designer",
+                                        "member_description": "Material palettes, custom joinery and rooms made for everyday rituals.",
+                                        "member_details": "",
+                                        "member_button_text": "",
+                                        "member_button_url": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "63deabb6",
+                                        "member_image": {
+                                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/avatar-sk.png",
+                                            "id": "",
+                                            "alt": "Sofia Khan illustrated initials avatar",
+                                            "caption": ""
+                                        },
+                                        "member_name": "Sofia Khan",
+                                        "member_position": "Project Architect",
+                                        "member_description": "Technical resolution, thoughtful detailing and clear project coordination.",
+                                        "member_details": "",
+                                        "member_button_text": "",
+                                        "member_button_url": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "3719fbdb",
+                                        "member_image": {
+                                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/avatar-al.png",
+                                            "id": "",
+                                            "alt": "Avery Lane illustrated initials avatar",
+                                            "caption": ""
+                                        },
+                                        "member_name": "Avery Lane",
+                                        "member_position": "Studio Coordinator",
+                                        "member_description": "Research, schedules and the small decisions that keep work moving calmly.",
+                                        "member_details": "",
+                                        "member_button_text": "",
+                                        "member_button_url": {
+                                            "url": ""
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "slides_to_show_desktop": 3,
+                                "slides_to_show_tablet": 2,
+                                "slides_to_show_mobile": 1,
+                                "slides_to_scroll": 1,
+                                "loop": "",
+                                "autoplay": "",
+                                "transition_speed": 450,
+                                "show_arrows": "yes",
+                                "show_arrows_on_hover": "",
+                                "arrow_type": "icon",
+                                "show_dots": "",
+                                "grab_cursor": "yes",
+                                "equal_height": "yes",
+                                "team_slider_image_height": {
+                                    "unit": "px",
+                                    "size": 310,
+                                    "sizes": []
+                                },
+                                "team_slider_image_height_mobile": {
+                                    "unit": "px",
+                                    "size": 300,
+                                    "sizes": []
+                                },
+                                "team_slider_name_text_paint_mode": "classic",
+                                "team_slider_name_text_color": "#262A25",
+                                "team_slider_position_text_paint_mode": "classic",
+                                "team_slider_position_text_color": "#B47356",
+                                "team_slider_description_text_paint_mode": "classic",
+                                "team_slider_description_text_color": "#555A52",
+                                "team_slider_nav_text_paint_mode": "classic",
+                                "team_slider_nav_text_color": "#262A25",
+                                "team_slider_nav_bg_background": "classic",
+                                "team_slider_nav_bg_color": "#D7D3C8"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-team-slider",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Atelier — Studio Team / Free",
+    "type": "section"
+}

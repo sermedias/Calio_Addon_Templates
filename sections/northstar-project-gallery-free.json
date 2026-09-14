@@ -1,0 +1,291 @@
+{
+    "content": [
+        {
+            "id": "6f143772",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "88",
+                    "right": "40",
+                    "bottom": "88",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "68",
+                    "right": "28",
+                    "bottom": "68",
+                    "left": "28",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "52",
+                    "right": "22",
+                    "bottom": "52",
+                    "left": "22",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "_element_id": "work"
+            },
+            "elements": [
+                {
+                    "id": "c1a0a21",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1160,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3e03f079",
+                            "settings": {
+                                "title": "Three systems. Three different jobs.",
+                                "subtitle": "SELECTED CONCEPTS",
+                                "description": "Original interface studies created for this template — no client claims, stock photography or borrowed artwork.",
+                                "tag": "h2",
+                                "content_width": "wide",
+                                "panel_skin": "none",
+                                "align": "left",
+                                "show_divider": "",
+                                "show_accent_bar": "",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Arial",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 44,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "700",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.1200000000000001,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.3999999999999999,
+                                    "sizes": []
+                                },
+                                "heading_title_normal_paint_mode": "classic",
+                                "heading_title_normal_color": "#101C2B",
+                                "heading_highlight_normal_paint_mode": "classic",
+                                "heading_highlight_normal_color": "#6FE0CE",
+                                "heading_subtitle_paint_mode": "classic",
+                                "heading_subtitle_color": "#637082",
+                                "heading_desc_paint_mode": "classic",
+                                "heading_desc_color": "#637082",
+                                "subtitle_typography_typography": "custom",
+                                "subtitle_typography_font_family": "Arial",
+                                "subtitle_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "subtitle_typography_font_weight": "700",
+                                "subtitle_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "desc_typography_typography": "custom",
+                                "desc_typography_font_family": "Arial",
+                                "desc_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "desc_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.6499999999999999,
+                                    "sizes": []
+                                },
+                                "title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "subtitle_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "panel_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-advanced-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "320453a6",
+                            "settings": {
+                                "layout_skin": "cards",
+                                "columns": "3",
+                                "image_ratio": "landscape",
+                                "grid_flow": "standard",
+                                "show_filters": "yes",
+                                "filter_skin": "underline",
+                                "all_label": "All",
+                                "show_counts": "",
+                                "show_caption": "yes",
+                                "show_meta": "yes",
+                                "lightbox": "",
+                                "show_overlay_cta": "",
+                                "featured_first": "",
+                                "filter_motion": "standard",
+                                "sort_mode": "none",
+                                "show_search": "",
+                                "enable_load_more": "",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "items": [
+                                    {
+                                        "_id": "e87e035",
+                                        "image": {
+                                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/northstar/northstar-orbit.png",
+                                            "id": ""
+                                        },
+                                        "title": "Orbit",
+                                        "category": "SaaS",
+                                        "categories": "",
+                                        "featured": "",
+                                        "size_preset": "standard",
+                                        "meta": "PRODUCT SYSTEM",
+                                        "overlay_note": "CONCEPT / NOT CLIENT WORK",
+                                        "caption": "A fictional workspace concept for clearer planning and team focus.",
+                                        "link_url": {
+                                            "url": "#contact"
+                                        }
+                                    },
+                                    {
+                                        "_id": "8525577",
+                                        "image": {
+                                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/northstar/northstar-field.png",
+                                            "id": ""
+                                        },
+                                        "title": "Field",
+                                        "category": "Commerce",
+                                        "categories": "",
+                                        "featured": "",
+                                        "size_preset": "standard",
+                                        "meta": "COMMERCE SYSTEM",
+                                        "overlay_note": "CONCEPT / NOT CLIENT WORK",
+                                        "caption": "A fictional store dashboard that makes useful signals easier to scan.",
+                                        "link_url": {
+                                            "url": "#contact"
+                                        }
+                                    },
+                                    {
+                                        "_id": "65cb4acf",
+                                        "image": {
+                                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/northstar/northstar-mono.png",
+                                            "id": ""
+                                        },
+                                        "title": "Mono",
+                                        "category": "Studio",
+                                        "categories": "",
+                                        "featured": "",
+                                        "size_preset": "standard",
+                                        "meta": "STUDIO SYSTEM",
+                                        "overlay_note": "CONCEPT / NOT CLIENT WORK",
+                                        "caption": "A fictional creative pipeline for projects, reviews and decisions.",
+                                        "link_url": {
+                                            "url": "#contact"
+                                        }
+                                    }
+                                ],
+                                "filter_text_normal_paint_mode": "classic",
+                                "filter_text_normal_color": "#637082",
+                                "filter_text_active_paint_mode": "classic",
+                                "filter_text_active_color": "#101C2B",
+                                "gallery_card_bg_normal_group_background": "classic",
+                                "gallery_card_bg_normal_group_color": "#FFFFFF",
+                                "gallery_title_text_paint_mode": "classic",
+                                "gallery_title_text_color": "#101C2B",
+                                "gallery_meta_text_paint_mode": "classic",
+                                "gallery_meta_text_color": "#637082",
+                                "gallery_caption_text_paint_mode": "classic",
+                                "gallery_caption_text_color": "#637082",
+                                "gallery_caption_bg_group_background": "classic",
+                                "gallery_caption_bg_group_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-filterable-gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Northstar — Project Gallery / Free",
+    "type": "section"
+}
