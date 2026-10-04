@@ -42,6 +42,14 @@
       "thumbnail": "screenshots/relay-saas-product-free.webp"
     },
     {
+      "id": "beacon-climate-impact-free",
+      "title": "Beacon — Climate Impact / Free",
+      "type": "templates",
+      "categories": ["Sustainability", "Business", "Consulting"],
+      "file": "templates/beacon-climate-impact-free.json",
+      "thumbnail": "screenshots/beacon-climate-impact-free.webp"
+    },
+    {
       "id": "accordion-1",
       "title": "Accordion",
       "type": "sections",
@@ -272,6 +280,126 @@
       "categories": ["Events","Conference","Call to Action"],
       "file": "sections/gather-registration-cta-free.json",
       "thumbnail": "screenshots/gather-registration-cta-free.webp"
+    },
+    {
+      "id": "relay-hero-free",
+      "title": "Relay — SaaS Product Hero / Free",
+      "type": "sections",
+      "categories": ["SaaS", "Technology", "Hero"],
+      "file": "sections/relay-hero-free.json",
+      "thumbnail": "screenshots/relay-hero-free.webp"
+    },
+    {
+      "id": "relay-features-free",
+      "title": "Relay — Product Features / Free",
+      "type": "sections",
+      "categories": ["SaaS", "Technology", "Features"],
+      "file": "sections/relay-features-free.json",
+      "thumbnail": "screenshots/relay-features-free.webp"
+    },
+    {
+      "id": "relay-workflow-free",
+      "title": "Relay — Operating Workflow / Free",
+      "type": "sections",
+      "categories": ["SaaS", "Technology", "Process"],
+      "file": "sections/relay-workflow-free.json",
+      "thumbnail": "screenshots/relay-workflow-free.webp"
+    },
+    {
+      "id": "relay-use-cases-free",
+      "title": "Relay — Team Use Cases / Free",
+      "type": "sections",
+      "categories": ["SaaS", "Technology", "Tabs"],
+      "file": "sections/relay-use-cases-free.json",
+      "thumbnail": "screenshots/relay-use-cases-free.webp"
+    },
+    {
+      "id": "relay-comparison-free",
+      "title": "Relay — Workflow Comparison / Free",
+      "type": "sections",
+      "categories": ["SaaS", "Technology", "Comparison"],
+      "file": "sections/relay-comparison-free.json",
+      "thumbnail": "screenshots/relay-comparison-free.webp"
+    },
+    {
+      "id": "relay-pricing-free",
+      "title": "Relay — SaaS Pricing / Free",
+      "type": "sections",
+      "categories": ["SaaS", "Technology", "Pricing"],
+      "file": "sections/relay-pricing-free.json",
+      "thumbnail": "screenshots/relay-pricing-free.webp"
+    },
+    {
+      "id": "relay-faq-free",
+      "title": "Relay — Product FAQ / Free",
+      "type": "sections",
+      "categories": ["SaaS", "Technology", "FAQ"],
+      "file": "sections/relay-faq-free.json",
+      "thumbnail": "screenshots/relay-faq-free.webp"
+    },
+    {
+      "id": "relay-start-cta-free",
+      "title": "Relay — Start Free CTA / Free",
+      "type": "sections",
+      "categories": ["SaaS", "Technology", "Call to Action"],
+      "file": "sections/relay-start-cta-free.json",
+      "thumbnail": "screenshots/relay-start-cta-free.webp"
+    },
+    {
+      "id": "beacon-hero-free",
+      "title": "Beacon — Climate Impact Hero / Free",
+      "type": "sections",
+      "categories": ["Sustainability", "Business", "Hero"],
+      "file": "sections/beacon-hero-free.json",
+      "thumbnail": "screenshots/beacon-hero-free.webp"
+    },
+    {
+      "id": "beacon-impact-metrics-free",
+      "title": "Beacon — Impact Metrics / Free",
+      "type": "sections",
+      "categories": ["Sustainability", "Business", "Analytics"],
+      "file": "sections/beacon-impact-metrics-free.json",
+      "thumbnail": "screenshots/beacon-impact-metrics-free.webp"
+    },
+    {
+      "id": "beacon-services-free",
+      "title": "Beacon — Climate Services / Free",
+      "type": "sections",
+      "categories": ["Sustainability", "Business", "Services"],
+      "file": "sections/beacon-services-free.json",
+      "thumbnail": "screenshots/beacon-services-free.webp"
+    },
+    {
+      "id": "beacon-process-free",
+      "title": "Beacon — Impact Process / Free",
+      "type": "sections",
+      "categories": ["Sustainability", "Business", "Process"],
+      "file": "sections/beacon-process-free.json",
+      "thumbnail": "screenshots/beacon-process-free.webp"
+    },
+    {
+      "id": "beacon-evidence-table-free",
+      "title": "Beacon — Evidence Table / Free",
+      "type": "sections",
+      "categories": ["Sustainability", "Business", "Data"],
+      "file": "sections/beacon-evidence-table-free.json",
+      "thumbnail": "screenshots/beacon-evidence-table-free.webp"
+    },
+    {
+      "id": "beacon-faq-free",
+      "title": "Beacon — Sustainability FAQ / Free",
+      "type": "sections",
+      "categories": ["Sustainability", "Business", "FAQ"],
+      "file": "sections/beacon-faq-free.json",
+      "thumbnail": "screenshots/beacon-faq-free.webp"
+    },
+    {
+      "id": "beacon-contact-cta-free",
+      "title": "Beacon — Climate Action CTA / Free",
+      "type": "sections",
+      "categories": ["Sustainability", "Business", "Call to Action"],
+      "file": "sections/beacon-contact-cta-free.json",
+      "thumbnail": "screenshots/beacon-contact-cta-free.webp"
     }
   ]
 }

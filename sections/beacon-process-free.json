@@ -1,0 +1,367 @@
+{
+    "content": [
+        {
+            "id": "3c65ec06",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "92",
+                    "right": "40",
+                    "bottom": "92",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "28",
+                    "bottom": "70",
+                    "left": "28",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "54",
+                    "right": "20",
+                    "bottom": "54",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#17372B",
+                "_element_id": "process"
+            },
+            "elements": [
+                {
+                    "id": "3d29044f",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1180,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "49703555",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_gap": {
+                                    "column": "74",
+                                    "row": "34",
+                                    "unit": "px",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "flex_direction_mobile": "column",
+                                "flex_justify_content": "space-between"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4e22f72c",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "24",
+                                            "row": "24",
+                                            "unit": "px",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 40,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2e6702ff",
+                                            "settings": {
+                                                "title": "A credible path from uncertainty to action.",
+                                                "subtitle": "THE BEACON CYCLE",
+                                                "description": "A repeatable four-stage method designed to improve both outcomes and the evidence behind them.",
+                                                "tag": "h2",
+                                                "content_width": "wide",
+                                                "panel_skin": "none",
+                                                "align": "left",
+                                                "show_divider": "",
+                                                "show_accent_bar": "",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Arial",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 48,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 38,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "700",
+                                                "title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.0600000000000001,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1.6000000000000001,
+                                                    "sizes": []
+                                                },
+                                                "heading_title_normal_paint_mode": "classic",
+                                                "heading_title_normal_color": "#FFFFFF",
+                                                "heading_highlight_normal_paint_mode": "classic",
+                                                "heading_highlight_normal_color": "#FF7A66",
+                                                "heading_subtitle_paint_mode": "classic",
+                                                "heading_subtitle_color": "#FF7A66",
+                                                "heading_desc_paint_mode": "classic",
+                                                "heading_desc_color": "#B8C9C0",
+                                                "subtitle_typography_typography": "custom",
+                                                "subtitle_typography_font_family": "Arial",
+                                                "subtitle_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "subtitle_typography_font_weight": "700",
+                                                "subtitle_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1.7,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_typography": "custom",
+                                                "desc_typography_font_family": "Arial",
+                                                "desc_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 17,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.6499999999999999,
+                                                    "sizes": []
+                                                },
+                                                "title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "18",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "panel_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-advanced-heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "2bd5ab76",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "24",
+                                            "row": "24",
+                                            "unit": "px",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 56,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "672381c5",
+                                            "settings": {
+                                                "list_type": "vertical",
+                                                "item_vertical_alignment": "flex-start",
+                                                "use_divider": "yes",
+                                                "use_counter": "yes",
+                                                "counter_style": "decimal-leading-zero",
+                                                "counter_suffix": "none",
+                                                "hover_style": "none",
+                                                "use_entrance_animation": "",
+                                                "items": [
+                                                    {
+                                                        "_id": "36e14734",
+                                                        "title": "Scope",
+                                                        "description": "Agree the boundary, decisions and evidence needed for a useful first cycle.",
+                                                        "media_type": "none",
+                                                        "link": {
+                                                            "url": ""
+                                                        },
+                                                        "show_badge": "",
+                                                        "add_particular_style": ""
+                                                    },
+                                                    {
+                                                        "_id": "4c12a660",
+                                                        "title": "Map",
+                                                        "description": "Gather available activity data and make assumptions visible instead of hiding uncertainty.",
+                                                        "media_type": "none",
+                                                        "link": {
+                                                            "url": ""
+                                                        },
+                                                        "show_badge": "",
+                                                        "add_particular_style": ""
+                                                    },
+                                                    {
+                                                        "_id": "494f37f1",
+                                                        "title": "Act",
+                                                        "description": "Select a small portfolio of interventions with owners, milestones and clear signals.",
+                                                        "media_type": "none",
+                                                        "link": {
+                                                            "url": ""
+                                                        },
+                                                        "show_badge": "",
+                                                        "add_particular_style": ""
+                                                    },
+                                                    {
+                                                        "_id": "5f577cd0",
+                                                        "title": "Learn",
+                                                        "description": "Review outcomes, improve data quality and carry the evidence into the next cycle.",
+                                                        "media_type": "none",
+                                                        "link": {
+                                                            "url": ""
+                                                        },
+                                                        "show_badge": "",
+                                                        "add_particular_style": ""
+                                                    }
+                                                ],
+                                                "stylish_list_item_gap": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "stylish_list_divider_color": "#426052",
+                                                "stylish_list_title_text_paint_mode": "classic",
+                                                "stylish_list_title_text_color": "#FFFFFF",
+                                                "stylish_list_description_text_paint_mode": "classic",
+                                                "stylish_list_description_text_color": "#B8C9C0",
+                                                "stylish_list_counter_text_paint_mode": "classic",
+                                                "stylish_list_counter_text_color": "#BDF7D0"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-stylish-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": false,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Beacon — Impact Process / Free",
+    "type": "section"
+}

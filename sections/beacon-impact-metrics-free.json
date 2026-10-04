@@ -1,0 +1,650 @@
+{
+    "content": [
+        {
+            "id": "140fb2cd",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "92",
+                    "right": "40",
+                    "bottom": "92",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "28",
+                    "bottom": "70",
+                    "left": "28",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "54",
+                    "right": "20",
+                    "bottom": "54",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#EDF5EF",
+                "_element_id": "impact"
+            },
+            "elements": [
+                {
+                    "id": "455cd2c8",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1180,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "79cad6b",
+                            "settings": {
+                                "title": "See the whole footprint — then focus.",
+                                "subtitle": "IMPACT SNAPSHOT",
+                                "description": "Illustrative readiness scores and emissions mix demonstrate the widgets; they are not measured client results.",
+                                "tag": "h2",
+                                "content_width": "wide",
+                                "panel_skin": "none",
+                                "align": "left",
+                                "show_divider": "",
+                                "show_accent_bar": "",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Arial",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 38,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "700",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.0600000000000001,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.6000000000000001,
+                                    "sizes": []
+                                },
+                                "heading_title_normal_paint_mode": "classic",
+                                "heading_title_normal_color": "#10251D",
+                                "heading_highlight_normal_paint_mode": "classic",
+                                "heading_highlight_normal_color": "#FF7A66",
+                                "heading_subtitle_paint_mode": "classic",
+                                "heading_subtitle_color": "#617067",
+                                "heading_desc_paint_mode": "classic",
+                                "heading_desc_color": "#617067",
+                                "subtitle_typography_typography": "custom",
+                                "subtitle_typography_font_family": "Arial",
+                                "subtitle_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "subtitle_typography_font_weight": "700",
+                                "subtitle_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.7,
+                                    "sizes": []
+                                },
+                                "desc_typography_typography": "custom",
+                                "desc_typography_font_family": "Arial",
+                                "desc_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "desc_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.6499999999999999,
+                                    "sizes": []
+                                },
+                                "title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "subtitle_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "panel_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-advanced-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "c36bfb9",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_gap": {
+                                    "column": "30",
+                                    "row": "30",
+                                    "unit": "px",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "flex_direction_mobile": "column",
+                                "flex_justify_content": "space-between",
+                                "flex_align_items": "flex-start"
+                            },
+                            "elements": [
+                                {
+                                    "id": "341cddd3",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "row",
+                                        "flex_gap": {
+                                            "column": "14",
+                                            "row": "14",
+                                            "unit": "px",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 58,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "flex_direction_mobile": "column",
+                                        "flex_wrap": "wrap"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "324976cf",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "column",
+                                                "flex_gap": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "unit": "px",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "18",
+                                                    "right": "18",
+                                                    "bottom": "18",
+                                                    "left": "18",
+                                                    "isLinked": false
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 31,
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "background_background": "classic",
+                                                "background_color": "#FFFFFF",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": false
+                                                },
+                                                "border_color": "#D6DED7",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "14",
+                                                    "right": "14",
+                                                    "bottom": "14",
+                                                    "left": "14",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "41a946c",
+                                                    "settings": {
+                                                        "percent": 62,
+                                                        "duration": 0.80000000000000004,
+                                                        "title": "Baseline",
+                                                        "hide_title_divider": " calio-no-divider",
+                                                        "before": "",
+                                                        "text": "",
+                                                        "after": "mapped",
+                                                        "progress_background": "#DDE7E0",
+                                                        "progress_color": "#17372B",
+                                                        "number_color": "#10251D",
+                                                        "after_text_color": "#617067",
+                                                        "line_width": 9,
+                                                        "line_cap": "round",
+                                                        "progress_padding": {
+                                                            "unit": "px",
+                                                            "top": "8",
+                                                            "right": "8",
+                                                            "bottom": "8",
+                                                            "left": "8",
+                                                            "isLinked": false
+                                                        },
+                                                        "title_background": "transparent",
+                                                        "title_color": "#10251D",
+                                                        "title_padding": {
+                                                            "unit": "px",
+                                                            "top": "10",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "calio-progress-pie",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": false,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "48c458d6",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "column",
+                                                "flex_gap": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "unit": "px",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "18",
+                                                    "right": "18",
+                                                    "bottom": "18",
+                                                    "left": "18",
+                                                    "isLinked": false
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 31,
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "background_background": "classic",
+                                                "background_color": "#FFFFFF",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": false
+                                                },
+                                                "border_color": "#D6DED7",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "14",
+                                                    "right": "14",
+                                                    "bottom": "14",
+                                                    "left": "14",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "77c9c41b",
+                                                    "settings": {
+                                                        "percent": 78,
+                                                        "duration": 0.80000000000000004,
+                                                        "title": "Actions",
+                                                        "hide_title_divider": " calio-no-divider",
+                                                        "before": "",
+                                                        "text": "",
+                                                        "after": "prioritized",
+                                                        "progress_background": "#DDE7E0",
+                                                        "progress_color": "#17372B",
+                                                        "number_color": "#10251D",
+                                                        "after_text_color": "#617067",
+                                                        "line_width": 9,
+                                                        "line_cap": "round",
+                                                        "progress_padding": {
+                                                            "unit": "px",
+                                                            "top": "8",
+                                                            "right": "8",
+                                                            "bottom": "8",
+                                                            "left": "8",
+                                                            "isLinked": false
+                                                        },
+                                                        "title_background": "transparent",
+                                                        "title_color": "#10251D",
+                                                        "title_padding": {
+                                                            "unit": "px",
+                                                            "top": "10",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "calio-progress-pie",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": false,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "245692c5",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "column",
+                                                "flex_gap": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "unit": "px",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "18",
+                                                    "right": "18",
+                                                    "bottom": "18",
+                                                    "left": "18",
+                                                    "isLinked": false
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 31,
+                                                    "sizes": []
+                                                },
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "background_background": "classic",
+                                                "background_color": "#FFFFFF",
+                                                "border_border": "solid",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": false
+                                                },
+                                                "border_color": "#D6DED7",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "14",
+                                                    "right": "14",
+                                                    "bottom": "14",
+                                                    "left": "14",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "3ff419f8",
+                                                    "settings": {
+                                                        "percent": 54,
+                                                        "duration": 0.80000000000000004,
+                                                        "title": "Evidence",
+                                                        "hide_title_divider": " calio-no-divider",
+                                                        "before": "",
+                                                        "text": "",
+                                                        "after": "ready",
+                                                        "progress_background": "#DDE7E0",
+                                                        "progress_color": "#17372B",
+                                                        "number_color": "#10251D",
+                                                        "after_text_color": "#617067",
+                                                        "line_width": 9,
+                                                        "line_cap": "round",
+                                                        "progress_padding": {
+                                                            "unit": "px",
+                                                            "top": "8",
+                                                            "right": "8",
+                                                            "bottom": "8",
+                                                            "left": "8",
+                                                            "isLinked": false
+                                                        },
+                                                        "title_background": "transparent",
+                                                        "title_color": "#10251D",
+                                                        "title_padding": {
+                                                            "unit": "px",
+                                                            "top": "10",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "calio-progress-pie",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": false,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "4e29dfaf",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "24",
+                                            "row": "24",
+                                            "unit": "px",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 39,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6a6623be",
+                                            "settings": {
+                                                "title": "Illustrative emissions mix",
+                                                "subtitle": "100 tCO₂e example baseline",
+                                                "preset_pack": "custom",
+                                                "show_preset_badge": "",
+                                                "chart_engine": "custom",
+                                                "chart_type": "donut",
+                                                "skin": "outline",
+                                                "legend_position": "bottom",
+                                                "chart_height": {
+                                                    "unit": "px",
+                                                    "size": 330,
+                                                    "sizes": []
+                                                },
+                                                "show_grid": "",
+                                                "show_axes": "",
+                                                "show_points": "",
+                                                "show_values": "yes",
+                                                "show_tooltip": "yes",
+                                                "enable_animation": "",
+                                                "data_source": "manual",
+                                                "labels_csv": "Operations, Supply chain, Travel, Digital",
+                                                "datasets": [
+                                                    {
+                                                        "_id": "37bf901b",
+                                                        "label": "Illustrative tCO₂e",
+                                                        "values": "42, 31, 18, 9",
+                                                        "render_as": "auto",
+                                                        "stroke": "#17372B",
+                                                        "fill": "rgba(189, 247, 208, 0.48)",
+                                                        "point": "#FF7A66"
+                                                    }
+                                                ],
+                                                "show_summary_strip": "",
+                                                "show_kpi_cards": "",
+                                                "show_target_line": "",
+                                                "show_range_highlight": "",
+                                                "show_event_markers": "",
+                                                "show_export": "",
+                                                "show_data_preview": "",
+                                                "show_data_table": "yes",
+                                                "table_title": "Example baseline",
+                                                "table_collapsed": "",
+                                                "card_padding": {
+                                                    "unit": "px",
+                                                    "top": "24",
+                                                    "right": "24",
+                                                    "bottom": "24",
+                                                    "left": "24",
+                                                    "isLinked": false
+                                                },
+                                                "card_radius": {
+                                                    "unit": "px",
+                                                    "top": "14",
+                                                    "right": "14",
+                                                    "bottom": "14",
+                                                    "left": "14",
+                                                    "isLinked": false
+                                                },
+                                                "grid_color": "rgba(16, 37, 29, 0.15)",
+                                                "axis_color": "#10251D",
+                                                "value_color": "#10251D"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-fancy-chart",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": false,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Beacon — Impact Metrics / Free",
+    "type": "section"
+}

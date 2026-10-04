@@ -21,16 +21,19 @@ Add original, tested Elementor exports and actual screenshots before adding thei
 - **Atelier — Architecture & Interiors / Free**: a responsive editorial architecture and interiors page built with ten Calio Free widget types: Kinetic Card, Image Gallery, Image Flow, Feature List Simple, Stylish List, Team Slider, Business Hours, Advanced Heading, Advanced Button and Animated Link. Twelve original architectural, material and initials-based illustrations are bundled in `media/atelier/`; all people, projects and places are fictional. No stock photography, external fonts, Elementor Pro, Calio Pro, WooCommerce, menu IDs or saved-template IDs are required. Replace `hello@example.com`, demo copy, profiles and project details before publishing a real studio site.
 - **Gather — Creative Conference / Free**: a responsive two-day creative-conference page built with exactly ten Calio Free widget types: Countdown, Cube Slider, Team Member, Fancy Chart, Table, Advanced Heading, Advanced Button, Animated Link, Fancy Tabs and Accordion. Three original workshop posters and four fictional initials-based speaker portraits are bundled in `media/gather/`. The 12-session program and its 6/4/2 track chart share one source, and the countdown targets March 12, 2027 at 09:30 UTC. No stock photography, external fonts, Elementor Pro, Calio Pro, WooCommerce, menu IDs or saved-template IDs are required. Replace `hello@example.com`, the fictional speakers, program and event details before publishing a real event.
 - **Relay — SaaS Product / Free**: a responsive product-launch page for a fictional team-operations platform. It uses exactly ten Calio Free widget types: Progress Pie, Feature List Simple, Stylish List, Fancy Tabs, Table, Multicolumn Pricing Table, Accordion, Call Out, Advanced Heading and Advanced Button. The design is built entirely with Elementor containers and widget styling, so it needs no stock images, external fonts, Elementor Pro, Calio Pro, WooCommerce, menu IDs or saved-template IDs. Replace the fictional product claims, illustrative metrics, prices and `hello@example.com` before publishing a real product.
+- **Beacon — Climate Impact / Free**: a responsive sustainability-consulting page built with exactly ten Calio Free widget types: Accent Headline, Accordion, Advanced Button, Advanced Heading, Call Out, Fancy Chart, Feature List, Progress Pie, Stylish List and Table. Its impact snapshot, emissions mix and evidence register are explicitly illustrative; the layout uses no stock images, external fonts, Elementor Pro, Calio Pro, WooCommerce, menu IDs or saved-template IDs. Replace the fictional service claims, example figures and `hello@example.com` before publishing a real consultancy site.
 - **Accordion**: the original uploaded accordion section.
 
 ## Included reusable sections
 
-The four complete Calio Free templates also provide 28 standalone Elementor sections. Each section is a native `section` export, keeps the source design intact and can be inserted independently from the library.
+The six complete Calio Free templates also provide 43 standalone Elementor sections. Each section is a native `section` export, keeps the source design intact and can be inserted independently from the library.
 
 - **Forma (5):** hero, services, statement, FAQ and contact CTA.
 - **Atelier (8):** hero, approach, featured spaces, material gallery, image flow, process, team and contact.
 - **Northstar (8):** hero, services tabs, project gallery, process, image comparison, pricing, FAQ and contact callout.
 - **Gather (7):** event hero, workshop slider, speakers, tracks, program, FAQ and registration CTA.
+- **Relay (8):** product hero, features, workflow, team use cases, comparison, pricing, FAQ and start-free CTA.
+- **Beacon (7):** climate-impact hero, impact metrics, services, process, evidence table, FAQ and climate-action CTA.
 
 Navigation headers and footers remain part of the complete templates and are intentionally not duplicated as standalone sections. Every section uses only Elementor and widgets shipped in Calio Free; preview images are captured from the actual standalone frontend render.
 

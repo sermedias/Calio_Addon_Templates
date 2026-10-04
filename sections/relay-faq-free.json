@@ -1,0 +1,382 @@
+{
+    "content": [
+        {
+            "id": "5e0d83b2",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "92",
+                    "right": "40",
+                    "bottom": "92",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "28",
+                    "bottom": "70",
+                    "left": "28",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "54",
+                    "right": "20",
+                    "bottom": "54",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#F6F7F2"
+            },
+            "elements": [
+                {
+                    "id": "2e64c4b4",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1180,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "556806c6",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_gap": {
+                                    "column": "72",
+                                    "row": "32",
+                                    "unit": "px",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "flex_direction_mobile": "column",
+                                "flex_justify_content": "space-between"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3488090b",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "24",
+                                            "row": "24",
+                                            "unit": "px",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 38,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "420a5fef",
+                                            "settings": {
+                                                "title": "A few useful answers before you start.",
+                                                "subtitle": "FAQ",
+                                                "description": "Practical details for this fictional SaaS product demonstration.",
+                                                "tag": "h2",
+                                                "content_width": "wide",
+                                                "panel_skin": "none",
+                                                "align": "left",
+                                                "show_divider": "",
+                                                "show_accent_bar": "",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Arial",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 48,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 38,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "700",
+                                                "title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.0600000000000001,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1.7,
+                                                    "sizes": []
+                                                },
+                                                "heading_title_normal_paint_mode": "classic",
+                                                "heading_title_normal_color": "#101624",
+                                                "heading_highlight_normal_paint_mode": "classic",
+                                                "heading_highlight_normal_color": "#C8FF4D",
+                                                "heading_subtitle_paint_mode": "classic",
+                                                "heading_subtitle_color": "#667085",
+                                                "heading_desc_paint_mode": "classic",
+                                                "heading_desc_color": "#667085",
+                                                "subtitle_typography_typography": "custom",
+                                                "subtitle_typography_font_family": "Arial",
+                                                "subtitle_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "subtitle_typography_font_weight": "700",
+                                                "subtitle_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_typography": "custom",
+                                                "desc_typography_font_family": "Arial",
+                                                "desc_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 17,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.6499999999999999,
+                                                    "sizes": []
+                                                },
+                                                "title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "18",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "panel_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-advanced-heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "754e5be5",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "24",
+                                            "row": "24",
+                                            "unit": "px",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 60,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7a4d9cfd",
+                                            "settings": {
+                                                "tabs": [
+                                                    {
+                                                        "_id": "7cf5bb04",
+                                                        "tab_title": "Does Relay replace our project tools?",
+                                                        "tab_content": "<p>No. Relay is designed as a clear operating layer across the tools a team already uses. This is fictional product copy for the demo template.</p>",
+                                                        "tab_icon_show": "no",
+                                                        "tab_default_active": "yes"
+                                                    },
+                                                    {
+                                                        "_id": "1352aeb6",
+                                                        "tab_title": "How quickly can a team get started?",
+                                                        "tab_content": "<p>A small team can set its first priorities, owners and update rhythm in one focused session.</p>",
+                                                        "tab_icon_show": "no",
+                                                        "tab_default_active": "no"
+                                                    },
+                                                    {
+                                                        "_id": "5fac0b18",
+                                                        "tab_title": "Can different teams use different workflows?",
+                                                        "tab_content": "<p>Yes. Each team can keep its useful details while the shared operating signals remain consistent.</p>",
+                                                        "tab_icon_show": "no",
+                                                        "tab_default_active": "no"
+                                                    },
+                                                    {
+                                                        "_id": "5dd030a5",
+                                                        "tab_title": "Is the pricing real?",
+                                                        "tab_content": "<p>No. All product details and prices in this template are illustrative and should be replaced before commercial use.</p>",
+                                                        "tab_icon_show": "no",
+                                                        "tab_default_active": "no"
+                                                    }
+                                                ],
+                                                "accordion_type": "accordion",
+                                                "show_toggle_icon": "yes",
+                                                "toggle_icon_position": "right",
+                                                "toggle_speed": 240,
+                                                "scroll_on_click": "",
+                                                "faq_schema": "yes",
+                                                "item_distance": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "tab_padding": {
+                                                    "unit": "px",
+                                                    "top": "22",
+                                                    "right": "22",
+                                                    "bottom": "22",
+                                                    "left": "22",
+                                                    "isLinked": false
+                                                },
+                                                "tab_radius": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": false
+                                                },
+                                                "content_padding": {
+                                                    "unit": "px",
+                                                    "top": "22",
+                                                    "right": "22",
+                                                    "bottom": "22",
+                                                    "left": "22",
+                                                    "isLinked": false
+                                                },
+                                                "content_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": false
+                                                },
+                                                "tab_bg_normal_background": "classic",
+                                                "tab_bg_normal_color": "#FFFFFF",
+                                                "tab_text_normal_color": "#101624",
+                                                "tab_bg_active_background": "classic",
+                                                "tab_bg_active_color": "#E9FFC0",
+                                                "tab_text_active_color": "#101624",
+                                                "content_text_color": "#667085",
+                                                "caret_color_normal": "#667085",
+                                                "caret_color_active": "#101624"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-accordion",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": false,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Relay — Product FAQ / Free",
+    "type": "section"
+}

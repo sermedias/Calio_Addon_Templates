@@ -1,0 +1,332 @@
+{
+    "content": [
+        {
+            "id": "48c8b555",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "92",
+                    "right": "40",
+                    "bottom": "92",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "28",
+                    "bottom": "70",
+                    "left": "28",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "54",
+                    "right": "20",
+                    "bottom": "54",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#D9F1FF"
+            },
+            "elements": [
+                {
+                    "id": "50dc66d4",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1180,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "742a0aca",
+                            "settings": {
+                                "title": "One product. Three useful views.",
+                                "subtitle": "BUILT FOR CONNECTED TEAMS",
+                                "description": "Each team gets the context it needs while the operating picture stays shared.",
+                                "tag": "h2",
+                                "content_width": "wide",
+                                "panel_skin": "none",
+                                "align": "left",
+                                "show_divider": "",
+                                "show_accent_bar": "",
+                                "title_typography_typography": "custom",
+                                "title_typography_font_family": "Arial",
+                                "title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 38,
+                                    "sizes": []
+                                },
+                                "title_typography_font_weight": "700",
+                                "title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.0600000000000001,
+                                    "sizes": []
+                                },
+                                "title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": -1.7,
+                                    "sizes": []
+                                },
+                                "heading_title_normal_paint_mode": "classic",
+                                "heading_title_normal_color": "#101624",
+                                "heading_highlight_normal_paint_mode": "classic",
+                                "heading_highlight_normal_color": "#C8FF4D",
+                                "heading_subtitle_paint_mode": "classic",
+                                "heading_subtitle_color": "#667085",
+                                "heading_desc_paint_mode": "classic",
+                                "heading_desc_color": "#667085",
+                                "subtitle_typography_typography": "custom",
+                                "subtitle_typography_font_family": "Arial",
+                                "subtitle_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "subtitle_typography_font_weight": "700",
+                                "subtitle_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "desc_typography_typography": "custom",
+                                "desc_typography_font_family": "Arial",
+                                "desc_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 17,
+                                    "sizes": []
+                                },
+                                "desc_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.6499999999999999,
+                                    "sizes": []
+                                },
+                                "title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "subtitle_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "18",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "panel_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-advanced-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5b0c8f89",
+                            "settings": {
+                                "layout_mode": "horizontal",
+                                "tab_skin": "boxed",
+                                "panel_skin": "outline",
+                                "content_preset": "balanced",
+                                "show_media": "",
+                                "show_badge": "",
+                                "show_step_numbers": "yes",
+                                "show_indicator": "yes",
+                                "show_panel_button": "yes",
+                                "show_panel_checklist": "yes",
+                                "show_support_chips": "",
+                                "show_secondary_cta": "",
+                                "show_panel_accent": "",
+                                "show_media_overlay": "",
+                                "panel_motion": "fade",
+                                "mobile_mode": "accordion",
+                                "activate_first": "yes",
+                                "prefer_featured": "",
+                                "tabs": [
+                                    {
+                                        "_id": "58c7016c",
+                                        "title": "Product",
+                                        "subtitle": "",
+                                        "badge": "",
+                                        "featured": "yes",
+                                        "eyebrow": "01 / PRODUCT TEAMS",
+                                        "content_title": "Keep discovery and delivery connected.",
+                                        "content": "<p>Turn research, choices and launch work into one visible thread across the product cycle.</p>",
+                                        "checklist": "Connect insights to priorities\nRecord decisions with context\nMake launch readiness visible",
+                                        "button_text": "Explore the workflow",
+                                        "button_url": {
+                                            "url": "#workflow"
+                                        },
+                                        "secondary_button_text": "",
+                                        "secondary_button_url": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "56a92efa",
+                                        "title": "Design",
+                                        "subtitle": "",
+                                        "badge": "",
+                                        "featured": "",
+                                        "eyebrow": "02 / DESIGN TEAMS",
+                                        "content_title": "Move from review to resolution.",
+                                        "content": "<p>Create a calmer review rhythm where feedback has an owner, a decision and a next step.</p>",
+                                        "checklist": "Frame the review question\nSeparate feedback from decisions\nTrack what is ready to hand off",
+                                        "button_text": "Explore the workflow",
+                                        "button_url": {
+                                            "url": "#workflow"
+                                        },
+                                        "secondary_button_text": "",
+                                        "secondary_button_url": {
+                                            "url": ""
+                                        }
+                                    },
+                                    {
+                                        "_id": "377ce8d9",
+                                        "title": "Operations",
+                                        "subtitle": "",
+                                        "badge": "",
+                                        "featured": "",
+                                        "eyebrow": "03 / OPERATIONS TEAMS",
+                                        "content_title": "See the system, not just the tasks.",
+                                        "content": "<p>Surface cross-team risks and handoffs without building another spreadsheet or status deck.</p>",
+                                        "checklist": "Map recurring workflows\nSpot stalled ownership\nShare concise operating signals",
+                                        "button_text": "Explore the workflow",
+                                        "button_url": {
+                                            "url": "#workflow"
+                                        },
+                                        "secondary_button_text": "",
+                                        "secondary_button_url": {
+                                            "url": ""
+                                        }
+                                    }
+                                ],
+                                "tabs_gap": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "tab_padding": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "18",
+                                    "bottom": "16",
+                                    "left": "18",
+                                    "isLinked": false
+                                },
+                                "tab_radius": {
+                                    "unit": "px",
+                                    "top": "8",
+                                    "right": "8",
+                                    "bottom": "8",
+                                    "left": "8",
+                                    "isLinked": false
+                                },
+                                "panel_padding": {
+                                    "unit": "px",
+                                    "top": "32",
+                                    "right": "32",
+                                    "bottom": "32",
+                                    "left": "32",
+                                    "isLinked": false
+                                },
+                                "panel_radius": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "12",
+                                    "bottom": "12",
+                                    "left": "12",
+                                    "isLinked": false
+                                },
+                                "fancy_tab_text_normal_paint_mode": "classic",
+                                "fancy_tab_text_normal_color": "#667085",
+                                "fancy_tab_bg_normal_group_background": "classic",
+                                "fancy_tab_bg_normal_group_color": "#FFFFFF",
+                                "fancy_tab_text_active_paint_mode": "classic",
+                                "fancy_tab_text_active_color": "#101624",
+                                "fancy_tab_bg_active_group_background": "classic",
+                                "fancy_tab_bg_active_group_color": "#C8FF4D",
+                                "fancy_panel_bg_normal_group_background": "classic",
+                                "fancy_panel_bg_normal_group_color": "#FFFFFF",
+                                "fancy_tab_heading_text_paint_mode": "classic",
+                                "fancy_tab_heading_text_color": "#101624",
+                                "fancy_tab_body_text_paint_mode": "classic",
+                                "fancy_tab_body_text_color": "#667085",
+                                "fancy_tab_check_icon_paint_mode": "classic",
+                                "fancy_tab_check_icon_color": "#5B7C00",
+                                "fancy_button_text_normal_paint_mode": "classic",
+                                "fancy_button_text_normal_color": "#101624",
+                                "fancy_button_bg_normal_group_background": "classic",
+                                "fancy_button_bg_normal_group_color": "#C8FF4D"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "calio-fancy-tabs",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Relay — Team Use Cases / Free",
+    "type": "section"
+}

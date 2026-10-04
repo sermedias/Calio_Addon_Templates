@@ -1,0 +1,1202 @@
+{
+    "content": [
+        {
+            "id": "2823d8cd",
+            "settings": {
+                "content_width": "full",
+                "flex_direction": "column",
+                "flex_gap": {
+                    "column": "24",
+                    "row": "24",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "84",
+                    "right": "40",
+                    "bottom": "98",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "width": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "28",
+                    "bottom": "70",
+                    "left": "28",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "58",
+                    "right": "20",
+                    "bottom": "66",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_color": "#101624"
+            },
+            "elements": [
+                {
+                    "id": "57557773",
+                    "settings": {
+                        "content_width": "boxed",
+                        "flex_direction": "column",
+                        "flex_gap": {
+                            "column": "24",
+                            "row": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "width": {
+                            "unit": "%",
+                            "size": 100,
+                            "sizes": []
+                        },
+                        "boxed_width": {
+                            "unit": "px",
+                            "size": 1180,
+                            "sizes": []
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "21aae941",
+                            "settings": {
+                                "content_width": "full",
+                                "flex_direction": "row",
+                                "flex_gap": {
+                                    "column": "54",
+                                    "row": "38",
+                                    "unit": "px",
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "flex_direction_mobile": "column",
+                                "flex_justify_content": "space-between",
+                                "flex_align_items": "center"
+                            },
+                            "elements": [
+                                {
+                                    "id": "1cbba4b4",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "28",
+                                            "row": "28",
+                                            "unit": "px",
+                                            "isLinked": false
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 50,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7cd7ddf4",
+                                            "settings": {
+                                                "title": "Keep work moving — without the noise.",
+                                                "subtitle": "CALM OPERATIONS FOR MODERN TEAMS",
+                                                "description": "Relay turns priorities, decisions and handoffs into one clear operating rhythm for growing product teams.",
+                                                "tag": "h1",
+                                                "content_width": "wide",
+                                                "panel_skin": "none",
+                                                "align": "left",
+                                                "show_divider": "",
+                                                "show_accent_bar": "",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Arial",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 72,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 46,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "700",
+                                                "title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.0600000000000001,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": -1.7,
+                                                    "sizes": []
+                                                },
+                                                "heading_title_normal_paint_mode": "classic",
+                                                "heading_title_normal_color": "#FFFFFF",
+                                                "heading_highlight_normal_paint_mode": "classic",
+                                                "heading_highlight_normal_color": "#C8FF4D",
+                                                "heading_subtitle_paint_mode": "classic",
+                                                "heading_subtitle_color": "#C8FF4D",
+                                                "heading_desc_paint_mode": "classic",
+                                                "heading_desc_color": "#C4CDDC",
+                                                "subtitle_typography_typography": "custom",
+                                                "subtitle_typography_font_family": "Arial",
+                                                "subtitle_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "subtitle_typography_font_weight": "700",
+                                                "subtitle_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_typography": "custom",
+                                                "desc_typography_font_family": "Arial",
+                                                "desc_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 17,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.6499999999999999,
+                                                    "sizes": []
+                                                },
+                                                "title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "18",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "panel_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-advanced-heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2e900bdc",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "row",
+                                                "flex_gap": {
+                                                    "column": "14",
+                                                    "row": "12",
+                                                    "unit": "px",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "flex_wrap": "wrap"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "67e509bb",
+                                                    "settings": {
+                                                        "text": "Start free",
+                                                        "link": {
+                                                            "url": "#start"
+                                                        },
+                                                        "size": "md",
+                                                        "align": "left",
+                                                        "button_skin": "solid",
+                                                        "show_icon": "",
+                                                        "button_text_normal_paint_mode": "classic",
+                                                        "button_text_normal_color": "#101624",
+                                                        "button_bg_normal_background": "classic",
+                                                        "button_bg_normal_color": "#C8FF4D",
+                                                        "button_text_hover_paint_mode": "classic",
+                                                        "button_text_hover_color": "#101624",
+                                                        "button_bg_hover_background": "classic",
+                                                        "button_bg_hover_color": "#FFFFFF",
+                                                        "button_border_border": "solid",
+                                                        "button_border_width": {
+                                                            "unit": "px",
+                                                            "top": "1",
+                                                            "right": "1",
+                                                            "bottom": "1",
+                                                            "left": "1",
+                                                            "isLinked": false
+                                                        },
+                                                        "button_border_color": "#C8FF4D",
+                                                        "button_border_radius": {
+                                                            "unit": "px",
+                                                            "top": "8",
+                                                            "right": "8",
+                                                            "bottom": "8",
+                                                            "left": "8",
+                                                            "isLinked": false
+                                                        },
+                                                        "button_padding": {
+                                                            "unit": "px",
+                                                            "top": "15",
+                                                            "right": "24",
+                                                            "bottom": "15",
+                                                            "left": "24",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "calio-advanced-button",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "63de3252",
+                                                    "settings": {
+                                                        "text": "See how it works",
+                                                        "link": {
+                                                            "url": "#workflow"
+                                                        },
+                                                        "size": "md",
+                                                        "align": "left",
+                                                        "button_skin": "solid",
+                                                        "show_icon": "",
+                                                        "button_text_normal_paint_mode": "classic",
+                                                        "button_text_normal_color": "#FFFFFF",
+                                                        "button_bg_normal_background": "classic",
+                                                        "button_bg_normal_color": "transparent",
+                                                        "button_text_hover_paint_mode": "classic",
+                                                        "button_text_hover_color": "#101624",
+                                                        "button_bg_hover_background": "classic",
+                                                        "button_bg_hover_color": "#FFFFFF",
+                                                        "button_border_border": "solid",
+                                                        "button_border_width": {
+                                                            "unit": "px",
+                                                            "top": "1",
+                                                            "right": "1",
+                                                            "bottom": "1",
+                                                            "left": "1",
+                                                            "isLinked": false
+                                                        },
+                                                        "button_border_color": "#53627C",
+                                                        "button_border_radius": {
+                                                            "unit": "px",
+                                                            "top": "8",
+                                                            "right": "8",
+                                                            "bottom": "8",
+                                                            "left": "8",
+                                                            "isLinked": false
+                                                        },
+                                                        "button_padding": {
+                                                            "unit": "px",
+                                                            "top": "15",
+                                                            "right": "24",
+                                                            "bottom": "15",
+                                                            "left": "24",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "calio-advanced-button",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": false,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "51064c0e",
+                                            "settings": {
+                                                "title": "No credit card · 14-day workspace · fictional SaaS demo",
+                                                "subtitle": "",
+                                                "description": "",
+                                                "tag": "p",
+                                                "content_width": "wide",
+                                                "panel_skin": "none",
+                                                "align": "left",
+                                                "show_divider": "",
+                                                "show_accent_bar": "",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Arial",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "700",
+                                                "title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.0600000000000001,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 0.80000000000000004,
+                                                    "sizes": []
+                                                },
+                                                "heading_title_normal_paint_mode": "classic",
+                                                "heading_title_normal_color": "#8F9AAF",
+                                                "heading_highlight_normal_paint_mode": "classic",
+                                                "heading_highlight_normal_color": "#C8FF4D",
+                                                "heading_subtitle_paint_mode": "classic",
+                                                "heading_subtitle_color": "#667085",
+                                                "heading_desc_paint_mode": "classic",
+                                                "heading_desc_color": "#667085",
+                                                "subtitle_typography_typography": "custom",
+                                                "subtitle_typography_font_family": "Arial",
+                                                "subtitle_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "subtitle_typography_font_weight": "700",
+                                                "subtitle_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_typography": "custom",
+                                                "desc_typography_font_family": "Arial",
+                                                "desc_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 17,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.6499999999999999,
+                                                    "sizes": []
+                                                },
+                                                "title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "18",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "panel_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-advanced-heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                },
+                                {
+                                    "id": "6dce77c6",
+                                    "settings": {
+                                        "content_width": "full",
+                                        "flex_direction": "column",
+                                        "flex_gap": {
+                                            "column": "24",
+                                            "row": "24",
+                                            "unit": "px",
+                                            "isLinked": true
+                                        },
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "26",
+                                            "right": "26",
+                                            "bottom": "26",
+                                            "left": "26",
+                                            "isLinked": false
+                                        },
+                                        "width": {
+                                            "unit": "%",
+                                            "size": 46,
+                                            "sizes": []
+                                        },
+                                        "width_mobile": {
+                                            "unit": "%",
+                                            "size": 100,
+                                            "sizes": []
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": false
+                                        },
+                                        "background_background": "classic",
+                                        "background_color": "#1B273D",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": false
+                                        },
+                                        "border_color": "#34415A",
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "18",
+                                            "right": "18",
+                                            "bottom": "18",
+                                            "left": "18",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3ae00912",
+                                            "settings": {
+                                                "title": "LIVE TEAM PULSE",
+                                                "subtitle": "",
+                                                "description": "",
+                                                "tag": "div",
+                                                "content_width": "wide",
+                                                "panel_skin": "none",
+                                                "align": "left",
+                                                "show_divider": "",
+                                                "show_accent_bar": "",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Arial",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "700",
+                                                "title_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.0600000000000001,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1.5,
+                                                    "sizes": []
+                                                },
+                                                "heading_title_normal_paint_mode": "classic",
+                                                "heading_title_normal_color": "#C8FF4D",
+                                                "heading_highlight_normal_paint_mode": "classic",
+                                                "heading_highlight_normal_color": "#C8FF4D",
+                                                "heading_subtitle_paint_mode": "classic",
+                                                "heading_subtitle_color": "#667085",
+                                                "heading_desc_paint_mode": "classic",
+                                                "heading_desc_color": "#667085",
+                                                "subtitle_typography_typography": "custom",
+                                                "subtitle_typography_font_family": "Arial",
+                                                "subtitle_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 11,
+                                                    "sizes": []
+                                                },
+                                                "subtitle_typography_font_weight": "700",
+                                                "subtitle_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1.8,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_typography": "custom",
+                                                "desc_typography_font_family": "Arial",
+                                                "desc_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 17,
+                                                    "sizes": []
+                                                },
+                                                "desc_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.6499999999999999,
+                                                    "sizes": []
+                                                },
+                                                "title_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "subtitle_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "18",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "panel_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "calio-advanced-heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "595f884",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "row",
+                                                "flex_gap": {
+                                                    "column": "14",
+                                                    "row": "14",
+                                                    "unit": "px",
+                                                    "isLinked": false
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "flex_direction_mobile": "column",
+                                                "flex_wrap": "wrap"
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "47fa8aab",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_direction": "column",
+                                                        "flex_gap": {
+                                                            "column": "24",
+                                                            "row": "24",
+                                                            "unit": "px",
+                                                            "isLinked": true
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "18",
+                                                            "right": "18",
+                                                            "bottom": "18",
+                                                            "left": "18",
+                                                            "isLinked": false
+                                                        },
+                                                        "width": {
+                                                            "unit": "%",
+                                                            "size": 30,
+                                                            "sizes": []
+                                                        },
+                                                        "width_mobile": {
+                                                            "unit": "%",
+                                                            "size": 100,
+                                                            "sizes": []
+                                                        },
+                                                        "background_background": "classic",
+                                                        "background_color": "#172238",
+                                                        "border_border": "solid",
+                                                        "border_width": {
+                                                            "unit": "px",
+                                                            "top": "1",
+                                                            "right": "1",
+                                                            "bottom": "1",
+                                                            "left": "1",
+                                                            "isLinked": false
+                                                        },
+                                                        "border_color": "#34415A",
+                                                        "border_radius": {
+                                                            "unit": "px",
+                                                            "top": "14",
+                                                            "right": "14",
+                                                            "bottom": "14",
+                                                            "left": "14",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "15454c61",
+                                                            "settings": {
+                                                                "percent": 86,
+                                                                "duration": 0.80000000000000004,
+                                                                "title": "Focus",
+                                                                "hide_title_divider": " calio-no-divider",
+                                                                "before": "",
+                                                                "text": "",
+                                                                "after": "weekly priorities",
+                                                                "progress_background": "#31405B",
+                                                                "progress_color": "#C8FF4D",
+                                                                "number_color": "#FFFFFF",
+                                                                "after_text_color": "#B7C3D7",
+                                                                "line_width": 9,
+                                                                "line_cap": "round",
+                                                                "progress_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "8",
+                                                                    "right": "8",
+                                                                    "bottom": "8",
+                                                                    "left": "8",
+                                                                    "isLinked": false
+                                                                },
+                                                                "title_background": "transparent",
+                                                                "title_color": "#FFFFFF",
+                                                                "title_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "calio-progress-pie",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": false,
+                                                    "elType": "container"
+                                                },
+                                                {
+                                                    "id": "49b9ee76",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_direction": "column",
+                                                        "flex_gap": {
+                                                            "column": "24",
+                                                            "row": "24",
+                                                            "unit": "px",
+                                                            "isLinked": true
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "18",
+                                                            "right": "18",
+                                                            "bottom": "18",
+                                                            "left": "18",
+                                                            "isLinked": false
+                                                        },
+                                                        "width": {
+                                                            "unit": "%",
+                                                            "size": 30,
+                                                            "sizes": []
+                                                        },
+                                                        "width_mobile": {
+                                                            "unit": "%",
+                                                            "size": 100,
+                                                            "sizes": []
+                                                        },
+                                                        "background_background": "classic",
+                                                        "background_color": "#172238",
+                                                        "border_border": "solid",
+                                                        "border_width": {
+                                                            "unit": "px",
+                                                            "top": "1",
+                                                            "right": "1",
+                                                            "bottom": "1",
+                                                            "left": "1",
+                                                            "isLinked": false
+                                                        },
+                                                        "border_color": "#34415A",
+                                                        "border_radius": {
+                                                            "unit": "px",
+                                                            "top": "14",
+                                                            "right": "14",
+                                                            "bottom": "14",
+                                                            "left": "14",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "6f95a6db",
+                                                            "settings": {
+                                                                "percent": 72,
+                                                                "duration": 0.80000000000000004,
+                                                                "title": "Flow",
+                                                                "hide_title_divider": " calio-no-divider",
+                                                                "before": "",
+                                                                "text": "",
+                                                                "after": "work moving",
+                                                                "progress_background": "#31405B",
+                                                                "progress_color": "#C8FF4D",
+                                                                "number_color": "#FFFFFF",
+                                                                "after_text_color": "#B7C3D7",
+                                                                "line_width": 9,
+                                                                "line_cap": "round",
+                                                                "progress_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "8",
+                                                                    "right": "8",
+                                                                    "bottom": "8",
+                                                                    "left": "8",
+                                                                    "isLinked": false
+                                                                },
+                                                                "title_background": "transparent",
+                                                                "title_color": "#FFFFFF",
+                                                                "title_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "calio-progress-pie",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": false,
+                                                    "elType": "container"
+                                                },
+                                                {
+                                                    "id": "793faab3",
+                                                    "settings": {
+                                                        "content_width": "full",
+                                                        "flex_direction": "column",
+                                                        "flex_gap": {
+                                                            "column": "24",
+                                                            "row": "24",
+                                                            "unit": "px",
+                                                            "isLinked": true
+                                                        },
+                                                        "padding": {
+                                                            "unit": "px",
+                                                            "top": "18",
+                                                            "right": "18",
+                                                            "bottom": "18",
+                                                            "left": "18",
+                                                            "isLinked": false
+                                                        },
+                                                        "width": {
+                                                            "unit": "%",
+                                                            "size": 30,
+                                                            "sizes": []
+                                                        },
+                                                        "width_mobile": {
+                                                            "unit": "%",
+                                                            "size": 100,
+                                                            "sizes": []
+                                                        },
+                                                        "background_background": "classic",
+                                                        "background_color": "#172238",
+                                                        "border_border": "solid",
+                                                        "border_width": {
+                                                            "unit": "px",
+                                                            "top": "1",
+                                                            "right": "1",
+                                                            "bottom": "1",
+                                                            "left": "1",
+                                                            "isLinked": false
+                                                        },
+                                                        "border_color": "#34415A",
+                                                        "border_radius": {
+                                                            "unit": "px",
+                                                            "top": "14",
+                                                            "right": "14",
+                                                            "bottom": "14",
+                                                            "left": "14",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [
+                                                        {
+                                                            "id": "5270f33",
+                                                            "settings": {
+                                                                "percent": 94,
+                                                                "duration": 0.80000000000000004,
+                                                                "title": "Clarity",
+                                                                "hide_title_divider": " calio-no-divider",
+                                                                "before": "",
+                                                                "text": "",
+                                                                "after": "shared context",
+                                                                "progress_background": "#31405B",
+                                                                "progress_color": "#C8FF4D",
+                                                                "number_color": "#FFFFFF",
+                                                                "after_text_color": "#B7C3D7",
+                                                                "line_width": 9,
+                                                                "line_cap": "round",
+                                                                "progress_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "8",
+                                                                    "right": "8",
+                                                                    "bottom": "8",
+                                                                    "left": "8",
+                                                                    "isLinked": false
+                                                                },
+                                                                "title_background": "transparent",
+                                                                "title_color": "#FFFFFF",
+                                                                "title_padding": {
+                                                                    "unit": "px",
+                                                                    "top": "10",
+                                                                    "right": "0",
+                                                                    "bottom": "0",
+                                                                    "left": "0",
+                                                                    "isLinked": false
+                                                                }
+                                                            },
+                                                            "elements": [],
+                                                            "isInner": false,
+                                                            "widgetType": "calio-progress-pie",
+                                                            "elType": "widget"
+                                                        }
+                                                    ],
+                                                    "isInner": false,
+                                                    "elType": "container"
+                                                }
+                                            ],
+                                            "isInner": false,
+                                            "elType": "container"
+                                        },
+                                        {
+                                            "id": "2028ea23",
+                                            "settings": {
+                                                "content_width": "full",
+                                                "flex_direction": "column",
+                                                "flex_gap": {
+                                                    "column": "24",
+                                                    "row": "24",
+                                                    "unit": "px",
+                                                    "isLinked": true
+                                                },
+                                                "padding": {
+                                                    "unit": "px",
+                                                    "top": "22",
+                                                    "right": "22",
+                                                    "bottom": "22",
+                                                    "left": "22",
+                                                    "isLinked": false
+                                                },
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "background_background": "classic",
+                                                "background_color": "#202D45",
+                                                "border_radius": {
+                                                    "unit": "px",
+                                                    "top": "12",
+                                                    "right": "12",
+                                                    "bottom": "12",
+                                                    "left": "12",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [
+                                                {
+                                                    "id": "6c3ad81e",
+                                                    "settings": {
+                                                        "title": "12 decisions resolved this week",
+                                                        "subtitle": "",
+                                                        "description": "",
+                                                        "tag": "h3",
+                                                        "content_width": "wide",
+                                                        "panel_skin": "none",
+                                                        "align": "left",
+                                                        "show_divider": "",
+                                                        "show_accent_bar": "",
+                                                        "title_typography_typography": "custom",
+                                                        "title_typography_font_family": "Arial",
+                                                        "title_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "title_typography_font_size_mobile": {
+                                                            "unit": "px",
+                                                            "size": 24,
+                                                            "sizes": []
+                                                        },
+                                                        "title_typography_font_weight": "700",
+                                                        "title_typography_line_height": {
+                                                            "unit": "em",
+                                                            "size": 1.0600000000000001,
+                                                            "sizes": []
+                                                        },
+                                                        "title_typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": -1.7,
+                                                            "sizes": []
+                                                        },
+                                                        "heading_title_normal_paint_mode": "classic",
+                                                        "heading_title_normal_color": "#FFFFFF",
+                                                        "heading_highlight_normal_paint_mode": "classic",
+                                                        "heading_highlight_normal_color": "#C8FF4D",
+                                                        "heading_subtitle_paint_mode": "classic",
+                                                        "heading_subtitle_color": "#667085",
+                                                        "heading_desc_paint_mode": "classic",
+                                                        "heading_desc_color": "#667085",
+                                                        "subtitle_typography_typography": "custom",
+                                                        "subtitle_typography_font_family": "Arial",
+                                                        "subtitle_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 11,
+                                                            "sizes": []
+                                                        },
+                                                        "subtitle_typography_font_weight": "700",
+                                                        "subtitle_typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": 1.8,
+                                                            "sizes": []
+                                                        },
+                                                        "desc_typography_typography": "custom",
+                                                        "desc_typography_font_family": "Arial",
+                                                        "desc_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 17,
+                                                            "sizes": []
+                                                        },
+                                                        "desc_typography_line_height": {
+                                                            "unit": "em",
+                                                            "size": 1.6499999999999999,
+                                                            "sizes": []
+                                                        },
+                                                        "title_margin": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "subtitle_margin": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "18",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "panel_padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "calio-advanced-heading",
+                                                    "elType": "widget"
+                                                },
+                                                {
+                                                    "id": "6f6ea4f2",
+                                                    "settings": {
+                                                        "title": "4 handoffs are ready · 2 need attention",
+                                                        "subtitle": "",
+                                                        "description": "",
+                                                        "tag": "p",
+                                                        "content_width": "wide",
+                                                        "panel_skin": "none",
+                                                        "align": "left",
+                                                        "show_divider": "",
+                                                        "show_accent_bar": "",
+                                                        "title_typography_typography": "custom",
+                                                        "title_typography_font_family": "Arial",
+                                                        "title_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 14,
+                                                            "sizes": []
+                                                        },
+                                                        "title_typography_font_size_mobile": {
+                                                            "unit": "px",
+                                                            "size": 14,
+                                                            "sizes": []
+                                                        },
+                                                        "title_typography_font_weight": "700",
+                                                        "title_typography_line_height": {
+                                                            "unit": "em",
+                                                            "size": 1.0600000000000001,
+                                                            "sizes": []
+                                                        },
+                                                        "title_typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": 0,
+                                                            "sizes": []
+                                                        },
+                                                        "heading_title_normal_paint_mode": "classic",
+                                                        "heading_title_normal_color": "#A8B4C8",
+                                                        "heading_highlight_normal_paint_mode": "classic",
+                                                        "heading_highlight_normal_color": "#C8FF4D",
+                                                        "heading_subtitle_paint_mode": "classic",
+                                                        "heading_subtitle_color": "#667085",
+                                                        "heading_desc_paint_mode": "classic",
+                                                        "heading_desc_color": "#667085",
+                                                        "subtitle_typography_typography": "custom",
+                                                        "subtitle_typography_font_family": "Arial",
+                                                        "subtitle_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 11,
+                                                            "sizes": []
+                                                        },
+                                                        "subtitle_typography_font_weight": "700",
+                                                        "subtitle_typography_letter_spacing": {
+                                                            "unit": "px",
+                                                            "size": 1.8,
+                                                            "sizes": []
+                                                        },
+                                                        "desc_typography_typography": "custom",
+                                                        "desc_typography_font_family": "Arial",
+                                                        "desc_typography_font_size": {
+                                                            "unit": "px",
+                                                            "size": 17,
+                                                            "sizes": []
+                                                        },
+                                                        "desc_typography_line_height": {
+                                                            "unit": "em",
+                                                            "size": 1.6499999999999999,
+                                                            "sizes": []
+                                                        },
+                                                        "title_margin": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "subtitle_margin": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "18",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        },
+                                                        "panel_padding": {
+                                                            "unit": "px",
+                                                            "top": "0",
+                                                            "right": "0",
+                                                            "bottom": "0",
+                                                            "left": "0",
+                                                            "isLinked": false
+                                                        }
+                                                    },
+                                                    "elements": [],
+                                                    "isInner": false,
+                                                    "widgetType": "calio-advanced-heading",
+                                                    "elType": "widget"
+                                                }
+                                            ],
+                                            "isInner": false,
+                                            "elType": "container"
+                                        }
+                                    ],
+                                    "isInner": false,
+                                    "elType": "container"
+                                }
+                            ],
+                            "isInner": false,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Relay — SaaS Product Hero / Free",
+    "type": "section"
+}
