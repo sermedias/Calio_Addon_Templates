@@ -34,6 +34,14 @@
       "thumbnail": "screenshots/gather-creative-conference-free.webp"
     },
     {
+      "id": "relay-saas-product-free",
+      "title": "Relay — SaaS Product / Free",
+      "type": "templates",
+      "categories": ["SaaS", "Technology", "Business"],
+      "file": "templates/relay-saas-product-free.json",
+      "thumbnail": "screenshots/relay-saas-product-free.webp"
+    },
+    {
       "id": "accordion-1",
       "title": "Accordion",
       "type": "sections",
