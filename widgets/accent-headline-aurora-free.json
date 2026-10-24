@@ -1,0 +1,319 @@
+{
+    "content": [
+        {
+            "id": "385f69c7",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2c85ba3",
+                    "settings": {
+                        "tag": "h2",
+                        "skin": "split",
+                        "layout": "stacked",
+                        "align": "center",
+                        "align_mobile": "center",
+                        "headline_trail": "starts here.",
+                        "eyebrow": "BUILT FOR WHAT COMES NEXT",
+                        "badge_text": "New possibilities",
+                        "support_note": "A fresh perspective for ambitious teams.",
+                        "panel_note": "",
+                        "background_word": "",
+                        "rotating_words": "big idea, bold move, next chapter",
+                        "panel_accent": "",
+                        "show_divider": "",
+                        "primary_cta_text": "Start your project",
+                        "primary_cta_url": {
+                            "url": "mailto:hello@example.com"
+                        },
+                        "secondary_cta_text": "Let’s talk",
+                        "secondary_cta_url": {
+                            "url": "mailto:hello@example.com"
+                        },
+                        "accent_mode": "fill",
+                        "accent_headline_padding": {
+                            "top": "6",
+                            "right": "6",
+                            "bottom": "6",
+                            "left": "6",
+                            "unit": "%",
+                            "isLinked": false
+                        },
+                        "accent_headline_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_surface_border_group_border": "none",
+                        "accent_headline_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_content_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_title_margin": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_typography_letter_spacing": {
+                            "size": -2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_typography_letter_spacing_mobile": {
+                            "size": -1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_primary_padding": {
+                            "top": "14",
+                            "right": "24",
+                            "bottom": "14",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_secondary_padding": {
+                            "top": "14",
+                            "right": "24",
+                            "bottom": "14",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_primary_radius": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_secondary_radius": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_secondary_border_border": "solid",
+                        "accent_headline_cta_secondary_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_secondary_border_color": "#B8C1D9",
+                        "accent_headline_lead_normal_paint_mode": "classic",
+                        "accent_headline_lead_normal_color": "#F5F7FF",
+                        "accent_headline_trail_normal_paint_mode": "classic",
+                        "accent_headline_trail_normal_color": "#F5F7FF",
+                        "accent_headline_accent_normal_paint_mode": "gradient",
+                        "accent_headline_accent_normal_color": "#B5A2FF",
+                        "accent_headline_eyebrow_text_paint_mode": "classic",
+                        "accent_headline_eyebrow_text_color": "#B5A2FF",
+                        "accent_headline_desc_text_paint_mode": "classic",
+                        "accent_headline_desc_text_color": "#B8C1D9",
+                        "accent_headline_support_text_paint_mode": "classic",
+                        "accent_headline_support_text_color": "#B8C1D9",
+                        "accent_headline_badge_text_paint_mode": "classic",
+                        "accent_headline_badge_text_color": "#E2D9FF",
+                        "accent_headline_cta_primary_text_paint_mode": "classic",
+                        "accent_headline_cta_primary_text_color": "#11182C",
+                        "accent_headline_cta_secondary_text_paint_mode": "classic",
+                        "accent_headline_cta_secondary_text_color": "#F5F7FF",
+                        "accent_headline_surface_bg_normal_background": "gradient",
+                        "accent_headline_surface_bg_normal_color": "#11182C",
+                        "accent_headline_surface_bg_normal_color_b": "#1B183E",
+                        "accent_headline_cta_primary_bg_background": "classic",
+                        "accent_headline_cta_primary_bg_color": "#C4B5FD",
+                        "accent_headline_cta_secondary_bg_background": "classic",
+                        "accent_headline_cta_secondary_bg_color": "#FFFFFF00",
+                        "accent_headline_badge_bg_background": "classic",
+                        "accent_headline_badge_bg_color": "#FFFFFF12",
+                        "accent_headline_typography_typography": "custom",
+                        "accent_headline_typography_font_family": "Arial",
+                        "accent_headline_typography_font_size": {
+                            "size": 72,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_typography_font_size_mobile": {
+                            "size": 38,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_typography_font_weight": "700",
+                        "accent_headline_typography_line_height": {
+                            "size": 1.08,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_desc_typography_typography": "custom",
+                        "accent_headline_desc_typography_font_family": "Arial",
+                        "accent_headline_desc_typography_font_size": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_desc_typography_font_size_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_desc_typography_font_weight": "400",
+                        "accent_headline_desc_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_eyebrow_typography_typography": "custom",
+                        "accent_headline_eyebrow_typography_font_family": "Arial",
+                        "accent_headline_eyebrow_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_eyebrow_typography_font_size_mobile": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_eyebrow_typography_font_weight": "700",
+                        "accent_headline_eyebrow_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_eyebrow_typography_letter_spacing": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_support_typography_typography": "custom",
+                        "accent_headline_support_typography_font_family": "Arial",
+                        "accent_headline_support_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_support_typography_font_size_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_support_typography_font_weight": "400",
+                        "accent_headline_support_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_badge_typography_typography": "custom",
+                        "accent_headline_badge_typography_font_family": "Arial",
+                        "accent_headline_badge_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_badge_typography_font_size_mobile": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_badge_typography_font_weight": "600",
+                        "accent_headline_badge_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_typography_typography": "custom",
+                        "accent_headline_cta_typography_font_family": "Arial",
+                        "accent_headline_cta_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_typography_font_weight": "700",
+                        "accent_headline_cta_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "headline_lead": "Your next",
+                        "headline_accent": "big idea",
+                        "rotation_speed": 3200,
+                        "rotation_motion": "lift",
+                        "description": "Turn a spark of inspiration into something people love. One clear direction. Endless possibilities.",
+                        "accent_headline_accent_normal_gradient_start": "#C0A1FF",
+                        "accent_headline_accent_normal_gradient_end": "#67E8F9",
+                        "accent_headline_surface_bg_normal_gradient_angle": {
+                            "size": 135,
+                            "unit": "deg",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-accent-headline",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Accent Headline — Aurora",
+    "type": "section"
+}

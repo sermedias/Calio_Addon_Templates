@@ -400,6 +400,72 @@
       "categories": ["Sustainability", "Business", "Call to Action"],
       "file": "sections/beacon-contact-cta-free.json",
       "thumbnail": "screenshots/beacon-contact-cta-free.webp"
+    },
+    {
+      "id": "accent-headline-aurora-free",
+      "title": "Accent Headline — Aurora",
+      "type": "widgets",
+      "categories": [
+        "Accent Headline",
+        "SaaS"
+      ],
+      "file": "widgets/accent-headline-aurora-free.json",
+      "thumbnail": "screenshots/accent-headline-aurora-free.webp"
+    },
+    {
+      "id": "accent-headline-editorial-free",
+      "title": "Accent Headline — Editorial",
+      "type": "widgets",
+      "categories": [
+        "Accent Headline",
+        "Editorial"
+      ],
+      "file": "widgets/accent-headline-editorial-free.json",
+      "thumbnail": "screenshots/accent-headline-editorial-free.webp"
+    },
+    {
+      "id": "accent-headline-outline-free",
+      "title": "Accent Headline — Outline",
+      "type": "widgets",
+      "categories": [
+        "Accent Headline",
+        "Portfolio"
+      ],
+      "file": "widgets/accent-headline-outline-free.json",
+      "thumbnail": "screenshots/accent-headline-outline-free.webp"
+    },
+    {
+      "id": "accent-headline-spotlight-free",
+      "title": "Accent Headline — Spotlight",
+      "type": "widgets",
+      "categories": [
+        "Accent Headline",
+        "Business"
+      ],
+      "file": "widgets/accent-headline-spotlight-free.json",
+      "thumbnail": "screenshots/accent-headline-spotlight-free.webp"
+    },
+    {
+      "id": "accent-headline-signal-free",
+      "title": "Accent Headline — Signal",
+      "type": "widgets",
+      "categories": [
+        "Accent Headline",
+        "Creative"
+      ],
+      "file": "widgets/accent-headline-signal-free.json",
+      "thumbnail": "screenshots/accent-headline-signal-free.webp"
+    },
+    {
+      "id": "accent-headline-bloom-free",
+      "title": "Accent Headline — Bloom",
+      "type": "widgets",
+      "categories": [
+        "Accent Headline",
+        "Launch"
+      ],
+      "file": "widgets/accent-headline-bloom-free.json",
+      "thumbnail": "screenshots/accent-headline-bloom-free.webp"
     }
   ]
 }

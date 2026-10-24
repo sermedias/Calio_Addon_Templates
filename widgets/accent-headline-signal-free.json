@@ -1,0 +1,336 @@
+{
+    "content": [
+        {
+            "id": "57fd0964",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "column": "0",
+                    "row": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "86d71f9",
+                    "settings": {
+                        "tag": "h2",
+                        "skin": "badge",
+                        "layout": "stacked",
+                        "align": "left",
+                        "align_mobile": "left",
+                        "headline_trail": "",
+                        "eyebrow": "LESS NOISE. MORE YOU.",
+                        "badge_text": "",
+                        "support_note": "Independent minds. Bold outcomes.",
+                        "panel_note": "",
+                        "background_word": "",
+                        "rotating_words": "",
+                        "panel_accent": "",
+                        "show_divider": "",
+                        "primary_cta_text": "Let’s make something",
+                        "primary_cta_url": {
+                            "url": "mailto:hello@example.com"
+                        },
+                        "secondary_cta_text": "",
+                        "secondary_cta_url": {
+                            "url": "mailto:hello@example.com"
+                        },
+                        "accent_mode": "fill",
+                        "accent_headline_padding": {
+                            "top": "6",
+                            "right": "6",
+                            "bottom": "6",
+                            "left": "6",
+                            "unit": "%",
+                            "isLinked": false
+                        },
+                        "accent_headline_radius": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_surface_border_group_border": "none",
+                        "accent_headline_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_content_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_title_margin": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_typography_letter_spacing": {
+                            "size": -2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_typography_letter_spacing_mobile": {
+                            "size": -1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_primary_padding": {
+                            "top": "14",
+                            "right": "24",
+                            "bottom": "14",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_secondary_padding": {
+                            "top": "14",
+                            "right": "24",
+                            "bottom": "14",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_primary_radius": {
+                            "top": "4",
+                            "right": "4",
+                            "bottom": "4",
+                            "left": "4",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_secondary_radius": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_secondary_border_border": "solid",
+                        "accent_headline_cta_secondary_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_cta_secondary_border_color": "#B5BBAA",
+                        "accent_headline_lead_normal_paint_mode": "classic",
+                        "accent_headline_lead_normal_color": "#F2F3EB",
+                        "accent_headline_trail_normal_paint_mode": "classic",
+                        "accent_headline_trail_normal_color": "#F2F3EB",
+                        "accent_headline_accent_normal_paint_mode": "classic",
+                        "accent_headline_accent_normal_color": "#17200C",
+                        "accent_headline_eyebrow_text_paint_mode": "classic",
+                        "accent_headline_eyebrow_text_color": "#DAF975",
+                        "accent_headline_desc_text_paint_mode": "classic",
+                        "accent_headline_desc_text_color": "#B5BBAA",
+                        "accent_headline_support_text_paint_mode": "classic",
+                        "accent_headline_support_text_color": "#B5BBAA",
+                        "accent_headline_badge_text_paint_mode": "classic",
+                        "accent_headline_badge_text_color": "#F2F3EB",
+                        "accent_headline_cta_primary_text_paint_mode": "classic",
+                        "accent_headline_cta_primary_text_color": "#17200C",
+                        "accent_headline_cta_secondary_text_paint_mode": "classic",
+                        "accent_headline_cta_secondary_text_color": "#F2F3EB",
+                        "accent_headline_surface_bg_normal_background": "gradient",
+                        "accent_headline_surface_bg_normal_color": "#20231D",
+                        "accent_headline_surface_bg_normal_color_b": "#20231D",
+                        "accent_headline_cta_primary_bg_background": "classic",
+                        "accent_headline_cta_primary_bg_color": "#DAF975",
+                        "accent_headline_cta_secondary_bg_background": "classic",
+                        "accent_headline_cta_secondary_bg_color": "#FFFFFF00",
+                        "accent_headline_badge_bg_background": "classic",
+                        "accent_headline_badge_bg_color": "#FFFFFF00",
+                        "accent_headline_typography_typography": "custom",
+                        "accent_headline_typography_font_family": "Arial",
+                        "accent_headline_typography_font_size": {
+                            "size": 70,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_typography_font_size_mobile": {
+                            "size": 38,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_typography_font_weight": "700",
+                        "accent_headline_typography_line_height": {
+                            "size": 1.08,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_desc_typography_typography": "custom",
+                        "accent_headline_desc_typography_font_family": "Arial",
+                        "accent_headline_desc_typography_font_size": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_desc_typography_font_size_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_desc_typography_font_weight": "400",
+                        "accent_headline_desc_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_eyebrow_typography_typography": "custom",
+                        "accent_headline_eyebrow_typography_font_family": "Arial",
+                        "accent_headline_eyebrow_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_eyebrow_typography_font_size_mobile": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_eyebrow_typography_font_weight": "700",
+                        "accent_headline_eyebrow_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_eyebrow_typography_letter_spacing": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_support_typography_typography": "custom",
+                        "accent_headline_support_typography_font_family": "Arial",
+                        "accent_headline_support_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_support_typography_font_size_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_support_typography_font_weight": "400",
+                        "accent_headline_support_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_badge_typography_typography": "custom",
+                        "accent_headline_badge_typography_font_family": "Arial",
+                        "accent_headline_badge_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_badge_typography_font_size_mobile": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_badge_typography_font_weight": "600",
+                        "accent_headline_badge_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_typography_typography": "custom",
+                        "accent_headline_cta_typography_font_family": "Arial",
+                        "accent_headline_cta_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "accent_headline_cta_typography_font_weight": "700",
+                        "accent_headline_cta_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "headline_lead": "Built to",
+                        "headline_accent": "stand out.",
+                        "description": "An unmistakable identity for your next big thing. Clear ideas, confident design and a voice that carries.",
+                        "accent_headline_skin_badge_background_background": "classic",
+                        "accent_headline_skin_badge_background_color": "#DAF975",
+                        "accent_headline_skin_badge_radius": {
+                            "top": "4",
+                            "right": "4",
+                            "bottom": "4",
+                            "left": "4",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_skin_badge_padding": {
+                            "top": "8",
+                            "right": "14",
+                            "bottom": "8",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "accent_headline_skin_badge_padding_mobile": {
+                            "top": "6",
+                            "right": "10",
+                            "bottom": "6",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-accent-headline",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Accent Headline — Signal",
+    "type": "section"
+}

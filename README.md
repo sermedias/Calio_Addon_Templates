@@ -9,10 +9,11 @@ manifest.json
 templates/<slug>.json
 pages/<slug>.json
 sections/<slug>.json
+widgets/<slug>.json
 screenshots/<slug>.webp
 ```
 
-Add original, tested Elementor exports and actual screenshots before adding their entries to the manifest. ElementsKit is a UI reference; its templates and artwork are not included.
+Add original, tested Elementor exports and actual screenshots before adding their entries to the manifest.
 
 ## Included templates
 
@@ -37,6 +38,19 @@ The six complete Calio Free templates also provide 43 standalone Elementor secti
 
 Navigation headers and footers remain part of the complete templates and are intentionally not duplicated as standalone sections. Every section uses only Elementor and widgets shipped in Calio Free; preview images are captured from the actual standalone frontend render.
 
+## Ready Widgets
+
+The **Ready Widgets** tab (Calio Free 1.15+) contains six original Accent Headline designs. Choose **Free → Accent Headline** to find them. Each export is a native Elementor `section` containing one container and one editable Calio Free Accent Headline widget.
+
+- **Aurora:** dark navy, violet/cyan gradient text, rotating words and two buttons.
+- **Editorial:** warm ivory, Georgia serif typography and a coral underline.
+- **Outline:** cobalt outline lettering, a fine border and a rounded button.
+- **Spotlight:** a mint/lime highlight, centered composition and soft corners.
+- **Signal:** charcoal, a lime badge accent and bold left-aligned typography.
+- **Bloom:** blush/lilac gradients, asymmetric corners and a centered launch headline.
+
+All six use native Content/Style controls, system fonts and responsive typography/spacing. They require no images, external fonts, custom CSS, other saved templates or Pro widgets. Their WebP previews are captured from actual Elementor renders. Replace the demo copy and `hello@example.com` button links before using a design on a real site. Existing Templates, Pages and Sections remain available.
+
 ## Automatic Free / Pro classification
 
 Calio reads each export's actual nested element tree when refreshing the catalog. Templates containing only Free widgets appear under **Free**. A single Calio Pro widget anywhere in that tree moves the entire template to **Pro**. You do not set a `tier` manually in this manifest; widget ownership comes from the widget catalog shipped with Calio Free, even when Pro is not installed.
@@ -46,7 +60,7 @@ Pro layouts remain previewable, but insertion requires an active, compatible and
 ## Add a template
 
 1. Build the design with Elementor and enabled Calio widgets. Use only Free widgets for a Free template; including any Calio Pro widget makes it a Pro template automatically. Classic layouts and registered Elementor Atomic elements (including e-flexbox) are supported. The destination site must have every element and widget used by the design enabled. Calio preserves and remaps Atomic local style references during import.
-2. Export the design as Elementor JSON. Place it in `templates/`, `pages/` or `sections/`.
+2. Export the design as Elementor JSON. Place it in `templates/`, `pages/`, `sections/` or `widgets/` (Ready Widgets).
 3. Capture the actual design and add a PNG, JPG or WebP preview under `screenshots/`. Use a descriptive, versioned name when replacing an image, e.g. `agency-home-v2.webp`. Prefer optimized previews under 300 KB.
 4. Add an entry to `manifest.json` and commit JSON, image and catalog together to `main`:
 
@@ -66,7 +80,7 @@ Pro layouts remain previewable, but insertion requires an active, compatible and
 }
 ```
 
-IDs must be unique lowercase slugs. Paths are repository-relative and may contain letters, numbers, hyphens, underscores and directory separators. Do not use full URLs, spaces, query strings or `..`. `type` is exactly `templates`, `pages` or `sections`.
+IDs must be unique lowercase slugs. Paths are repository-relative and may contain letters, numbers, hyphens, underscores and directory separators. Do not use full URLs, spaces, query strings or `..`. `type` is exactly `templates`, `pages`, `sections` or `widgets`. The `widgets` catalog type groups ready widget designs; its JSON remains a native Elementor `section` export.
 
 Each item inserts a single Elementor layout into the current document. `templates` represents reusable layouts, not a full website kit installer. Import preserves the current page settings and global site styles. Calio generates new element IDs, imports media through Elementor and rejects missing widget dependencies. Editors can undo the insertion before saving the document. Imported media can remain in the Media Library after undo.
 
