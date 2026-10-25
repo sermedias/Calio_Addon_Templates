@@ -466,6 +466,72 @@
       ],
       "file": "widgets/accent-headline-bloom-free.json",
       "thumbnail": "screenshots/accent-headline-bloom-free.webp"
+    },
+    {
+      "id": "advanced-heading-prism-free",
+      "title": "Advanced Heading — Prism",
+      "type": "widgets",
+      "categories": [
+        "Advanced Heading",
+        "Creative"
+      ],
+      "file": "widgets/advanced-heading-prism-free.json",
+      "thumbnail": "screenshots/advanced-heading-prism-free.webp"
+    },
+    {
+      "id": "advanced-heading-maison-free",
+      "title": "Advanced Heading — Maison",
+      "type": "widgets",
+      "categories": [
+        "Advanced Heading",
+        "Editorial"
+      ],
+      "file": "widgets/advanced-heading-maison-free.json",
+      "thumbnail": "screenshots/advanced-heading-maison-free.webp"
+    },
+    {
+      "id": "advanced-heading-gridline-free",
+      "title": "Advanced Heading — Gridline",
+      "type": "widgets",
+      "categories": [
+        "Advanced Heading",
+        "Business"
+      ],
+      "file": "widgets/advanced-heading-gridline-free.json",
+      "thumbnail": "screenshots/advanced-heading-gridline-free.webp"
+    },
+    {
+      "id": "advanced-heading-verdant-free",
+      "title": "Advanced Heading — Verdant",
+      "type": "widgets",
+      "categories": [
+        "Advanced Heading",
+        "Sustainability"
+      ],
+      "file": "widgets/advanced-heading-verdant-free.json",
+      "thumbnail": "screenshots/advanced-heading-verdant-free.webp"
+    },
+    {
+      "id": "advanced-heading-contour-free",
+      "title": "Advanced Heading — Contour",
+      "type": "widgets",
+      "categories": [
+        "Advanced Heading",
+        "Portfolio"
+      ],
+      "file": "widgets/advanced-heading-contour-free.json",
+      "thumbnail": "screenshots/advanced-heading-contour-free.webp"
+    },
+    {
+      "id": "advanced-heading-solstice-free",
+      "title": "Advanced Heading — Solstice",
+      "type": "widgets",
+      "categories": [
+        "Advanced Heading",
+        "Lifestyle"
+      ],
+      "file": "widgets/advanced-heading-solstice-free.json",
+      "thumbnail": "screenshots/advanced-heading-solstice-free.webp"
     }
   ]
 }

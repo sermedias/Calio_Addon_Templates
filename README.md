@@ -40,7 +40,9 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains six original Accent Headline designs. Choose **Free → Accent Headline** to find them. Each export is a native Elementor `section` containing one container and one editable Calio Free Accent Headline widget.
+The **Ready Widgets** tab (Calio Free 1.15+) contains twelve original designs: six Accent Headline and six Advanced Heading presets. Choose **Free → Accent Headline** or **Free → Advanced Heading** to find them. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+
+### Accent Headline designs
 
 - **Aurora:** dark navy, violet/cyan gradient text, rotating words and two buttons.
 - **Editorial:** warm ivory, Georgia serif typography and a coral underline.
@@ -49,7 +51,18 @@ The **Ready Widgets** tab (Calio Free 1.15+) contains six original Accent Headli
 - **Signal:** charcoal, a lime badge accent and bold left-aligned typography.
 - **Bloom:** blush/lilac gradients, asymmetric corners and a centered launch headline.
 
-All six use native Content/Style controls, system fonts and responsive typography/spacing. They require no images, external fonts, custom CSS, other saved templates or Pro widgets. Their WebP previews are captured from actual Elementor renders. Replace the demo copy and `hello@example.com` button links before using a design on a real site. Existing Templates, Pages and Sections remain available.
+All twelve use native Content/Style controls, system fonts and responsive typography/spacing. They require no images, external fonts, custom CSS, other saved templates or Pro widgets. Their WebP previews are captured from actual Elementor renders. Replace the demo copy and `hello@example.com` button links before using a design on a real site. Existing Templates, Pages and Sections remain available.
+
+### Advanced Heading designs
+
+- **Prism:** a centered violet/navy panel with iridescent highlighted text and an eyebrow badge.
+- **Maison:** warm ivory, Georgia serif typography, a terracotta underline and an editorial split layout.
+- **Gridline:** a crisp white/cobalt split layout with an accent bar, sharp marker and support badge.
+- **Verdant:** a soft green panel with a mint marker, independent support badge and centered copy.
+- **Contour:** an outlined midnight panel, ice-blue highlight and full-width divider.
+- **Solstice:** warm blush, an underlined phrase, asymmetric corners and right-aligned desktop copy that centers on mobile.
+
+Each Advanced Heading export contains one native widget, system fonts and editable Content/Style settings. It needs no custom CSS, remote media, saved-template IDs or Pro widgets. Previews come from the actual WordPress frontend with the site's normal extensions enabled; Free-only native round-trip validation is performed separately.
 
 ## Automatic Free / Pro classification
 

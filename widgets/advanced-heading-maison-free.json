@@ -1,0 +1,299 @@
+{
+    "content": [
+        {
+            "id": "73ac23c",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "246d9e48",
+                    "settings": {
+                        "tag": "h2",
+                        "layout_mode": "split",
+                        "content_width": "wide",
+                        "panel_skin": "outline",
+                        "align": "left",
+                        "align_mobile": "left",
+                        "eyebrow_skin": "line",
+                        "title_prefix": "",
+                        "title_suffix": "",
+                        "background_title": "",
+                        "meta_note": "Independent by design",
+                        "support_badge": "",
+                        "support_link_text": "Begin a conversation",
+                        "support_link": {
+                            "url": "mailto:hello@example.com"
+                        },
+                        "support_layout": "stacked",
+                        "show_accent_bar": "",
+                        "show_divider": "",
+                        "heading_highlight_skin": "underline",
+                        "heading_panel_normal_group_background": "gradient",
+                        "heading_panel_normal_group_color": "#F8F3E9",
+                        "heading_panel_normal_group_color_b": "#F8F3E9",
+                        "heading_panel_border_group_border": "solid",
+                        "panel_padding": {
+                            "top": "6",
+                            "right": "6",
+                            "bottom": "6",
+                            "left": "6",
+                            "unit": "%",
+                            "isLinked": false
+                        },
+                        "panel_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "heading_main_gap": {
+                            "size": 28,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "heading_main_gap_mobile": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "heading_support_gap": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_letter_spacing": {
+                            "size": -2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_letter_spacing_mobile": {
+                            "size": -1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_margin": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "heading_support_badge_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "heading_support_badge_padding": {
+                            "top": "7",
+                            "right": "12",
+                            "bottom": "7",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "heading_max_width": {
+                            "size": 1040,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "heading_max_width_mobile": {
+                            "size": 100,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "heading_title_normal_paint_mode": "classic",
+                        "heading_title_normal_color": "#302B25",
+                        "heading_highlight_normal_paint_mode": "classic",
+                        "heading_highlight_normal_color": "#A64A36",
+                        "heading_subtitle_paint_mode": "classic",
+                        "heading_subtitle_color": "#A64A36",
+                        "heading_desc_paint_mode": "classic",
+                        "heading_desc_color": "#756C61",
+                        "heading_meta_note_normal_paint_mode": "classic",
+                        "heading_meta_note_normal_color": "#756C61",
+                        "heading_support_link_normal_paint_mode": "classic",
+                        "heading_support_link_normal_color": "#A64A36",
+                        "heading_support_badge_text_normal_paint_mode": "classic",
+                        "heading_support_badge_text_normal_color": "#302B25",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Georgia",
+                        "title_typography_font_size": {
+                            "size": 64,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 40,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "400",
+                        "title_typography_line_height": {
+                            "size": 1.1,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "subtitle_typography_typography": "custom",
+                        "subtitle_typography_font_family": "Arial",
+                        "subtitle_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "subtitle_typography_font_size_mobile": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "subtitle_typography_font_weight": "700",
+                        "subtitle_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "subtitle_typography_letter_spacing": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "desc_typography_typography": "custom",
+                        "desc_typography_font_family": "Arial",
+                        "desc_typography_font_size": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "desc_typography_font_size_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "desc_typography_font_weight": "400",
+                        "desc_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "meta_note_typography_typography": "custom",
+                        "meta_note_typography_font_family": "Arial",
+                        "meta_note_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "meta_note_typography_font_size_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "meta_note_typography_font_weight": "600",
+                        "meta_note_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "heading_support_link_typography_typography": "custom",
+                        "heading_support_link_typography_font_family": "Arial",
+                        "heading_support_link_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "heading_support_link_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "heading_support_link_typography_font_weight": "700",
+                        "heading_support_link_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "heading_support_badge_typography_typography": "custom",
+                        "heading_support_badge_typography_font_family": "Arial",
+                        "heading_support_badge_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "heading_support_badge_typography_font_size_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "heading_support_badge_typography_font_weight": "700",
+                        "heading_support_badge_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "heading_split_columns": "wide",
+                        "title": "Good design is enduring.",
+                        "highlight_text": "enduring.",
+                        "subtitle": "CRAFTED WITH INTENTION",
+                        "description": "Considered details. Honest materials. A thoughtful approach to brands and spaces built to last.",
+                        "heading_highlight_decoration_bg_background": "classic",
+                        "heading_highlight_decoration_bg_color": "#DFBA9F",
+                        "heading_highlight_line_height": {
+                            "size": 0.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "heading_panel_border_group_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "heading_panel_border_group_color": "#CFC4B3"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-heading",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Heading — Maison",
+    "type": "section"
+}
