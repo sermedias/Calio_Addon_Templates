@@ -730,6 +730,54 @@
       ],
       "file": "widgets/call-out-ribbon-free.json",
       "thumbnail": "screenshots/call-out-ribbon-free.webp"
+    },
+    {
+      "id": "fancy-tabs-prism-free",
+      "title": "Fancy Tabs — Prism",
+      "type": "widgets",
+      "categories": ["Fancy Tabs", "Creative"],
+      "file": "widgets/fancy-tabs-prism-free.json",
+      "thumbnail": "screenshots/fancy-tabs-prism-free.webp"
+    },
+    {
+      "id": "fancy-tabs-atelier-free",
+      "title": "Fancy Tabs — Atelier",
+      "type": "widgets",
+      "categories": ["Fancy Tabs", "Editorial"],
+      "file": "widgets/fancy-tabs-atelier-free.json",
+      "thumbnail": "screenshots/fancy-tabs-atelier-free.webp"
+    },
+    {
+      "id": "fancy-tabs-blueprint-free",
+      "title": "Fancy Tabs — Blueprint",
+      "type": "widgets",
+      "categories": ["Fancy Tabs", "Business"],
+      "file": "widgets/fancy-tabs-blueprint-free.json",
+      "thumbnail": "screenshots/fancy-tabs-blueprint-free.webp"
+    },
+    {
+      "id": "fancy-tabs-midnight-free",
+      "title": "Fancy Tabs — Midnight",
+      "type": "widgets",
+      "categories": ["Fancy Tabs", "Technology"],
+      "file": "widgets/fancy-tabs-midnight-free.json",
+      "thumbnail": "screenshots/fancy-tabs-midnight-free.webp"
+    },
+    {
+      "id": "fancy-tabs-frost-free",
+      "title": "Fancy Tabs — Frost",
+      "type": "widgets",
+      "categories": ["Fancy Tabs", "Technology"],
+      "file": "widgets/fancy-tabs-frost-free.json",
+      "thumbnail": "screenshots/fancy-tabs-frost-free.webp"
+    },
+    {
+      "id": "fancy-tabs-grove-free",
+      "title": "Fancy Tabs — Grove",
+      "type": "widgets",
+      "categories": ["Fancy Tabs", "Wellness"],
+      "file": "widgets/fancy-tabs-grove-free.json",
+      "thumbnail": "screenshots/fancy-tabs-grove-free.webp"
     }
   ]
 }

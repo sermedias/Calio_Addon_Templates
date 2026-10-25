@@ -1,0 +1,471 @@
+{
+    "content": [
+        {
+            "id": "1f7109c1",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5b62b281",
+                    "settings": {
+                        "tab_skin": "contrast",
+                        "panel_skin": "contrast",
+                        "show_media": "",
+                        "show_panel_accent": "",
+                        "prefer_featured": "",
+                        "mobile_mode": "tabs",
+                        "panel_padding": {
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "panel_padding_mobile": {
+                            "top": "26",
+                            "right": "22",
+                            "bottom": "26",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "panel_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "fancy_panel_bg_normal_group_background": "classic",
+                        "fancy_panel_bg_normal_group_color": "#142638",
+                        "fancy_panel_border_border": "solid",
+                        "fancy_panel_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "fancy_panel_border_color": "#2B719828",
+                        "tab_padding": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "tab_padding_mobile": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "tab_radius": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "tabs_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_layout_gap": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_layout_gap_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_tab_bg_normal_group_background": "classic",
+                        "fancy_tab_bg_normal_group_color": "#1B354B",
+                        "fancy_tab_bg_active_group_background": "classic",
+                        "fancy_tab_bg_active_group_color": "#2B7198",
+                        "fancy_tab_bg_hover_group_background": "classic",
+                        "fancy_tab_bg_hover_group_color": "#1B354B",
+                        "fancy_tab_step_bg_group_background": "classic",
+                        "fancy_tab_step_bg_group_color": "#142638",
+                        "fancy_tab_badge_bg_group_background": "classic",
+                        "fancy_tab_badge_bg_group_color": "#1B354B",
+                        "fancy_tab_support_chip_bg_group_background": "classic",
+                        "fancy_tab_support_chip_bg_group_color": "#1B354B",
+                        "show_badge": "",
+                        "show_step_numbers": "yes",
+                        "show_indicator": "",
+                        "fancy_tab_indicator_active_paint_mode": "classic",
+                        "fancy_tab_indicator_active_color": "#2B7198",
+                        "fancy_button_bg_normal_group_background": "classic",
+                        "fancy_button_bg_normal_group_color": "#2B7198",
+                        "fancy_button_bg_hover_group_background": "classic",
+                        "fancy_button_bg_hover_group_color": "#ECF7FF",
+                        "fancy_button_padding": {
+                            "top": "14",
+                            "right": "22",
+                            "bottom": "14",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "fancy_button_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "fancy_secondary_button_bg_normal_group_background": "classic",
+                        "fancy_secondary_button_bg_normal_group_color": "#FFFFFF00",
+                        "fancy_secondary_button_padding": {
+                            "top": "14",
+                            "right": "18",
+                            "bottom": "14",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "fancy_secondary_button_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "fancy_copy_gap": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_copy_gap_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_size": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_tab_text_normal_paint_mode": "classic",
+                        "fancy_tab_text_normal_color": "#ECF7FF",
+                        "fancy_tab_text_hover_paint_mode": "classic",
+                        "fancy_tab_text_hover_color": "#ECF7FF",
+                        "fancy_tab_text_active_paint_mode": "classic",
+                        "fancy_tab_text_active_color": "#FFFFFF",
+                        "fancy_tab_subtitle_active_paint_mode": "classic",
+                        "fancy_tab_subtitle_active_color": "#FFFFFF",
+                        "fancy_tab_heading_text_paint_mode": "classic",
+                        "fancy_tab_heading_text_color": "#ECF7FF",
+                        "fancy_panel_title_text_paint_mode": "classic",
+                        "fancy_panel_title_text_color": "#ECF7FF",
+                        "fancy_tab_subtitle_text_paint_mode": "classic",
+                        "fancy_tab_subtitle_text_color": "#A6BED2",
+                        "fancy_tab_body_text_paint_mode": "classic",
+                        "fancy_tab_body_text_color": "#A6BED2",
+                        "fancy_tab_meta_note_paint_mode": "classic",
+                        "fancy_tab_meta_note_color": "#A6BED2",
+                        "fancy_tab_stat_text_paint_mode": "classic",
+                        "fancy_tab_stat_text_color": "#ECF7FF",
+                        "fancy_tab_checklist_text_paint_mode": "classic",
+                        "fancy_tab_checklist_text_color": "#ECF7FF",
+                        "fancy_tab_check_icon_paint_mode": "classic",
+                        "fancy_tab_check_icon_color": "#2B7198",
+                        "fancy_tab_step_text_paint_mode": "classic",
+                        "fancy_tab_step_text_color": "#2B7198",
+                        "fancy_tab_badge_text_paint_mode": "classic",
+                        "fancy_tab_badge_text_color": "#2B7198",
+                        "fancy_tab_support_chip_text_paint_mode": "classic",
+                        "fancy_tab_support_chip_text_color": "#2B7198",
+                        "fancy_button_text_normal_paint_mode": "classic",
+                        "fancy_button_text_normal_color": "#FFFFFF",
+                        "fancy_button_text_hover_paint_mode": "classic",
+                        "fancy_button_text_hover_color": "#FFFFFF",
+                        "fancy_secondary_button_text_normal_paint_mode": "classic",
+                        "fancy_secondary_button_text_normal_color": "#ECF7FF",
+                        "fancy_tab_title_typography_typography": "custom",
+                        "fancy_tab_title_typography_font_family": "Arial",
+                        "fancy_tab_title_typography_font_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_tab_title_typography_font_size_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_tab_title_typography_font_weight": "700",
+                        "fancy_tab_title_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "fancy_panel_title_typography_typography": "custom",
+                        "fancy_panel_title_typography_font_family": "Arial",
+                        "fancy_panel_title_typography_font_size": {
+                            "size": 36,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_panel_title_typography_font_size_mobile": {
+                            "size": 28,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_panel_title_typography_font_weight": "700",
+                        "fancy_panel_title_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "fancy_tab_body_typography_typography": "custom",
+                        "fancy_tab_body_typography_font_family": "Arial",
+                        "fancy_tab_body_typography_font_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_tab_body_typography_font_size_mobile": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_tab_body_typography_font_weight": "400",
+                        "fancy_tab_body_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "fancy_tab_subtitle_typography_typography": "custom",
+                        "fancy_tab_subtitle_typography_font_family": "Arial",
+                        "fancy_tab_subtitle_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_tab_subtitle_typography_font_size_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_tab_subtitle_typography_font_weight": "400",
+                        "fancy_tab_subtitle_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "fancy_panel_button_typography_typography": "custom",
+                        "fancy_panel_button_typography_font_family": "Arial",
+                        "fancy_panel_button_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_panel_button_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_panel_button_typography_font_weight": "700",
+                        "fancy_panel_button_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "fancy_secondary_button_typography_typography": "custom",
+                        "fancy_secondary_button_typography_font_family": "Arial",
+                        "fancy_secondary_button_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_secondary_button_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_secondary_button_typography_font_weight": "700",
+                        "fancy_secondary_button_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "content_preset": "spotlight",
+                        "panel_motion": "zoom",
+                        "fancy_tab_icon_color_paint_mode": "gradient",
+                        "fancy_tab_icon_color_gradient_start": "#8DD7EE",
+                        "fancy_tab_icon_color_gradient_end": "#B8B5F9",
+                        "tabs": [
+                            {
+                                "_id": "ftrow01",
+                                "title": "Connect",
+                                "subtitle": "A thoughtful beginning",
+                                "badge": "",
+                                "featured": "",
+                                "icon": {
+                                    "value": "fas fa-lightbulb",
+                                    "library": "fa-solid"
+                                },
+                                "media": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "eyebrow": "A CONNECTED FUTURE / 01",
+                                "overlay_label": "",
+                                "support_chip": "Clarity comes first",
+                                "meta_note": "",
+                                "stat_label": "",
+                                "stat_value": "",
+                                "content_title": "Bring your next ambition into focus.",
+                                "content": "<p>One clear view of your ideas, your people and the opportunities ahead.</p>",
+                                "checklist": "Connected thinking\nA clearer perspective",
+                                "button_text": "Find your perspective",
+                                "button_url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "secondary_button_text": "Explore the approach",
+                                "secondary_button_url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "ftrow02",
+                                "title": "Create",
+                                "subtitle": "A clearer direction",
+                                "badge": "",
+                                "featured": "",
+                                "icon": {
+                                    "value": "fas fa-compass",
+                                    "library": "fa-solid"
+                                },
+                                "media": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "eyebrow": "A CONNECTED FUTURE / 02",
+                                "overlay_label": "",
+                                "support_chip": "Details make the difference",
+                                "meta_note": "",
+                                "stat_label": "",
+                                "stat_value": "",
+                                "content_title": "Create more room for possibility.",
+                                "content": "<p>Give ambitious thinking a flexible foundation, with the right tools close at hand.</p>",
+                                "checklist": "A flexible foundation\nMore meaningful work",
+                                "button_text": "Explore the possibilities",
+                                "button_url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "secondary_button_text": "Explore the approach",
+                                "secondary_button_url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "ftrow03",
+                                "title": "Scale",
+                                "subtitle": "A lasting impression",
+                                "badge": "",
+                                "featured": "",
+                                "icon": {
+                                    "value": "fas fa-rocket",
+                                    "library": "fa-solid"
+                                },
+                                "media": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "eyebrow": "A CONNECTED FUTURE / 03",
+                                "overlay_label": "",
+                                "support_chip": "Made to move you forward",
+                                "meta_note": "",
+                                "stat_label": "",
+                                "stat_value": "",
+                                "content_title": "Built for what comes next.",
+                                "content": "<p>Move forward with a connected approach that grows alongside your ambitions.</p>",
+                                "checklist": "Confident growth\nRoom to evolve",
+                                "button_text": "Build your next chapter",
+                                "button_url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "secondary_button_text": "Explore the approach",
+                                "secondary_button_url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ]
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-fancy-tabs",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Fancy Tabs — Midnight",
+    "type": "section"
+}

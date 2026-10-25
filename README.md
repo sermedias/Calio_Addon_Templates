@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains thirty original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours and Call Out. Choose **Free → Call Out** to find the new CTA collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+The **Ready Widgets** tab (Calio Free 1.15+) contains thirty-six original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out and Fancy Tabs. Choose **Free → Fancy Tabs** to find the new tab collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
 
 ### Accent Headline designs
 
@@ -96,6 +96,17 @@ Each design is one editable Calio Free Business Hours widget in a native Element
 - **Ribbon:** Ribbon skin with a warm accent stripe, centered copy and a matching CTA.
 
 Each native section contains one editable Calio Free Call Out. All six skins are opt-in; existing widgets retain Original. Text, badge, note, surfaces, decorations, typography, button/icon states and supported responsive layout settings use native controls. Replace the demo # links and copy before use. These designs use system fonts and native icons, without custom CSS, Pro widgets or remote media. Preview canvas colors are presentation context outside the transparent reusable section. The prepared Free 1.15 Call Out update is required; catalog publication does not publish that plugin release to WordPress.org.
+
+### Fancy Tabs designs
+
+- **Prism:** soft violet navigation and a light panel with gradient headline paint.
+- **Atelier:** warm editorial panel, serif headline and vertical outline navigation.
+- **Blueprint:** blue underline navigation and a split content layout.
+- **Midnight:** contrast navigation and panel with cool SVG icon gradients.
+- **Frost:** pill navigation and a translucent glass panel with editable blur.
+- **Grove:** minimal navigation on the right and a quiet green serif panel.
+
+Each native section contains one editable Calio Free Fancy Tabs widget with three complete panels. Tabs, panel copy, links, icons, checklist, support chips, typography, surfaces and supported responsive settings use registered controls. Prism, Atelier and Frost switch to accordion headers on mobile; Blueprint, Midnight and Grove keep tabs. Replace the demo # links and copy before use. No custom CSS, Pro widgets, remote media or external fonts are required. Preview canvas colors provide context outside the transparent reusable section. These designs require the prepared Free 1.15 Fancy Tabs update; publishing this catalog does not distribute that plugin release to WordPress.org.
 
 ## Automatic Free / Pro classification
 
