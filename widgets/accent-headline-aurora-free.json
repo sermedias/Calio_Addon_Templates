@@ -1,7 +1,7 @@
 {
     "content": [
         {
-            "id": "385f69c7",
+            "id": "3eb6c0fd",
             "settings": {
                 "content_width": "boxed",
                 "boxed_width": {
@@ -32,7 +32,7 @@
             },
             "elements": [
                 {
-                    "id": "2c85ba3",
+                    "id": "48ec4c01",
                     "settings": {
                         "tag": "h2",
                         "skin": "split",
@@ -291,7 +291,7 @@
                         },
                         "headline_lead": "Your next",
                         "headline_accent": "big idea",
-                        "rotation_speed": 3200,
+                        "rotation_speed": 1800,
                         "rotation_motion": "lift",
                         "description": "Turn a spark of inspiration into something people love. One clear direction. Endless possibilities.",
                         "accent_headline_accent_normal_gradient_start": "#C0A1FF",
@@ -300,7 +300,8 @@
                             "size": 135,
                             "unit": "deg",
                             "sizes": []
-                        }
+                        },
+                        "rotation_duration": 280
                     },
                     "elements": [],
                     "isInner": false,
