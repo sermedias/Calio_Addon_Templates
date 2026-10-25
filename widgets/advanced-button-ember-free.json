@@ -1,0 +1,144 @@
+{
+    "content": [
+        {
+            "id": "7a42fe02",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 600,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "388ab2f",
+                    "settings": {
+                        "text": "Find your next favorite",
+                        "link": {
+                            "url": "#"
+                        },
+                        "skin": "solid",
+                        "chrome": "flat",
+                        "effect": "lift",
+                        "preset": "cta",
+                        "layout_mode": "split",
+                        "density": "hero",
+                        "button_alignment": "center",
+                        "button_alignment_mobile": "center",
+                        "content_align": "flex-start",
+                        "full_width": "yes",
+                        "icon": {
+                            "value": "",
+                            "library": ""
+                        },
+                        "icon_position": "right",
+                        "icon_animation": "slide",
+                        "btn_typography_typography": "custom",
+                        "btn_typography_font_family": "Arial",
+                        "btn_typography_font_size": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_typography_font_size_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_typography_font_weight": "700",
+                        "btn_text_normal_paint_mode": "classic",
+                        "btn_text_normal_color": "#FFF6ED",
+                        "btn_text_hover_paint_mode": "classic",
+                        "btn_text_hover_color": "#FFF6ED",
+                        "btn_bg_normal_group_background": "classic",
+                        "btn_bg_normal_group_color": "#AD472E",
+                        "btn_bg_hover_group_background": "classic",
+                        "btn_bg_hover_group_color": "#8E3521",
+                        "btn_icon_normal_paint_mode": "classic",
+                        "btn_icon_normal_color": "#FFF6ED",
+                        "btn_icon_hover_paint_mode": "classic",
+                        "btn_icon_hover_color": "#FFF6ED",
+                        "button_padding": {
+                            "top": "24",
+                            "right": "28",
+                            "bottom": "24",
+                            "left": "28",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "btn_radius": {
+                            "top": "20",
+                            "right": "4",
+                            "bottom": "20",
+                            "left": "4",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "icon_box_size": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "focus_ring_color": "#8E3521",
+                        "offer_kicker": "THOUGHTFULLY CHOSEN",
+                        "secondary_text": "A collection made for everyday living.",
+                        "side_note": "01 / 06",
+                        "show_arrow_hint": "yes",
+                        "btn_kicker_normal_paint_mode": "classic",
+                        "btn_kicker_normal_color": "#FFD6C1",
+                        "btn_subtext_normal_paint_mode": "classic",
+                        "btn_subtext_normal_color": "#FFE2D2",
+                        "btn_sub_typography_typography": "custom",
+                        "btn_sub_typography_font_family": "Arial",
+                        "btn_sub_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_gap": {
+                            "size": 9,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Button — Ember",
+    "type": "section"
+}

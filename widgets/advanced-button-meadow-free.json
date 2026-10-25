@@ -1,0 +1,146 @@
+{
+    "content": [
+        {
+            "id": "63bc73d8",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 600,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2c5c901c",
+                    "settings": {
+                        "text": "Make time for yourself",
+                        "link": {
+                            "url": "#"
+                        },
+                        "skin": "soft",
+                        "chrome": "flat",
+                        "effect": "lift",
+                        "preset": "cta",
+                        "layout_mode": "inline",
+                        "density": "comfy",
+                        "button_alignment": "center",
+                        "button_alignment_mobile": "center",
+                        "content_align": "flex-start",
+                        "full_width": "",
+                        "icon": {
+                            "value": "fas fa-leaf",
+                            "library": "fa-solid"
+                        },
+                        "icon_position": "left",
+                        "icon_animation": "rotate",
+                        "btn_typography_typography": "custom",
+                        "btn_typography_font_family": "Arial",
+                        "btn_typography_font_size": {
+                            "size": 17,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_typography_font_size_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_typography_font_weight": "700",
+                        "btn_text_normal_paint_mode": "classic",
+                        "btn_text_normal_color": "#244A31",
+                        "btn_text_hover_paint_mode": "classic",
+                        "btn_text_hover_color": "#244A31",
+                        "btn_bg_normal_group_background": "classic",
+                        "btn_bg_normal_group_color": "#DDEBD7",
+                        "btn_bg_hover_group_background": "classic",
+                        "btn_bg_hover_group_color": "#C4DDBA",
+                        "btn_icon_normal_paint_mode": "classic",
+                        "btn_icon_normal_color": "#244A31",
+                        "btn_icon_hover_paint_mode": "classic",
+                        "btn_icon_hover_color": "#244A31",
+                        "button_padding": {
+                            "top": "16",
+                            "right": "24",
+                            "bottom": "16",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "btn_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "icon_box_size": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "focus_ring_color": "#C4DDBA",
+                        "helper_text": "A LITTLE SPACE TO RESET",
+                        "helper_position": "above",
+                        "btn_helper_typography_typography": "custom",
+                        "btn_helper_typography_font_family": "Arial",
+                        "btn_helper_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_helper_typography_font_weight": "700",
+                        "btn_helper_typography_letter_spacing": {
+                            "size": 1.5,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_helper_normal_paint_mode": "classic",
+                        "btn_helper_normal_color": "#527458",
+                        "helper_spacing": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Button — Meadow",
+    "type": "section"
+}

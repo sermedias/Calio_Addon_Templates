@@ -532,6 +532,72 @@
       ],
       "file": "widgets/advanced-heading-solstice-free.json",
       "thumbnail": "screenshots/advanced-heading-solstice-free.webp"
+    },
+    {
+      "id": "advanced-button-orbit-free",
+      "title": "Advanced Button — Orbit",
+      "type": "widgets",
+      "categories": [
+        "Advanced Button",
+        "Creative"
+      ],
+      "file": "widgets/advanced-button-orbit-free.json",
+      "thumbnail": "screenshots/advanced-button-orbit-free.webp"
+    },
+    {
+      "id": "advanced-button-atelier-free",
+      "title": "Advanced Button — Atelier",
+      "type": "widgets",
+      "categories": [
+        "Advanced Button",
+        "Editorial"
+      ],
+      "file": "widgets/advanced-button-atelier-free.json",
+      "thumbnail": "screenshots/advanced-button-atelier-free.webp"
+    },
+    {
+      "id": "advanced-button-launch-free",
+      "title": "Advanced Button — Launch",
+      "type": "widgets",
+      "categories": [
+        "Advanced Button",
+        "Business"
+      ],
+      "file": "widgets/advanced-button-launch-free.json",
+      "thumbnail": "screenshots/advanced-button-launch-free.webp"
+    },
+    {
+      "id": "advanced-button-meadow-free",
+      "title": "Advanced Button — Meadow",
+      "type": "widgets",
+      "categories": [
+        "Advanced Button",
+        "Wellness"
+      ],
+      "file": "widgets/advanced-button-meadow-free.json",
+      "thumbnail": "screenshots/advanced-button-meadow-free.webp"
+    },
+    {
+      "id": "advanced-button-lumen-free",
+      "title": "Advanced Button — Lumen",
+      "type": "widgets",
+      "categories": [
+        "Advanced Button",
+        "Technology"
+      ],
+      "file": "widgets/advanced-button-lumen-free.json",
+      "thumbnail": "screenshots/advanced-button-lumen-free.webp"
+    },
+    {
+      "id": "advanced-button-ember-free",
+      "title": "Advanced Button — Ember",
+      "type": "widgets",
+      "categories": [
+        "Advanced Button",
+        "Commerce"
+      ],
+      "file": "widgets/advanced-button-ember-free.json",
+      "thumbnail": "screenshots/advanced-button-ember-free.webp"
     }
   ]
 }

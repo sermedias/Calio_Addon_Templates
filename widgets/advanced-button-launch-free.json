@@ -1,0 +1,149 @@
+{
+    "content": [
+        {
+            "id": "5f8e2010",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 600,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "1a1404e8",
+                    "settings": {
+                        "text": "Launch your workspace",
+                        "link": {
+                            "url": "#"
+                        },
+                        "skin": "solid",
+                        "chrome": "flat",
+                        "effect": "lift",
+                        "preset": "stacked",
+                        "layout_mode": "inline",
+                        "density": "hero",
+                        "button_alignment": "center",
+                        "button_alignment_mobile": "center",
+                        "content_align": "flex-start",
+                        "full_width": "",
+                        "icon": {
+                            "value": "fas fa-rocket",
+                            "library": "fa-solid"
+                        },
+                        "icon_position": "left",
+                        "icon_animation": "slide",
+                        "btn_typography_typography": "custom",
+                        "btn_typography_font_family": "Arial",
+                        "btn_typography_font_size": {
+                            "size": 17,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_typography_font_size_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_typography_font_weight": "700",
+                        "btn_text_normal_paint_mode": "classic",
+                        "btn_text_normal_color": "#FFFFFF",
+                        "btn_text_hover_paint_mode": "classic",
+                        "btn_text_hover_color": "#FFFFFF",
+                        "btn_bg_normal_group_background": "classic",
+                        "btn_bg_normal_group_color": "#1458D5",
+                        "btn_bg_hover_group_background": "classic",
+                        "btn_bg_hover_group_color": "#1045A7",
+                        "btn_icon_normal_paint_mode": "classic",
+                        "btn_icon_normal_color": "#FFFFFF",
+                        "btn_icon_hover_paint_mode": "classic",
+                        "btn_icon_hover_color": "#FFFFFF",
+                        "button_padding": {
+                            "top": "22",
+                            "right": "26",
+                            "bottom": "22",
+                            "left": "26",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "btn_radius": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "icon_box_size": {
+                            "size": 38,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "focus_ring_color": "#1045A7",
+                        "secondary_text": "One place for your next big idea.",
+                        "badge_text": "New",
+                        "btn_sub_typography_typography": "custom",
+                        "btn_sub_typography_font_family": "Arial",
+                        "btn_sub_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_subtext_normal_paint_mode": "classic",
+                        "btn_subtext_normal_color": "#E3EDFF",
+                        "content_gap": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_badge_bg_normal_group_background": "classic",
+                        "btn_badge_bg_normal_group_color": "#D7E8FF",
+                        "btn_badge_text_normal_paint_mode": "classic",
+                        "btn_badge_text_normal_color": "#144385",
+                        "icon_size": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Button — Launch",
+    "type": "section"
+}

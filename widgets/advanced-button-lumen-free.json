@@ -1,0 +1,146 @@
+{
+    "content": [
+        {
+            "id": "40d3fb62",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 600,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "186cdfe5",
+                    "settings": {
+                        "text": "Step into what is next",
+                        "link": {
+                            "url": "#"
+                        },
+                        "skin": "glass",
+                        "chrome": "glow",
+                        "effect": "lift",
+                        "preset": "cta",
+                        "layout_mode": "inline",
+                        "density": "comfy",
+                        "button_alignment": "center",
+                        "button_alignment_mobile": "center",
+                        "content_align": "flex-start",
+                        "full_width": "",
+                        "icon": {
+                            "value": "fas fa-arrow-right",
+                            "library": "fa-solid"
+                        },
+                        "icon_position": "right",
+                        "icon_animation": "slide",
+                        "btn_typography_typography": "custom",
+                        "btn_typography_font_family": "Arial",
+                        "btn_typography_font_size": {
+                            "size": 17,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_typography_font_size_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_typography_font_weight": "700",
+                        "btn_text_normal_paint_mode": "classic",
+                        "btn_text_normal_color": "#FFFFFF",
+                        "btn_text_hover_paint_mode": "classic",
+                        "btn_text_hover_color": "#FFFFFF",
+                        "btn_bg_normal_group_background": "classic",
+                        "btn_bg_normal_group_color": "#FFFFFF17",
+                        "btn_bg_hover_group_background": "classic",
+                        "btn_bg_hover_group_color": "#FFFFFF29",
+                        "btn_icon_normal_paint_mode": "classic",
+                        "btn_icon_normal_color": "#B8F5FF",
+                        "btn_icon_hover_paint_mode": "classic",
+                        "btn_icon_hover_color": "#FFFFFF",
+                        "button_padding": {
+                            "top": "14",
+                            "right": "20",
+                            "bottom": "14",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "btn_radius": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "icon_box_size": {
+                            "size": 36,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "focus_ring_color": "#FFFFFF29",
+                        "glow_color": "#46C8ED45",
+                        "glass_blur": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "btn_border_border": "solid",
+                        "btn_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "btn_border_color": "#86D7E570",
+                        "btn_icon_bg_normal_group_background": "classic",
+                        "btn_icon_bg_normal_group_color": "#C8FAFF1A",
+                        "icon_box_shape": "rounded",
+                        "micro_note": "A clearer view of tomorrow.",
+                        "btn_note_normal_paint_mode": "classic",
+                        "btn_note_normal_color": "#B8CDDF"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Button — Lumen",
+    "type": "section"
+}

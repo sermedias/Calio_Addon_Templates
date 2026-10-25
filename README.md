@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains twelve original designs: six Accent Headline and six Advanced Heading presets. Choose **Free → Accent Headline** or **Free → Advanced Heading** to find them. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+The **Ready Widgets** tab (Calio Free 1.15+) contains eighteen original designs: six each for Accent Headline, Advanced Heading and Advanced Button. Choose **Free → Advanced Button** to find the new button collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
 
 ### Accent Headline designs
 
@@ -51,7 +51,7 @@ The **Ready Widgets** tab (Calio Free 1.15+) contains twelve original designs: s
 - **Signal:** charcoal, a lime badge accent and bold left-aligned typography.
 - **Bloom:** blush/lilac gradients, asymmetric corners and a centered launch headline.
 
-All twelve use native Content/Style controls, system fonts and responsive typography/spacing. They require no images, external fonts, custom CSS, other saved templates or Pro widgets. Their WebP previews are captured from actual Elementor renders. Replace the demo copy and `hello@example.com` button links before using a design on a real site. Existing Templates, Pages and Sections remain available.
+All eighteen use native Content/Style controls, system fonts and responsive typography/spacing. They require no images, external fonts, custom CSS, other saved templates or Pro widgets. Their WebP previews are captured from actual Elementor renders. Replace the demo copy and `hello@example.com` button links before using a design on a real site. Existing Templates, Pages and Sections remain available.
 
 ### Advanced Heading designs
 
@@ -63,6 +63,17 @@ All twelve use native Content/Style controls, system fonts and responsive typogr
 - **Solstice:** warm blush, an underlined phrase, asymmetric corners and right-aligned desktop copy that centers on mobile.
 
 Each Advanced Heading export contains one native widget, system fonts and editable Content/Style settings. It needs no custom CSS, remote media, saved-template IDs or Pro widgets. Previews come from the actual WordPress frontend with the site's normal extensions enabled; Free-only native round-trip validation is performed separately.
+
+### Advanced Button designs
+
+- **Orbit:** a violet gradient pill with an arrow and a raised surface.
+- **Atelier:** warm editorial typography, a fine outline and square corners.
+- **Launch:** a cobalt stacked CTA with a rocket, secondary copy and a New badge.
+- **Meadow:** a soft green pill, leaf icon and an independent helper line.
+- **Lumen:** a translucent midnight CTA with glow, an icon box and a micro note.
+- **Ember:** a warm, full-width split CTA with a kicker, side note and arrow hint.
+
+Each design is one editable Calio Free Advanced Button in a native Elementor section. All text, links, skins, colors, states, icons, spacing and supported mobile settings use registered controls. Replace the demo `#` links before use. Preview backgrounds provide presentation context and are not added to the transparent exported section. These presets need the prepared Free 1.15 Advanced Button update; publishing the catalog does not publish that plugin release to WordPress.org.
 
 ## Automatic Free / Pro classification
 
