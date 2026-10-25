@@ -598,6 +598,72 @@
       ],
       "file": "widgets/advanced-button-ember-free.json",
       "thumbnail": "screenshots/advanced-button-ember-free.webp"
+    },
+    {
+      "id": "business-hours-bistro-free",
+      "title": "Business Hours — Bistro",
+      "type": "widgets",
+      "categories": [
+        "Business Hours",
+        "Hospitality"
+      ],
+      "file": "widgets/business-hours-bistro-free.json",
+      "thumbnail": "screenshots/business-hours-bistro-free.webp"
+    },
+    {
+      "id": "business-hours-meridian-free",
+      "title": "Business Hours — Meridian",
+      "type": "widgets",
+      "categories": [
+        "Business Hours",
+        "Services"
+      ],
+      "file": "widgets/business-hours-meridian-free.json",
+      "thumbnail": "screenshots/business-hours-meridian-free.webp"
+    },
+    {
+      "id": "business-hours-nocturne-free",
+      "title": "Business Hours — Nocturne",
+      "type": "widgets",
+      "categories": [
+        "Business Hours",
+        "Hospitality"
+      ],
+      "file": "widgets/business-hours-nocturne-free.json",
+      "thumbnail": "screenshots/business-hours-nocturne-free.webp"
+    },
+    {
+      "id": "business-hours-haven-free",
+      "title": "Business Hours — Haven",
+      "type": "widgets",
+      "categories": [
+        "Business Hours",
+        "Wellness"
+      ],
+      "file": "widgets/business-hours-haven-free.json",
+      "thumbnail": "screenshots/business-hours-haven-free.webp"
+    },
+    {
+      "id": "business-hours-counter-free",
+      "title": "Business Hours — Counter",
+      "type": "widgets",
+      "categories": [
+        "Business Hours",
+        "Retail"
+      ],
+      "file": "widgets/business-hours-counter-free.json",
+      "thumbnail": "screenshots/business-hours-counter-free.webp"
+    },
+    {
+      "id": "business-hours-studio-free",
+      "title": "Business Hours — Studio",
+      "type": "widgets",
+      "categories": [
+        "Business Hours",
+        "Creative"
+      ],
+      "file": "widgets/business-hours-studio-free.json",
+      "thumbnail": "screenshots/business-hours-studio-free.webp"
     }
   ]
 }

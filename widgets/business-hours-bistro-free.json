@@ -1,0 +1,435 @@
+{
+    "content": [
+        {
+            "id": "1c9ab9aa",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 640,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "36718fe8",
+                    "settings": {
+                        "skin": "editorial",
+                        "title": "Always a seat for you.",
+                        "subtitle": "Drop by for good food and slow conversations.",
+                        "hours_rows": [
+                            {
+                                "_id": "hhmon01",
+                                "day_key": "monday",
+                                "day_label": "Monday",
+                                "opens_at": "11:30",
+                                "closes_at": "22:00",
+                                "is_closed": "",
+                                "row_note": "",
+                                "split_shift": "",
+                                "opens_at_2": "14:00",
+                                "closes_at_2": "18:00",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "hhtue01",
+                                "day_key": "tuesday",
+                                "day_label": "Tuesday",
+                                "opens_at": "11:30",
+                                "closes_at": "22:00",
+                                "is_closed": "",
+                                "row_note": "",
+                                "split_shift": "",
+                                "opens_at_2": "14:00",
+                                "closes_at_2": "18:00",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "hhwed01",
+                                "day_key": "wednesday",
+                                "day_label": "Wednesday",
+                                "opens_at": "11:30",
+                                "closes_at": "14:30",
+                                "is_closed": "",
+                                "row_note": "An afternoon pause.",
+                                "split_shift": "yes",
+                                "opens_at_2": "18:00",
+                                "closes_at_2": "22:00",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "hhthu01",
+                                "day_key": "thursday",
+                                "day_label": "Thursday",
+                                "opens_at": "11:30",
+                                "closes_at": "22:00",
+                                "is_closed": "",
+                                "row_note": "",
+                                "split_shift": "",
+                                "opens_at_2": "14:00",
+                                "closes_at_2": "18:00",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "hhfri01",
+                                "day_key": "friday",
+                                "day_label": "Friday",
+                                "opens_at": "11:30",
+                                "closes_at": "22:00",
+                                "is_closed": "",
+                                "row_note": "",
+                                "split_shift": "",
+                                "opens_at_2": "14:00",
+                                "closes_at_2": "18:00",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "hhsat01",
+                                "day_key": "saturday",
+                                "day_label": "Saturday",
+                                "opens_at": "10:00",
+                                "closes_at": "15:00",
+                                "is_closed": "",
+                                "row_note": "",
+                                "split_shift": "",
+                                "opens_at_2": "14:00",
+                                "closes_at_2": "18:00",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "hhsun01",
+                                "day_key": "sunday",
+                                "day_label": "Sunday",
+                                "opens_at": "11:30",
+                                "closes_at": "22:00",
+                                "is_closed": "yes",
+                                "row_note": "",
+                                "split_shift": "",
+                                "opens_at_2": "14:00",
+                                "closes_at_2": "18:00",
+                                "highlight_row": ""
+                            }
+                        ],
+                        "highlight_today": "yes",
+                        "today_label": "Today",
+                        "show_timezone": "",
+                        "timezone_label": "Site local time",
+                        "show_day_icons": "yes",
+                        "show_live_status": "yes",
+                        "show_row_live_dot": "",
+                        "enable_schema_markup": "yes",
+                        "schema_name": "Bistro example restaurant",
+                        "business_hours_container_bg_background": "classic",
+                        "business_hours_container_bg_color": "#FBF6EC",
+                        "business_hours_container_border_border": "solid",
+                        "business_hours_container_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "business_hours_container_border_color": "#A25D3B32",
+                        "business_hours_container_radius": {
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "business_hours_container_padding": {
+                            "top": "34",
+                            "right": "34",
+                            "bottom": "34",
+                            "left": "34",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "business_hours_container_padding_mobile": {
+                            "top": "22",
+                            "right": "18",
+                            "bottom": "22",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "business_hours_row_bg_background": "classic",
+                        "business_hours_row_bg_color": "#FFFFFF00",
+                        "business_hours_row_bg_alt_background": "classic",
+                        "business_hours_row_bg_alt_color": "#FFFFFF00",
+                        "business_hours_row_bg_hover_background": "classic",
+                        "business_hours_row_bg_hover_color": "#A25D3B12",
+                        "business_hours_closed_row_bg_background": "classic",
+                        "business_hours_closed_row_bg_color": "#FFFFFF00",
+                        "business_hours_today_row_bg_background": "classic",
+                        "business_hours_today_row_bg_color": "#A25D3B13",
+                        "business_hours_row_border_border": "none",
+                        "business_hours_row_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "business_hours_row_padding": {
+                            "top": "11",
+                            "right": "8",
+                            "bottom": "11",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "business_hours_row_padding_mobile": {
+                            "top": "12",
+                            "right": "10",
+                            "bottom": "12",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "rows_gap": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "rows_gap_mobile": {
+                            "size": 5,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "day_column_width": {
+                            "size": 48,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "business_hours_header_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_today_pill_bg_background": "classic",
+                        "business_hours_today_pill_bg_color": "#A25D3B",
+                        "business_hours_today_pill_padding": {
+                            "top": "4",
+                            "right": "7",
+                            "bottom": "4",
+                            "left": "7",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "business_hours_live_status_open_bg_background": "classic",
+                        "business_hours_live_status_open_bg_color": "#DCF3E6",
+                        "business_hours_live_status_closed_bg_background": "classic",
+                        "business_hours_live_status_closed_bg_color": "#F5E0E2",
+                        "business_hours_live_status_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "business_hours_live_status_padding": {
+                            "top": "6",
+                            "right": "10",
+                            "bottom": "6",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "business_hours_day_icon_open_bg_background": "classic",
+                        "business_hours_day_icon_open_bg_color": "#A25D3B16",
+                        "business_hours_day_icon_closed_bg_background": "classic",
+                        "business_hours_day_icon_closed_bg_color": "#CD607516",
+                        "business_hours_day_icon_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_icon_box_size": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_divider_color": "#A25D3B22",
+                        "business_hours_divider_width": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_skin_accent": "#A25D3B",
+                        "business_hours_title_text_paint_mode": "classic",
+                        "business_hours_title_text_color": "#382B22",
+                        "business_hours_subtitle_text_paint_mode": "classic",
+                        "business_hours_subtitle_text_color": "#827363",
+                        "business_hours_day_text_paint_mode": "classic",
+                        "business_hours_day_text_color": "#382B22",
+                        "business_hours_time_text_paint_mode": "classic",
+                        "business_hours_time_text_color": "#382B22",
+                        "business_hours_note_text_paint_mode": "classic",
+                        "business_hours_note_text_color": "#827363",
+                        "business_hours_secondary_time_text_paint_mode": "classic",
+                        "business_hours_secondary_time_text_color": "#827363",
+                        "business_hours_closed_text_paint_mode": "classic",
+                        "business_hours_closed_text_color": "#AA4056",
+                        "business_hours_today_day_text_paint_mode": "classic",
+                        "business_hours_today_day_text_color": "#382B22",
+                        "business_hours_today_time_text_paint_mode": "classic",
+                        "business_hours_today_time_text_color": "#382B22",
+                        "business_hours_today_pill_text_paint_mode": "classic",
+                        "business_hours_today_pill_text_color": "#FFFFFF",
+                        "business_hours_day_icon_open_paint_mode": "classic",
+                        "business_hours_day_icon_open_color": "#A25D3B",
+                        "business_hours_day_icon_closed_paint_mode": "classic",
+                        "business_hours_day_icon_closed_color": "#AA4056",
+                        "business_hours_live_status_open_text_paint_mode": "classic",
+                        "business_hours_live_status_open_text_color": "#24653E",
+                        "business_hours_live_status_closed_text_paint_mode": "classic",
+                        "business_hours_live_status_closed_text_color": "#8B3C4A",
+                        "business_hours_title_typography_typography": "custom",
+                        "business_hours_title_typography_font_family": "Georgia",
+                        "business_hours_title_typography_font_size": {
+                            "size": 33,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_title_typography_font_size_mobile": {
+                            "size": 27,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_title_typography_font_weight": "400",
+                        "business_hours_title_typography_line_height": {
+                            "size": 1.2,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "business_hours_subtitle_typography_typography": "custom",
+                        "business_hours_subtitle_typography_font_family": "Arial",
+                        "business_hours_subtitle_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_subtitle_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_subtitle_typography_font_weight": "400",
+                        "business_hours_subtitle_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "business_hours_day_typography_typography": "custom",
+                        "business_hours_day_typography_font_family": "Arial",
+                        "business_hours_day_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_day_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_day_typography_font_weight": "600",
+                        "business_hours_day_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "business_hours_time_typography_typography": "custom",
+                        "business_hours_time_typography_font_family": "Arial",
+                        "business_hours_time_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_time_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_time_typography_font_weight": "600",
+                        "business_hours_time_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "business_hours_note_typography_typography": "custom",
+                        "business_hours_note_typography_font_family": "Arial",
+                        "business_hours_note_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_note_typography_font_size_mobile": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_note_typography_font_weight": "400",
+                        "business_hours_note_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "business_hours_live_status_typography_typography": "custom",
+                        "business_hours_live_status_typography_font_family": "Arial",
+                        "business_hours_live_status_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_live_status_typography_font_size_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "business_hours_live_status_typography_font_weight": "700",
+                        "business_hours_live_status_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-business-hours",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Business Hours — Bistro",
+    "type": "section"
+}

@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains eighteen original designs: six each for Accent Headline, Advanced Heading and Advanced Button. Choose **Free → Advanced Button** to find the new button collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+The **Ready Widgets** tab (Calio Free 1.15+) contains twenty-four original designs: six each for Accent Headline, Advanced Heading, Advanced Button and Business Hours. Choose **Free → Business Hours** to find the new schedule collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
 
 ### Accent Headline designs
 
@@ -51,7 +51,7 @@ The **Ready Widgets** tab (Calio Free 1.15+) contains eighteen original designs:
 - **Signal:** charcoal, a lime badge accent and bold left-aligned typography.
 - **Bloom:** blush/lilac gradients, asymmetric corners and a centered launch headline.
 
-All eighteen use native Content/Style controls, system fonts and responsive typography/spacing. They require no images, external fonts, custom CSS, other saved templates or Pro widgets. Their WebP previews are captured from actual Elementor renders. Replace the demo copy and `hello@example.com` button links before using a design on a real site. Existing Templates, Pages and Sections remain available.
+All twenty-four use native Content/Style controls, system fonts and responsive typography/spacing. They require no images, external fonts, custom CSS, other saved templates or Pro widgets. Their WebP previews are captured from actual Elementor renders. Replace the demo copy and `hello@example.com` button links before using a design on a real site. Existing Templates, Pages and Sections remain available.
 
 ### Advanced Heading designs
 
@@ -74,6 +74,17 @@ Each Advanced Heading export contains one native widget, system fonts and editab
 - **Ember:** a warm, full-width split CTA with a kicker, side note and arrow hint.
 
 Each design is one editable Calio Free Advanced Button in a native Elementor section. All text, links, skins, colors, states, icons, spacing and supported mobile settings use registered controls. Replace the demo `#` links before use. Preview backgrounds provide presentation context and are not added to the transparent exported section. These presets need the prepared Free 1.15 Advanced Button update; publishing the catalog does not publish that plugin release to WordPress.org.
+
+### Business Hours designs
+
+- **Bistro:** a warm editorial schedule with serif typography, dividers and a split lunch/dinner session.
+- **Meridian:** a crisp blue timetable with two desktop columns that stack on mobile.
+- **Nocturne:** a midnight lounge schedule with a cyan title gradient and editable overnight hours.
+- **Haven:** a quiet green wellness schedule with restrained lines and serif typography.
+- **Counter:** a compact retail list with warm accents, a clear header and independent status badge.
+- **Studio:** a violet card with alternating row surfaces and a highlighted current day.
+
+Each design is one editable Calio Free Business Hours widget in a native Elementor section. Replace the demo schedule, business name and labels before use. Status is calculated in the WordPress site timezone when the page renders; the timezone label is display copy. All schedule, skin, color, typography, status, icon, border/divider and supported responsive controls remain editable. Preview canvas backgrounds provide context and are excluded from the transparent exported section. These designs require the prepared Free 1.15 Business Hours update; catalog publication does not distribute that plugin release to WordPress.org.
 
 ## Automatic Free / Pro classification
 
