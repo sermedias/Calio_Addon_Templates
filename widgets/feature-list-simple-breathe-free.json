@@ -1,0 +1,389 @@
+{
+    "content": [
+        {
+            "id": "2f624f22",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4afbb523",
+                    "settings": {
+                        "panel_preset": "minimal",
+                        "panel_position": "right",
+                        "show_side_panel": "yes",
+                        "show_panel_accent": "",
+                        "show_connector": "",
+                        "media_position": "left",
+                        "icon_shape": "circle",
+                        "shape_view": "stacked",
+                        "hover_skin": "soft",
+                        "content_alignment": "start",
+                        "simple_panel_mobile_order": "list",
+                        "simple_layout_gap": {
+                            "size": 44,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "simple_layout_gap_mobile": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_gap": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_gap_mobile": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_media_width": {
+                            "size": 52,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_media_width_mobile": {
+                            "size": 46,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_icon_size": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_connector_offset": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_icon_bg_background": "classic",
+                        "feature_list_simple_icon_bg_color": "#EAF0E1",
+                        "feature_list_simple_icon_border_border": "solid",
+                        "feature_list_simple_icon_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_simple_icon_border_color": "#567E5430",
+                        "feature_list_simple_panel_bg_background": "classic",
+                        "feature_list_simple_panel_bg_color": "#FFFFFF00",
+                        "feature_list_simple_panel_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_simple_panel_padding": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_simple_panel_padding_mobile": {
+                            "top": "28",
+                            "right": "24",
+                            "bottom": "28",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "simple_panel_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_border_border": "none",
+                        "feature_list_simple_panel_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_simple_panel_border_color": "#567E5430",
+                        "panel_eyebrow": "A LITTLE SPACE FOR YOURSELF",
+                        "panel_title": "Find a rhythm that feels like you.",
+                        "panel_description": "Simple rituals and thoughtful moments for a calmer, more connected everyday.",
+                        "panel_button_text": "Begin at your own pace",
+                        "panel_button_url": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "feature_list_simple_panel_button_bg_background": "classic",
+                        "feature_list_simple_panel_button_bg_color": "#567E54",
+                        "feature_list_simple_panel_button_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_simple_panel_button_padding": {
+                            "top": "13",
+                            "right": "21",
+                            "bottom": "13",
+                            "left": "21",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "simple_button_hover_bg_background": "classic",
+                        "simple_button_hover_bg_color": "#324A34",
+                        "simple_button_hover_text_paint_mode": "classic",
+                        "simple_button_hover_text_color": "#F8FAF2",
+                        "simple_focus_color": "#567E54",
+                        "simple_glow_color": "#567E5435",
+                        "simple_glow_size": {
+                            "size": 260,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "simple_glow_opacity": {
+                            "size": 0.65,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_icon_text_paint_mode": "classic",
+                        "feature_list_simple_icon_text_color": "#567E54",
+                        "feature_list_simple_title_text_paint_mode": "classic",
+                        "feature_list_simple_title_text_color": "#324A34",
+                        "feature_list_simple_description_text_paint_mode": "classic",
+                        "feature_list_simple_description_text_color": "#75856E",
+                        "feature_list_simple_link_arrow_text_paint_mode": "classic",
+                        "feature_list_simple_link_arrow_text_color": "#567E54",
+                        "feature_list_simple_panel_eyebrow_text_paint_mode": "classic",
+                        "feature_list_simple_panel_eyebrow_text_color": "#567E54",
+                        "feature_list_simple_panel_title_text_paint_mode": "classic",
+                        "feature_list_simple_panel_title_text_color": "#324A34",
+                        "feature_list_simple_panel_description_text_paint_mode": "classic",
+                        "feature_list_simple_panel_description_text_color": "#75856E",
+                        "feature_list_simple_panel_button_text_paint_mode": "classic",
+                        "feature_list_simple_panel_button_text_color": "#FFFFFF",
+                        "feature_list_simple_title_typography_typography": "custom",
+                        "feature_list_simple_title_typography_font_family": "Georgia",
+                        "feature_list_simple_title_typography_font_size": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_title_typography_font_size_mobile": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_title_typography_font_weight": "400",
+                        "feature_list_simple_title_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "feature_list_simple_description_typography_typography": "custom",
+                        "feature_list_simple_description_typography_font_family": "Arial",
+                        "feature_list_simple_description_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_description_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_description_typography_font_weight": "400",
+                        "feature_list_simple_description_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_title_typography_typography": "custom",
+                        "feature_list_simple_panel_title_typography_font_family": "Georgia",
+                        "feature_list_simple_panel_title_typography_font_size": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_title_typography_font_size_mobile": {
+                            "size": 28,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_title_typography_font_weight": "400",
+                        "feature_list_simple_panel_title_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_description_typography_typography": "custom",
+                        "feature_list_simple_panel_description_typography_font_family": "Arial",
+                        "feature_list_simple_panel_description_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_description_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_description_typography_font_weight": "400",
+                        "feature_list_simple_panel_description_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_eyebrow_typography_typography": "custom",
+                        "feature_list_simple_panel_eyebrow_typography_font_family": "Arial",
+                        "feature_list_simple_panel_eyebrow_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_eyebrow_typography_font_size_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_eyebrow_typography_font_weight": "700",
+                        "feature_list_simple_panel_eyebrow_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_button_typography_typography": "custom",
+                        "feature_list_simple_panel_button_typography_font_family": "Arial",
+                        "feature_list_simple_panel_button_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_button_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_simple_panel_button_typography_font_weight": "700",
+                        "feature_list_simple_panel_button_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "items": [
+                            {
+                                "_id": "simplerow0",
+                                "media_type": "icon",
+                                "icon": {
+                                    "value": "fas fa-lightbulb",
+                                    "library": "fa-solid"
+                                },
+                                "image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "title": "Room to pause",
+                                "description": "Take a little time to breathe and come back to the present.",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "simplerow1",
+                                "media_type": "icon",
+                                "icon": {
+                                    "value": "fas fa-compass",
+                                    "library": "fa-solid"
+                                },
+                                "image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "title": "A moment to reconnect",
+                                "description": "Notice the small things that help you feel more grounded.",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "simplerow2",
+                                "media_type": "icon",
+                                "icon": {
+                                    "value": "fas fa-leaf",
+                                    "library": "fa-solid"
+                                },
+                                "image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "title": "Space to grow",
+                                "description": "Make room for gentle progress and new possibilities.",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ]
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-feature-list-simple",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Feature List Simple — Breathe",
+    "type": "section"
+}

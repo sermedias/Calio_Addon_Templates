@@ -778,6 +778,102 @@
       "categories": ["Fancy Tabs", "Wellness"],
       "file": "widgets/fancy-tabs-grove-free.json",
       "thumbnail": "screenshots/fancy-tabs-grove-free.webp"
+    },
+    {
+      "id": "feature-list-clarity-free",
+      "title": "Feature List — Clarity",
+      "type": "widgets",
+      "categories": ["Feature List", "Business"],
+      "file": "widgets/feature-list-clarity-free.json",
+      "thumbnail": "screenshots/feature-list-clarity-free.webp"
+    },
+    {
+      "id": "feature-list-studio-free",
+      "title": "Feature List — Studio",
+      "type": "widgets",
+      "categories": ["Feature List", "Editorial"],
+      "file": "widgets/feature-list-studio-free.json",
+      "thumbnail": "screenshots/feature-list-studio-free.webp"
+    },
+    {
+      "id": "feature-list-journey-free",
+      "title": "Feature List — Journey",
+      "type": "widgets",
+      "categories": ["Feature List", "Creative"],
+      "file": "widgets/feature-list-journey-free.json",
+      "thumbnail": "screenshots/feature-list-journey-free.webp"
+    },
+    {
+      "id": "feature-list-frostline-free",
+      "title": "Feature List — Frostline",
+      "type": "widgets",
+      "categories": ["Feature List", "Technology"],
+      "file": "widgets/feature-list-frostline-free.json",
+      "thumbnail": "screenshots/feature-list-frostline-free.webp"
+    },
+    {
+      "id": "feature-list-monograph-free",
+      "title": "Feature List — Monograph",
+      "type": "widgets",
+      "categories": ["Feature List", "Editorial"],
+      "file": "widgets/feature-list-monograph-free.json",
+      "thumbnail": "screenshots/feature-list-monograph-free.webp"
+    },
+    {
+      "id": "feature-list-grove-free",
+      "title": "Feature List — Grove",
+      "type": "widgets",
+      "categories": ["Feature List", "Wellness"],
+      "file": "widgets/feature-list-grove-free.json",
+      "thumbnail": "screenshots/feature-list-grove-free.webp"
+    },
+    {
+      "id": "feature-list-simple-harbor-free",
+      "title": "Feature List Simple — Harbor",
+      "type": "widgets",
+      "categories": ["Feature List Simple", "Business"],
+      "file": "widgets/feature-list-simple-harbor-free.json",
+      "thumbnail": "screenshots/feature-list-simple-harbor-free.webp"
+    },
+    {
+      "id": "feature-list-simple-letter-free",
+      "title": "Feature List Simple — Letter",
+      "type": "widgets",
+      "categories": ["Feature List Simple", "Editorial"],
+      "file": "widgets/feature-list-simple-letter-free.json",
+      "thumbnail": "screenshots/feature-list-simple-letter-free.webp"
+    },
+    {
+      "id": "feature-list-simple-prism-free",
+      "title": "Feature List Simple — Prism",
+      "type": "widgets",
+      "categories": ["Feature List Simple", "Creative"],
+      "file": "widgets/feature-list-simple-prism-free.json",
+      "thumbnail": "screenshots/feature-list-simple-prism-free.webp"
+    },
+    {
+      "id": "feature-list-simple-mist-free",
+      "title": "Feature List Simple — Mist",
+      "type": "widgets",
+      "categories": ["Feature List Simple", "Technology"],
+      "file": "widgets/feature-list-simple-mist-free.json",
+      "thumbnail": "screenshots/feature-list-simple-mist-free.webp"
+    },
+    {
+      "id": "feature-list-simple-focus-free",
+      "title": "Feature List Simple — Focus",
+      "type": "widgets",
+      "categories": ["Feature List Simple", "Business"],
+      "file": "widgets/feature-list-simple-focus-free.json",
+      "thumbnail": "screenshots/feature-list-simple-focus-free.webp"
+    },
+    {
+      "id": "feature-list-simple-breathe-free",
+      "title": "Feature List Simple — Breathe",
+      "type": "widgets",
+      "categories": ["Feature List Simple", "Wellness"],
+      "file": "widgets/feature-list-simple-breathe-free.json",
+      "thumbnail": "screenshots/feature-list-simple-breathe-free.webp"
     }
   ]
 }

@@ -1,0 +1,375 @@
+{
+    "content": [
+        {
+            "id": "2aaa89ec",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "3930093f",
+                    "settings": {
+                        "layout_skin": "stacked",
+                        "columns": "3",
+                        "media_position": "left",
+                        "show_connector": "yes",
+                        "show_media_ring": "",
+                        "show_numbers": "",
+                        "show_badges": "",
+                        "show_support_note": "",
+                        "show_support_chip": "",
+                        "show_checklist": "",
+                        "show_featured_marker": "",
+                        "show_link_arrow": "yes",
+                        "show_overlay_label": "",
+                        "item_motion": "soft",
+                        "feature_list_item_padding": {
+                            "top": "24",
+                            "right": "28",
+                            "bottom": "24",
+                            "left": "28",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_item_padding_mobile": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_item_radius": {
+                            "top": "22",
+                            "right": "22",
+                            "bottom": "22",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_item_gap": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_item_gap_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_content_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_content_gap_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_media_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_media_gap_mobile": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_item_bg_background": "classic",
+                        "feature_list_item_bg_color": "#FCFAFF",
+                        "feature_list_item_bg_hover_background": "classic",
+                        "feature_list_item_bg_hover_color": "#FCFAFF",
+                        "feature_list_item_border_border": "solid",
+                        "feature_list_item_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_item_border_color": "#7C6D9030",
+                        "feature_list_media_size": {
+                            "size": 56,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_icon_size": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_media_radius": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feature_list_media_bg_background": "classic",
+                        "feature_list_media_bg_color": "#F0E8FA",
+                        "feature_list_media_text_paint_mode": "classic",
+                        "feature_list_media_text_color": "#8055BA",
+                        "feature_list_focus_color": "#8055BA",
+                        "feature_list_arrow_size": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_badge_bg_background": "classic",
+                        "feature_list_badge_bg_color": "#F0E8FA",
+                        "feature_list_support_chip_bg_background": "classic",
+                        "feature_list_support_chip_bg_color": "#F0E8FA",
+                        "feature_list_title_text_paint_mode": "classic",
+                        "feature_list_title_text_color": "#3D2D55",
+                        "feature_list_desc_text_paint_mode": "classic",
+                        "feature_list_desc_text_color": "#7C6D90",
+                        "feature_list_eyebrow_text_paint_mode": "classic",
+                        "feature_list_eyebrow_text_color": "#8055BA",
+                        "feature_list_support_text_paint_mode": "classic",
+                        "feature_list_support_text_color": "#7C6D90",
+                        "feature_list_checklist_text_paint_mode": "classic",
+                        "feature_list_checklist_text_color": "#7C6D90",
+                        "feature_list_check_icon_text_paint_mode": "classic",
+                        "feature_list_check_icon_text_color": "#8055BA",
+                        "feature_list_link_arrow_text_paint_mode": "classic",
+                        "feature_list_link_arrow_text_color": "#8055BA",
+                        "feature_list_badge_text_paint_mode": "classic",
+                        "feature_list_badge_text_color": "#8055BA",
+                        "feature_list_support_chip_text_paint_mode": "classic",
+                        "feature_list_support_chip_text_color": "#8055BA",
+                        "feature_list_title_typography_typography": "custom",
+                        "feature_list_title_typography_font_family": "Arial",
+                        "feature_list_title_typography_font_size": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_title_typography_font_size_mobile": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_title_typography_font_weight": "700",
+                        "feature_list_title_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "feature_list_desc_typography_typography": "custom",
+                        "feature_list_desc_typography_font_family": "Arial",
+                        "feature_list_desc_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_desc_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_desc_typography_font_weight": "400",
+                        "feature_list_desc_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "feature_list_eyebrow_typography_typography": "custom",
+                        "feature_list_eyebrow_typography_font_family": "Arial",
+                        "feature_list_eyebrow_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_eyebrow_typography_font_size_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_eyebrow_typography_font_weight": "700",
+                        "feature_list_eyebrow_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "feature_list_support_typography_typography": "custom",
+                        "feature_list_support_typography_font_family": "Arial",
+                        "feature_list_support_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_support_typography_font_size_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_support_typography_font_weight": "400",
+                        "feature_list_support_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "feature_list_checklist_typography_typography": "custom",
+                        "feature_list_checklist_typography_font_family": "Arial",
+                        "feature_list_checklist_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_checklist_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_checklist_typography_font_weight": "400",
+                        "feature_list_checklist_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "connector_skin": "dashed",
+                        "feature_list_number_typography_typography": "custom",
+                        "feature_list_number_typography_font_family": "Arial",
+                        "feature_list_number_typography_font_size": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "feature_list_connector_color_paint_mode": "classic",
+                        "feature_list_connector_color_color": "#9877C0",
+                        "feature_list_connector_offset": {
+                            "size": 56,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "items": [
+                            {
+                                "_id": "feature00",
+                                "media_type": "number",
+                                "icon": {
+                                    "value": "fas fa-lightbulb",
+                                    "library": "fa-solid"
+                                },
+                                "image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "eyebrow": "UNDERSTAND",
+                                "title": "Begin with a good question",
+                                "description": "Take time to understand the story, the ambition and the possibilities ahead.",
+                                "badge_text": "",
+                                "overlay_label": "",
+                                "support_note": "",
+                                "support_chip": "",
+                                "checklist_items": "",
+                                "is_featured": "",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "feature01",
+                                "media_type": "number",
+                                "icon": {
+                                    "value": "fas fa-compass",
+                                    "library": "fa-solid"
+                                },
+                                "image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "eyebrow": "EXPLORE",
+                                "title": "Give your idea a direction",
+                                "description": "Focus on the essentials and build a simple plan that everyone can follow.",
+                                "badge_text": "",
+                                "overlay_label": "",
+                                "support_note": "",
+                                "support_chip": "",
+                                "checklist_items": "",
+                                "is_featured": "",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "feature02",
+                                "media_type": "number",
+                                "icon": {
+                                    "value": "fas fa-leaf",
+                                    "library": "fa-solid"
+                                },
+                                "image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "eyebrow": "CREATE",
+                                "title": "Bring the details together",
+                                "description": "Turn clear thinking into something useful, considered and ready to share.",
+                                "badge_text": "",
+                                "overlay_label": "",
+                                "support_note": "",
+                                "support_chip": "",
+                                "checklist_items": "",
+                                "is_featured": "",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ]
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-feature-list",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Feature List — Journey",
+    "type": "section"
+}

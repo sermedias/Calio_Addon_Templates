@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains thirty-six original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out and Fancy Tabs. Choose **Free → Fancy Tabs** to find the new tab collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+The **Ready Widgets** tab (Calio Free 1.15+) contains forty-eight original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out, Fancy Tabs, Feature List and Feature List Simple. Choose **Free → Feature List** or **Free → Feature List Simple** to find the new collections. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
 
 ### Accent Headline designs
 
@@ -107,6 +107,28 @@ Each native section contains one editable Calio Free Call Out. All six skins are
 - **Grove:** minimal navigation on the right and a quiet green serif panel.
 
 Each native section contains one editable Calio Free Fancy Tabs widget with three complete panels. Tabs, panel copy, links, icons, checklist, support chips, typography, surfaces and supported responsive settings use registered controls. Prism, Atelier and Frost switch to accordion headers on mobile; Blueprint, Midnight and Grove keep tabs. Replace the demo # links and copy before use. No custom CSS, Pro widgets, remote media or external fonts are required. Preview canvas colors provide context outside the transparent reusable section. These designs require the prepared Free 1.15 Fancy Tabs update; publishing this catalog does not distribute that plugin release to WordPress.org.
+
+### Feature List designs
+
+- **Clarity:** three soft blue cards with independent icons and concise benefit copy.
+- **Studio:** warm editorial cards with serif titles and considered spacing.
+- **Journey:** a numbered violet process with editable dashed connectors.
+- **Frostline:** translucent glass cards with local gradient SVG icons.
+- **Monograph:** two split feature rows with large editable numbers and serif copy.
+- **Grove:** minimal green feature cards with icon sequence badges.
+
+Each native section contains one editable Calio Free Feature List with two or three complete items. Copy, links, media, number treatment, typography, surfaces, skin, spacing and supported mobile settings use registered controls. Replace the demo # links and copy before use. No custom CSS, Pro widget, remote image, external font or new library is required. Preview canvas colors are context outside the transparent reusable section. These designs require the prepared Free 1.15 Feature List update; catalog publication does not distribute that plugin release to WordPress.org.
+
+### Feature List Simple designs
+
+- **Harbor:** calm blue icon rows with a soft supporting panel and clear action.
+- **Letter:** warm editorial panel on the left, framed square icons and serif copy.
+- **Prism:** soft feature cards, gradient diamond icons and a contrast panel with glow.
+- **Mist:** translucent glass panel and light feature copy on a deep teal preview canvas.
+- **Focus:** framed icons aligned on the right and an outlined panel.
+- **Breathe:** quiet green icons and a minimal serif panel without decoration.
+
+Each native section contains one editable Calio Free Feature List Simple, three feature rows and one supporting panel. Copy, links, icons, shape/view, row/panel skins, typography, surfaces, glow, spacing and supported responsive settings use registered controls. Replace the demo # links and copy before use. Mobile presets place feature rows before the supporting panel. No custom CSS, Pro widget, remote image, external font or new library is required. Preview canvas colors are context outside the transparent reusable section. These designs require the prepared Free 1.15 Feature List Simple update; catalog publication does not distribute that plugin release to WordPress.org.
 
 ## Automatic Free / Pro classification
 
