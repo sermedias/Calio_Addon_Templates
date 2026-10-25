@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains twenty-four original designs: six each for Accent Headline, Advanced Heading, Advanced Button and Business Hours. Choose **Free → Business Hours** to find the new schedule collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+The **Ready Widgets** tab (Calio Free 1.15+) contains thirty original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours and Call Out. Choose **Free → Call Out** to find the new CTA collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
 
 ### Accent Headline designs
 
@@ -51,7 +51,7 @@ The **Ready Widgets** tab (Calio Free 1.15+) contains twenty-four original desig
 - **Signal:** charcoal, a lime badge accent and bold left-aligned typography.
 - **Bloom:** blush/lilac gradients, asymmetric corners and a centered launch headline.
 
-All twenty-four use native Content/Style controls, system fonts and responsive typography/spacing. They require no images, external fonts, custom CSS, other saved templates or Pro widgets. Their WebP previews are captured from actual Elementor renders. Replace the demo copy and `hello@example.com` button links before using a design on a real site. Existing Templates, Pages and Sections remain available.
+All thirty use native Content/Style controls, system fonts and responsive typography/spacing. They require no images, external fonts, custom CSS, other saved templates or Pro widgets. Their WebP previews are captured from actual Elementor renders. Replace the demo copy and `hello@example.com` button links before using a design on a real site. Existing Templates, Pages and Sections remain available.
 
 ### Advanced Heading designs
 
@@ -85,6 +85,17 @@ Each design is one editable Calio Free Advanced Button in a native Elementor sec
 - **Studio:** a violet card with alternating row surfaces and a highlighted current day.
 
 Each design is one editable Calio Free Business Hours widget in a native Elementor section. Replace the demo schedule, business name and labels before use. Status is calculated in the WordPress site timezone when the page renders; the timezone label is display copy. All schedule, skin, color, typography, status, icon, border/divider and supported responsive controls remain editable. Preview canvas backgrounds provide context and are excluded from the transparent exported section. These designs require the prepared Free 1.15 Business Hours update; catalog publication does not distribute that plugin release to WordPress.org.
+
+### Call Out designs
+
+- **Horizon:** Aurora skin with a pastel gradient panel and violet/teal title paint.
+- **Letterpress:** Editorial skin with warm serif copy, a vertical accent and a square CTA.
+- **Frame:** Outline skin with a restrained border and an outlined button that fills on hover/focus.
+- **Frost:** Glass skin with a translucent surface, pale typography and a light pill button.
+- **Eclipse:** Spotlight skin with an editable cyan orb and a mint title gradient on navy.
+- **Ribbon:** Ribbon skin with a warm accent stripe, centered copy and a matching CTA.
+
+Each native section contains one editable Calio Free Call Out. All six skins are opt-in; existing widgets retain Original. Text, badge, note, surfaces, decorations, typography, button/icon states and supported responsive layout settings use native controls. Replace the demo # links and copy before use. These designs use system fonts and native icons, without custom CSS, Pro widgets or remote media. Preview canvas colors are presentation context outside the transparent reusable section. The prepared Free 1.15 Call Out update is required; catalog publication does not publish that plugin release to WordPress.org.
 
 ## Automatic Free / Pro classification
 

@@ -664,6 +664,72 @@
       ],
       "file": "widgets/business-hours-studio-free.json",
       "thumbnail": "screenshots/business-hours-studio-free.webp"
+    },
+    {
+      "id": "call-out-horizon-free",
+      "title": "Call Out — Horizon",
+      "type": "widgets",
+      "categories": [
+        "Call Out",
+        "Creative"
+      ],
+      "file": "widgets/call-out-horizon-free.json",
+      "thumbnail": "screenshots/call-out-horizon-free.webp"
+    },
+    {
+      "id": "call-out-letterpress-free",
+      "title": "Call Out — Letterpress",
+      "type": "widgets",
+      "categories": [
+        "Call Out",
+        "Editorial"
+      ],
+      "file": "widgets/call-out-letterpress-free.json",
+      "thumbnail": "screenshots/call-out-letterpress-free.webp"
+    },
+    {
+      "id": "call-out-frame-free",
+      "title": "Call Out — Frame",
+      "type": "widgets",
+      "categories": [
+        "Call Out",
+        "Business"
+      ],
+      "file": "widgets/call-out-frame-free.json",
+      "thumbnail": "screenshots/call-out-frame-free.webp"
+    },
+    {
+      "id": "call-out-frost-free",
+      "title": "Call Out — Frost",
+      "type": "widgets",
+      "categories": [
+        "Call Out",
+        "Technology"
+      ],
+      "file": "widgets/call-out-frost-free.json",
+      "thumbnail": "screenshots/call-out-frost-free.webp"
+    },
+    {
+      "id": "call-out-eclipse-free",
+      "title": "Call Out — Eclipse",
+      "type": "widgets",
+      "categories": [
+        "Call Out",
+        "Technology"
+      ],
+      "file": "widgets/call-out-eclipse-free.json",
+      "thumbnail": "screenshots/call-out-eclipse-free.webp"
+    },
+    {
+      "id": "call-out-ribbon-free",
+      "title": "Call Out — Ribbon",
+      "type": "widgets",
+      "categories": [
+        "Call Out",
+        "Commerce"
+      ],
+      "file": "widgets/call-out-ribbon-free.json",
+      "thumbnail": "screenshots/call-out-ribbon-free.webp"
     }
   ]
 }

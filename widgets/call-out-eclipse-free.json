@@ -1,0 +1,296 @@
+{
+    "content": [
+        {
+            "id": "140a3493",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "width": {
+                    "size": 100,
+                    "unit": "%",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": false
+                },
+                "flex_gap": {
+                    "row": "0",
+                    "column": "0",
+                    "unit": "px",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5ac3f77",
+                    "settings": {
+                        "callout_skin": "spotlight",
+                        "title_size": "h2",
+                        "title": "Turn a bold idea into real momentum.",
+                        "description": "Give your next ambition the space, support and perspective it deserves.",
+                        "button_text": "Build what comes next",
+                        "link": {
+                            "url": "#"
+                        },
+                        "button_align": "right",
+                        "text_alignment": "left",
+                        "text_alignment_mobile": "left",
+                        "callout_layout": "row",
+                        "callout_layout_mobile": "column",
+                        "callout_action_alignment_mobile": "flex-start",
+                        "callout_gap": {
+                            "size": 36,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_gap_mobile": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_panel_bg_background": "classic",
+                        "callout_panel_bg_color": "#142C3B",
+                        "callout_panel_padding": {
+                            "top": "48",
+                            "right": "48",
+                            "bottom": "48",
+                            "left": "48",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "callout_panel_padding_mobile": {
+                            "top": "30",
+                            "right": "24",
+                            "bottom": "30",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "callout_panel_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "callout_panel_border_border": "solid",
+                        "callout_panel_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "callout_panel_border_color": "#8ED3D020",
+                        "title_color": "#E8FAF6",
+                        "description_color": "#A5C5C9",
+                        "description_spacing": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_text_color": "#14372F",
+                        "button_background_color": "#94E0C9",
+                        "button_hover_color": "#14372F",
+                        "button_background_hover_color": "#94E0C9",
+                        "button_text_padding": {
+                            "top": "16",
+                            "right": "24",
+                            "bottom": "16",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "button_border_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "button_border_border": "none",
+                        "callout_icon": {
+                            "value": "fas fa-arrow-right",
+                            "library": "fa-solid"
+                        },
+                        "icon_align": "right",
+                        "icon_indent": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_icon_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_button_icon_color": "#14372F",
+                        "callout_button_hover_icon_color": "#14372F",
+                        "callout_focus_color": "#94E0C9",
+                        "callout_badge": "THE FUTURE IS TAKING SHAPE",
+                        "callout_badge_bg_background": "classic",
+                        "callout_badge_bg_color": "#94E0C912",
+                        "callout_badge_spacing": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_badge_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "callout_badge_padding": {
+                            "top": "6",
+                            "right": "10",
+                            "bottom": "6",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "callout_badge_text_paint_mode": "classic",
+                        "callout_badge_text_color": "#B3EAD9",
+                        "callout_note": "",
+                        "callout_note_text_paint_mode": "classic",
+                        "callout_note_text_color": "#A5C5C9",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 40,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "700",
+                        "title_typography_line_height": {
+                            "size": 1.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "title_typography_letter_spacing": {
+                            "size": -1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_typography": "custom",
+                        "description_typography_font_family": "Arial",
+                        "description_typography_font_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_font_size_mobile": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_font_weight": "400",
+                        "description_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "button_typography_typography": "custom",
+                        "button_typography_font_family": "Arial",
+                        "button_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_typography_font_weight": "700",
+                        "button_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "callout_badge_typography_typography": "custom",
+                        "callout_badge_typography_font_family": "Arial",
+                        "callout_badge_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_badge_typography_font_size_mobile": {
+                            "size": 9,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_badge_typography_font_weight": "700",
+                        "callout_badge_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "callout_note_typography_typography": "custom",
+                        "callout_note_typography_font_family": "Arial",
+                        "callout_note_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_note_typography_font_size_mobile": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_note_typography_font_weight": "400",
+                        "callout_note_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "callout_accent": "#7FD7C4",
+                        "callout_decoration_size": {
+                            "size": 420,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_decoration_opacity": {
+                            "size": 0.28,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "callout_title_paint_paint_mode": "gradient",
+                        "callout_title_paint_gradient_start": "#F6FFF9",
+                        "callout_title_paint_gradient_end": "#94E0C9"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-call-out",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Call Out — Eclipse",
+    "type": "section"
+}
