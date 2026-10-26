@@ -1,0 +1,453 @@
+{
+    "content": [
+        {
+            "id": "18cafed5",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "6d8d42c3",
+                    "settings": {
+                        "layout_skin": "framed",
+                        "columns": "3",
+                        "gallery_device_columns_mobile": "1",
+                        "image_ratio": "landscape",
+                        "grid_flow": "standard",
+                        "overlay_chrome": "soft",
+                        "filter_skin": "pill",
+                        "show_filters": "yes",
+                        "all_label": "All work",
+                        "show_search": "",
+                        "show_results_status": "",
+                        "show_counts": "yes",
+                        "show_caption": "yes",
+                        "show_meta": "yes",
+                        "show_overlay_cta": "yes",
+                        "overlay_cta_text": "View work",
+                        "featured_cta_text": "Explore project",
+                        "lightbox": "yes",
+                        "featured_first": "",
+                        "filter_motion": "shuffle",
+                        "sort_mode": "none",
+                        "enable_load_more": "",
+                        "initial_items": 3,
+                        "load_more_count": 3,
+                        "load_more_text": "Explore more work",
+                        "all_loaded_text": "All work in view",
+                        "search_placeholder": "Find a project",
+                        "empty_title": "Nothing here just yet",
+                        "empty_text": "Try a different category or a new search.",
+                        "reset_label": "See all work",
+                        "gap": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gap_mobile": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_filter_gap": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_toolbar_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_image_height": {
+                            "size": 178,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_image_height_mobile": {
+                            "size": 210,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_focus_color": "#825DAA",
+                        "gallery_card_bg_normal_group_background": "classic",
+                        "gallery_card_bg_normal_group_color": "#FFFFFF",
+                        "card_radius": {
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "gallery_card_border_border": "solid",
+                        "gallery_card_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "gallery_card_border_color": "#825DAA25",
+                        "filter_bg_normal_group_background": "classic",
+                        "filter_bg_normal_group_color": "#FFFFFF80",
+                        "filter_bg_active_group_background": "classic",
+                        "filter_bg_active_group_color": "#825DAA",
+                        "filter_bg_hover_group_background": "classic",
+                        "filter_bg_hover_group_color": "#825DAA26",
+                        "filter_padding": {
+                            "top": "9",
+                            "right": "14",
+                            "bottom": "9",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "filter_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "filter_count_bg_group_background": "classic",
+                        "filter_count_bg_group_color": "#825DAA20",
+                        "gallery_caption_padding": {
+                            "top": "17",
+                            "right": "18",
+                            "bottom": "17",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "gallery_action_normal_bg_background": "classic",
+                        "gallery_action_normal_bg_color": "#203046E6",
+                        "gallery_action_padding": {
+                            "top": "10",
+                            "right": "14",
+                            "bottom": "10",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "gallery_action_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "gallery_action_hover_bg_background": "classic",
+                        "gallery_action_hover_bg_color": "#825DAA",
+                        "gallery_featured_bg_group_background": "classic",
+                        "gallery_featured_bg_group_color": "#825DAA",
+                        "gallery_search_bg_background": "classic",
+                        "gallery_search_bg_color": "#FFFFFF90",
+                        "gallery_search_color": "#453B61",
+                        "gallery_search_placeholder_color": "#817397",
+                        "gallery_search_border_border": "solid",
+                        "gallery_search_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "gallery_search_border_color": "#825DAA40",
+                        "gallery_search_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "gallery_search_padding": {
+                            "top": "11",
+                            "right": "16",
+                            "bottom": "11",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "gallery_more_normal_bg_background": "classic",
+                        "gallery_more_normal_bg_color": "#825DAA",
+                        "gallery_more_hover_bg_background": "classic",
+                        "gallery_more_hover_bg_color": "#453B61",
+                        "gallery_more_padding": {
+                            "top": "13",
+                            "right": "22",
+                            "bottom": "13",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "gallery_more_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "gallery_title_text_paint_mode": "classic",
+                        "gallery_title_text_color": "#453B61",
+                        "gallery_meta_text_paint_mode": "classic",
+                        "gallery_meta_text_color": "#825DAA",
+                        "gallery_submeta_text_paint_mode": "classic",
+                        "gallery_submeta_text_color": "#817397",
+                        "gallery_caption_text_paint_mode": "classic",
+                        "gallery_caption_text_color": "#817397",
+                        "filter_text_normal_paint_mode": "classic",
+                        "filter_text_normal_color": "#453B61",
+                        "filter_text_active_paint_mode": "classic",
+                        "filter_text_active_color": "#FFFFFF",
+                        "filter_text_hover_paint_mode": "classic",
+                        "filter_text_hover_color": "#453B61",
+                        "filter_count_text_paint_mode": "classic",
+                        "filter_count_text_color": "#825DAA",
+                        "gallery_count_active_text_paint_mode": "classic",
+                        "gallery_count_active_text_color": "#FFFFFF",
+                        "gallery_featured_text_paint_mode": "classic",
+                        "gallery_featured_text_color": "#FFFFFF",
+                        "gallery_action_normal_text_paint_mode": "classic",
+                        "gallery_action_normal_text_color": "#FFFFFF",
+                        "gallery_action_hover_text_paint_mode": "classic",
+                        "gallery_action_hover_text_color": "#FFFFFF",
+                        "gallery_more_normal_text_paint_mode": "classic",
+                        "gallery_more_normal_text_color": "#FFFFFF",
+                        "gallery_more_hover_text_paint_mode": "classic",
+                        "gallery_more_hover_text_color": "#FFFFFF",
+                        "filter_typography_typography": "custom",
+                        "filter_typography_font_family": "Arial",
+                        "filter_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "filter_typography_font_weight": "700",
+                        "filter_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "gallery_caption_typography_typography": "custom",
+                        "gallery_caption_typography_font_family": "Arial",
+                        "gallery_caption_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_caption_typography_font_weight": "400",
+                        "gallery_caption_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "gallery_title_typography_typography": "custom",
+                        "gallery_title_typography_font_family": "Arial",
+                        "gallery_title_typography_font_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_title_typography_font_weight": "700",
+                        "gallery_title_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "gallery_search_typography_typography": "custom",
+                        "gallery_search_typography_font_family": "Arial",
+                        "gallery_search_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_search_typography_font_weight": "400",
+                        "gallery_search_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "gallery_action_typography_typography": "custom",
+                        "gallery_action_typography_font_family": "Arial",
+                        "gallery_action_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_action_typography_font_weight": "700",
+                        "gallery_action_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "items": [
+                            {
+                                "_id": "galrow0",
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/gather/poster-clearer-brand.png",
+                                    "id": 0
+                                },
+                                "title": "A clearer story",
+                                "category": "Identity",
+                                "categories": "",
+                                "featured": "",
+                                "featured_label": "Selected",
+                                "size_preset": "standard",
+                                "meta": "Study 01",
+                                "overlay_note": "",
+                                "caption": "Considered details. A fresh point of view.",
+                                "link_url": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "galrow1",
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/gather/poster-moving-story.png",
+                                    "id": 0
+                                },
+                                "title": "Ideas in motion",
+                                "category": "Editorial",
+                                "categories": "",
+                                "featured": "",
+                                "featured_label": "Selected",
+                                "size_preset": "standard",
+                                "meta": "Study 02",
+                                "overlay_note": "",
+                                "caption": "Considered details. A fresh point of view.",
+                                "link_url": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "galrow2",
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/gather/poster-working-prototype.png",
+                                    "id": 0
+                                },
+                                "title": "From thought to form",
+                                "category": "Digital",
+                                "categories": "",
+                                "featured": "",
+                                "featured_label": "Selected",
+                                "size_preset": "standard",
+                                "meta": "Study 03",
+                                "overlay_note": "",
+                                "caption": "Considered details. A fresh point of view.",
+                                "link_url": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "galrow3",
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/gather/poster-moving-story.png",
+                                    "id": 0
+                                },
+                                "title": "A new perspective",
+                                "category": "Identity",
+                                "categories": "",
+                                "featured": "",
+                                "featured_label": "Selected",
+                                "size_preset": "standard",
+                                "meta": "Study 04",
+                                "overlay_note": "",
+                                "caption": "Considered details. A fresh point of view.",
+                                "link_url": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "galrow4",
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/gather/poster-working-prototype.png",
+                                    "id": 0
+                                },
+                                "title": "Working together",
+                                "category": "Editorial",
+                                "categories": "",
+                                "featured": "",
+                                "featured_label": "Selected",
+                                "size_preset": "standard",
+                                "meta": "Study 05",
+                                "overlay_note": "",
+                                "caption": "Considered details. A fresh point of view.",
+                                "link_url": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "galrow5",
+                                "image": {
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/gather/poster-clearer-brand.png",
+                                    "id": 0
+                                },
+                                "title": "Make your mark",
+                                "category": "Digital",
+                                "categories": "",
+                                "featured": "",
+                                "featured_label": "Selected",
+                                "size_preset": "standard",
+                                "meta": "Study 06",
+                                "overlay_note": "",
+                                "caption": "Considered details. A fresh point of view.",
+                                "link_url": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ]
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-filterable-gallery",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Filterable Gallery — Proof",
+    "type": "section"
+}

@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains forty-eight original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out, Fancy Tabs, Feature List and Feature List Simple. Choose **Free → Feature List** or **Free → Feature List Simple** to find the new collections. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+The **Ready Widgets** tab (Calio Free 1.15+) contains fifty-four original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out, Fancy Tabs, Feature List, Feature List Simple and Filterable Gallery. Choose **Free → Filterable Gallery** to find the new gallery collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
 
 ### Accent Headline designs
 
@@ -129,6 +129,17 @@ Each native section contains one editable Calio Free Feature List with two or th
 - **Breathe:** quiet green icons and a minimal serif panel without decoration.
 
 Each native section contains one editable Calio Free Feature List Simple, three feature rows and one supporting panel. Copy, links, icons, shape/view, row/panel skins, typography, surfaces, glow, spacing and supported responsive settings use registered controls. Replace the demo # links and copy before use. Mobile presets place feature rows before the supporting panel. No custom CSS, Pro widget, remote image, external font or new library is required. Preview canvas colors are context outside the transparent reusable section. These designs require the prepared Free 1.15 Feature List Simple update; catalog publication does not distribute that plugin release to WordPress.org.
+
+### Filterable Gallery designs
+
+- **Canvas:** soft architectural project cards with blue filters and search.
+- **Noir:** dark image-led cards with inset captions and lightbox actions.
+- **Folio:** a warm editorial grid, serif headings and understated filters.
+- **Frost:** translucent cards and a teal palette around product interface studies.
+- **Proof:** framed, colorful poster studies with compact filters.
+- **Index:** a minimal project index with search and an editable load-more button.
+
+Each native section contains one editable Calio Free Filterable Gallery, with four or six complete items and a single-column mobile layout. Filters, search, pagination, copy, skins, media, typography and surfaces use native controls. Existing original Calio artwork is reused from this repository's media/atelier, media/northstar and media/gather directories; Elementor imports these PNGs into the destination media library. No stock assets, external fonts, Pro widget, custom CSS, new library or service is required. Replace the fictional project copy and artwork as needed. Preview canvases are presentation context outside the reusable section. These designs require the prepared Free 1.15 Gallery update; catalog publication does not distribute that plugin release to WordPress.org.
 
 ## Automatic Free / Pro classification
 

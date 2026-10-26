@@ -874,6 +874,54 @@
       "categories": ["Feature List Simple", "Wellness"],
       "file": "widgets/feature-list-simple-breathe-free.json",
       "thumbnail": "screenshots/feature-list-simple-breathe-free.webp"
+    },
+    {
+      "id": "filterable-gallery-canvas-free",
+      "title": "Filterable Gallery — Canvas / Free",
+      "type": "widgets",
+      "categories": ["Filterable Gallery", "Portfolio"],
+      "file": "widgets/filterable-gallery-canvas-free.json",
+      "thumbnail": "screenshots/filterable-gallery-canvas-free.webp"
+    },
+    {
+      "id": "filterable-gallery-noir-free",
+      "title": "Filterable Gallery — Noir / Free",
+      "type": "widgets",
+      "categories": ["Filterable Gallery", "Portfolio"],
+      "file": "widgets/filterable-gallery-noir-free.json",
+      "thumbnail": "screenshots/filterable-gallery-noir-free.webp"
+    },
+    {
+      "id": "filterable-gallery-folio-free",
+      "title": "Filterable Gallery — Folio / Free",
+      "type": "widgets",
+      "categories": ["Filterable Gallery", "Portfolio"],
+      "file": "widgets/filterable-gallery-folio-free.json",
+      "thumbnail": "screenshots/filterable-gallery-folio-free.webp"
+    },
+    {
+      "id": "filterable-gallery-frost-free",
+      "title": "Filterable Gallery — Frost / Free",
+      "type": "widgets",
+      "categories": ["Filterable Gallery", "Portfolio"],
+      "file": "widgets/filterable-gallery-frost-free.json",
+      "thumbnail": "screenshots/filterable-gallery-frost-free.webp"
+    },
+    {
+      "id": "filterable-gallery-proof-free",
+      "title": "Filterable Gallery — Proof / Free",
+      "type": "widgets",
+      "categories": ["Filterable Gallery", "Portfolio"],
+      "file": "widgets/filterable-gallery-proof-free.json",
+      "thumbnail": "screenshots/filterable-gallery-proof-free.webp"
+    },
+    {
+      "id": "filterable-gallery-index-free",
+      "title": "Filterable Gallery — Index / Free",
+      "type": "widgets",
+      "categories": ["Filterable Gallery", "Portfolio"],
+      "file": "widgets/filterable-gallery-index-free.json",
+      "thumbnail": "screenshots/filterable-gallery-index-free.webp"
     }
   ]
 }
