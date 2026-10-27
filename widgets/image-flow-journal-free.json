@@ -1,0 +1,228 @@
+{
+    "content": [
+        {
+            "id": "33499b41",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1735c3c1",
+                    "settings": {
+                        "image": {
+                            "id": 0,
+                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/urban-retreat.png"
+                        },
+                        "flow_alt_text": "Original Calio architectural illustration",
+                        "preset_pack": "custom",
+                        "flow_customize_preset": "yes",
+                        "flow_skin": "editorial",
+                        "scroll_direction": "top-bottom",
+                        "auto_scroll": "",
+                        "scroll_speed": 2200,
+                        "loop_pause": 600,
+                        "pause_on_hover": "yes",
+                        "image_transition_ease": "smooth-in-out",
+                        "use_frame": "",
+                        "frame_preset": "desktop",
+                        "show_drag_bar": "yes",
+                        "dragbar_position": "bottom",
+                        "dragbar_reverse": "",
+                        "dragbar_visibility": "always",
+                        "flow_show_motion_control": "yes",
+                        "viewport_height": {
+                            "size": 340,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "viewport_height_mobile": {
+                            "size": 150,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "flow_max_width": {
+                            "size": 900,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_fit": "cover",
+                        "show_caption": "yes",
+                        "caption": "A quieter way to see the everyday.",
+                        "link_to": "lightbox",
+                        "show_link_hint": "yes",
+                        "link_hint_text": "View image",
+                        "image_flow_wrapper_bg_background": "classic",
+                        "image_flow_wrapper_bg_color": "#F3EDE2",
+                        "image_flow_wrapper_border_border": "solid",
+                        "image_flow_wrapper_border_width": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "image_flow_wrapper_border_color": "#92734E35",
+                        "image_flow_wrapper_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "image_flow_frame_bg_background": "classic",
+                        "image_flow_frame_bg_color": "#26334B",
+                        "flow_browser_dot_one": "#C0A5A0",
+                        "flow_browser_dot_two": "#C8BD97",
+                        "flow_browser_dot_three": "#8EAE9F",
+                        "image_flow_notch_color": "#68728B",
+                        "image_flow_caption_typography_typography": "custom",
+                        "image_flow_caption_typography_font_family": "Georgia",
+                        "image_flow_caption_typography_font_size": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_flow_caption_typography_font_weight": "400",
+                        "image_flow_caption_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "image_flow_caption_padding": {
+                            "top": "18",
+                            "right": "0",
+                            "bottom": "18",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "flow_editorial_rule": "#C6B59B",
+                        "image_flow_hint_bg_background": "classic",
+                        "image_flow_hint_bg_color": "#92734E",
+                        "hint_text_color": "#FFFFFF",
+                        "flow_hint_padding": {
+                            "top": "8",
+                            "right": "12",
+                            "bottom": "8",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "flow_hint_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "flow_hint_typography_typography": "custom",
+                        "flow_hint_typography_font_family": "Arial",
+                        "flow_hint_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "flow_hint_typography_font_weight": "700",
+                        "flow_motion_bg_background": "classic",
+                        "flow_motion_bg_color": "#FFFFFFE6",
+                        "flow_motion_padding": {
+                            "top": "7",
+                            "right": "12",
+                            "bottom": "7",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "flow_motion_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "flow_focus_color": "#92734E",
+                        "flow_glass_blur": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "flow_glow_color": "#B49ADB99",
+                        "flow_glow_size": {
+                            "size": 420,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dragbar_track_color": "#92734E25",
+                        "dragbar_progress_color": "#92734E",
+                        "dragbar_thumb_color": "#92734E",
+                        "dragbar_thumb_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dragbar_height": {
+                            "size": 5,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dragbar_spacing": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dragbar_length": {
+                            "size": 180,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dragbar_length_mobile": {
+                            "size": 150,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dragbar_thumb_border_width": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dragbar_thumb_border_color": "#F3EDE2",
+                        "image_flow_caption_text_paint_mode": "classic",
+                        "image_flow_caption_text_color": "#564A3A",
+                        "flow_hint_text_paint_mode": "classic",
+                        "flow_hint_text_color": "#FFFFFF",
+                        "flow_motion_text_paint_mode": "classic",
+                        "flow_motion_text_color": "#26334B"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-image-flow",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Image Flow — Journal",
+    "type": "section"
+}

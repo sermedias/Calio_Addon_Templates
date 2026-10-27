@@ -5,7 +5,11 @@
       "id": "forma-studio-free",
       "title": "Forma Studio — Calio Free",
       "type": "templates",
-      "categories": ["Agency", "Creative", "Business"],
+      "categories": [
+        "Agency",
+        "Creative",
+        "Business"
+      ],
       "file": "templates/forma-studio-free.json",
       "thumbnail": "screenshots/forma-studio-free.webp"
     },
@@ -13,7 +17,11 @@
       "id": "northstar-digital-studio-free",
       "title": "Northstar — Digital Studio / Free",
       "type": "templates",
-      "categories": ["Agency", "Creative", "Technology"],
+      "categories": [
+        "Agency",
+        "Creative",
+        "Technology"
+      ],
       "file": "templates/northstar-digital-studio-free.json",
       "thumbnail": "screenshots/northstar-digital-studio-free.webp"
     },
@@ -21,7 +29,11 @@
       "id": "atelier-architecture-free",
       "title": "Atelier — Architecture & Interiors / Free",
       "type": "templates",
-      "categories": ["Architecture", "Interior", "Portfolio"],
+      "categories": [
+        "Architecture",
+        "Interior",
+        "Portfolio"
+      ],
       "file": "templates/atelier-architecture-free.json",
       "thumbnail": "screenshots/atelier-architecture-free.webp"
     },
@@ -29,7 +41,11 @@
       "id": "gather-creative-conference-free",
       "title": "Gather — Creative Conference / Free",
       "type": "templates",
-      "categories": ["Events", "Conference", "Creative"],
+      "categories": [
+        "Events",
+        "Conference",
+        "Creative"
+      ],
       "file": "templates/gather-creative-conference-free.json",
       "thumbnail": "screenshots/gather-creative-conference-free.webp"
     },
@@ -37,7 +53,11 @@
       "id": "relay-saas-product-free",
       "title": "Relay — SaaS Product / Free",
       "type": "templates",
-      "categories": ["SaaS", "Technology", "Business"],
+      "categories": [
+        "SaaS",
+        "Technology",
+        "Business"
+      ],
       "file": "templates/relay-saas-product-free.json",
       "thumbnail": "screenshots/relay-saas-product-free.webp"
     },
@@ -45,7 +65,11 @@
       "id": "beacon-climate-impact-free",
       "title": "Beacon — Climate Impact / Free",
       "type": "templates",
-      "categories": ["Sustainability", "Business", "Consulting"],
+      "categories": [
+        "Sustainability",
+        "Business",
+        "Consulting"
+      ],
       "file": "templates/beacon-climate-impact-free.json",
       "thumbnail": "screenshots/beacon-climate-impact-free.webp"
     },
@@ -53,7 +77,10 @@
       "id": "accordion-1",
       "title": "Accordion",
       "type": "sections",
-      "categories": ["Agency", "Business"],
+      "categories": [
+        "Agency",
+        "Business"
+      ],
       "file": "sections/accordion-1.json",
       "thumbnail": "screenshots/accordion-1.webp"
     },
@@ -61,7 +88,11 @@
       "id": "forma-hero-free",
       "title": "Forma — Creative Studio Hero / Free",
       "type": "sections",
-      "categories": ["Creative","Agency","Hero"],
+      "categories": [
+        "Creative",
+        "Agency",
+        "Hero"
+      ],
       "file": "sections/forma-hero-free.json",
       "thumbnail": "screenshots/forma-hero-free.webp"
     },
@@ -69,7 +100,11 @@
       "id": "forma-services-free",
       "title": "Forma — Creative Services / Free",
       "type": "sections",
-      "categories": ["Creative","Agency","Services"],
+      "categories": [
+        "Creative",
+        "Agency",
+        "Services"
+      ],
       "file": "sections/forma-services-free.json",
       "thumbnail": "screenshots/forma-services-free.webp"
     },
@@ -77,7 +112,11 @@
       "id": "forma-statement-free",
       "title": "Forma — Conversation Statement / Free",
       "type": "sections",
-      "categories": ["Creative","Agency","Content"],
+      "categories": [
+        "Creative",
+        "Agency",
+        "Content"
+      ],
       "file": "sections/forma-statement-free.json",
       "thumbnail": "screenshots/forma-statement-free.webp"
     },
@@ -85,7 +124,11 @@
       "id": "forma-faq-free",
       "title": "Forma — Studio FAQ / Free",
       "type": "sections",
-      "categories": ["Creative","Agency","FAQ"],
+      "categories": [
+        "Creative",
+        "Agency",
+        "FAQ"
+      ],
       "file": "sections/forma-faq-free.json",
       "thumbnail": "screenshots/forma-faq-free.webp"
     },
@@ -93,7 +136,11 @@
       "id": "forma-contact-cta-free",
       "title": "Forma — Contact CTA / Free",
       "type": "sections",
-      "categories": ["Creative","Agency","Call to Action"],
+      "categories": [
+        "Creative",
+        "Agency",
+        "Call to Action"
+      ],
       "file": "sections/forma-contact-cta-free.json",
       "thumbnail": "screenshots/forma-contact-cta-free.webp"
     },
@@ -101,7 +148,11 @@
       "id": "atelier-hero-free",
       "title": "Atelier — Architecture Hero / Free",
       "type": "sections",
-      "categories": ["Architecture","Interior","Hero"],
+      "categories": [
+        "Architecture",
+        "Interior",
+        "Hero"
+      ],
       "file": "sections/atelier-hero-free.json",
       "thumbnail": "screenshots/atelier-hero-free.webp"
     },
@@ -109,7 +160,11 @@
       "id": "atelier-approach-free",
       "title": "Atelier — Design Approach / Free",
       "type": "sections",
-      "categories": ["Architecture","Interior","Features"],
+      "categories": [
+        "Architecture",
+        "Interior",
+        "Features"
+      ],
       "file": "sections/atelier-approach-free.json",
       "thumbnail": "screenshots/atelier-approach-free.webp"
     },
@@ -117,7 +172,11 @@
       "id": "atelier-spaces-free",
       "title": "Atelier — Featured Spaces / Free",
       "type": "sections",
-      "categories": ["Architecture","Interior","Portfolio"],
+      "categories": [
+        "Architecture",
+        "Interior",
+        "Portfolio"
+      ],
       "file": "sections/atelier-spaces-free.json",
       "thumbnail": "screenshots/atelier-spaces-free.webp"
     },
@@ -125,7 +184,11 @@
       "id": "atelier-material-gallery-free",
       "title": "Atelier — Material Gallery / Free",
       "type": "sections",
-      "categories": ["Architecture","Interior","Gallery"],
+      "categories": [
+        "Architecture",
+        "Interior",
+        "Gallery"
+      ],
       "file": "sections/atelier-material-gallery-free.json",
       "thumbnail": "screenshots/atelier-material-gallery-free.webp"
     },
@@ -133,7 +196,11 @@
       "id": "atelier-image-flow-free",
       "title": "Atelier — Image Flow / Free",
       "type": "sections",
-      "categories": ["Architecture","Interior","Gallery"],
+      "categories": [
+        "Architecture",
+        "Interior",
+        "Gallery"
+      ],
       "file": "sections/atelier-image-flow-free.json",
       "thumbnail": "screenshots/atelier-image-flow-free.webp"
     },
@@ -141,7 +208,11 @@
       "id": "atelier-process-free",
       "title": "Atelier — Studio Process / Free",
       "type": "sections",
-      "categories": ["Architecture","Interior","Process"],
+      "categories": [
+        "Architecture",
+        "Interior",
+        "Process"
+      ],
       "file": "sections/atelier-process-free.json",
       "thumbnail": "screenshots/atelier-process-free.webp"
     },
@@ -149,7 +220,11 @@
       "id": "atelier-team-free",
       "title": "Atelier — Studio Team / Free",
       "type": "sections",
-      "categories": ["Architecture","Interior","Team"],
+      "categories": [
+        "Architecture",
+        "Interior",
+        "Team"
+      ],
       "file": "sections/atelier-team-free.json",
       "thumbnail": "screenshots/atelier-team-free.webp"
     },
@@ -157,7 +232,11 @@
       "id": "atelier-contact-free",
       "title": "Atelier — Studio Visit / Free",
       "type": "sections",
-      "categories": ["Architecture","Interior","Contact"],
+      "categories": [
+        "Architecture",
+        "Interior",
+        "Contact"
+      ],
       "file": "sections/atelier-contact-free.json",
       "thumbnail": "screenshots/atelier-contact-free.webp"
     },
@@ -165,7 +244,11 @@
       "id": "northstar-hero-free",
       "title": "Northstar — Digital Studio Hero / Free",
       "type": "sections",
-      "categories": ["Agency","Technology","Hero"],
+      "categories": [
+        "Agency",
+        "Technology",
+        "Hero"
+      ],
       "file": "sections/northstar-hero-free.json",
       "thumbnail": "screenshots/northstar-hero-free.webp"
     },
@@ -173,7 +256,11 @@
       "id": "northstar-services-tabs-free",
       "title": "Northstar — Services Tabs / Free",
       "type": "sections",
-      "categories": ["Agency","Technology","Services"],
+      "categories": [
+        "Agency",
+        "Technology",
+        "Services"
+      ],
       "file": "sections/northstar-services-tabs-free.json",
       "thumbnail": "screenshots/northstar-services-tabs-free.webp"
     },
@@ -181,7 +268,11 @@
       "id": "northstar-project-gallery-free",
       "title": "Northstar — Project Gallery / Free",
       "type": "sections",
-      "categories": ["Agency","Technology","Portfolio"],
+      "categories": [
+        "Agency",
+        "Technology",
+        "Portfolio"
+      ],
       "file": "sections/northstar-project-gallery-free.json",
       "thumbnail": "screenshots/northstar-project-gallery-free.webp"
     },
@@ -189,7 +280,11 @@
       "id": "northstar-process-free",
       "title": "Northstar — Delivery Process / Free",
       "type": "sections",
-      "categories": ["Agency","Technology","Process"],
+      "categories": [
+        "Agency",
+        "Technology",
+        "Process"
+      ],
       "file": "sections/northstar-process-free.json",
       "thumbnail": "screenshots/northstar-process-free.webp"
     },
@@ -197,7 +292,11 @@
       "id": "northstar-comparison-free",
       "title": "Northstar — Experience Comparison / Free",
       "type": "sections",
-      "categories": ["Agency","Technology","Comparison"],
+      "categories": [
+        "Agency",
+        "Technology",
+        "Comparison"
+      ],
       "file": "sections/northstar-comparison-free.json",
       "thumbnail": "screenshots/northstar-comparison-free.webp"
     },
@@ -205,7 +304,11 @@
       "id": "northstar-pricing-free",
       "title": "Northstar — Engagement Pricing / Free",
       "type": "sections",
-      "categories": ["Agency","Technology","Pricing"],
+      "categories": [
+        "Agency",
+        "Technology",
+        "Pricing"
+      ],
       "file": "sections/northstar-pricing-free.json",
       "thumbnail": "screenshots/northstar-pricing-free.webp"
     },
@@ -213,7 +316,11 @@
       "id": "northstar-faq-free",
       "title": "Northstar — Agency FAQ / Free",
       "type": "sections",
-      "categories": ["Agency","Technology","FAQ"],
+      "categories": [
+        "Agency",
+        "Technology",
+        "FAQ"
+      ],
       "file": "sections/northstar-faq-free.json",
       "thumbnail": "screenshots/northstar-faq-free.webp"
     },
@@ -221,7 +328,11 @@
       "id": "northstar-contact-free",
       "title": "Northstar — Contact Callout / Free",
       "type": "sections",
-      "categories": ["Agency","Technology","Call to Action"],
+      "categories": [
+        "Agency",
+        "Technology",
+        "Call to Action"
+      ],
       "file": "sections/northstar-contact-free.json",
       "thumbnail": "screenshots/northstar-contact-free.webp"
     },
@@ -229,7 +340,11 @@
       "id": "gather-event-hero-free",
       "title": "Gather — Conference Hero / Free",
       "type": "sections",
-      "categories": ["Events","Conference","Hero"],
+      "categories": [
+        "Events",
+        "Conference",
+        "Hero"
+      ],
       "file": "sections/gather-event-hero-free.json",
       "thumbnail": "screenshots/gather-event-hero-free.webp"
     },
@@ -237,7 +352,11 @@
       "id": "gather-workshops-free",
       "title": "Gather — Workshop Slider / Free",
       "type": "sections",
-      "categories": ["Events","Conference","Workshops"],
+      "categories": [
+        "Events",
+        "Conference",
+        "Workshops"
+      ],
       "file": "sections/gather-workshops-free.json",
       "thumbnail": "screenshots/gather-workshops-free.webp"
     },
@@ -245,7 +364,11 @@
       "id": "gather-speakers-free",
       "title": "Gather — Speaker Grid / Free",
       "type": "sections",
-      "categories": ["Events","Conference","Team"],
+      "categories": [
+        "Events",
+        "Conference",
+        "Team"
+      ],
       "file": "sections/gather-speakers-free.json",
       "thumbnail": "screenshots/gather-speakers-free.webp"
     },
@@ -253,7 +376,11 @@
       "id": "gather-tracks-free",
       "title": "Gather — Conference Tracks / Free",
       "type": "sections",
-      "categories": ["Events","Conference","Tabs"],
+      "categories": [
+        "Events",
+        "Conference",
+        "Tabs"
+      ],
       "file": "sections/gather-tracks-free.json",
       "thumbnail": "screenshots/gather-tracks-free.webp"
     },
@@ -261,7 +388,11 @@
       "id": "gather-program-free",
       "title": "Gather — Conference Program / Free",
       "type": "sections",
-      "categories": ["Events","Conference","Schedule"],
+      "categories": [
+        "Events",
+        "Conference",
+        "Schedule"
+      ],
       "file": "sections/gather-program-free.json",
       "thumbnail": "screenshots/gather-program-free.webp"
     },
@@ -269,7 +400,11 @@
       "id": "gather-faq-free",
       "title": "Gather — Event FAQ / Free",
       "type": "sections",
-      "categories": ["Events","Conference","FAQ"],
+      "categories": [
+        "Events",
+        "Conference",
+        "FAQ"
+      ],
       "file": "sections/gather-faq-free.json",
       "thumbnail": "screenshots/gather-faq-free.webp"
     },
@@ -277,7 +412,11 @@
       "id": "gather-registration-cta-free",
       "title": "Gather — Registration CTA / Free",
       "type": "sections",
-      "categories": ["Events","Conference","Call to Action"],
+      "categories": [
+        "Events",
+        "Conference",
+        "Call to Action"
+      ],
       "file": "sections/gather-registration-cta-free.json",
       "thumbnail": "screenshots/gather-registration-cta-free.webp"
     },
@@ -285,7 +424,11 @@
       "id": "relay-hero-free",
       "title": "Relay — SaaS Product Hero / Free",
       "type": "sections",
-      "categories": ["SaaS", "Technology", "Hero"],
+      "categories": [
+        "SaaS",
+        "Technology",
+        "Hero"
+      ],
       "file": "sections/relay-hero-free.json",
       "thumbnail": "screenshots/relay-hero-free.webp"
     },
@@ -293,7 +436,11 @@
       "id": "relay-features-free",
       "title": "Relay — Product Features / Free",
       "type": "sections",
-      "categories": ["SaaS", "Technology", "Features"],
+      "categories": [
+        "SaaS",
+        "Technology",
+        "Features"
+      ],
       "file": "sections/relay-features-free.json",
       "thumbnail": "screenshots/relay-features-free.webp"
     },
@@ -301,7 +448,11 @@
       "id": "relay-workflow-free",
       "title": "Relay — Operating Workflow / Free",
       "type": "sections",
-      "categories": ["SaaS", "Technology", "Process"],
+      "categories": [
+        "SaaS",
+        "Technology",
+        "Process"
+      ],
       "file": "sections/relay-workflow-free.json",
       "thumbnail": "screenshots/relay-workflow-free.webp"
     },
@@ -309,7 +460,11 @@
       "id": "relay-use-cases-free",
       "title": "Relay — Team Use Cases / Free",
       "type": "sections",
-      "categories": ["SaaS", "Technology", "Tabs"],
+      "categories": [
+        "SaaS",
+        "Technology",
+        "Tabs"
+      ],
       "file": "sections/relay-use-cases-free.json",
       "thumbnail": "screenshots/relay-use-cases-free.webp"
     },
@@ -317,7 +472,11 @@
       "id": "relay-comparison-free",
       "title": "Relay — Workflow Comparison / Free",
       "type": "sections",
-      "categories": ["SaaS", "Technology", "Comparison"],
+      "categories": [
+        "SaaS",
+        "Technology",
+        "Comparison"
+      ],
       "file": "sections/relay-comparison-free.json",
       "thumbnail": "screenshots/relay-comparison-free.webp"
     },
@@ -325,7 +484,11 @@
       "id": "relay-pricing-free",
       "title": "Relay — SaaS Pricing / Free",
       "type": "sections",
-      "categories": ["SaaS", "Technology", "Pricing"],
+      "categories": [
+        "SaaS",
+        "Technology",
+        "Pricing"
+      ],
       "file": "sections/relay-pricing-free.json",
       "thumbnail": "screenshots/relay-pricing-free.webp"
     },
@@ -333,7 +496,11 @@
       "id": "relay-faq-free",
       "title": "Relay — Product FAQ / Free",
       "type": "sections",
-      "categories": ["SaaS", "Technology", "FAQ"],
+      "categories": [
+        "SaaS",
+        "Technology",
+        "FAQ"
+      ],
       "file": "sections/relay-faq-free.json",
       "thumbnail": "screenshots/relay-faq-free.webp"
     },
@@ -341,7 +508,11 @@
       "id": "relay-start-cta-free",
       "title": "Relay — Start Free CTA / Free",
       "type": "sections",
-      "categories": ["SaaS", "Technology", "Call to Action"],
+      "categories": [
+        "SaaS",
+        "Technology",
+        "Call to Action"
+      ],
       "file": "sections/relay-start-cta-free.json",
       "thumbnail": "screenshots/relay-start-cta-free.webp"
     },
@@ -349,7 +520,11 @@
       "id": "beacon-hero-free",
       "title": "Beacon — Climate Impact Hero / Free",
       "type": "sections",
-      "categories": ["Sustainability", "Business", "Hero"],
+      "categories": [
+        "Sustainability",
+        "Business",
+        "Hero"
+      ],
       "file": "sections/beacon-hero-free.json",
       "thumbnail": "screenshots/beacon-hero-free.webp"
     },
@@ -357,7 +532,11 @@
       "id": "beacon-impact-metrics-free",
       "title": "Beacon — Impact Metrics / Free",
       "type": "sections",
-      "categories": ["Sustainability", "Business", "Analytics"],
+      "categories": [
+        "Sustainability",
+        "Business",
+        "Analytics"
+      ],
       "file": "sections/beacon-impact-metrics-free.json",
       "thumbnail": "screenshots/beacon-impact-metrics-free.webp"
     },
@@ -365,7 +544,11 @@
       "id": "beacon-services-free",
       "title": "Beacon — Climate Services / Free",
       "type": "sections",
-      "categories": ["Sustainability", "Business", "Services"],
+      "categories": [
+        "Sustainability",
+        "Business",
+        "Services"
+      ],
       "file": "sections/beacon-services-free.json",
       "thumbnail": "screenshots/beacon-services-free.webp"
     },
@@ -373,7 +556,11 @@
       "id": "beacon-process-free",
       "title": "Beacon — Impact Process / Free",
       "type": "sections",
-      "categories": ["Sustainability", "Business", "Process"],
+      "categories": [
+        "Sustainability",
+        "Business",
+        "Process"
+      ],
       "file": "sections/beacon-process-free.json",
       "thumbnail": "screenshots/beacon-process-free.webp"
     },
@@ -381,7 +568,11 @@
       "id": "beacon-evidence-table-free",
       "title": "Beacon — Evidence Table / Free",
       "type": "sections",
-      "categories": ["Sustainability", "Business", "Data"],
+      "categories": [
+        "Sustainability",
+        "Business",
+        "Data"
+      ],
       "file": "sections/beacon-evidence-table-free.json",
       "thumbnail": "screenshots/beacon-evidence-table-free.webp"
     },
@@ -389,7 +580,11 @@
       "id": "beacon-faq-free",
       "title": "Beacon — Sustainability FAQ / Free",
       "type": "sections",
-      "categories": ["Sustainability", "Business", "FAQ"],
+      "categories": [
+        "Sustainability",
+        "Business",
+        "FAQ"
+      ],
       "file": "sections/beacon-faq-free.json",
       "thumbnail": "screenshots/beacon-faq-free.webp"
     },
@@ -397,7 +592,11 @@
       "id": "beacon-contact-cta-free",
       "title": "Beacon — Climate Action CTA / Free",
       "type": "sections",
-      "categories": ["Sustainability", "Business", "Call to Action"],
+      "categories": [
+        "Sustainability",
+        "Business",
+        "Call to Action"
+      ],
       "file": "sections/beacon-contact-cta-free.json",
       "thumbnail": "screenshots/beacon-contact-cta-free.webp"
     },
@@ -735,7 +934,10 @@
       "id": "fancy-tabs-prism-free",
       "title": "Fancy Tabs — Prism",
       "type": "widgets",
-      "categories": ["Fancy Tabs", "Creative"],
+      "categories": [
+        "Fancy Tabs",
+        "Creative"
+      ],
       "file": "widgets/fancy-tabs-prism-free.json",
       "thumbnail": "screenshots/fancy-tabs-prism-free.webp"
     },
@@ -743,7 +945,10 @@
       "id": "fancy-tabs-atelier-free",
       "title": "Fancy Tabs — Atelier",
       "type": "widgets",
-      "categories": ["Fancy Tabs", "Editorial"],
+      "categories": [
+        "Fancy Tabs",
+        "Editorial"
+      ],
       "file": "widgets/fancy-tabs-atelier-free.json",
       "thumbnail": "screenshots/fancy-tabs-atelier-free.webp"
     },
@@ -751,7 +956,10 @@
       "id": "fancy-tabs-blueprint-free",
       "title": "Fancy Tabs — Blueprint",
       "type": "widgets",
-      "categories": ["Fancy Tabs", "Business"],
+      "categories": [
+        "Fancy Tabs",
+        "Business"
+      ],
       "file": "widgets/fancy-tabs-blueprint-free.json",
       "thumbnail": "screenshots/fancy-tabs-blueprint-free.webp"
     },
@@ -759,7 +967,10 @@
       "id": "fancy-tabs-midnight-free",
       "title": "Fancy Tabs — Midnight",
       "type": "widgets",
-      "categories": ["Fancy Tabs", "Technology"],
+      "categories": [
+        "Fancy Tabs",
+        "Technology"
+      ],
       "file": "widgets/fancy-tabs-midnight-free.json",
       "thumbnail": "screenshots/fancy-tabs-midnight-free.webp"
     },
@@ -767,7 +978,10 @@
       "id": "fancy-tabs-frost-free",
       "title": "Fancy Tabs — Frost",
       "type": "widgets",
-      "categories": ["Fancy Tabs", "Technology"],
+      "categories": [
+        "Fancy Tabs",
+        "Technology"
+      ],
       "file": "widgets/fancy-tabs-frost-free.json",
       "thumbnail": "screenshots/fancy-tabs-frost-free.webp"
     },
@@ -775,7 +989,10 @@
       "id": "fancy-tabs-grove-free",
       "title": "Fancy Tabs — Grove",
       "type": "widgets",
-      "categories": ["Fancy Tabs", "Wellness"],
+      "categories": [
+        "Fancy Tabs",
+        "Wellness"
+      ],
       "file": "widgets/fancy-tabs-grove-free.json",
       "thumbnail": "screenshots/fancy-tabs-grove-free.webp"
     },
@@ -783,7 +1000,10 @@
       "id": "feature-list-clarity-free",
       "title": "Feature List — Clarity",
       "type": "widgets",
-      "categories": ["Feature List", "Business"],
+      "categories": [
+        "Feature List",
+        "Business"
+      ],
       "file": "widgets/feature-list-clarity-free.json",
       "thumbnail": "screenshots/feature-list-clarity-free.webp"
     },
@@ -791,7 +1011,10 @@
       "id": "feature-list-studio-free",
       "title": "Feature List — Studio",
       "type": "widgets",
-      "categories": ["Feature List", "Editorial"],
+      "categories": [
+        "Feature List",
+        "Editorial"
+      ],
       "file": "widgets/feature-list-studio-free.json",
       "thumbnail": "screenshots/feature-list-studio-free.webp"
     },
@@ -799,7 +1022,10 @@
       "id": "feature-list-journey-free",
       "title": "Feature List — Journey",
       "type": "widgets",
-      "categories": ["Feature List", "Creative"],
+      "categories": [
+        "Feature List",
+        "Creative"
+      ],
       "file": "widgets/feature-list-journey-free.json",
       "thumbnail": "screenshots/feature-list-journey-free.webp"
     },
@@ -807,7 +1033,10 @@
       "id": "feature-list-frostline-free",
       "title": "Feature List — Frostline",
       "type": "widgets",
-      "categories": ["Feature List", "Technology"],
+      "categories": [
+        "Feature List",
+        "Technology"
+      ],
       "file": "widgets/feature-list-frostline-free.json",
       "thumbnail": "screenshots/feature-list-frostline-free.webp"
     },
@@ -815,7 +1044,10 @@
       "id": "feature-list-monograph-free",
       "title": "Feature List — Monograph",
       "type": "widgets",
-      "categories": ["Feature List", "Editorial"],
+      "categories": [
+        "Feature List",
+        "Editorial"
+      ],
       "file": "widgets/feature-list-monograph-free.json",
       "thumbnail": "screenshots/feature-list-monograph-free.webp"
     },
@@ -823,7 +1055,10 @@
       "id": "feature-list-grove-free",
       "title": "Feature List — Grove",
       "type": "widgets",
-      "categories": ["Feature List", "Wellness"],
+      "categories": [
+        "Feature List",
+        "Wellness"
+      ],
       "file": "widgets/feature-list-grove-free.json",
       "thumbnail": "screenshots/feature-list-grove-free.webp"
     },
@@ -831,7 +1066,10 @@
       "id": "feature-list-simple-harbor-free",
       "title": "Feature List Simple — Harbor",
       "type": "widgets",
-      "categories": ["Feature List Simple", "Business"],
+      "categories": [
+        "Feature List Simple",
+        "Business"
+      ],
       "file": "widgets/feature-list-simple-harbor-free.json",
       "thumbnail": "screenshots/feature-list-simple-harbor-free.webp"
     },
@@ -839,7 +1077,10 @@
       "id": "feature-list-simple-letter-free",
       "title": "Feature List Simple — Letter",
       "type": "widgets",
-      "categories": ["Feature List Simple", "Editorial"],
+      "categories": [
+        "Feature List Simple",
+        "Editorial"
+      ],
       "file": "widgets/feature-list-simple-letter-free.json",
       "thumbnail": "screenshots/feature-list-simple-letter-free.webp"
     },
@@ -847,7 +1088,10 @@
       "id": "feature-list-simple-prism-free",
       "title": "Feature List Simple — Prism",
       "type": "widgets",
-      "categories": ["Feature List Simple", "Creative"],
+      "categories": [
+        "Feature List Simple",
+        "Creative"
+      ],
       "file": "widgets/feature-list-simple-prism-free.json",
       "thumbnail": "screenshots/feature-list-simple-prism-free.webp"
     },
@@ -855,7 +1099,10 @@
       "id": "feature-list-simple-mist-free",
       "title": "Feature List Simple — Mist",
       "type": "widgets",
-      "categories": ["Feature List Simple", "Technology"],
+      "categories": [
+        "Feature List Simple",
+        "Technology"
+      ],
       "file": "widgets/feature-list-simple-mist-free.json",
       "thumbnail": "screenshots/feature-list-simple-mist-free.webp"
     },
@@ -863,7 +1110,10 @@
       "id": "feature-list-simple-focus-free",
       "title": "Feature List Simple — Focus",
       "type": "widgets",
-      "categories": ["Feature List Simple", "Business"],
+      "categories": [
+        "Feature List Simple",
+        "Business"
+      ],
       "file": "widgets/feature-list-simple-focus-free.json",
       "thumbnail": "screenshots/feature-list-simple-focus-free.webp"
     },
@@ -871,7 +1121,10 @@
       "id": "feature-list-simple-breathe-free",
       "title": "Feature List Simple — Breathe",
       "type": "widgets",
-      "categories": ["Feature List Simple", "Wellness"],
+      "categories": [
+        "Feature List Simple",
+        "Wellness"
+      ],
       "file": "widgets/feature-list-simple-breathe-free.json",
       "thumbnail": "screenshots/feature-list-simple-breathe-free.webp"
     },
@@ -879,7 +1132,10 @@
       "id": "filterable-gallery-canvas-free",
       "title": "Filterable Gallery — Canvas / Free",
       "type": "widgets",
-      "categories": ["Filterable Gallery", "Portfolio"],
+      "categories": [
+        "Filterable Gallery",
+        "Portfolio"
+      ],
       "file": "widgets/filterable-gallery-canvas-free.json",
       "thumbnail": "screenshots/filterable-gallery-canvas-free.webp"
     },
@@ -887,7 +1143,10 @@
       "id": "filterable-gallery-noir-free",
       "title": "Filterable Gallery — Noir / Free",
       "type": "widgets",
-      "categories": ["Filterable Gallery", "Portfolio"],
+      "categories": [
+        "Filterable Gallery",
+        "Portfolio"
+      ],
       "file": "widgets/filterable-gallery-noir-free.json",
       "thumbnail": "screenshots/filterable-gallery-noir-free.webp"
     },
@@ -895,7 +1154,10 @@
       "id": "filterable-gallery-folio-free",
       "title": "Filterable Gallery — Folio / Free",
       "type": "widgets",
-      "categories": ["Filterable Gallery", "Portfolio"],
+      "categories": [
+        "Filterable Gallery",
+        "Portfolio"
+      ],
       "file": "widgets/filterable-gallery-folio-free.json",
       "thumbnail": "screenshots/filterable-gallery-folio-free.webp"
     },
@@ -903,7 +1165,10 @@
       "id": "filterable-gallery-frost-free",
       "title": "Filterable Gallery — Frost / Free",
       "type": "widgets",
-      "categories": ["Filterable Gallery", "Portfolio"],
+      "categories": [
+        "Filterable Gallery",
+        "Portfolio"
+      ],
       "file": "widgets/filterable-gallery-frost-free.json",
       "thumbnail": "screenshots/filterable-gallery-frost-free.webp"
     },
@@ -911,7 +1176,10 @@
       "id": "filterable-gallery-proof-free",
       "title": "Filterable Gallery — Proof / Free",
       "type": "widgets",
-      "categories": ["Filterable Gallery", "Portfolio"],
+      "categories": [
+        "Filterable Gallery",
+        "Portfolio"
+      ],
       "file": "widgets/filterable-gallery-proof-free.json",
       "thumbnail": "screenshots/filterable-gallery-proof-free.webp"
     },
@@ -919,9 +1187,144 @@
       "id": "filterable-gallery-index-free",
       "title": "Filterable Gallery — Index / Free",
       "type": "widgets",
-      "categories": ["Filterable Gallery", "Portfolio"],
+      "categories": [
+        "Filterable Gallery",
+        "Portfolio"
+      ],
       "file": "widgets/filterable-gallery-index-free.json",
       "thumbnail": "screenshots/filterable-gallery-index-free.webp"
+    },
+    {
+      "id": "image-flow-studio-free",
+      "title": "Image Flow — Studio / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Flow",
+        "Portfolio"
+      ],
+      "file": "widgets/image-flow-studio-free.json",
+      "thumbnail": "screenshots/image-flow-studio-free.webp"
+    },
+    {
+      "id": "image-flow-browser-free",
+      "title": "Image Flow — Browser / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Flow",
+        "Portfolio"
+      ],
+      "file": "widgets/image-flow-browser-free.json",
+      "thumbnail": "screenshots/image-flow-browser-free.webp"
+    },
+    {
+      "id": "image-flow-journal-free",
+      "title": "Image Flow — Journal / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Flow",
+        "Portfolio"
+      ],
+      "file": "widgets/image-flow-journal-free.json",
+      "thumbnail": "screenshots/image-flow-journal-free.webp"
+    },
+    {
+      "id": "image-flow-frost-free",
+      "title": "Image Flow — Frost / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Flow",
+        "Portfolio"
+      ],
+      "file": "widgets/image-flow-frost-free.json",
+      "thumbnail": "screenshots/image-flow-frost-free.webp"
+    },
+    {
+      "id": "image-flow-panorama-free",
+      "title": "Image Flow — Panorama / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Flow",
+        "Portfolio"
+      ],
+      "file": "widgets/image-flow-panorama-free.json",
+      "thumbnail": "screenshots/image-flow-panorama-free.webp"
+    },
+    {
+      "id": "image-flow-halo-free",
+      "title": "Image Flow — Halo / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Flow",
+        "Portfolio"
+      ],
+      "file": "widgets/image-flow-halo-free.json",
+      "thumbnail": "screenshots/image-flow-halo-free.webp"
+    },
+    {
+      "id": "image-gallery-atelier-free",
+      "title": "Image Gallery — Atelier / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Gallery",
+        "Portfolio"
+      ],
+      "file": "widgets/image-gallery-atelier-free.json",
+      "thumbnail": "screenshots/image-gallery-atelier-free.webp"
+    },
+    {
+      "id": "image-gallery-contact-free",
+      "title": "Image Gallery — Contact / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Gallery",
+        "Portfolio"
+      ],
+      "file": "widgets/image-gallery-contact-free.json",
+      "thumbnail": "screenshots/image-gallery-contact-free.webp"
+    },
+    {
+      "id": "image-gallery-dusk-free",
+      "title": "Image Gallery — Dusk / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Gallery",
+        "Portfolio"
+      ],
+      "file": "widgets/image-gallery-dusk-free.json",
+      "thumbnail": "screenshots/image-gallery-dusk-free.webp"
+    },
+    {
+      "id": "image-gallery-margin-free",
+      "title": "Image Gallery — Margin / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Gallery",
+        "Portfolio"
+      ],
+      "file": "widgets/image-gallery-margin-free.json",
+      "thumbnail": "screenshots/image-gallery-margin-free.webp"
+    },
+    {
+      "id": "image-gallery-glaze-free",
+      "title": "Image Gallery — Glaze / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Gallery",
+        "Portfolio"
+      ],
+      "file": "widgets/image-gallery-glaze-free.json",
+      "thumbnail": "screenshots/image-gallery-glaze-free.webp"
+    },
+    {
+      "id": "image-gallery-frame-free",
+      "title": "Image Gallery — Frame / Free",
+      "type": "widgets",
+      "categories": [
+        "Image Gallery",
+        "Portfolio"
+      ],
+      "file": "widgets/image-gallery-frame-free.json",
+      "thumbnail": "screenshots/image-gallery-frame-free.webp"
     }
   ]
 }

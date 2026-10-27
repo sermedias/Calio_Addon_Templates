@@ -1,0 +1,213 @@
+{
+    "content": [
+        {
+            "id": "1a384500",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1080,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1a6e1235",
+                    "settings": {
+                        "images": [
+                            {
+                                "id": 0,
+                                "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/detail-warm-oak.png"
+                            },
+                            {
+                                "id": 0,
+                                "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/detail-limewash.png"
+                            },
+                            {
+                                "id": 0,
+                                "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/detail-natural-stone.png"
+                            }
+                        ],
+                        "gallery_image_copy": [
+                            {
+                                "_id": "igcopy1",
+                                "title": "Warm Oak",
+                                "caption": "Warmth in the smallest details.",
+                                "alt": "Original Calio illustration: Warm Oak"
+                            },
+                            {
+                                "_id": "igcopy2",
+                                "title": "Quiet Texture",
+                                "caption": "A surface with a softer story.",
+                                "alt": "Original Calio illustration: Quiet Texture"
+                            },
+                            {
+                                "_id": "igcopy3",
+                                "title": "Natural Stone",
+                                "caption": "Grounded in natural character.",
+                                "alt": "Original Calio illustration: Natural Stone"
+                            }
+                        ],
+                        "layout_skin": "editorial",
+                        "columns": "3",
+                        "responsive_columns_mobile": "1",
+                        "chrome": "flat",
+                        "image_ratio": "landscape",
+                        "lightbox": "yes",
+                        "show_caption": "yes",
+                        "show_index": "yes",
+                        "show_zoom_hint": "yes",
+                        "meta_mode": "hidden",
+                        "meta_badge_text": "STUDIO NOTES",
+                        "caption_eyebrow": "MATERIAL JOURNAL",
+                        "caption_mode": "below",
+                        "caption_skin": "soft",
+                        "caption_reveal": "always",
+                        "info_layout": "stacked",
+                        "hover_skin": "zoom",
+                        "image_filter": "none",
+                        "overlay_depth": "soft",
+                        "overlay_preset": "standard",
+                        "show_title_divider": "yes",
+                        "gap": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_padding": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "gallery_card_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "caption_padding": {
+                            "top": "18",
+                            "right": "0",
+                            "bottom": "18",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "caption_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "gallery_caption_inset": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_glass_blur": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_rule_width": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_focus_color": "#9A7450",
+                        "gallery_zoom_size": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_caption_bg_normal_group_background": "classic",
+                        "gallery_caption_bg_normal_group_color": "#EFE6D8",
+                        "gallery_img_bg_normal_group_background": "classic",
+                        "gallery_img_bg_normal_group_color": "#EFE6D8",
+                        "caption_typography_typography": "custom",
+                        "caption_typography_font_family": "Arial",
+                        "caption_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "gallery_title_typography_typography": "custom",
+                        "gallery_title_typography_font_family": "Georgia",
+                        "gallery_title_typography_font_size": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gallery_title_typography_font_weight": "400",
+                        "gallery_title_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "gallery_badge_bg_normal_group_background": "classic",
+                        "gallery_badge_bg_normal_group_color": "#9A745022",
+                        "gallery_index_bg_group_background": "classic",
+                        "gallery_index_bg_group_color": "#EFE6D8",
+                        "gallery_zoom_bg_normal_group_background": "classic",
+                        "gallery_zoom_bg_normal_group_color": "#9A7450EE",
+                        "gallery_title_normal_paint_mode": "classic",
+                        "gallery_title_normal_color": "#514537",
+                        "gallery_caption_text_normal_paint_mode": "classic",
+                        "gallery_caption_text_normal_color": "#514537BE",
+                        "gallery_eyebrow_normal_paint_mode": "classic",
+                        "gallery_eyebrow_normal_color": "#9A7450",
+                        "gallery_badge_text_normal_paint_mode": "classic",
+                        "gallery_badge_text_normal_color": "#514537",
+                        "gallery_index_text_paint_mode": "classic",
+                        "gallery_index_text_color": "#514537",
+                        "gallery_zoom_text_normal_paint_mode": "classic",
+                        "gallery_zoom_text_normal_color": "#FFFFFF",
+                        "gallery_editorial_rule_paint_mode": "classic",
+                        "gallery_editorial_rule_color": "#9A7450",
+                        "gallery_divider_normal_paint_mode": "classic",
+                        "gallery_divider_normal_color": "#9A745055"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-image-gallery",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Image Gallery — Margin",
+    "type": "section"
+}
