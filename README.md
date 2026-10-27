@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains sixty-six original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out, Fancy Tabs, Feature List, Feature List Simple, Filterable Gallery and Image Flow. Choose **Free â†’ Image Flow** to find the new image preview collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+The **Ready Widgets** tab (Calio Free 1.15+) contains seventy-two original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out, Fancy Tabs, Feature List, Feature List Simple, Filterable Gallery and Image Flow. Choose **Free â†’ Image Flow** to find the new image preview collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
 
 ### Accent Headline designs
 
@@ -162,6 +162,17 @@ Each native section contains one editable Calio Free Image Flow. Image, caption,
 - **Frame:** minimal monochrome detail studies and open captions.
 
 Each native section contains one editable Calio Free Image Gallery. Three original Calio PNGs already published in media/atelier import into the destination media library. Image Text Overrides retain each title, caption and alternative text independently of the imported filename. Gallery order, lightbox, device columns, skins and all visual settings use native registered controls. Replace the illustrations and demo copy as needed. No Pro widget, external font, custom CSS, new library or service is required. Preview canvases are presentation context outside the reusable section. Requires the prepared Free 1.15 Image Gallery update.
+
+### Kinetic Card designs
+
+- **Drift:** a calm blue architectural card with a circular hover/keyboard reveal.
+- **Petal:** a soft lavender card with click/tap details and a gentle gradient surface.
+- **Ember:** a dark material study with left-positioned imagery and warm typography.
+- **Orbit:** a workspace preview with click/tap details and a gradient headline.
+- **Letter:** an always-open editorial card with serif copy and a customizable rule.
+- **Glaze:** a translucent green workspace card with editable blur and image styling.
+
+Each native section contains one editable Calio Free Kinetic Card. Five designs reveal details on hover/keyboard or click/tap through a native accessible toggle; Letter remains open. Previews show the settled open state. Copy, safe links, native icons, directional images, reveal surfaces and device dimensions use registered controls. Original Calio PNGs already in media/atelier and media/northstar import into the destination media library. Replace the illustrative artwork and demo links as needed. No Pro widget, external font, custom CSS, new library or service is required. Preview canvases are presentation context outside the reusable section. Requires the prepared Free 1.15 Kinetic Card update; catalog publication does not distribute that plugin release to WordPress.org.
 
 ## Automatic Free / Pro classification
 

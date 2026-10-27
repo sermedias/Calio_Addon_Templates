@@ -1,0 +1,323 @@
+{
+    "content": [
+        {
+            "id": "7b77b371",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "54fc3904",
+                    "settings": {
+                        "preset_style": "neon",
+                        "kinetic_reveal_mode": "click",
+                        "kinetic_open_label": "View details",
+                        "kinetic_close_label": "Close details",
+                        "kinetic_reveal_shape": "circle",
+                        "kinetic_mobile_layout": "stack",
+                        "layout_direction": "style-1",
+                        "image": {
+                            "id": 0,
+                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/northstar/northstar-orbit.png"
+                        },
+                        "kinetic_image_alt": "Original Calio workspace illustration",
+                        "thumbnail_size_size": "full",
+                        "title_text": "Clarity for a busy day.",
+                        "sub_title_text": "A LITTLE SPACE TO FOCUS",
+                        "description_text": "<p>Bring the next step into view with a calm workspace and a clear sense of what matters.</p>",
+                        "show_title": "yes",
+                        "show_sub_title": "yes",
+                        "show_description": "yes",
+                        "readmore": "yes",
+                        "readmore_text": "Explore the workspace",
+                        "readmore_link": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": ""
+                        },
+                        "readmore_icon": {
+                            "value": "fas fa-arrow-right",
+                            "library": "fa-solid"
+                        },
+                        "readmore_icon_align": "right",
+                        "readmore_icon_indent": {
+                            "size": 9,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "readmore_icon_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "readmore_icon_shift_distance": {
+                            "size": 4,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_height": {
+                            "size": 440,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_height_mobile": {
+                            "size": 400,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "kinetic_max_width": {
+                            "size": 1040,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_max_width": {
+                            "size": 610,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "kinetic_copy_width": {
+                            "size": 60,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "card_padding": {
+                            "top": "36",
+                            "right": "42",
+                            "bottom": "36",
+                            "left": "42",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "card_radius": {
+                            "top": "28",
+                            "right": "28",
+                            "bottom": "28",
+                            "left": "28",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_reveal_radius": {
+                            "size": 140,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_reveal_radius_hover": {
+                            "size": 1200,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_transition_duration": {
+                            "size": 0.45,
+                            "unit": "s",
+                            "sizes": []
+                        },
+                        "kinetic_image_width": {
+                            "size": 360,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "kinetic_image_width_mobile": {
+                            "size": 270,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_height": {
+                            "size": 280,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_hover_height": {
+                            "size": 320,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_hover_horizontal_offset": {
+                            "size": 80,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "image_hover_vertical_offset": {
+                            "size": 50,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "kinetic_image_fit": "contain",
+                        "kinetic_image_radius": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_bg_background": "classic",
+                        "card_bg_color": "#17223D",
+                        "card_bg_hover_background": "classic",
+                        "card_bg_hover_color": "#242C46",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "700",
+                        "title_typography_line_height": {
+                            "size": 1.1,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "title_typography_text_transform": "none",
+                        "sub_title_typography_typography": "custom",
+                        "sub_title_typography_font_family": "Arial",
+                        "sub_title_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "sub_title_typography_font_weight": "700",
+                        "sub_title_typography_letter_spacing": {
+                            "size": 1.4,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "sub_title_typography_text_transform": "uppercase",
+                        "sub_title_spacing": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "text_typography_typography": "custom",
+                        "text_typography_font_family": "Arial",
+                        "text_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "text_typography_line_height": {
+                            "size": 1.7,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "text_spacing": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "readmore_typography_typography": "custom",
+                        "readmore_typography_font_family": "Arial",
+                        "readmore_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "readmore_typography_font_weight": "700",
+                        "readmore_typography_text_transform": "none",
+                        "readmore_padding": {
+                            "top": "12",
+                            "right": "18",
+                            "bottom": "12",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "readmore_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "readmore_bg_background": "classic",
+                        "readmore_bg_color": "#AFB9E922",
+                        "readmore_bg_hover_background": "classic",
+                        "readmore_bg_hover_color": "#AFB9E933",
+                        "kinetic_focus_color": "#AFB9E9",
+                        "kinetic_glass_blur": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "kinetic_rule_width": {
+                            "size": 30,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "kinetic_toggle_normal_bg_background": "classic",
+                        "kinetic_toggle_normal_bg_color": "#E3E7FA",
+                        "kinetic_toggle_padding": {
+                            "top": "8",
+                            "right": "13",
+                            "bottom": "8",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "kinetic_toggle_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "title_paint_mode": "gradient",
+                        "title_color": "#E4EBFB",
+                        "title_hover_paint_mode": "gradient",
+                        "title_hover_color": "#E4EBFB",
+                        "readmore_paint_mode": "classic",
+                        "readmore_color": "#E4EBFB",
+                        "readmore_hover_paint_mode": "classic",
+                        "readmore_hover_color": "#E4EBFB",
+                        "sub_title_paint_mode": "classic",
+                        "sub_title_color": "#AFB9E9",
+                        "sub_title_hover_paint_mode": "classic",
+                        "sub_title_hover_color": "#AFB9E9",
+                        "text_paint_mode": "classic",
+                        "text_color": "#B9C6E2",
+                        "text_hover_paint_mode": "classic",
+                        "text_hover_color": "#B9C6E2",
+                        "kinetic_editorial_rule_paint_mode": "classic",
+                        "kinetic_editorial_rule_color": "#AFB9E9",
+                        "kinetic_toggle_normal_paint_mode": "classic",
+                        "kinetic_toggle_normal_color": "#304157",
+                        "title_gradient_start": "#D3BCF6",
+                        "title_gradient_end": "#95E5F2",
+                        "title_hover_gradient_start": "#D3BCF6",
+                        "title_hover_gradient_end": "#95E5F2"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-kinetic-card",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Kinetic Card — Orbit",
+    "type": "section"
+}

@@ -1325,6 +1325,72 @@
       ],
       "file": "widgets/image-gallery-frame-free.json",
       "thumbnail": "screenshots/image-gallery-frame-free.webp"
+    },
+    {
+      "id": "kinetic-card-drift-free",
+      "title": "Kinetic Card — Drift / Free",
+      "type": "widgets",
+      "categories": [
+        "Kinetic Card",
+        "Creative"
+      ],
+      "file": "widgets/kinetic-card-drift-free.json",
+      "thumbnail": "screenshots/kinetic-card-drift-free.webp"
+    },
+    {
+      "id": "kinetic-card-petal-free",
+      "title": "Kinetic Card — Petal / Free",
+      "type": "widgets",
+      "categories": [
+        "Kinetic Card",
+        "Creative"
+      ],
+      "file": "widgets/kinetic-card-petal-free.json",
+      "thumbnail": "screenshots/kinetic-card-petal-free.webp"
+    },
+    {
+      "id": "kinetic-card-ember-free",
+      "title": "Kinetic Card — Ember / Free",
+      "type": "widgets",
+      "categories": [
+        "Kinetic Card",
+        "Creative"
+      ],
+      "file": "widgets/kinetic-card-ember-free.json",
+      "thumbnail": "screenshots/kinetic-card-ember-free.webp"
+    },
+    {
+      "id": "kinetic-card-orbit-free",
+      "title": "Kinetic Card — Orbit / Free",
+      "type": "widgets",
+      "categories": [
+        "Kinetic Card",
+        "Creative"
+      ],
+      "file": "widgets/kinetic-card-orbit-free.json",
+      "thumbnail": "screenshots/kinetic-card-orbit-free.webp"
+    },
+    {
+      "id": "kinetic-card-letter-free",
+      "title": "Kinetic Card — Letter / Free",
+      "type": "widgets",
+      "categories": [
+        "Kinetic Card",
+        "Creative"
+      ],
+      "file": "widgets/kinetic-card-letter-free.json",
+      "thumbnail": "screenshots/kinetic-card-letter-free.webp"
+    },
+    {
+      "id": "kinetic-card-glaze-free",
+      "title": "Kinetic Card — Glaze / Free",
+      "type": "widgets",
+      "categories": [
+        "Kinetic Card",
+        "Creative"
+      ],
+      "file": "widgets/kinetic-card-glaze-free.json",
+      "thumbnail": "screenshots/kinetic-card-glaze-free.webp"
     }
   ]
 }
