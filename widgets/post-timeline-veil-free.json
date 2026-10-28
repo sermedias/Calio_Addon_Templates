@@ -1,0 +1,265 @@
+{
+    "content": [
+        {
+            "id": "75273f08",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1a9616dd",
+                    "settings": {
+                        "post_type": "post",
+                        "posts_per_page": 3,
+                        "offset": 0,
+                        "orderby": "date",
+                        "order": "desc",
+                        "ignore_sticky_posts": "yes",
+                        "authors": [],
+                        "category_ids": [],
+                        "post_tag_ids": [],
+                        "posts_ids": [],
+                        "post__not_in": [],
+                        "tax_query_relation": "AND",
+                        "eael_dynamic_template_Layout": "card",
+                        "timeline_skin": "glass",
+                        "show_load_more": "no",
+                        "eael_show_image": "yes",
+                        "image_size": "large",
+                        "eael_show_fallback_img_all": "",
+                        "eael_post_carousel_fallback_img_all": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "eael_show_title": "yes",
+                        "title_tag": "h3",
+                        "eael_show_excerpt": "yes",
+                        "eael_excerpt_length": 12,
+                        "excerpt_expanison_indicator": "…",
+                        "timeline_date_display_mode": "bubble",
+                        "timeline_date_source": "published",
+                        "timeline_date_format_mode": "custom",
+                        "timeline_custom_date_format": "M j",
+                        "timeline_date_reveal": "always",
+                        "eael_show_meta": "yes",
+                        "meta_position": "before_title",
+                        "eael_show_author": "",
+                        "eael_show_categories": "yes",
+                        "eael_show_comments": "",
+                        "taxonomy_skin": "soft",
+                        "show_badge": "",
+                        "badge_source": "custom",
+                        "badge_custom_text": "Journal",
+                        "badge_skin": "outline",
+                        "show_read_more": "yes",
+                        "read_more_text": "Read the story",
+                        "read_more_skin": "solid",
+                        "read_more_show_arrow": "yes",
+                        "timeline_link_nofollow": "",
+                        "timeline_link_target_blank": "",
+                        "timeline_region_label": "Veil timeline",
+                        "eael_timeline_bg_color": "#F1F5FC",
+                        "eael_timeline_title_color": "#36536F",
+                        "eael_timeline_excerpt_color": "#5E6F85",
+                        "eael_timeline_date_color": "#36536F",
+                        "eael_timeline_date_background_color": "#FFFFFF",
+                        "eael_timeline_meta_color": "#6D7C92",
+                        "eael_timeline_meta_item_color": "#6D7C92",
+                        "eael_timeline_meta_term_color": "#36536F",
+                        "eael_timeline_meta_item_bg": "#7C94B818",
+                        "eael_timeline_meta_term_bg": "#7C94B818",
+                        "eael_post_timeline_border_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "timeline_default_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "eael_timeline_img_border_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "eael_timeline_image_height": {
+                            "size": 110,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_post_timeline_content_spacing": {
+                            "top": "20",
+                            "right": "22",
+                            "bottom": "20",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "eael_post_grid_spacing": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "timeline_item_gap": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "timeline_copy_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "timeline_glass_blur": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "timeline_focus_color": "#7C94B8",
+                        "eael_timeline_title_typography_typography": "custom",
+                        "eael_timeline_title_typography_font_family": "Arial",
+                        "eael_timeline_title_typography_font_size": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_title_typography_font_size_mobile": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_title_typography_font_weight": "700",
+                        "eael_timeline_title_typography_text_transform": "none",
+                        "eael_timeline_title_typography_letter_spacing": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_title_typography_line_height": {
+                            "size": 1.25,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "eael_timeline_excerpt_typography_typography": "custom",
+                        "eael_timeline_excerpt_typography_font_family": "Arial",
+                        "eael_timeline_excerpt_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_excerpt_typography_line_height": {
+                            "size": 1.7,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "eael_timeline_meta_typography_typography": "custom",
+                        "eael_timeline_meta_typography_font_family": "Arial",
+                        "eael_timeline_meta_typography_font_size": {
+                            "size": 9,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_meta_typography_line_height": {
+                            "size": 1.4,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "eael_timeline_time_typography_typography": "custom",
+                        "eael_timeline_time_typography_font_family": "Arial",
+                        "eael_timeline_time_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_time_typography_line_height": {
+                            "size": 1.4,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "eael_timeline_time_padding": {
+                            "top": "6",
+                            "right": "10",
+                            "bottom": "6",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "eael_timeline_time_border_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "eael_timeline_read_more_padding": {
+                            "top": "10",
+                            "right": "16",
+                            "bottom": "10",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "eael_timeline_read_more_typography_typography": "custom",
+                        "eael_timeline_read_more_typography_font_family": "Arial",
+                        "eael_timeline_read_more_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_read_more_typography_letter_spacing": {
+                            "size": 0.4,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_read_more_text_color": "#FFFFFF",
+                        "eael_timeline_read_more_bg_color": "#526B8E",
+                        "eael_timeline_read_more_hover_color": "#FFFFFF",
+                        "eael_timeline_read_more_hover_bg_color": "#3F5677",
+                        "eael_timeline_bullet_color": "#7C94B8",
+                        "eael_timeline_bullet_border_color": "#DDEAF4",
+                        "eael_timeline_vertical_line_color": "#7C94B855"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-post-timeline",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Post Timeline — Veil",
+    "type": "section"
+}

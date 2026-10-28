@@ -1733,6 +1733,78 @@
       ],
       "file": "widgets/post-grid-mist-free.json",
       "thumbnail": "screenshots/post-grid-mist-free.webp"
+    },
+    {
+      "id": "post-timeline-chronicle-free",
+      "title": "Post Timeline — Chronicle / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Timeline",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-timeline-chronicle-free.json",
+      "thumbnail": "screenshots/post-timeline-chronicle-free.webp"
+    },
+    {
+      "id": "post-timeline-ledger-free",
+      "title": "Post Timeline — Ledger / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Timeline",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-timeline-ledger-free.json",
+      "thumbnail": "screenshots/post-timeline-ledger-free.webp"
+    },
+    {
+      "id": "post-timeline-veil-free",
+      "title": "Post Timeline — Veil / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Timeline",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-timeline-veil-free.json",
+      "thumbnail": "screenshots/post-timeline-veil-free.webp"
+    },
+    {
+      "id": "post-timeline-ember-free",
+      "title": "Post Timeline — Ember / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Timeline",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-timeline-ember-free.json",
+      "thumbnail": "screenshots/post-timeline-ember-free.webp"
+    },
+    {
+      "id": "post-timeline-trace-free",
+      "title": "Post Timeline — Trace / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Timeline",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-timeline-trace-free.json",
+      "thumbnail": "screenshots/post-timeline-trace-free.webp"
+    },
+    {
+      "id": "post-timeline-orbit-free",
+      "title": "Post Timeline — Orbit / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Timeline",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-timeline-orbit-free.json",
+      "thumbnail": "screenshots/post-timeline-orbit-free.webp"
     }
   ]
 }
