@@ -1661,6 +1661,78 @@
       ],
       "file": "widgets/post-carousel-nocturne-free.json",
       "thumbnail": "screenshots/post-carousel-nocturne-free.webp"
+    },
+    {
+      "id": "post-grid-chronicle-free",
+      "title": "Post Grid — Chronicle / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Grid",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-grid-chronicle-free.json",
+      "thumbnail": "screenshots/post-grid-chronicle-free.webp"
+    },
+    {
+      "id": "post-grid-gazette-free",
+      "title": "Post Grid — Gazette / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Grid",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-grid-gazette-free.json",
+      "thumbnail": "screenshots/post-grid-gazette-free.webp"
+    },
+    {
+      "id": "post-grid-dusk-free",
+      "title": "Post Grid — Dusk / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Grid",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-grid-dusk-free.json",
+      "thumbnail": "screenshots/post-grid-dusk-free.webp"
+    },
+    {
+      "id": "post-grid-index-free",
+      "title": "Post Grid — Index / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Grid",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-grid-index-free.json",
+      "thumbnail": "screenshots/post-grid-index-free.webp"
+    },
+    {
+      "id": "post-grid-journal-free",
+      "title": "Post Grid — Journal / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Grid",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-grid-journal-free.json",
+      "thumbnail": "screenshots/post-grid-journal-free.webp"
+    },
+    {
+      "id": "post-grid-mist-free",
+      "title": "Post Grid — Mist / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Grid",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-grid-mist-free.json",
+      "thumbnail": "screenshots/post-grid-mist-free.webp"
     }
   ]
 }
