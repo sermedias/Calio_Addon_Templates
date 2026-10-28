@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains seventy-eight original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out, Fancy Tabs, Feature List, Feature List Simple, Filterable Gallery and Image Flow. Choose **Free â†’ Image Flow** to find the new image preview collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+The **Ready Widgets** tab contains eighty-four original designs across fourteen widget families. The six new Multicolumn Pricing Table designs require Calio Free 1.21+; the other published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -223,3 +223,7 @@ Imports require permission to edit the destination, upload files and use unfilte
 Calio reads `https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/manifest.json`, caches successful catalogs for six hours, and can retain a last-known catalog for one week during network failures. Refresh bypasses the WordPress catalog cache; GitHub may still cache raw files briefly.
 
 The repository contains data and images only, never executable PHP or JavaScript. Keep every template and bundled asset compatible with this repository's license and record any required third-party asset attribution. No GitHub token is required for a public catalog. Large libraries may later move to a dedicated CDN without changing the catalog format.
+
+### Multicolumn Pricing Table
+
+Studio, Ledger, Nocturne, Folio, Glaze and Grove cover six editable skins with two, three or four plans. Monthly/yearly prices, feature groups, native SVG indicators, optional feature notes and responsive plan selection use registered controls. Studio starts with a shorter feature comparison; its button expands the remaining rows. Nocturne and Glaze start with yearly prices. These are illustrative demo prices and plan terms; replace them before publishing a business page. The new family requires Calio Free 1.21+, whose plugin release is prepared separately from this catalog.

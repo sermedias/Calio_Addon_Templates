@@ -1,0 +1,655 @@
+{
+    "content": [
+        {
+            "id": "40d793f5",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "607897eb",
+                    "settings": {
+                        "skin": "editorial",
+                        "featured_skin": "outline",
+                        "plan_count": "3",
+                        "pricing_table_label": "Folio plan comparison",
+                        "pricing_featured_label": "Recommended",
+                        "enable_billing_switch": "",
+                        "monthly_label": "Monthly",
+                        "yearly_label": "Yearly",
+                        "yearly_badge": "Flexible ways to begin",
+                        "show_switcher_icons": "yes",
+                        "monthly_icon": {
+                            "value": "fas fa-calendar-alt",
+                            "library": "fa-solid"
+                        },
+                        "yearly_icon": {
+                            "value": "fas fa-sync-alt",
+                            "library": "fa-solid"
+                        },
+                        "default_billing_cycle": "monthly",
+                        "mobile_compare_mode": "stacked",
+                        "show_feature_labels": "yes",
+                        "collapse_rows": "",
+                        "collapsed_rows": 5,
+                        "collapse_more_text": "Compare all features",
+                        "collapse_less_text": "Show fewer features",
+                        "feature_rows": [
+                            {
+                                "_id": "pcrow0",
+                                "row_kind": "group",
+                                "label": "Your workspace",
+                                "row_note": "",
+                                "feature_note": "",
+                                "value_1_type": "text",
+                                "value_1": "",
+                                "value_2_type": "text",
+                                "value_2": "",
+                                "value_3_type": "text",
+                                "value_3": "",
+                                "value_4_type": "text",
+                                "value_4": "",
+                                "row_emphasis": "none",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "pcrow1",
+                                "row_kind": "feature",
+                                "label": "Active projects",
+                                "row_note": "",
+                                "feature_note": "Choose the room that fits your next idea.",
+                                "value_1_type": "text",
+                                "value_1": "3 projects",
+                                "value_2_type": "text",
+                                "value_2": "20 projects",
+                                "value_3_type": "text",
+                                "value_3": "Unlimited",
+                                "value_4_type": "text",
+                                "value_4": "Unlimited",
+                                "row_emphasis": "none",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "pcrow2",
+                                "row_kind": "feature",
+                                "label": "Shared storage",
+                                "row_note": "",
+                                "feature_note": "",
+                                "value_1_type": "text",
+                                "value_1": "5 GB",
+                                "value_2_type": "text",
+                                "value_2": "50 GB",
+                                "value_3_type": "text",
+                                "value_3": "250 GB",
+                                "value_4_type": "text",
+                                "value_4": "1 TB",
+                                "row_emphasis": "none",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "pcrow3",
+                                "row_kind": "feature",
+                                "label": "Team seats",
+                                "row_note": "",
+                                "feature_note": "",
+                                "value_1_type": "text",
+                                "value_1": "1 person",
+                                "value_2_type": "text",
+                                "value_2": "5 people",
+                                "value_3_type": "text",
+                                "value_3": "20 people",
+                                "value_4_type": "text",
+                                "value_4": "50 people",
+                                "row_emphasis": "none",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "pcrow4",
+                                "row_kind": "group",
+                                "label": "Support & possibilities",
+                                "row_note": "",
+                                "feature_note": "",
+                                "value_1_type": "text",
+                                "value_1": "",
+                                "value_2_type": "text",
+                                "value_2": "",
+                                "value_3_type": "text",
+                                "value_3": "",
+                                "value_4_type": "text",
+                                "value_4": "",
+                                "row_emphasis": "none",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "pcrow5",
+                                "row_kind": "feature",
+                                "label": "Guided setup",
+                                "row_note": "",
+                                "feature_note": "A little help when you need a clear starting point.",
+                                "value_1_type": "cross",
+                                "value_1": "",
+                                "value_2_type": "check",
+                                "value_2": "",
+                                "value_3_type": "star",
+                                "value_3": "",
+                                "value_4_type": "star",
+                                "value_4": "",
+                                "row_emphasis": "none",
+                                "highlight_row": ""
+                            },
+                            {
+                                "_id": "pcrow6",
+                                "row_kind": "feature",
+                                "label": "Workflow tools",
+                                "row_note": "",
+                                "feature_note": "",
+                                "value_1_type": "check",
+                                "value_1": "",
+                                "value_2_type": "bolt",
+                                "value_2": "",
+                                "value_3_type": "shield",
+                                "value_3": "",
+                                "value_4_type": "shield",
+                                "value_4": "",
+                                "row_emphasis": "none",
+                                "highlight_row": ""
+                            }
+                        ],
+                        "pricing_accent": "#947653",
+                        "pricing_focus_color": "#947653",
+                        "pricing_featured_lift": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_hover_lift": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_label_width": {
+                            "size": 180,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_column_gap": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_section_gap": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_max_width": {
+                            "size": 1080,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_radius": {
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "pricing_divider_color": "#94765328",
+                        "plan_card_padding": {
+                            "top": "24",
+                            "right": "20",
+                            "bottom": "24",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "plan_card_radius": {
+                            "top": "2",
+                            "right": "2",
+                            "bottom": "2",
+                            "left": "2",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "plan_card_border_border": "solid",
+                        "plan_card_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "plan_card_border_color": "#94765345",
+                        "plan_header_margin": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "plan_header_padding": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "plan_price_inline_gap": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "plan_price_block_spacing": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "plan_title_typography_typography": "custom",
+                        "plan_title_typography_font_family": "Georgia",
+                        "plan_title_typography_font_size": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "plan_title_typography_font_size_mobile": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "plan_title_typography_font_weight": "400",
+                        "plan_title_typography_line_height": {
+                            "size": 1.2,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "pricing_price_typography_typography": "custom",
+                        "pricing_price_typography_font_family": "Georgia",
+                        "pricing_price_typography_font_size": {
+                            "size": 34,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_price_typography_font_size_mobile": {
+                            "size": 36,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_price_typography_font_weight": "400",
+                        "pricing_price_typography_line_height": {
+                            "size": 1.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "plan_subtitle_typography_typography": "custom",
+                        "plan_subtitle_typography_font_family": "Arial",
+                        "plan_subtitle_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "plan_subtitle_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "row_typography_typography": "custom",
+                        "row_typography_font_family": "Arial",
+                        "row_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "row_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "pricing_row_padding": {
+                            "top": "13",
+                            "right": "16",
+                            "bottom": "13",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "pricing_group_title_typography_typography": "custom",
+                        "pricing_group_title_typography_font_family": "Arial",
+                        "pricing_group_title_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_group_title_typography_font_weight": "700",
+                        "pricing_group_title_typography_letter_spacing": {
+                            "size": 1.2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_badge_typography_typography": "custom",
+                        "pricing_badge_typography_font_family": "Arial",
+                        "pricing_badge_typography_font_size": {
+                            "size": 9,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "badge_padding": {
+                            "top": "5",
+                            "right": "8",
+                            "bottom": "5",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "badge_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "button_typography_typography": "custom",
+                        "button_typography_font_family": "Arial",
+                        "button_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_typography_font_weight": "700",
+                        "button_padding": {
+                            "top": "11",
+                            "right": "15",
+                            "bottom": "11",
+                            "left": "15",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "button_radius": {
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "featured_button_radius": {
+                            "top": "3",
+                            "right": "3",
+                            "bottom": "3",
+                            "left": "3",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "featured_button_padding": {
+                            "top": "11",
+                            "right": "15",
+                            "bottom": "11",
+                            "left": "15",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "billing_switcher_typography_typography": "custom",
+                        "billing_switcher_typography_font_family": "Arial",
+                        "billing_switcher_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "billing_switcher_icon_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "billing_switcher_label_gap": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "billing_switcher_padding": {
+                            "top": "6",
+                            "right": "8",
+                            "bottom": "6",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "mobile_focus_typography_typography": "custom",
+                        "mobile_focus_typography_font_family": "Arial",
+                        "mobile_focus_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_focus_padding": {
+                            "top": "9",
+                            "right": "13",
+                            "bottom": "9",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "mobile_focus_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "footer_button_typography_typography": "custom",
+                        "footer_button_typography_font_family": "Arial",
+                        "footer_button_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_glass_blur": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_indicator_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pricing_indicator_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "pricing_tooltip_width": {
+                            "size": 220,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "plan_1_title": "Personal",
+                        "plan_1_subtitle": "A little room to start",
+                        "plan_1_price": "$12",
+                        "plan_1_old_price": "",
+                        "plan_1_period": "/ month",
+                        "plan_1_yearly_price": "$120",
+                        "plan_1_yearly_old_price": "",
+                        "plan_1_yearly_period": "/ year",
+                        "plan_1_badge": "",
+                        "plan_1_featured": "",
+                        "plan_1_button_text": "Start something new",
+                        "plan_1_button_url": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "plan_2_title": "Team",
+                        "plan_2_subtitle": "Good ideas, together",
+                        "plan_2_price": "$28",
+                        "plan_2_old_price": "$36",
+                        "plan_2_period": "/ month",
+                        "plan_2_yearly_price": "$280",
+                        "plan_2_yearly_old_price": "$360",
+                        "plan_2_yearly_period": "/ year",
+                        "plan_2_badge": "In good company",
+                        "plan_2_featured": "yes",
+                        "plan_2_button_text": "Find your rhythm",
+                        "plan_2_button_url": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "plan_3_title": "Studio",
+                        "plan_3_subtitle": "More room to explore",
+                        "plan_3_price": "$56",
+                        "plan_3_old_price": "",
+                        "plan_3_period": "/ month",
+                        "plan_3_yearly_price": "$560",
+                        "plan_3_yearly_old_price": "",
+                        "plan_3_yearly_period": "/ year",
+                        "plan_3_badge": "",
+                        "plan_3_featured": "",
+                        "plan_3_button_text": "Explore the possibilities",
+                        "plan_3_button_url": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "plan_4_title": "Scale",
+                        "plan_4_subtitle": "Your next possibility",
+                        "plan_4_price": "$96",
+                        "plan_4_old_price": "",
+                        "plan_4_period": "/ month",
+                        "plan_4_yearly_price": "$960",
+                        "plan_4_yearly_old_price": "",
+                        "plan_4_yearly_period": "/ year",
+                        "plan_4_badge": "",
+                        "plan_4_featured": "",
+                        "plan_4_button_text": "Explore the possibilities",
+                        "plan_4_button_url": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "pricing_plan_title_normal_paint_mode": "classic",
+                        "pricing_plan_title_normal_color": "#584832",
+                        "pricing_plan_title_hover_paint_mode": "classic",
+                        "pricing_plan_title_hover_color": "#584832",
+                        "pricing_plan_title_featured_paint_mode": "classic",
+                        "pricing_plan_title_featured_color": "#584832",
+                        "pricing_plan_price_normal_paint_mode": "classic",
+                        "pricing_plan_price_normal_color": "#584832",
+                        "pricing_plan_price_hover_paint_mode": "classic",
+                        "pricing_plan_price_hover_color": "#584832",
+                        "pricing_plan_price_featured_paint_mode": "classic",
+                        "pricing_plan_price_featured_color": "#584832",
+                        "pricing_row_label_paint_mode": "classic",
+                        "pricing_row_label_color": "#584832",
+                        "pricing_group_heading_text_paint_mode": "classic",
+                        "pricing_group_heading_text_color": "#584832",
+                        "pricing_mobile_focus_text_normal_paint_mode": "classic",
+                        "pricing_mobile_focus_text_normal_color": "#584832",
+                        "pricing_footer_toggle_text_normal_paint_mode": "classic",
+                        "pricing_footer_toggle_text_normal_color": "#584832",
+                        "pricing_footer_toggle_text_hover_paint_mode": "classic",
+                        "pricing_footer_toggle_text_hover_color": "#584832",
+                        "pricing_plan_meta_normal_paint_mode": "classic",
+                        "pricing_plan_meta_normal_color": "#5D6F82",
+                        "pricing_plan_meta_hover_paint_mode": "classic",
+                        "pricing_plan_meta_hover_color": "#5D6F82",
+                        "pricing_plan_meta_featured_paint_mode": "classic",
+                        "pricing_plan_meta_featured_color": "#5D6F82",
+                        "pricing_row_value_paint_mode": "classic",
+                        "pricing_row_value_color": "#5D6F82",
+                        "pricing_featured_column_text_paint_mode": "classic",
+                        "pricing_featured_column_text_color": "#5D6F82",
+                        "pricing_group_note_text_paint_mode": "classic",
+                        "pricing_group_note_text_color": "#5D6F82",
+                        "pricing_button_text_normal_paint_mode": "classic",
+                        "pricing_button_text_normal_color": "#FFFFFF",
+                        "pricing_button_text_hover_paint_mode": "classic",
+                        "pricing_button_text_hover_color": "#FFFFFF",
+                        "pricing_featured_button_text_normal_paint_mode": "classic",
+                        "pricing_featured_button_text_normal_color": "#FFFFFF",
+                        "pricing_featured_button_text_hover_paint_mode": "classic",
+                        "pricing_featured_button_text_hover_color": "#FFFFFF",
+                        "pricing_mobile_focus_text_active_paint_mode": "classic",
+                        "pricing_mobile_focus_text_active_color": "#FFFFFF",
+                        "pricing_badge_text_paint_mode": "classic",
+                        "pricing_badge_text_color": "#584832",
+                        "pricing_billing_text_normal_paint_mode": "classic",
+                        "pricing_billing_text_normal_color": "#584832",
+                        "pricing_billing_text_active_paint_mode": "classic",
+                        "pricing_billing_text_active_color": "#584832",
+                        "pricing_billing_badge_text_paint_mode": "classic",
+                        "pricing_billing_badge_text_color": "#584832",
+                        "pricing_billing_icon_color": "#947653",
+                        "pricing_plan_card_bg_normal_group_background": "classic",
+                        "pricing_plan_card_bg_normal_group_color": "#FBF5E8",
+                        "pricing_row_bg_normal_group_background": "classic",
+                        "pricing_row_bg_normal_group_color": "#FBF5E8",
+                        "pricing_group_heading_bg_group_background": "classic",
+                        "pricing_group_heading_bg_group_color": "#EDE2CF",
+                        "pricing_featured_column_bg_group_background": "classic",
+                        "pricing_featured_column_bg_group_color": "#94765314",
+                        "pricing_billing_bg_normal_group_background": "classic",
+                        "pricing_billing_bg_normal_group_color": "#FBF5E8",
+                        "pricing_billing_knob_bg_group_background": "classic",
+                        "pricing_billing_knob_bg_group_color": "#94765324",
+                        "pricing_billing_badge_bg_group_background": "classic",
+                        "pricing_billing_badge_bg_group_color": "#94765320",
+                        "pricing_mobile_focus_bg_normal_group_background": "classic",
+                        "pricing_mobile_focus_bg_normal_group_color": "#FBF5E8",
+                        "pricing_mobile_focus_bg_active_group_background": "classic",
+                        "pricing_mobile_focus_bg_active_group_color": "#947653",
+                        "pricing_badge_bg_group_background": "classic",
+                        "pricing_badge_bg_group_color": "#94765324",
+                        "pricing_button_bg_normal_group_background": "classic",
+                        "pricing_button_bg_normal_group_color": "#354C64",
+                        "pricing_button_bg_hover_group_background": "classic",
+                        "pricing_button_bg_hover_group_color": "#243F5B",
+                        "pricing_featured_button_bg_normal_group_background": "classic",
+                        "pricing_featured_button_bg_normal_group_color": "#586F91",
+                        "pricing_featured_button_bg_hover_group_background": "classic",
+                        "pricing_featured_button_bg_hover_group_color": "#405A7F",
+                        "pricing_footer_toggle_bg_normal_group_background": "classic",
+                        "pricing_footer_toggle_bg_normal_group_color": "#FBF5E8",
+                        "pricing_footer_toggle_bg_hover_group_background": "classic",
+                        "pricing_footer_toggle_bg_hover_group_color": "#94765320"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-multicolumn-pricing-table",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Multicolumn Pricing Table — Folio",
+    "type": "section"
+}

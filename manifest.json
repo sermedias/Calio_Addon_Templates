@@ -1457,6 +1457,72 @@
       ],
       "file": "widgets/mega-menu-nocturne-free.json",
       "thumbnail": "screenshots/mega-menu-nocturne-free.webp"
+    },
+    {
+      "id": "multicolumn-pricing-table-studio-free",
+      "title": "Multicolumn Pricing Table — Studio / Free",
+      "type": "widgets",
+      "categories": [
+        "Multicolumn Pricing Table",
+        "Pricing"
+      ],
+      "file": "widgets/multicolumn-pricing-table-studio-free.json",
+      "thumbnail": "screenshots/multicolumn-pricing-table-studio-free.webp"
+    },
+    {
+      "id": "multicolumn-pricing-table-ledger-free",
+      "title": "Multicolumn Pricing Table — Ledger / Free",
+      "type": "widgets",
+      "categories": [
+        "Multicolumn Pricing Table",
+        "Pricing"
+      ],
+      "file": "widgets/multicolumn-pricing-table-ledger-free.json",
+      "thumbnail": "screenshots/multicolumn-pricing-table-ledger-free.webp"
+    },
+    {
+      "id": "multicolumn-pricing-table-nocturne-free",
+      "title": "Multicolumn Pricing Table — Nocturne / Free",
+      "type": "widgets",
+      "categories": [
+        "Multicolumn Pricing Table",
+        "Pricing"
+      ],
+      "file": "widgets/multicolumn-pricing-table-nocturne-free.json",
+      "thumbnail": "screenshots/multicolumn-pricing-table-nocturne-free.webp"
+    },
+    {
+      "id": "multicolumn-pricing-table-folio-free",
+      "title": "Multicolumn Pricing Table — Folio / Free",
+      "type": "widgets",
+      "categories": [
+        "Multicolumn Pricing Table",
+        "Pricing"
+      ],
+      "file": "widgets/multicolumn-pricing-table-folio-free.json",
+      "thumbnail": "screenshots/multicolumn-pricing-table-folio-free.webp"
+    },
+    {
+      "id": "multicolumn-pricing-table-glaze-free",
+      "title": "Multicolumn Pricing Table — Glaze / Free",
+      "type": "widgets",
+      "categories": [
+        "Multicolumn Pricing Table",
+        "Pricing"
+      ],
+      "file": "widgets/multicolumn-pricing-table-glaze-free.json",
+      "thumbnail": "screenshots/multicolumn-pricing-table-glaze-free.webp"
+    },
+    {
+      "id": "multicolumn-pricing-table-grove-free",
+      "title": "Multicolumn Pricing Table — Grove / Free",
+      "type": "widgets",
+      "categories": [
+        "Multicolumn Pricing Table",
+        "Pricing"
+      ],
+      "file": "widgets/multicolumn-pricing-table-grove-free.json",
+      "thumbnail": "screenshots/multicolumn-pricing-table-grove-free.webp"
     }
   ]
 }
