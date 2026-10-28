@@ -231,3 +231,7 @@ Studio, Ledger, Nocturne, Folio, Glaze and Grove cover six editable skins with t
 ### Navbar
 
 Studio, Petal, Grove, Folio, Glaze and Nocturne offer six editable navigation styles with optional brand/action links, a native mobile toggle and two levels of dropdowns. Their Custom Items source is self-contained, so it needs no site-specific WordPress menu IDs, saved templates, media or custom CSS. Previews show the expanded dropdowns; menus start closed on import. The original WordPress Menu source remains available. Navbar designs require Calio Free 1.21+, whose plugin release is prepared separately from this catalog. Replace the illustrative brand, labels and placeholder links before publishing a site.
+
+### Post Carousel
+
+Dispatch, Folio, Linea, Journal, Glaze and Nocturne provide six editable post layouts with independent media, title, metadata, category, excerpt, action and navigation styling. Nocturne uses centered cards and optional autoplay with a pause control. Every native section contains one Calio Post Carousel widget and uses registered controls. The designs query the destination site's published posts; adjust the Query section for your content. Previews use temporary fictional posts and original catalog illustrations. These preview posts, images and category IDs are not imported or included in the exports. Sites without matching posts show the editable empty-state message. The new skins and controls require prepared Calio Free 1.22+, whose WordPress.org release remains a separate action.

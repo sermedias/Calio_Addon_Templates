@@ -1589,6 +1589,78 @@
       ],
       "file": "widgets/navbar-nocturne-free.json",
       "thumbnail": "screenshots/navbar-nocturne-free.webp"
+    },
+    {
+      "id": "post-carousel-dispatch-free",
+      "title": "Post Carousel — Dispatch / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Carousel",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-carousel-dispatch-free.json",
+      "thumbnail": "screenshots/post-carousel-dispatch-free.webp"
+    },
+    {
+      "id": "post-carousel-folio-free",
+      "title": "Post Carousel — Folio / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Carousel",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-carousel-folio-free.json",
+      "thumbnail": "screenshots/post-carousel-folio-free.webp"
+    },
+    {
+      "id": "post-carousel-linea-free",
+      "title": "Post Carousel — Linea / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Carousel",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-carousel-linea-free.json",
+      "thumbnail": "screenshots/post-carousel-linea-free.webp"
+    },
+    {
+      "id": "post-carousel-journal-free",
+      "title": "Post Carousel — Journal / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Carousel",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-carousel-journal-free.json",
+      "thumbnail": "screenshots/post-carousel-journal-free.webp"
+    },
+    {
+      "id": "post-carousel-glaze-free",
+      "title": "Post Carousel — Glaze / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Carousel",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-carousel-glaze-free.json",
+      "thumbnail": "screenshots/post-carousel-glaze-free.webp"
+    },
+    {
+      "id": "post-carousel-nocturne-free",
+      "title": "Post Carousel — Nocturne / Free",
+      "type": "widgets",
+      "categories": [
+        "Post Carousel",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/post-carousel-nocturne-free.json",
+      "thumbnail": "screenshots/post-carousel-nocturne-free.webp"
     }
   ]
 }
