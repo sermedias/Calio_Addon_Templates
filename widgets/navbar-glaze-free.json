@@ -1,0 +1,498 @@
+{
+    "content": [
+        {
+            "id": "4628dfed",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "775524e",
+                    "settings": {
+                        "navbar_source": "custom",
+                        "navbar_items": [
+                            {
+                                "_id": "nbrow0",
+                                "label": "Discover",
+                                "url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "0",
+                                "active": "yes"
+                            },
+                            {
+                                "_id": "nbrow1",
+                                "label": "Our story",
+                                "url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "active": ""
+                            },
+                            {
+                                "_id": "nbrow2",
+                                "label": "The process",
+                                "url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "active": ""
+                            },
+                            {
+                                "_id": "nbrow3",
+                                "label": "First ideas",
+                                "url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "2",
+                                "active": ""
+                            },
+                            {
+                                "_id": "nbrow4",
+                                "label": "Clear direction",
+                                "url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "2",
+                                "active": ""
+                            },
+                            {
+                                "_id": "nbrow5",
+                                "label": "Selected work",
+                                "url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "active": ""
+                            },
+                            {
+                                "_id": "nbrow6",
+                                "label": "Journal",
+                                "url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "0",
+                                "active": ""
+                            },
+                            {
+                                "_id": "nbrow7",
+                                "label": "About us",
+                                "url": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "0",
+                                "active": ""
+                            }
+                        ],
+                        "navbar_label": "Glaze navigation",
+                        "navbar_skin": "glass",
+                        "navbar_style": "2",
+                        "navbar_brand": "aura",
+                        "navbar_brand_url": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "navbar_action": "Say hello",
+                        "navbar_action_url": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "menu_parent_arrow": "yes",
+                        "mobile_toggle": "yes",
+                        "mobile_toggle_label": "Menu",
+                        "mobile_toggle_skin": "glass",
+                        "mobile_breakpoint": {
+                            "size": 900,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dropdown_align": "left",
+                        "dropdown_link_align": "left",
+                        "align": "center",
+                        "navbar_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "navbar_gap_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "navbar_padding": {
+                            "top": "14",
+                            "right": "18",
+                            "bottom": "14",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "navbar_radius": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "navbar_focus_color": "#7A83B6",
+                        "navbar_glass_blur": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "navbar_decoration_size": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "navbar_decoration_inset": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "text_padding": {
+                            "top": "11",
+                            "right": "12",
+                            "bottom": "11",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "text_padding_mobile": {
+                            "top": "12",
+                            "right": "10",
+                            "bottom": "12",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "menu_height": {
+                            "size": 44,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_spacing": {
+                            "size": 4,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_bottom_spacing": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_border_radius": {
+                            "top": "9",
+                            "right": "9",
+                            "bottom": "9",
+                            "left": "9",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "menu_border_radius_hover": {
+                            "top": "9",
+                            "right": "9",
+                            "bottom": "9",
+                            "left": "9",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "menu_border_radius_active": {
+                            "top": "9",
+                            "right": "9",
+                            "bottom": "9",
+                            "left": "9",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "menu_link_color": "#3C5174",
+                        "menu_link_color_hover": "#3C5174",
+                        "menu_hover_color_active": "#3C5174",
+                        "link_background_hover": "#7A83B618",
+                        "menu_hover_background_color_active": "#7A83B618",
+                        "navbar_hover_style_color": "#7A83B6",
+                        "navbar_active_style_color": "#7A83B6",
+                        "menu_parent_arrow_color": "#7A83B6",
+                        "menu_parent_arrow_color_hover": "#3C5174",
+                        "menu_parent_arrow_color_active": "#3C5174",
+                        "menu_typography_normal_typography": "custom",
+                        "menu_typography_normal_font_family": "Arial",
+                        "menu_typography_normal_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_typography_normal_font_weight": "600",
+                        "menu_typography_normal_line_height": {
+                            "size": 1.4,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "dropdown_delay_show": {
+                            "size": 80,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dropdown_delay_hide": {
+                            "size": 180,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dropdown_duration": {
+                            "size": 180,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dropdown_offset": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dropdown_width": {
+                            "size": 240,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dropdown_padding": {
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "navbar_dropdown_radius": {
+                            "top": "14",
+                            "right": "14",
+                            "bottom": "14",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "navbar_dropdown_border_border": "solid",
+                        "navbar_dropdown_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "navbar_dropdown_border_color": "#7A83B640",
+                        "dropdown_background": "#F5F8FE",
+                        "dropdown_link_color": "#3C5174",
+                        "dropdown_link_hover_color": "#3C5174",
+                        "dropdown_active_color": "#3C5174",
+                        "dropdown_link_hover_bg_color": "#7A83B61A",
+                        "dropdown_active_bg_color": "#7A83B61A",
+                        "dropdown_link_spacing": {
+                            "top": "11",
+                            "right": "12",
+                            "bottom": "11",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "dropdown_link_radius": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "dropdown_radius_hover": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "dropdown_parent_arrow_color": "#7A83B6",
+                        "dropdown_parent_arrow_color_hover": "#3C5174",
+                        "dropdown_link_typography_typography": "custom",
+                        "dropdown_link_typography_font_family": "Arial",
+                        "dropdown_link_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dropdown_link_typography_line_height": {
+                            "size": 1.45,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "mobile_toggle_align": "flex-end",
+                        "mobile_toggle_padding": {
+                            "top": "9",
+                            "right": "11",
+                            "bottom": "9",
+                            "left": "11",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "mobile_toggle_border_radius": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_toggle_text_color": "#3C5174",
+                        "mobile_toggle_bg_color": "#F5F8FE",
+                        "mobile_toggle_border_color": "#7A83B650",
+                        "mobile_toggle_typography_typography": "custom",
+                        "mobile_toggle_typography_font_family": "Arial",
+                        "mobile_toggle_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_menu_panel_bg": "#F5F8FE",
+                        "mobile_menu_panel_border": "#7A83B640",
+                        "mobile_menu_panel_radius": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_menu_panel_padding": {
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "navbar_panel_gap": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "navbar_brand_typography_typography": "custom",
+                        "navbar_brand_typography_font_family": "Arial",
+                        "navbar_brand_typography_font_size": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "navbar_brand_typography_font_size_mobile": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "navbar_brand_typography_font_weight": "700",
+                        "navbar_brand_typography_line_height": {
+                            "size": 1.2,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "navbar_action_typography_typography": "custom",
+                        "navbar_action_typography_font_family": "Arial",
+                        "navbar_action_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "navbar_action_typography_font_size_mobile": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "navbar_action_typography_font_weight": "600",
+                        "navbar_action_padding": {
+                            "top": "10",
+                            "right": "14",
+                            "bottom": "10",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "navbar_action_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "navbar_brand_normal_paint_mode": "gradient",
+                        "navbar_brand_normal_color": "#3C5174",
+                        "navbar_brand_hover_paint_mode": "classic",
+                        "navbar_brand_hover_color": "#3C5174",
+                        "navbar_mobile_text_paint_mode": "classic",
+                        "navbar_mobile_text_color": "#3C5174",
+                        "navbar_action_normal_paint_mode": "classic",
+                        "navbar_action_normal_color": "#FFFFFF",
+                        "navbar_action_hover_paint_mode": "classic",
+                        "navbar_action_hover_color": "#FFFFFF",
+                        "navbar_action_normal_bg_background": "classic",
+                        "navbar_action_normal_bg_color": "#526B8E",
+                        "navbar_action_hover_bg_background": "classic",
+                        "navbar_action_hover_bg_color": "#3E5577",
+                        "navpaint_menu_link_color_paint_mode": "classic",
+                        "navpaint_menu_link_color_hover_paint_mode": "classic",
+                        "navpaint_menu_hover_color_active_paint_mode": "classic",
+                        "navpaint_dropdown_link_color_paint_mode": "classic",
+                        "navpaint_dropdown_link_hover_color_paint_mode": "classic",
+                        "navpaint_dropdown_active_color_paint_mode": "classic",
+                        "navpaint_mobile_toggle_text_color_paint_mode": "classic",
+                        "navbar_brand_normal_gradient_start": "#745EAE",
+                        "navbar_brand_normal_gradient_end": "#4088A3"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-navbar",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Navbar — Glaze",
+    "type": "section"
+}

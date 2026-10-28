@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains eighty-four original designs across fourteen widget families. The six new Multicolumn Pricing Table designs require Calio Free 1.21+; the other published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains ninety original designs across fifteen widget families. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -227,3 +227,7 @@ The repository contains data and images only, never executable PHP or JavaScript
 ### Multicolumn Pricing Table
 
 Studio, Ledger, Nocturne, Folio, Glaze and Grove cover six editable skins with two, three or four plans. Monthly/yearly prices, feature groups, native SVG indicators, optional feature notes and responsive plan selection use registered controls. Studio starts with a shorter feature comparison; its button expands the remaining rows. Nocturne and Glaze start with yearly prices. These are illustrative demo prices and plan terms; replace them before publishing a business page. The new family requires Calio Free 1.21+, whose plugin release is prepared separately from this catalog.
+
+### Navbar
+
+Studio, Petal, Grove, Folio, Glaze and Nocturne offer six editable navigation styles with optional brand/action links, a native mobile toggle and two levels of dropdowns. Their Custom Items source is self-contained, so it needs no site-specific WordPress menu IDs, saved templates, media or custom CSS. Previews show the expanded dropdowns; menus start closed on import. The original WordPress Menu source remains available. Navbar designs require Calio Free 1.21+, whose plugin release is prepared separately from this catalog. Replace the illustrative brand, labels and placeholder links before publishing a site.

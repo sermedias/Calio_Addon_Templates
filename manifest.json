@@ -1523,6 +1523,72 @@
       ],
       "file": "widgets/multicolumn-pricing-table-grove-free.json",
       "thumbnail": "screenshots/multicolumn-pricing-table-grove-free.webp"
+    },
+    {
+      "id": "navbar-studio-free",
+      "title": "Navbar — Studio / Free",
+      "type": "widgets",
+      "categories": [
+        "Navbar",
+        "Navigation"
+      ],
+      "file": "widgets/navbar-studio-free.json",
+      "thumbnail": "screenshots/navbar-studio-free.webp"
+    },
+    {
+      "id": "navbar-petal-free",
+      "title": "Navbar — Petal / Free",
+      "type": "widgets",
+      "categories": [
+        "Navbar",
+        "Navigation"
+      ],
+      "file": "widgets/navbar-petal-free.json",
+      "thumbnail": "screenshots/navbar-petal-free.webp"
+    },
+    {
+      "id": "navbar-grove-free",
+      "title": "Navbar — Grove / Free",
+      "type": "widgets",
+      "categories": [
+        "Navbar",
+        "Navigation"
+      ],
+      "file": "widgets/navbar-grove-free.json",
+      "thumbnail": "screenshots/navbar-grove-free.webp"
+    },
+    {
+      "id": "navbar-folio-free",
+      "title": "Navbar — Folio / Free",
+      "type": "widgets",
+      "categories": [
+        "Navbar",
+        "Navigation"
+      ],
+      "file": "widgets/navbar-folio-free.json",
+      "thumbnail": "screenshots/navbar-folio-free.webp"
+    },
+    {
+      "id": "navbar-glaze-free",
+      "title": "Navbar — Glaze / Free",
+      "type": "widgets",
+      "categories": [
+        "Navbar",
+        "Navigation"
+      ],
+      "file": "widgets/navbar-glaze-free.json",
+      "thumbnail": "screenshots/navbar-glaze-free.webp"
+    },
+    {
+      "id": "navbar-nocturne-free",
+      "title": "Navbar — Nocturne / Free",
+      "type": "widgets",
+      "categories": [
+        "Navbar",
+        "Navigation"
+      ],
+      "file": "widgets/navbar-nocturne-free.json",
+      "thumbnail": "screenshots/navbar-nocturne-free.webp"
     }
   ]
 }
