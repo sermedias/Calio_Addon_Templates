@@ -1391,6 +1391,72 @@
       ],
       "file": "widgets/kinetic-card-glaze-free.json",
       "thumbnail": "screenshots/kinetic-card-glaze-free.webp"
+    },
+    {
+      "id": "mega-menu-studio-free",
+      "title": "Mega Menu — Studio / Free",
+      "type": "widgets",
+      "categories": [
+        "Mega Menu",
+        "Navigation"
+      ],
+      "file": "widgets/mega-menu-studio-free.json",
+      "thumbnail": "screenshots/mega-menu-studio-free.webp"
+    },
+    {
+      "id": "mega-menu-petal-free",
+      "title": "Mega Menu — Petal / Free",
+      "type": "widgets",
+      "categories": [
+        "Mega Menu",
+        "Navigation"
+      ],
+      "file": "widgets/mega-menu-petal-free.json",
+      "thumbnail": "screenshots/mega-menu-petal-free.webp"
+    },
+    {
+      "id": "mega-menu-signal-free",
+      "title": "Mega Menu — Signal / Free",
+      "type": "widgets",
+      "categories": [
+        "Mega Menu",
+        "Navigation"
+      ],
+      "file": "widgets/mega-menu-signal-free.json",
+      "thumbnail": "screenshots/mega-menu-signal-free.webp"
+    },
+    {
+      "id": "mega-menu-frost-free",
+      "title": "Mega Menu — Frost / Free",
+      "type": "widgets",
+      "categories": [
+        "Mega Menu",
+        "Navigation"
+      ],
+      "file": "widgets/mega-menu-frost-free.json",
+      "thumbnail": "screenshots/mega-menu-frost-free.webp"
+    },
+    {
+      "id": "mega-menu-folio-free",
+      "title": "Mega Menu — Folio / Free",
+      "type": "widgets",
+      "categories": [
+        "Mega Menu",
+        "Navigation"
+      ],
+      "file": "widgets/mega-menu-folio-free.json",
+      "thumbnail": "screenshots/mega-menu-folio-free.webp"
+    },
+    {
+      "id": "mega-menu-nocturne-free",
+      "title": "Mega Menu — Nocturne / Free",
+      "type": "widgets",
+      "categories": [
+        "Mega Menu",
+        "Navigation"
+      ],
+      "file": "widgets/mega-menu-nocturne-free.json",
+      "thumbnail": "screenshots/mega-menu-nocturne-free.webp"
     }
   ]
 }

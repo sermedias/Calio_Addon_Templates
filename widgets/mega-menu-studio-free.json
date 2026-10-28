@@ -1,0 +1,550 @@
+{
+    "content": [
+        {
+            "id": "16dfdb58",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "2bf2e27d",
+                    "settings": {
+                        "menu_source": "custom",
+                        "menu_label": "Studio navigation",
+                        "menu_items": [
+                            {
+                                "_id": "mrow0",
+                                "label": "Discover",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "0",
+                                "panel_type": "mega",
+                                "panel_title": "Explore the studio",
+                                "panel_text": "Considered ideas, from the first spark to the final detail.",
+                                "description": "",
+                                "icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow1",
+                                "label": "Fresh ideas",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "A starting point for something new.",
+                                "icon": {
+                                    "value": "fas fa-lightbulb",
+                                    "library": "fa-solid"
+                                },
+                                "badge": "New",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow2",
+                                "label": "Our approach",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "A thoughtful path from idea to action.",
+                                "icon": {
+                                    "value": "fas fa-compass",
+                                    "library": "fa-solid"
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow3",
+                                "label": "Selected work",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "Explore the details behind the outcome.",
+                                "icon": {
+                                    "value": "fas fa-layer-group",
+                                    "library": "fa-solid"
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow4",
+                                "label": "Resources",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "Useful guides for your next step.",
+                                "icon": {
+                                    "value": "fas fa-book-open",
+                                    "library": "fa-solid"
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow5",
+                                "label": "In good company",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "Meet the people behind the process.",
+                                "icon": {
+                                    "value": "fas fa-users",
+                                    "library": "fa-solid"
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow6",
+                                "label": "Start a conversation",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "Make room for your next possibility.",
+                                "icon": {
+                                    "value": "fas fa-comment",
+                                    "library": "fa-solid"
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow7",
+                                "label": "Studio",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "0",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "",
+                                "icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow8",
+                                "label": "Our story",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "",
+                                "icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow9",
+                                "label": "The journal",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "1",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "",
+                                "icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow10",
+                                "label": "Resources",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "0",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "",
+                                "icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "badge": "",
+                                "active": ""
+                            },
+                            {
+                                "_id": "mrow11",
+                                "label": "Contact",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "level": "0",
+                                "panel_type": "dropdown",
+                                "panel_title": "",
+                                "panel_text": "",
+                                "description": "",
+                                "icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "badge": "",
+                                "active": ""
+                            }
+                        ],
+                        "menu_skin": "original",
+                        "menu_align": "center",
+                        "interaction": "click",
+                        "mobile_toggle": "yes",
+                        "mobile_toggle_label": "Explore Studio",
+                        "mobile_close_label": "Close navigation",
+                        "mobile_layout_mode": "dropdown",
+                        "mobile_toggle_skin": "outline",
+                        "mobile_overlay": "yes",
+                        "mobile_breakpoint": {
+                            "size": 900,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_offcanvas_panel_width_style": {
+                            "size": 350,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mega_bar_padding": {
+                            "top": "16",
+                            "right": "20",
+                            "bottom": "16",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "mega_bar_radius": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "menu_typography_typography": "custom",
+                        "menu_typography_font_family": "Arial",
+                        "menu_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_typography_font_weight": "600",
+                        "menu_typography_line_height": {
+                            "size": 1.4,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "menu_item_padding": {
+                            "top": "12",
+                            "right": "16",
+                            "bottom": "12",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "menu_item_gap": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_item_radius": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_text_color": "#27354C",
+                        "menu_hover_color": "#27354C",
+                        "menu_hover_bg": "#6B7EAC20",
+                        "menu_active_color": "#27354C",
+                        "menu_active_bg": "#6B7EAC24",
+                        "menu_icon_color": "#6B7EAC",
+                        "menu_hover_icon_color": "#6B7EAC",
+                        "menu_indicator_color": "#6B7EAC",
+                        "mega_indicator_hover_bg_background": "classic",
+                        "mega_indicator_hover_bg_color": "#6B7EAC20",
+                        "menu_indicator_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "submenu_indicator_icon": "chevron",
+                        "submenu_indicator_motion": "rotate",
+                        "submenu_indicator_behavior": "always",
+                        "panel_bg_color": "#FFFFFF",
+                        "panel_padding": {
+                            "top": "28",
+                            "right": "28",
+                            "bottom": "28",
+                            "left": "28",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "panel_padding_mobile": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "panel_radius": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mega_columns": "3",
+                        "mega_columns_mobile": "1",
+                        "mega_grid_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mega_heading_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mega_accent": "#6B7EAC",
+                        "mega_focus": "#6B7EAC",
+                        "mega_glass_blur": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "submenu_typography_typography": "custom",
+                        "submenu_typography_font_family": "Arial",
+                        "submenu_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "submenu_typography_font_weight": "600",
+                        "submenu_text_color": "#27354C",
+                        "submenu_hover_text_color": "#27354C",
+                        "submenu_hover_bg_color": "#6B7EAC18",
+                        "submenu_bg_color": "#FFFFFF",
+                        "submenu_item_padding": {
+                            "top": "14",
+                            "right": "14",
+                            "bottom": "14",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "submenu_item_radius": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "submenu_min_width": {
+                            "size": 240,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mega_heading_typography_typography": "custom",
+                        "mega_heading_typography_font_family": "Arial",
+                        "mega_heading_typography_font_size": {
+                            "size": 25,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mega_heading_typography_font_size_mobile": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mega_heading_typography_font_weight": "700",
+                        "mega_heading_paint_mode": "classic",
+                        "mega_heading_color": "#27354C",
+                        "mega_description_paint_mode": "classic",
+                        "mega_description_color": "#788391",
+                        "mega_description_typography_typography": "custom",
+                        "mega_description_typography_font_family": "Arial",
+                        "mega_description_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mega_item_description_paint_mode": "classic",
+                        "mega_item_description_color": "#788391",
+                        "mega_item_description_typography_typography": "custom",
+                        "mega_item_description_typography_font_family": "Arial",
+                        "mega_item_description_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mega_item_description_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "menu_badge_bg_color": "#6B7EAC26",
+                        "menu_badge_text_color": "#6B7EAC",
+                        "menu_badge_typography_typography": "custom",
+                        "menu_badge_typography_font_family": "Arial",
+                        "menu_badge_typography_font_size": {
+                            "size": 9,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_toggle_text_color_style": "#27354C",
+                        "mobile_toggle_bg_color_style": "#FFFFFF",
+                        "mobile_toggle_border_color_style": "#6B7EAC77",
+                        "mobile_toggle_typography_typography": "custom",
+                        "mobile_toggle_typography_font_family": "Arial",
+                        "mobile_toggle_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_panel_bg_color_style": "#FFFFFF",
+                        "mobile_submenu_bg_color_style": "#FFFFFF",
+                        "mobile_panel_padding_style": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "mobile_panel_radius_style": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_item_text_color_style": "#27354C",
+                        "mobile_item_hover_text_color_style": "#27354C",
+                        "mobile_item_open_text_color_style": "#27354C",
+                        "mobile_item_hover_bg_color_style": "#6B7EAC22",
+                        "mobile_item_open_bg_color_style": "#6B7EAC22",
+                        "mobile_items_typography_typography": "custom",
+                        "mobile_items_typography_font_family": "Arial",
+                        "mobile_items_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_item_padding_style": {
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "mobile_overlay_bg_color_style": "#17233866",
+                        "mobile_overlay_blur_style": {
+                            "size": 4,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-mega-menu",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Mega Menu — Studio",
+    "type": "section"
+}

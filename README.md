@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab (Calio Free 1.15+) contains seventy-two original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out, Fancy Tabs, Feature List, Feature List Simple, Filterable Gallery and Image Flow. Choose **Free â†’ Image Flow** to find the new image preview collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
+The **Ready Widgets** tab (Calio Free 1.15+) contains seventy-eight original designs: six each for Accent Headline, Advanced Heading, Advanced Button, Business Hours, Call Out, Fancy Tabs, Feature List, Feature List Simple, Filterable Gallery and Image Flow. Choose **Free â†’ Image Flow** to find the new image preview collection. Each export is a native Elementor `section` containing one container and one editable Calio Free widget.
 
 ### Accent Headline designs
 
@@ -173,6 +173,17 @@ Each native section contains one editable Calio Free Image Gallery. Three origin
 - **Glaze:** a translucent green workspace card with editable blur and image styling.
 
 Each native section contains one editable Calio Free Kinetic Card. Five designs reveal details on hover/keyboard or click/tap through a native accessible toggle; Letter remains open. Previews show the settled open state. Copy, safe links, native icons, directional images, reveal surfaces and device dimensions use registered controls. Original Calio PNGs already in media/atelier and media/northstar import into the destination media library. Replace the illustrative artwork and demo links as needed. No Pro widget, external font, custom CSS, new library or service is required. Preview canvases are presentation context outside the reusable section. Requires the prepared Free 1.15 Kinetic Card update; catalog publication does not distribute that plugin release to WordPress.org.
+
+### Mega Menu designs
+
+- **Studio:** a clear white navigation bar and spacious three-column panel.
+- **Petal:** a soft pill bar with lavender surfaces and a left mobile drawer.
+- **Signal:** precise underline accents and a calm green resource panel.
+- **Frost:** translucent surfaces with adjustable blur and a right mobile drawer.
+- **Folio:** an editorial index with serif copy and fine rules.
+- **Nocturne:** a dark navigation bar with a gradient panel heading.
+
+Each native section contains one editable Calio Free Mega Menu. Portable Custom Items include labels, safe links, icons, descriptions, badges and editable levels; these presets require no WordPress menu or template IDs from another site. Previews show an open panel. Switch to WordPress Menu to use your own navigation and native Elementor templates. Replace demo links as needed. All styles use registered controls without custom CSS, Pro widgets, external fonts, media or new libraries. Preview canvases are presentation context outside the reusable section. Requires prepared Free 1.15; catalog publication does not distribute that WordPress.org plugin release.
 
 ## Automatic Free / Pro classification
 
