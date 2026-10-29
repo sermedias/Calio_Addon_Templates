@@ -1805,6 +1805,78 @@
       ],
       "file": "widgets/post-timeline-orbit-free.json",
       "thumbnail": "screenshots/post-timeline-orbit-free.webp"
+    },
+    {
+      "id": "posts-tab-atlas-free",
+      "title": "Posts Tab — Atlas / Free",
+      "type": "widgets",
+      "categories": [
+        "Posts Tab",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/posts-tab-atlas-free.json",
+      "thumbnail": "screenshots/posts-tab-atlas-free.webp"
+    },
+    {
+      "id": "posts-tab-gazette-free",
+      "title": "Posts Tab — Gazette / Free",
+      "type": "widgets",
+      "categories": [
+        "Posts Tab",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/posts-tab-gazette-free.json",
+      "thumbnail": "screenshots/posts-tab-gazette-free.webp"
+    },
+    {
+      "id": "posts-tab-index-free",
+      "title": "Posts Tab — Index / Free",
+      "type": "widgets",
+      "categories": [
+        "Posts Tab",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/posts-tab-index-free.json",
+      "thumbnail": "screenshots/posts-tab-index-free.webp"
+    },
+    {
+      "id": "posts-tab-mosaic-free",
+      "title": "Posts Tab — Mosaic / Free",
+      "type": "widgets",
+      "categories": [
+        "Posts Tab",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/posts-tab-mosaic-free.json",
+      "thumbnail": "screenshots/posts-tab-mosaic-free.webp"
+    },
+    {
+      "id": "posts-tab-veil-free",
+      "title": "Posts Tab — Veil / Free",
+      "type": "widgets",
+      "categories": [
+        "Posts Tab",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/posts-tab-veil-free.json",
+      "thumbnail": "screenshots/posts-tab-veil-free.webp"
+    },
+    {
+      "id": "posts-tab-afterglow-free",
+      "title": "Posts Tab — Afterglow / Free",
+      "type": "widgets",
+      "categories": [
+        "Posts Tab",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/posts-tab-afterglow-free.json",
+      "thumbnail": "screenshots/posts-tab-afterglow-free.webp"
     }
   ]
 }
