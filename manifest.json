@@ -1877,6 +1877,78 @@
       ],
       "file": "widgets/posts-tab-afterglow-free.json",
       "thumbnail": "screenshots/posts-tab-afterglow-free.webp"
+    },
+    {
+      "id": "progress-pie-focus-free",
+      "title": "Progress Pie — Focus / Free",
+      "type": "widgets",
+      "categories": [
+        "Progress Pie",
+        "Progress",
+        "Statistics"
+      ],
+      "file": "widgets/progress-pie-focus-free.json",
+      "thumbnail": "screenshots/progress-pie-focus-free.webp"
+    },
+    {
+      "id": "progress-pie-grove-free",
+      "title": "Progress Pie — Grove / Free",
+      "type": "widgets",
+      "categories": [
+        "Progress Pie",
+        "Progress",
+        "Statistics"
+      ],
+      "file": "widgets/progress-pie-grove-free.json",
+      "thumbnail": "screenshots/progress-pie-grove-free.webp"
+    },
+    {
+      "id": "progress-pie-ledger-free",
+      "title": "Progress Pie — Ledger / Free",
+      "type": "widgets",
+      "categories": [
+        "Progress Pie",
+        "Progress",
+        "Statistics"
+      ],
+      "file": "widgets/progress-pie-ledger-free.json",
+      "thumbnail": "screenshots/progress-pie-ledger-free.webp"
+    },
+    {
+      "id": "progress-pie-glaze-free",
+      "title": "Progress Pie — Glaze / Free",
+      "type": "widgets",
+      "categories": [
+        "Progress Pie",
+        "Progress",
+        "Statistics"
+      ],
+      "file": "widgets/progress-pie-glaze-free.json",
+      "thumbnail": "screenshots/progress-pie-glaze-free.webp"
+    },
+    {
+      "id": "progress-pie-nocturne-free",
+      "title": "Progress Pie — Nocturne / Free",
+      "type": "widgets",
+      "categories": [
+        "Progress Pie",
+        "Progress",
+        "Statistics"
+      ],
+      "file": "widgets/progress-pie-nocturne-free.json",
+      "thumbnail": "screenshots/progress-pie-nocturne-free.webp"
+    },
+    {
+      "id": "progress-pie-orbit-free",
+      "title": "Progress Pie — Orbit / Free",
+      "type": "widgets",
+      "categories": [
+        "Progress Pie",
+        "Progress",
+        "Statistics"
+      ],
+      "file": "widgets/progress-pie-orbit-free.json",
+      "thumbnail": "screenshots/progress-pie-orbit-free.webp"
     }
   ]
 }
