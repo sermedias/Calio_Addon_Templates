@@ -1,0 +1,231 @@
+{
+    "content": [
+        {
+            "id": "4673747e",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "7ed4dd2f",
+                    "settings": {
+                        "skin": "editorial",
+                        "data_source": "static_source",
+                        "static_columns": [
+                            {
+                                "_id": "tbcol0",
+                                "title": "Project"
+                            },
+                            {
+                                "_id": "tbcol1",
+                                "title": "Chapter"
+                            },
+                            {
+                                "_id": "tbcol2",
+                                "title": "Progress"
+                            },
+                            {
+                                "_id": "tbcol3",
+                                "title": "Next step"
+                            }
+                        ],
+                        "static_rows": [
+                            {
+                                "_id": "tbrow0",
+                                "cells": "Field Notes|Research|80%|Review findings",
+                                "highlight": ""
+                            },
+                            {
+                                "_id": "tbrow1",
+                                "cells": "Open House|Direction|65%|Refine concepts",
+                                "highlight": ""
+                            },
+                            {
+                                "_id": "tbrow2",
+                                "cells": "Common Ground|Design|45%|Build the system",
+                                "highlight": ""
+                            },
+                            {
+                                "_id": "tbrow3",
+                                "cells": "New Perspective|Development|30%|Create a prototype",
+                                "highlight": ""
+                            },
+                            {
+                                "_id": "tbrow4",
+                                "cells": "The Next Chapter|Launch|10%|Plan the release",
+                                "highlight": ""
+                            }
+                        ],
+                        "static_allow_html": "",
+                        "support_type": "default",
+                        "static_type": "default",
+                        "caption": "The project ledger",
+                        "table_label": "The project ledger",
+                        "row_headers": "yes",
+                        "responsive_scroll": "yes",
+                        "hide_header": "",
+                        "enable_datatable": "yes",
+                        "datatable_search": "yes",
+                        "datatable_ordering": "yes",
+                        "datatable_pagination": "yes",
+                        "datatable_info": "yes",
+                        "datatable_length_menu": "yes",
+                        "datatable_length_custom_input": "",
+                        "rows_per_page": 5,
+                        "rows_per_page_min": 1,
+                        "rows_per_page_max": 100,
+                        "search_placeholder": "Find something...",
+                        "stripe_style": "yes",
+                        "row_hover": "yes",
+                        "remove_vertical_border": "",
+                        "leading_column_style": "",
+                        "table_min_width": {
+                            "size": 740,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "table_min_width_mobile": {
+                            "size": 660,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "table_surface_background": "classic",
+                        "table_surface_color": "#FAF6ED",
+                        "table_radius": {
+                            "top": "4",
+                            "right": "4",
+                            "bottom": "4",
+                            "left": "4",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "header_text_paint_mode": "classic",
+                        "header_text_color": "#584831",
+                        "header_surface_mode": "classic",
+                        "header_bg_color": "#E9DECA",
+                        "body_text_paint_mode": "classic",
+                        "body_text_color": "#584831",
+                        "body_surface_mode": "classic",
+                        "body_bg_color": "#FAF6ED",
+                        "stripe_surface_mode": "classic",
+                        "row_even_bg": "#F0E8D9",
+                        "highlight_surface_background": "classic",
+                        "highlight_surface_color": "#EDE4F9",
+                        "highlight_text_paint_mode": "classic",
+                        "highlight_text_color": "#584831",
+                        "row_hover_paint_mode": "classic",
+                        "row_hover_text": "#584831",
+                        "hover_surface_mode": "classic",
+                        "row_hover_bg": "#EDE0CA",
+                        "filter_input_text_color": "#584831",
+                        "filter_input_bg": "#FFFFFF",
+                        "filter_footer_text_color": "#777C86",
+                        "filter_header_text_color": "#777C86",
+                        "focus_color": "#A17F50",
+                        "sort_indicator_color": "#A17F50",
+                        "caption_text_paint_mode": "classic",
+                        "caption_text_color": "#584831",
+                        "caption_typography_typography": "custom",
+                        "caption_typography_font_family": "Georgia",
+                        "caption_typography_font_size": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_font_size_mobile": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_font_weight": "400",
+                        "caption_typography_line_height": {
+                            "size": 1.3,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "caption_padding": {
+                            "top": "22",
+                            "right": "24",
+                            "bottom": "22",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "header_typography_typography": "custom",
+                        "header_typography_font_family": "Arial",
+                        "header_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_weight": "700",
+                        "header_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "body_typography_typography": "custom",
+                        "body_typography_font_family": "Arial",
+                        "body_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "body_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "header_padding": {
+                            "top": "16",
+                            "right": "22",
+                            "bottom": "16",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "body_cell_padding": {
+                            "top": "18",
+                            "right": "22",
+                            "bottom": "18",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "toolbar_typography_typography": "custom",
+                        "toolbar_typography_font_family": "Arial",
+                        "toolbar_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-table",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Table — Ledger",
+    "type": "section"
+}

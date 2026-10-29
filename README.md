@@ -255,3 +255,7 @@ Focus, Grove, Ledger, Glaze, Nocturne and Orbit offer six editable circular prog
 ### Stylish List
 
 Verge, Index, Chapter, Frost, Nightfall and Trace offer six native editable lists across Original, Minimal, Editorial, Glass, Contrast and Outline skins. Each section contains one widget with three illustrative linked items, registered icon/counter/badge and copy controls, responsive vertical or horizontal layouts and independent Classic/gradient paint. Links use a local placeholder anchor; replace it with your actual destination. No media, site IDs, external libraries or custom CSS are imported. New controls and skins require prepared Calio Free 1.22+, whose WordPress.org release is separate.
+
+### Table
+
+Roster, Ledger, Matrix, Frost, Nightfall and Trace provide six editable native data tables across Original, Editorial, Minimal, Glass, Contrast and Outline skins. Each section contains one widget with five illustrative rows, four columns, an editable caption, native row headings, search and sorting. Narrow screens retain readable columns through horizontal scrolling. All copy, typography, surfaces, highlights and interaction colors use registered controls. No media, site IDs, external libraries or custom CSS are imported. New controls and skins require prepared Calio Free 1.22+, whose WordPress.org release is separate.

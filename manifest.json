@@ -2021,6 +2021,78 @@
       ],
       "file": "widgets/stylish-list-trace-free.json",
       "thumbnail": "screenshots/stylish-list-trace-free.webp"
+    },
+    {
+      "id": "table-roster-free",
+      "title": "Table â€” Roster / Free",
+      "type": "widgets",
+      "categories": [
+        "Table",
+        "Data",
+        "Comparison"
+      ],
+      "file": "widgets/table-roster-free.json",
+      "thumbnail": "screenshots/table-roster-free.webp"
+    },
+    {
+      "id": "table-ledger-free",
+      "title": "Table â€” Ledger / Free",
+      "type": "widgets",
+      "categories": [
+        "Table",
+        "Data",
+        "Comparison"
+      ],
+      "file": "widgets/table-ledger-free.json",
+      "thumbnail": "screenshots/table-ledger-free.webp"
+    },
+    {
+      "id": "table-matrix-free",
+      "title": "Table â€” Matrix / Free",
+      "type": "widgets",
+      "categories": [
+        "Table",
+        "Data",
+        "Comparison"
+      ],
+      "file": "widgets/table-matrix-free.json",
+      "thumbnail": "screenshots/table-matrix-free.webp"
+    },
+    {
+      "id": "table-frost-free",
+      "title": "Table â€” Frost / Free",
+      "type": "widgets",
+      "categories": [
+        "Table",
+        "Data",
+        "Comparison"
+      ],
+      "file": "widgets/table-frost-free.json",
+      "thumbnail": "screenshots/table-frost-free.webp"
+    },
+    {
+      "id": "table-nightfall-free",
+      "title": "Table â€” Nightfall / Free",
+      "type": "widgets",
+      "categories": [
+        "Table",
+        "Data",
+        "Comparison"
+      ],
+      "file": "widgets/table-nightfall-free.json",
+      "thumbnail": "screenshots/table-nightfall-free.webp"
+    },
+    {
+      "id": "table-trace-free",
+      "title": "Table â€” Trace / Free",
+      "type": "widgets",
+      "categories": [
+        "Table",
+        "Data",
+        "Comparison"
+      ],
+      "file": "widgets/table-trace-free.json",
+      "thumbnail": "screenshots/table-trace-free.webp"
     }
   ]
 }
