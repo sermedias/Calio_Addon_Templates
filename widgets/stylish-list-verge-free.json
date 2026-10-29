@@ -1,0 +1,317 @@
+{
+    "content": [
+        {
+            "id": "1fe3d2cb",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "5024e9cb",
+                    "settings": {
+                        "skin": "original",
+                        "list_type": "vertical",
+                        "items": [
+                            {
+                                "_id": "slrow1",
+                                "title": "Find the interesting part",
+                                "description": "Start with a question worth exploring.",
+                                "media_type": "icon",
+                                "icon": {
+                                    "value": "fas fa-lightbulb",
+                                    "library": "fa-solid"
+                                },
+                                "image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "show_badge": "yes",
+                                "badge_text": "Start here",
+                                "badge_text_color": "",
+                                "badge_bg_color": "",
+                                "link": {
+                                    "url": "#discover",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "add_particular_style": "",
+                                "particular_bg_color": "",
+                                "particular_border_color": "",
+                                "particular_icon_color": "",
+                                "particular_icon_bg_color": ""
+                            },
+                            {
+                                "_id": "slrow2",
+                                "title": "Make room for clarity",
+                                "description": "Turn the details into a shared direction.",
+                                "media_type": "icon",
+                                "icon": {
+                                    "value": "fas fa-compass",
+                                    "library": "fa-solid"
+                                },
+                                "image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "show_badge": "",
+                                "badge_text": "",
+                                "badge_text_color": "",
+                                "badge_bg_color": "",
+                                "link": {
+                                    "url": "#discover",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "add_particular_style": "",
+                                "particular_bg_color": "",
+                                "particular_border_color": "",
+                                "particular_icon_color": "",
+                                "particular_icon_bg_color": ""
+                            },
+                            {
+                                "_id": "slrow3",
+                                "title": "Bring the idea to life",
+                                "description": "Create something people can connect with.",
+                                "media_type": "icon",
+                                "icon": {
+                                    "value": "fas fa-leaf",
+                                    "library": "fa-solid"
+                                },
+                                "image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "show_badge": "",
+                                "badge_text": "",
+                                "badge_text_color": "",
+                                "badge_bg_color": "",
+                                "link": {
+                                    "url": "#discover",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "add_particular_style": "",
+                                "particular_bg_color": "",
+                                "particular_border_color": "",
+                                "particular_icon_color": "",
+                                "particular_icon_bg_color": ""
+                            }
+                        ],
+                        "use_counter": "",
+                        "counter_start": 1,
+                        "counter_style": "decimal-leading-zero",
+                        "counter_suffix": "none",
+                        "use_divider": "",
+                        "hover_style": "slide",
+                        "use_entrance_animation": "",
+                        "entrance_duration": 650,
+                        "animation_stagger": 100,
+                        "link_scope": "card",
+                        "title_tag": "h3",
+                        "list_label": "Verge ideas",
+                        "horizontal_columns": 3,
+                        "horizontal_columns_tablet": 2,
+                        "horizontal_columns_mobile": 1,
+                        "stylish_list_item_gap": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stylish_list_item_gap_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_gap_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_vertical_alignment": "center",
+                        "stylish_list_content_alignment": "left",
+                        "stylish_list_content_justify": "center",
+                        "stylish_list_item_bg_background": "classic",
+                        "stylish_list_item_bg_color": "#FFFFFF",
+                        "stylish_list_item_bg_hover_background": "classic",
+                        "stylish_list_item_bg_hover_color": "#FFFFFF",
+                        "stylish_list_item_border_border": "solid",
+                        "stylish_list_item_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "stylish_list_item_border_color": "#FFFFFF",
+                        "stylish_list_item_radius": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "stylish_list_item_padding": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "stylish_list_media_size": {
+                            "size": 48,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stylish_list_media_size_mobile": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stylish_list_icon_size": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stylish_list_media_bg_background": "classic",
+                        "stylish_list_media_bg_color": "#EDF0F8",
+                        "stylish_list_media_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "stylish_list_media_icon_text_paint_mode": "classic",
+                        "stylish_list_media_icon_text_color": "#8667B2",
+                        "stylish_list_counter_bg_background": "classic",
+                        "stylish_list_counter_bg_color": "#E3EDE5",
+                        "stylish_list_counter_text_paint_mode": "classic",
+                        "stylish_list_counter_text_color": "#8667B2",
+                        "stylish_list_counter_padding": {
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "stylish_list_counter_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "stylish_list_badge_bg_background": "classic",
+                        "stylish_list_badge_bg_color": "#F0EBF8",
+                        "stylish_list_badge_text_paint_mode": "classic",
+                        "stylish_list_badge_text_color": "#423757",
+                        "stylish_list_badge_padding": {
+                            "top": "6",
+                            "right": "10",
+                            "bottom": "6",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stylish_list_title_text_paint_mode": "classic",
+                        "stylish_list_title_text_color": "#423757",
+                        "stylish_list_description_text_paint_mode": "classic",
+                        "stylish_list_description_text_color": "#78808A",
+                        "stylish_list_title_spacing": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stylish_list_title_typography_typography": "custom",
+                        "stylish_list_title_typography_font_family": "Arial",
+                        "stylish_list_title_typography_font_size": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stylish_list_title_typography_font_size_mobile": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stylish_list_title_typography_font_weight": "600",
+                        "stylish_list_title_typography_line_height": {
+                            "size": 1.3,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "stylish_list_description_typography_typography": "custom",
+                        "stylish_list_description_typography_font_family": "Arial",
+                        "stylish_list_description_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stylish_list_description_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "stylish_list_counter_typography_typography": "custom",
+                        "stylish_list_counter_typography_font_family": "Arial",
+                        "stylish_list_counter_typography_font_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stylish_list_counter_typography_font_weight": "700",
+                        "stylish_list_badge_typography_typography": "custom",
+                        "stylish_list_badge_typography_font_family": "Arial",
+                        "stylish_list_badge_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "focus_color": "#8667B2"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-stylish-list",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Stylish List — Verge",
+    "type": "section"
+}

@@ -1949,6 +1949,78 @@
       ],
       "file": "widgets/progress-pie-orbit-free.json",
       "thumbnail": "screenshots/progress-pie-orbit-free.webp"
+    },
+    {
+      "id": "stylish-list-verge-free",
+      "title": "Stylish List — Verge / Free",
+      "type": "widgets",
+      "categories": [
+        "Stylish List",
+        "Lists",
+        "Features"
+      ],
+      "file": "widgets/stylish-list-verge-free.json",
+      "thumbnail": "screenshots/stylish-list-verge-free.webp"
+    },
+    {
+      "id": "stylish-list-index-free",
+      "title": "Stylish List — Index / Free",
+      "type": "widgets",
+      "categories": [
+        "Stylish List",
+        "Lists",
+        "Features"
+      ],
+      "file": "widgets/stylish-list-index-free.json",
+      "thumbnail": "screenshots/stylish-list-index-free.webp"
+    },
+    {
+      "id": "stylish-list-chapter-free",
+      "title": "Stylish List — Chapter / Free",
+      "type": "widgets",
+      "categories": [
+        "Stylish List",
+        "Lists",
+        "Features"
+      ],
+      "file": "widgets/stylish-list-chapter-free.json",
+      "thumbnail": "screenshots/stylish-list-chapter-free.webp"
+    },
+    {
+      "id": "stylish-list-frost-free",
+      "title": "Stylish List — Frost / Free",
+      "type": "widgets",
+      "categories": [
+        "Stylish List",
+        "Lists",
+        "Features"
+      ],
+      "file": "widgets/stylish-list-frost-free.json",
+      "thumbnail": "screenshots/stylish-list-frost-free.webp"
+    },
+    {
+      "id": "stylish-list-nightfall-free",
+      "title": "Stylish List — Nightfall / Free",
+      "type": "widgets",
+      "categories": [
+        "Stylish List",
+        "Lists",
+        "Features"
+      ],
+      "file": "widgets/stylish-list-nightfall-free.json",
+      "thumbnail": "screenshots/stylish-list-nightfall-free.webp"
+    },
+    {
+      "id": "stylish-list-trace-free",
+      "title": "Stylish List — Trace / Free",
+      "type": "widgets",
+      "categories": [
+        "Stylish List",
+        "Lists",
+        "Features"
+      ],
+      "file": "widgets/stylish-list-trace-free.json",
+      "thumbnail": "screenshots/stylish-list-trace-free.webp"
     }
   ]
 }

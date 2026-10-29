@@ -251,3 +251,7 @@ Atlas, Gazette, Index, Mosaic, Veil and Afterglow offer six editable layouts acr
 ### Progress Pie
 
 Focus, Grove, Ledger, Glaze, Nocturne and Orbit offer six editable circular progress designs across Original, Minimal, Editorial, Glass, Contrast and Orbit skins. Each native section contains one widget with an illustrative progress value and placeholder copy; replace these with your actual content. Native SVG keeps the ring and value readable without JavaScript. Registered controls edit ring size, thickness, direction, caps and gradient paint, independent text paint, title, description, panel surfaces and optional orbit decoration. Animation uses the selected duration, supports visibility pauses, optional replay and reduced motion. No media, site IDs, external libraries or custom CSS are imported. New controls and skins require prepared Calio Free 1.22+, whose WordPress.org release is separate.
+
+### Stylish List
+
+Verge, Index, Chapter, Frost, Nightfall and Trace offer six native editable lists across Original, Minimal, Editorial, Glass, Contrast and Outline skins. Each section contains one widget with three illustrative linked items, registered icon/counter/badge and copy controls, responsive vertical or horizontal layouts and independent Classic/gradient paint. Links use a local placeholder anchor; replace it with your actual destination. No media, site IDs, external libraries or custom CSS are imported. New controls and skins require prepared Calio Free 1.22+, whose WordPress.org release is separate.
