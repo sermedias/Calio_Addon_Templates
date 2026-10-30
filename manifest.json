@@ -2093,6 +2093,78 @@
       ],
       "file": "widgets/table-trace-free.json",
       "thumbnail": "screenshots/table-trace-free.webp"
+    },
+    {
+      "id": "team-member-index-free",
+      "title": "Team Member — Index / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Member",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-member-index-free.json",
+      "thumbnail": "screenshots/team-member-index-free.webp"
+    },
+    {
+      "id": "team-member-chapter-free",
+      "title": "Team Member — Chapter / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Member",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-member-chapter-free.json",
+      "thumbnail": "screenshots/team-member-chapter-free.webp"
+    },
+    {
+      "id": "team-member-halo-free",
+      "title": "Team Member — Halo / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Member",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-member-halo-free.json",
+      "thumbnail": "screenshots/team-member-halo-free.webp"
+    },
+    {
+      "id": "team-member-nightfall-free",
+      "title": "Team Member — Nightfall / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Member",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-member-nightfall-free.json",
+      "thumbnail": "screenshots/team-member-nightfall-free.webp"
+    },
+    {
+      "id": "team-member-trace-free",
+      "title": "Team Member — Trace / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Member",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-member-trace-free.json",
+      "thumbnail": "screenshots/team-member-trace-free.webp"
+    },
+    {
+      "id": "team-member-studio-free",
+      "title": "Team Member — Studio / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Member",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-member-studio-free.json",
+      "thumbnail": "screenshots/team-member-studio-free.webp"
     }
   ]
 }

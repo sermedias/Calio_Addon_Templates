@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains ninety original designs across fifteen widget families. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 138 editable designs across 23 widget families. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -259,3 +259,7 @@ Verge, Index, Chapter, Frost, Nightfall and Trace offer six native editable list
 ### Table
 
 Roster, Ledger, Matrix, Frost, Nightfall and Trace provide six editable native data tables across Original, Editorial, Minimal, Glass, Contrast and Outline skins. Each section contains one widget with five illustrative rows, four columns, an editable caption, native row headings, search and sorting. Narrow screens retain readable columns through horizontal scrolling. All copy, typography, surfaces, highlights and interaction colors use registered controls. No media, site IDs, external libraries or custom CSS are imported. New controls and skins require prepared Calio Free 1.22+, whose WordPress.org release is separate.
+
+### Team Member
+
+Index, Chapter, Halo, Nightfall, Trace and Studio provide six editable profile sections across the new Minimal, Editorial, Glass, Contrast, Outline and Split skins. Existing Simple, Overlay, Centered, Social Bottom and Social Right settings remain supported. Each native section contains one widget with illustrative profile copy, accessible social links, a contact action and a profile button. Six original initials-based illustrations already published in media/atelier and media/gather are reused and imported into the destination media library. People and experience values are fictional; replace them and the local placeholder links with real profile details. Portrait sizing, typography, independent text and surface paint, focus states and responsive spacing use registered controls. No new stock media, site IDs, external fonts, library or custom CSS are imported. New controls and skins require prepared Calio Free 1.22+, whose WordPress.org publication is separate.

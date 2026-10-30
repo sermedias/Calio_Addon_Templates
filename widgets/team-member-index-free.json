@@ -1,0 +1,360 @@
+{
+    "content": [
+        {
+            "id": "11c10f3a",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 700,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "22256f13",
+                    "settings": {
+                        "skin": "minimal",
+                        "name": "Alex Lane",
+                        "name_tag": "h3",
+                        "role": "Creative direction",
+                        "bio": "A thoughtful perspective, a clear direction and room for new possibilities.",
+                        "info_chip": "Independent studio",
+                        "meta_value": "12+",
+                        "meta_label": "Years of experience",
+                        "show_meta_row": "yes",
+                        "show_socials": "yes",
+                        "show_contact_link": "",
+                        "show_button": "yes",
+                        "social_links": [
+                            {
+                                "_id": "tmsocial0",
+                                "icon": {
+                                    "value": "fas fa-globe",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#portfolio",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "label": "Portfolio"
+                            },
+                            {
+                                "_id": "tmsocial1",
+                                "icon": {
+                                    "value": "fas fa-link",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#profile",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "label": "Professional profile"
+                            },
+                            {
+                                "_id": "tmsocial2",
+                                "icon": {
+                                    "value": "fas fa-envelope",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#contact",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "label": "Contact"
+                            }
+                        ],
+                        "contact_link_text": "Start a conversation",
+                        "contact_link_url": {
+                            "url": "#contact",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "profile_button_text": "Explore profile",
+                        "profile_button_url": {
+                            "url": "#profile",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "image": {
+                            "id": 0,
+                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/avatar-al.png"
+                        },
+                        "image_alt": "Illustrative initials profile for Alex Lane",
+                        "image_shape": "circle",
+                        "image_hover_skin": "none",
+                        "floating_label": "",
+                        "designation_badge": "",
+                        "show_image_ring": "",
+                        "show_panel_glow": "",
+                        "card_motion": "soft",
+                        "social_reveal_motion": "slide",
+                        "team_member_card_bg_background": "classic",
+                        "team_member_card_bg_color": "#F8FBF6",
+                        "team_member_card_bg_color_b": "#DDE9F4CC",
+                        "team_member_card_bg_gradient_angle": {
+                            "size": 135,
+                            "unit": "deg",
+                            "sizes": []
+                        },
+                        "team_member_card_bg_hover_background": "classic",
+                        "team_member_card_bg_hover_color": "#F8FBF6",
+                        "team_member_card_bg_hover_color_b": "#DDE9F4CC",
+                        "team_member_card_radius": {
+                            "top": "26",
+                            "right": "26",
+                            "bottom": "26",
+                            "left": "26",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "team_member_card_padding": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "team_member_card_padding_mobile": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_gap": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_gap_mobile": {
+                            "size": 9,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_image_height": {
+                            "size": 140,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_image_height_mobile": {
+                            "size": 140,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_image_radius": {
+                            "top": "50",
+                            "right": "50",
+                            "bottom": "50",
+                            "left": "50",
+                            "unit": "%",
+                            "isLinked": true
+                        },
+                        "image_fit": "cover",
+                        "image_position": "center center",
+                        "minimal_media_width": {
+                            "size": 140,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "split_media_width": {
+                            "size": 42,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "team_member_name_text_paint_mode": "classic",
+                        "team_member_name_text_color": "#354A3D",
+                        "team_member_role_text_paint_mode": "classic",
+                        "team_member_role_text_color": "#6C8B70",
+                        "team_member_bio_text_paint_mode": "classic",
+                        "team_member_bio_text_color": "#7A7E86",
+                        "team_member_meta_value_text_paint_mode": "classic",
+                        "team_member_meta_value_text_color": "#354A3D",
+                        "team_member_meta_label_text_paint_mode": "classic",
+                        "team_member_meta_label_text_color": "#81858B",
+                        "team_member_chip_bg_background": "classic",
+                        "team_member_chip_bg_color": "#EAEAF2",
+                        "team_member_chip_text_paint_mode": "classic",
+                        "team_member_chip_text_color": "#354A3D",
+                        "team_member_chip_radius": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "team_member_social_bg_background": "classic",
+                        "team_member_social_bg_color": "#F0EEF5",
+                        "team_member_social_text_paint_mode": "classic",
+                        "team_member_social_text_color": "#6C8B70",
+                        "tm_social_hover_paint_mode": "classic",
+                        "tm_social_hover_color": "#354A3D",
+                        "tm_social_hover_surface_background": "classic",
+                        "tm_social_hover_surface_color": "#E1E3EE",
+                        "social_size": {
+                            "size": 36,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "social_icon_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "social_gap": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_button_bg_background": "classic",
+                        "team_member_button_bg_color": "#354A3D",
+                        "team_member_button_text_paint_mode": "classic",
+                        "team_member_button_text_color": "#FFFFFF",
+                        "tm_button_hover_paint_mode": "classic",
+                        "tm_button_hover_color": "#FFFFFF",
+                        "tm_button_hover_surface_background": "classic",
+                        "tm_button_hover_surface_color": "#6C8B70",
+                        "team_member_button_padding": {
+                            "top": "12",
+                            "right": "20",
+                            "bottom": "12",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "team_member_button_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "button_typography_typography": "custom",
+                        "button_typography_font_family": "Arial",
+                        "button_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_typography_font_weight": "600",
+                        "team_member_contact_text_paint_mode": "classic",
+                        "team_member_contact_text_color": "#354A3D",
+                        "focus_color": "#6C8B70",
+                        "team_member_name_typography_typography": "custom",
+                        "team_member_name_typography_font_family": "Arial",
+                        "team_member_name_typography_font_size": {
+                            "size": 27,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_name_typography_font_size_mobile": {
+                            "size": 28,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_name_typography_font_weight": "600",
+                        "team_member_name_typography_line_height": {
+                            "size": 1.2,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "team_member_role_typography_typography": "custom",
+                        "team_member_role_typography_font_family": "Arial",
+                        "team_member_role_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_role_typography_font_weight": "700",
+                        "team_member_role_typography_letter_spacing": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_role_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "team_member_bio_typography_typography": "custom",
+                        "team_member_bio_typography_font_family": "Arial",
+                        "team_member_bio_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_bio_typography_line_height": {
+                            "size": 1.65,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "team_member_floating_label_bg_background": "classic",
+                        "team_member_floating_label_bg_color": "#243047DE",
+                        "team_member_floating_label_text_paint_mode": "classic",
+                        "team_member_floating_label_text_color": "#FFFFFF",
+                        "team_member_designation_badge_bg_background": "classic",
+                        "team_member_designation_badge_bg_color": "#FFFFF5E8",
+                        "team_member_designation_badge_text_paint_mode": "classic",
+                        "team_member_designation_badge_text_color": "#49412E",
+                        "team_member_floating_label_typography_typography": "custom",
+                        "team_member_floating_label_typography_font_family": "Arial",
+                        "team_member_floating_label_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_member_designation_badge_typography_typography": "custom",
+                        "team_member_designation_badge_typography_font_family": "Arial",
+                        "team_member_designation_badge_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "media_width_mobile": {
+                            "size": 140,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-team-member",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Team Member — Index",
+    "type": "section"
+}
