@@ -2237,6 +2237,78 @@
       ],
       "file": "widgets/team-slider-orbit-free.json",
       "thumbnail": "screenshots/team-slider-orbit-free.webp"
+    },
+    {
+      "id": "woo-slider-folio-free",
+      "title": "WooCommerce Slider — Folio / Free",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/woo-slider-folio-free.json",
+      "thumbnail": "screenshots/woo-slider-folio-free.webp"
+    },
+    {
+      "id": "woo-slider-glaze-free",
+      "title": "WooCommerce Slider — Glaze / Free",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/woo-slider-glaze-free.json",
+      "thumbnail": "screenshots/woo-slider-glaze-free.webp"
+    },
+    {
+      "id": "woo-slider-nightfall-free",
+      "title": "WooCommerce Slider — Nightfall / Free",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/woo-slider-nightfall-free.json",
+      "thumbnail": "screenshots/woo-slider-nightfall-free.webp"
+    },
+    {
+      "id": "woo-slider-trace-free",
+      "title": "WooCommerce Slider — Trace / Free",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/woo-slider-trace-free.json",
+      "thumbnail": "screenshots/woo-slider-trace-free.webp"
+    },
+    {
+      "id": "woo-slider-studio-free",
+      "title": "WooCommerce Slider — Studio / Free",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/woo-slider-studio-free.json",
+      "thumbnail": "screenshots/woo-slider-studio-free.webp"
+    },
+    {
+      "id": "woo-slider-meadow-free",
+      "title": "WooCommerce Slider — Meadow / Free",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/woo-slider-meadow-free.json",
+      "thumbnail": "screenshots/woo-slider-meadow-free.webp"
     }
   ]
 }

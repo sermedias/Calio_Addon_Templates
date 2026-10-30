@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 144 editable designs across 24 widget families. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 150 editable designs across 25 widget families. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -267,3 +267,7 @@ Index, Chapter, Halo, Nightfall, Trace and Studio provide six editable profile s
 ### Team Slider
 
 Chapter, Veil, Nightfall, Trace, Studio and Orbit provide six editable team carousels across the new Editorial, Glass, Contrast, Outline, Split and Portrait skins. Original Default, Overlay and Minimal settings remain supported. Each native section contains one widget with four fictional profiles, named social links, a profile action and an accessible biography dialog. Four original initials illustrations already published in media/atelier are reused and imported into the destination media library. Replace the fictional people and placeholder links with real details. Responsive cards, independent text and surface paint, focus states, navigation and autoplay use registered controls. No new stock media, external fonts, custom CSS or site IDs are imported. New skins and controls require prepared Calio Free 1.22+, whose WordPress.org publication is separate.
+
+### WooCommerce Slider
+
+Folio, Glaze, Nightfall, Trace, Studio and Meadow provide six editable product carousels across Editorial, Glass, Contrast, Outline, Split and Soft skins. Existing Modern Card, Showcase Hero, Image Overlay and Minimal Shop settings remain supported. Each native section contains one widget that queries the destination store products. WooCommerce is required. Preview screenshots use temporary fictional art-print products, illustrative prices and three original poster PNGs already published in media/gather; these products, images, prices, categories, cart state and site IDs are not imported with the design. Native image, price, sale, title and product actions come from the destination store. Replace optional action copy to suit your catalog. Typography, independent paint, responsive spacing, navigation and autoplay use registered controls. No custom CSS, external fonts or new media are imported. New skins and controls require prepared Calio Free 1.22+, whose WordPress.org publication is separate.

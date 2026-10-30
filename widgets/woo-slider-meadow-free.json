@@ -1,0 +1,306 @@
+{
+    "content": [
+        {
+            "id": "5d873216",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "8690a94",
+                    "settings": {
+                        "product_source": "latest",
+                        "manual_product_ids": "",
+                        "product_categories": [],
+                        "products_per_page": 8,
+                        "orderby": "date",
+                        "order": "DESC",
+                        "hide_out_of_stock": "yes",
+                        "skin": "soft",
+                        "slides_desktop": "3",
+                        "slides_tablet": "2",
+                        "slides_mobile": "1",
+                        "slides_to_scroll": 1,
+                        "space_between": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "space_between_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "height": {
+                            "size": 120,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "height_tablet": {
+                            "size": 120,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "height_mobile": {
+                            "size": 120,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_ratio": "landscape",
+                        "image_fit": "contain",
+                        "image_position": "center center",
+                        "show_category": "",
+                        "show_sale_badge": "yes",
+                        "show_rating": "yes",
+                        "show_price": "yes",
+                        "show_excerpt": "yes",
+                        "excerpt_length": 14,
+                        "show_title": "yes",
+                        "title_html_tag": "h3",
+                        "show_button": "yes",
+                        "button_text": "",
+                        "button_icon": {
+                            "value": "fas fa-shopping-bag",
+                            "library": "fa-solid"
+                        },
+                        "icon_align": "left",
+                        "icon_indent": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "show_read_more": "yes",
+                        "read_more_text": "View print",
+                        "read_more_display": "button",
+                        "loop": "",
+                        "autoplay": "",
+                        "transition_speed": 380,
+                        "pause_on_hover": "yes",
+                        "pause_on_interaction": "yes",
+                        "grab_cursor": "yes",
+                        "centered_slides": "",
+                        "highlight_active_slide": "",
+                        "navigation_type": "arrows-dots",
+                        "show_scrollbar": "",
+                        "arrows_position": "bottom",
+                        "controls_layout": "footer",
+                        "hide_arrows_mobile": "",
+                        "scroll_to_section": "",
+                        "slider_label": "Meadow product collection",
+                        "align": "left",
+                        "align_mobile": "left",
+                        "content_position": "center-left",
+                        "card_background_background": "classic",
+                        "card_background_color": "#F7FBF5",
+                        "card_background_color_b": "#DDE9F4CC",
+                        "card_background_gradient_angle": {
+                            "size": 135,
+                            "unit": "deg",
+                            "sizes": []
+                        },
+                        "card_background_hover_background": "classic",
+                        "card_background_hover_color": "#F7FBF5",
+                        "card_padding": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_padding_mobile": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_radius": {
+                            "top": "22",
+                            "right": "22",
+                            "bottom": "22",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "image_radius": {
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "woo_content_padding": {
+                            "top": "16",
+                            "right": "0",
+                            "bottom": "16",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "focus_color": "#719378",
+                        "hover_lift": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_zoom": {
+                            "size": 1.02,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_color_paint_mode": "classic",
+                        "title_color_color": "#354B3D",
+                        "price_color_paint_mode": "classic",
+                        "price_color_color": "#354B3D",
+                        "description_color_paint_mode": "classic",
+                        "description_color_color": "#80818A",
+                        "badge_background_background": "classic",
+                        "badge_background_color": "#719378",
+                        "badge_text_paint_mode": "classic",
+                        "badge_text_color": "#FFFFFF",
+                        "button_background_background": "classic",
+                        "button_background_color": "#354B3D",
+                        "button_text_color_paint_mode": "classic",
+                        "button_text_color_color": "#FFFFFF",
+                        "button_background_hover_background": "classic",
+                        "button_background_hover_color": "#719378",
+                        "woo_button_hover_text_paint_mode": "classic",
+                        "woo_button_hover_text_color": "#FFFFFF",
+                        "read_more_background_background": "classic",
+                        "read_more_background_color": "#ECEAF2",
+                        "read_more_text_color_paint_mode": "classic",
+                        "read_more_text_color_color": "#354B3D",
+                        "read_more_background_hover_background": "classic",
+                        "read_more_background_hover_color": "#DEDDE8",
+                        "woo_readmore_hover_text_paint_mode": "classic",
+                        "woo_readmore_hover_text_color": "#354B3D",
+                        "button_padding": {
+                            "top": "10",
+                            "right": "13",
+                            "bottom": "10",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "button_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "read_more_padding": {
+                            "top": "10",
+                            "right": "13",
+                            "bottom": "10",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "read_more_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "buttons_gap": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "600",
+                        "title_typography_line_height": {
+                            "size": 1.25,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "woo_price_typography_typography": "custom",
+                        "woo_price_typography_font_family": "Arial",
+                        "woo_price_typography_font_size": {
+                            "size": 17,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "woo_price_typography_font_weight": "600",
+                        "woo_description_typography_typography": "custom",
+                        "woo_description_typography_font_family": "Arial",
+                        "woo_description_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "woo_description_typography_line_height": {
+                            "size": 1.65,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "button_typography_typography": "custom",
+                        "button_typography_font_family": "Arial",
+                        "button_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_typography_font_weight": "600",
+                        "read_more_typography_typography": "custom",
+                        "read_more_typography_font_family": "Arial",
+                        "read_more_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "read_more_typography_font_weight": "600"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-woocommerce-slider",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "WooCommerce Slider — Meadow",
+    "type": "section"
+}
