@@ -1,0 +1,429 @@
+{
+    "content": [
+        {
+            "id": "3128af50",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1040,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "2d59ec77",
+                    "settings": {
+                        "members": [
+                            {
+                                "_id": "tsmember0",
+                                "member_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/avatar-al.png"
+                                },
+                                "member_name": "Alex Lane",
+                                "member_position": "Creative direction",
+                                "member_description": "A thoughtful perspective, a clear direction and space for new possibilities.",
+                                "member_details": "<p>A thoughtful perspective, a clear direction and space for new possibilities.</p><p>A collaborative approach, attention to detail and a belief that good work makes room for people.</p>",
+                                "member_button_text": "View profile",
+                                "member_button_url": {
+                                    "url": "#profile",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_1_icon": {
+                                    "value": "fas fa-globe",
+                                    "library": "fa-solid"
+                                },
+                                "social_1_url": {
+                                    "url": "#portfolio",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_2_icon": {
+                                    "value": "fas fa-link",
+                                    "library": "fa-solid"
+                                },
+                                "social_2_url": {
+                                    "url": "#profile",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_3_icon": {
+                                    "value": "fas fa-envelope",
+                                    "library": "fa-solid"
+                                },
+                                "social_3_url": {
+                                    "url": "#contact",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "member_image_alt": "Illustrative initials profile for Alex Lane",
+                                "social_1_label": "Portfolio",
+                                "social_2_label": "Professional profile",
+                                "social_3_label": "Contact"
+                            },
+                            {
+                                "_id": "tsmember1",
+                                "member_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/avatar-jr.png"
+                                },
+                                "member_name": "Jamie Reed",
+                                "member_position": "Architecture & interiors",
+                                "member_description": "Bringing care, curiosity and a considered point of view to every detail.",
+                                "member_details": "<p>Bringing care, curiosity and a considered point of view to every detail.</p><p>A collaborative approach, attention to detail and a belief that good work makes room for people.</p>",
+                                "member_button_text": "View profile",
+                                "member_button_url": {
+                                    "url": "#profile",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_1_icon": {
+                                    "value": "fas fa-globe",
+                                    "library": "fa-solid"
+                                },
+                                "social_1_url": {
+                                    "url": "#portfolio",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_2_icon": {
+                                    "value": "fas fa-link",
+                                    "library": "fa-solid"
+                                },
+                                "social_2_url": {
+                                    "url": "#profile",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_3_icon": {
+                                    "value": "fas fa-envelope",
+                                    "library": "fa-solid"
+                                },
+                                "social_3_url": {
+                                    "url": "#contact",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "member_image_alt": "Illustrative initials profile for Jamie Reed",
+                                "social_1_label": "Portfolio",
+                                "social_2_label": "Professional profile",
+                                "social_3_label": "Contact"
+                            },
+                            {
+                                "_id": "tsmember2",
+                                "member_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/avatar-em.png"
+                                },
+                                "member_name": "Eden Morgan",
+                                "member_position": "Digital experience",
+                                "member_description": "Connecting useful ideas with experiences people enjoy spending time with.",
+                                "member_details": "<p>Connecting useful ideas with experiences people enjoy spending time with.</p><p>A collaborative approach, attention to detail and a belief that good work makes room for people.</p>",
+                                "member_button_text": "View profile",
+                                "member_button_url": {
+                                    "url": "#profile",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_1_icon": {
+                                    "value": "fas fa-globe",
+                                    "library": "fa-solid"
+                                },
+                                "social_1_url": {
+                                    "url": "#portfolio",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_2_icon": {
+                                    "value": "fas fa-link",
+                                    "library": "fa-solid"
+                                },
+                                "social_2_url": {
+                                    "url": "#profile",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_3_icon": {
+                                    "value": "fas fa-envelope",
+                                    "library": "fa-solid"
+                                },
+                                "social_3_url": {
+                                    "url": "#contact",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "member_image_alt": "Illustrative initials profile for Eden Morgan",
+                                "social_1_label": "Portfolio",
+                                "social_2_label": "Professional profile",
+                                "social_3_label": "Contact"
+                            },
+                            {
+                                "_id": "tsmember3",
+                                "member_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/avatar-sk.png"
+                                },
+                                "member_name": "Sam Kim",
+                                "member_position": "Creative development",
+                                "member_description": "Turning a promising direction into something practical and worth sharing.",
+                                "member_details": "<p>Turning a promising direction into something practical and worth sharing.</p><p>A collaborative approach, attention to detail and a belief that good work makes room for people.</p>",
+                                "member_button_text": "View profile",
+                                "member_button_url": {
+                                    "url": "#profile",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_1_icon": {
+                                    "value": "fas fa-globe",
+                                    "library": "fa-solid"
+                                },
+                                "social_1_url": {
+                                    "url": "#portfolio",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_2_icon": {
+                                    "value": "fas fa-link",
+                                    "library": "fa-solid"
+                                },
+                                "social_2_url": {
+                                    "url": "#profile",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_3_icon": {
+                                    "value": "fas fa-envelope",
+                                    "library": "fa-solid"
+                                },
+                                "social_3_url": {
+                                    "url": "#contact",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "member_image_alt": "Illustrative initials profile for Sam Kim",
+                                "social_1_label": "Portfolio",
+                                "social_2_label": "Professional profile",
+                                "social_3_label": "Contact"
+                            }
+                        ],
+                        "card_skin": "outline",
+                        "visual_preset": "custom",
+                        "slider_label": "Trace studio team",
+                        "show_description": "yes",
+                        "show_socials": "yes",
+                        "show_button": "yes",
+                        "show_details_popup": "yes",
+                        "popup_trigger": "button",
+                        "popup_button_text": "Read biography",
+                        "popup_animation": "fade",
+                        "popup_close_on_overlay": "yes",
+                        "popup_close_on_esc": "yes",
+                        "popup_pause_slider": "yes",
+                        "popup_show_nav": "yes",
+                        "popup_show_counter": "yes",
+                        "social_mode": "inline",
+                        "image_hover_effect": "none",
+                        "slides_to_show_desktop": 3,
+                        "slides_to_show_tablet": 2,
+                        "slides_to_show_mobile": 1,
+                        "slides_to_scroll": 1,
+                        "space_between": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "loop": "",
+                        "autoplay": "",
+                        "transition_speed": 380,
+                        "highlight_active_slide": "",
+                        "centered_slides": "",
+                        "equal_height": "yes",
+                        "content_alignment": "left",
+                        "show_arrows": "yes",
+                        "show_dots": "yes",
+                        "controls_layout": "inline",
+                        "controls_placement": "bottom",
+                        "controls_alignment": "center",
+                        "team_slider_card_bg_background": "classic",
+                        "team_slider_card_bg_color": "#FBF7FA",
+                        "team_slider_card_bg_color_b": "#DDE9F4CC",
+                        "team_slider_card_bg_gradient_angle": {
+                            "size": 135,
+                            "unit": "deg",
+                            "sizes": []
+                        },
+                        "team_slider_card_bg_hover_background": "classic",
+                        "team_slider_card_bg_hover_color": "#FBF7FA",
+                        "team_slider_card_radius": {
+                            "top": "22",
+                            "right": "22",
+                            "bottom": "22",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "team_slider_card_padding": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "team_slider_card_padding_mobile": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_gap": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_slider_image_height": {
+                            "size": 200,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_slider_image_height_mobile": {
+                            "size": 180,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_slider_image_radius": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "image_fit": "cover",
+                        "team_slider_content_padding": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "team_slider_content_padding_mobile": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "team_slider_name_text_paint_mode": "classic",
+                        "team_slider_name_text_color": "#614860",
+                        "team_slider_position_text_paint_mode": "classic",
+                        "team_slider_position_text_color": "#A17CA6",
+                        "team_slider_description_text_paint_mode": "classic",
+                        "team_slider_description_text_color": "#80818A",
+                        "team_slider_social_bg_background": "classic",
+                        "team_slider_social_bg_color": "#ECEAF2",
+                        "team_slider_social_text_paint_mode": "classic",
+                        "team_slider_social_text_color": "#A17CA6",
+                        "team_slider_social_text_hover_paint_mode": "classic",
+                        "team_slider_social_text_hover_color": "#614860",
+                        "team_slider_social_bg_hover_background": "classic",
+                        "team_slider_social_bg_hover_color": "#DDDFF0",
+                        "team_slider_button_bg_background": "classic",
+                        "team_slider_button_bg_color": "#614860",
+                        "team_slider_button_text_paint_mode": "classic",
+                        "team_slider_button_text_color": "#FFFFFF",
+                        "team_slider_button_bg_hover_background": "classic",
+                        "team_slider_button_bg_hover_color": "#A17CA6",
+                        "team_slider_button_text_hover_paint_mode": "classic",
+                        "team_slider_button_text_hover_color": "#FFFFFF",
+                        "ts_popup_button_paint_mode": "classic",
+                        "ts_popup_button_color": "#A17CA6",
+                        "ts_popup_button_bg_background": "classic",
+                        "ts_popup_button_bg_color": "#F0EDF4",
+                        "focus_color": "#A17CA6",
+                        "team_slider_name_typography_typography": "custom",
+                        "team_slider_name_typography_font_family": "Arial",
+                        "team_slider_name_typography_font_size": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_slider_name_typography_font_weight": "600",
+                        "team_slider_name_typography_line_height": {
+                            "size": 1.2,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "team_slider_position_typography_typography": "custom",
+                        "team_slider_position_typography_font_family": "Arial",
+                        "team_slider_position_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_slider_position_typography_font_weight": "700",
+                        "team_slider_position_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "team_slider_description_typography_typography": "custom",
+                        "team_slider_description_typography_font_family": "Arial",
+                        "team_slider_description_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "team_slider_description_typography_line_height": {
+                            "size": 1.65,
+                            "unit": "em",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-team-slider",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Team Slider — Trace",
+    "type": "section"
+}

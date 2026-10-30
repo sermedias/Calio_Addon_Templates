@@ -2165,6 +2165,78 @@
       ],
       "file": "widgets/team-member-studio-free.json",
       "thumbnail": "screenshots/team-member-studio-free.webp"
+    },
+    {
+      "id": "team-slider-chapter-free",
+      "title": "Team Slider — Chapter / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-slider-chapter-free.json",
+      "thumbnail": "screenshots/team-slider-chapter-free.webp"
+    },
+    {
+      "id": "team-slider-veil-free",
+      "title": "Team Slider — Veil / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-slider-veil-free.json",
+      "thumbnail": "screenshots/team-slider-veil-free.webp"
+    },
+    {
+      "id": "team-slider-nightfall-free",
+      "title": "Team Slider — Nightfall / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-slider-nightfall-free.json",
+      "thumbnail": "screenshots/team-slider-nightfall-free.webp"
+    },
+    {
+      "id": "team-slider-trace-free",
+      "title": "Team Slider — Trace / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-slider-trace-free.json",
+      "thumbnail": "screenshots/team-slider-trace-free.webp"
+    },
+    {
+      "id": "team-slider-studio-free",
+      "title": "Team Slider — Studio / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-slider-studio-free.json",
+      "thumbnail": "screenshots/team-slider-studio-free.webp"
+    },
+    {
+      "id": "team-slider-orbit-free",
+      "title": "Team Slider — Orbit / Free",
+      "type": "widgets",
+      "categories": [
+        "Team Slider",
+        "People",
+        "Profiles"
+      ],
+      "file": "widgets/team-slider-orbit-free.json",
+      "thumbnail": "screenshots/team-slider-orbit-free.webp"
     }
   ]
 }

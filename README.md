@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 138 editable designs across 23 widget families. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 144 editable designs across 24 widget families. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -263,3 +263,7 @@ Roster, Ledger, Matrix, Frost, Nightfall and Trace provide six editable native d
 ### Team Member
 
 Index, Chapter, Halo, Nightfall, Trace and Studio provide six editable profile sections across the new Minimal, Editorial, Glass, Contrast, Outline and Split skins. Existing Simple, Overlay, Centered, Social Bottom and Social Right settings remain supported. Each native section contains one widget with illustrative profile copy, accessible social links, a contact action and a profile button. Six original initials-based illustrations already published in media/atelier and media/gather are reused and imported into the destination media library. People and experience values are fictional; replace them and the local placeholder links with real profile details. Portrait sizing, typography, independent text and surface paint, focus states and responsive spacing use registered controls. No new stock media, site IDs, external fonts, library or custom CSS are imported. New controls and skins require prepared Calio Free 1.22+, whose WordPress.org publication is separate.
+
+### Team Slider
+
+Chapter, Veil, Nightfall, Trace, Studio and Orbit provide six editable team carousels across the new Editorial, Glass, Contrast, Outline, Split and Portrait skins. Original Default, Overlay and Minimal settings remain supported. Each native section contains one widget with four fictional profiles, named social links, a profile action and an accessible biography dialog. Four original initials illustrations already published in media/atelier are reused and imported into the destination media library. Replace the fictional people and placeholder links with real details. Responsive cards, independent text and surface paint, focus states, navigation and autoplay use registered controls. No new stock media, external fonts, custom CSS or site IDs are imported. New skins and controls require prepared Calio Free 1.22+, whose WordPress.org publication is separate.
