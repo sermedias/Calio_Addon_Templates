@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 150 editable designs across 25 widget families. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 156 editable designs across 26 widget families (150 Free and 6 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -271,3 +271,7 @@ Chapter, Veil, Nightfall, Trace, Studio and Orbit provide six editable team caro
 ### WooCommerce Slider
 
 Folio, Glaze, Nightfall, Trace, Studio and Meadow provide six editable product carousels across Editorial, Glass, Contrast, Outline, Split and Soft skins. Existing Modern Card, Showcase Hero, Image Overlay and Minimal Shop settings remain supported. Each native section contains one widget that queries the destination store products. WooCommerce is required. Preview screenshots use temporary fictional art-print products, illustrative prices and three original poster PNGs already published in media/gather; these products, images, prices, categories, cart state and site IDs are not imported with the design. Native image, price, sale, title and product actions come from the destination store. Replace optional action copy to suit your catalog. Typography, independent paint, responsive spacing, navigation and autoplay use registered controls. No custom CSS, external fonts or new media are imported. New skins and controls require prepared Calio Free 1.22+, whose WordPress.org publication is separate.
+
+### Advanced Accordion / Pro
+
+Ledger, Still, Glaze, Afterglow, Trace and Studio provide six editable accordions across Editorial, Minimal, Glass, Contrast, Outline and Split skins. These native section exports each contain one Advanced Accordion Pro widget and require the updated Calio Pro 1.0 companion plugin with these skins installed. Calio Free alone cannot render them. The original skin, setting IDs and existing content remain supported. All question and answer copy, typography, independent text/icon/surface paint, numbering, responsive spacing and disclosure behavior use registered controls. Previews are actual desktop browser screenshots of the exported content. No custom CSS, external fonts, media, local page IDs or saved-template dependencies are imported. Replace the illustrative copy for your own site. This catalog publication is separate from plugin distribution and WordPress.org releases.

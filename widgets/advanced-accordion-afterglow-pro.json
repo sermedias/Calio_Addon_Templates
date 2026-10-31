@@ -1,0 +1,148 @@
+{
+    "content": [
+        {
+            "id": "539ac036",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 900,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "5a3893f5",
+                    "settings": {
+                        "skin": "contrast",
+                        "items": [
+                            {
+                                "_id": "accrow1",
+                                "item_title": "What is included in the experience?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>A considered foundation, useful details and space to make it your own. Every element serves a clear purpose without adding unnecessary complexity.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow2",
+                                "item_title": "Can I make it feel like my own?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Yes. Adjust the words, colours and rhythm to reflect your voice. Small, deliberate choices can change the whole atmosphere.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow3",
+                                "item_title": "Does it work on smaller screens?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>The layout adapts to the available space, keeping the questions readable and the answers easy to explore.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow4",
+                                "item_title": "How do I get started?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Choose the questions that matter to your audience, write helpful answers and let the design bring them together.</p>",
+                                "item_schema_text": ""
+                            }
+                        ],
+                        "allow_multiple": "",
+                        "open_first": "yes",
+                        "panel_duration": 320,
+                        "title_tag": "h3",
+                        "faq_schema": "yes",
+                        "accordion_label": "Good questions. Clear answers.",
+                        "show_numbers": "yes",
+                        "number_start": 1,
+                        "number_padding": "yes",
+                        "header_padding_mobile": {
+                            "top": "20",
+                            "right": "16",
+                            "bottom": "20",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_padding_mobile": {
+                            "top": "0",
+                            "right": "16",
+                            "bottom": "0",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "header_typography_typography": "custom",
+                        "header_typography_font_family": "Arial",
+                        "header_typography_font_size": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_size_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_weight": "600",
+                        "content_typography_typography": "custom",
+                        "content_typography_font_family": "Arial",
+                        "content_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_line_height": {
+                            "size": 1.8,
+                            "unit": "em",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-accordion-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Accordion — Afterglow",
+    "type": "section"
+}

@@ -1,0 +1,148 @@
+{
+    "content": [
+        {
+            "id": "17fcfbd8",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 900,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "4c32e2b6",
+                    "settings": {
+                        "skin": "split",
+                        "items": [
+                            {
+                                "_id": "accrow1",
+                                "item_title": "Discover the right questions",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>We begin by listening. A few good questions reveal the priorities, constraints and possibilities that will guide the work.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow2",
+                                "item_title": "Build a clear foundation",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>We organise what matters into a simple, useful structure. The aim is to make each next decision clearer, not to fill every available space.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow3",
+                                "item_title": "Refine with intention",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>We test the direction against real content, then tune the rhythm, hierarchy and details until everything works together.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow4",
+                                "item_title": "Make the next move",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>The finished work should be easy to understand and comfortable to use. A thoughtful handover makes the next chapter feel straightforward.</p>",
+                                "item_schema_text": ""
+                            }
+                        ],
+                        "allow_multiple": "",
+                        "open_first": "yes",
+                        "panel_duration": 320,
+                        "title_tag": "h3",
+                        "faq_schema": "yes",
+                        "accordion_label": "From first thought to final detail",
+                        "show_numbers": "yes",
+                        "number_start": 1,
+                        "number_padding": "yes",
+                        "header_padding_mobile": {
+                            "top": "20",
+                            "right": "16",
+                            "bottom": "20",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_padding_mobile": {
+                            "top": "0",
+                            "right": "16",
+                            "bottom": "0",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "header_typography_typography": "custom",
+                        "header_typography_font_family": "Arial",
+                        "header_typography_font_size": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_size_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_weight": "600",
+                        "content_typography_typography": "custom",
+                        "content_typography_font_family": "Arial",
+                        "content_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_line_height": {
+                            "size": 1.8,
+                            "unit": "em",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-accordion-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Accordion — Studio",
+    "type": "section"
+}

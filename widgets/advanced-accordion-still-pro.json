@@ -1,0 +1,148 @@
+{
+    "content": [
+        {
+            "id": "6bfb394e",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 900,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "7432320d",
+                    "settings": {
+                        "skin": "minimal",
+                        "items": [
+                            {
+                                "_id": "accrow1",
+                                "item_title": "Can we start small?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Yes. Begin with the essentials and build at a comfortable pace. A focused first step makes the next decision easier.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow2",
+                                "item_title": "What should I prepare?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Bring your goals, a few references and the questions you want to answer. Everything else can take shape as we work.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow3",
+                                "item_title": "Can the direction evolve?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Of course. We make space to learn, test ideas and adjust the plan before committing to the finer details.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow4",
+                                "item_title": "How do we stay in touch?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Short, thoughtful updates keep everyone aligned. Each milestone ends with a clear view of what comes next.</p>",
+                                "item_schema_text": ""
+                            }
+                        ],
+                        "allow_multiple": "",
+                        "open_first": "yes",
+                        "panel_duration": 320,
+                        "title_tag": "h3",
+                        "faq_schema": "yes",
+                        "accordion_label": "A calmer way to begin",
+                        "show_numbers": "",
+                        "number_start": 1,
+                        "number_padding": "yes",
+                        "header_padding_mobile": {
+                            "top": "20",
+                            "right": "16",
+                            "bottom": "20",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_padding_mobile": {
+                            "top": "0",
+                            "right": "16",
+                            "bottom": "0",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "header_typography_typography": "custom",
+                        "header_typography_font_family": "Arial",
+                        "header_typography_font_size": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_size_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_weight": "600",
+                        "content_typography_typography": "custom",
+                        "content_typography_font_family": "Arial",
+                        "content_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_line_height": {
+                            "size": 1.8,
+                            "unit": "em",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-accordion-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Accordion — Still",
+    "type": "section"
+}

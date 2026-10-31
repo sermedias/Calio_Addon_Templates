@@ -1,0 +1,148 @@
+{
+    "content": [
+        {
+            "id": "47bdf095",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 900,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "489c6f84",
+                    "settings": {
+                        "skin": "outline",
+                        "items": [
+                            {
+                                "_id": "accrow1",
+                                "item_title": "How do we choose a direction?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>We look for the thread that connects your goals, your audience and your point of view. That becomes the starting point for a cohesive direction.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow2",
+                                "item_title": "What if I need more time?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Good decisions deserve a little breathing room. We agree a realistic rhythm and leave space for reflection at the important moments.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow3",
+                                "item_title": "Can I add the finishing touches?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Absolutely. The final details are where your voice comes through: a line of copy, a softer colour or a more generous space.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow4",
+                                "item_title": "What does the handover include?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>You receive an organised result, helpful context and a clear explanation of the choices that matter for future updates.</p>",
+                                "item_schema_text": ""
+                            }
+                        ],
+                        "allow_multiple": "",
+                        "open_first": "yes",
+                        "panel_duration": 320,
+                        "title_tag": "h3",
+                        "faq_schema": "yes",
+                        "accordion_label": "The details, thoughtfully answered",
+                        "show_numbers": "",
+                        "number_start": 1,
+                        "number_padding": "yes",
+                        "header_padding_mobile": {
+                            "top": "20",
+                            "right": "16",
+                            "bottom": "20",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_padding_mobile": {
+                            "top": "0",
+                            "right": "16",
+                            "bottom": "0",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "header_typography_typography": "custom",
+                        "header_typography_font_family": "Arial",
+                        "header_typography_font_size": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_size_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_weight": "600",
+                        "content_typography_typography": "custom",
+                        "content_typography_font_family": "Arial",
+                        "content_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_line_height": {
+                            "size": 1.8,
+                            "unit": "em",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-accordion-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Accordion — Trace",
+    "type": "section"
+}

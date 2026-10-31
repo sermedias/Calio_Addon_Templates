@@ -1,0 +1,148 @@
+{
+    "content": [
+        {
+            "id": "2ce71fe6",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 900,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "15dda58",
+                    "settings": {
+                        "skin": "glass",
+                        "items": [
+                            {
+                                "_id": "accrow1",
+                                "item_title": "How does the workspace work?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Keep the important details together: your priorities, current decisions and useful resources. Less searching leaves more room for the work itself.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow2",
+                                "item_title": "Can I organise it my way?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Create a structure that matches the way you think. Start with a few clear sections, then add detail when you need it.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow3",
+                                "item_title": "What happens when plans change?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Update the priorities and keep the context. A flexible workspace should make a change of direction feel manageable.</p>",
+                                "item_schema_text": ""
+                            },
+                            {
+                                "_id": "accrow4",
+                                "item_title": "Where can I find the next step?",
+                                "item_default_open": "",
+                                "item_id": "",
+                                "item_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "item_content": "<p>Every stage has a simple action to move it forward. Revisit your overview whenever you need a moment of clarity.</p>",
+                                "item_schema_text": ""
+                            }
+                        ],
+                        "allow_multiple": "",
+                        "open_first": "yes",
+                        "panel_duration": 320,
+                        "title_tag": "h3",
+                        "faq_schema": "yes",
+                        "accordion_label": "Everything in one place",
+                        "show_numbers": "",
+                        "number_start": 1,
+                        "number_padding": "yes",
+                        "header_padding_mobile": {
+                            "top": "20",
+                            "right": "16",
+                            "bottom": "20",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_padding_mobile": {
+                            "top": "0",
+                            "right": "16",
+                            "bottom": "0",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "header_typography_typography": "custom",
+                        "header_typography_font_family": "Arial",
+                        "header_typography_font_size": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_size_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_weight": "600",
+                        "content_typography_typography": "custom",
+                        "content_typography_font_family": "Arial",
+                        "content_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_typography_line_height": {
+                            "size": 1.8,
+                            "unit": "em",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-accordion-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Accordion — Glaze",
+    "type": "section"
+}

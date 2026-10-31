@@ -2309,6 +2309,78 @@
       ],
       "file": "widgets/woo-slider-meadow-free.json",
       "thumbnail": "screenshots/woo-slider-meadow-free.webp"
+    },
+    {
+      "id": "advanced-accordion-ledger-pro",
+      "title": "Advanced Accordion â€” Ledger / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Accordion",
+        "FAQ",
+        "Content"
+      ],
+      "file": "widgets/advanced-accordion-ledger-pro.json",
+      "thumbnail": "screenshots/advanced-accordion-ledger-pro.webp"
+    },
+    {
+      "id": "advanced-accordion-still-pro",
+      "title": "Advanced Accordion â€” Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Accordion",
+        "FAQ",
+        "Content"
+      ],
+      "file": "widgets/advanced-accordion-still-pro.json",
+      "thumbnail": "screenshots/advanced-accordion-still-pro.webp"
+    },
+    {
+      "id": "advanced-accordion-glaze-pro",
+      "title": "Advanced Accordion â€” Glaze / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Accordion",
+        "FAQ",
+        "Content"
+      ],
+      "file": "widgets/advanced-accordion-glaze-pro.json",
+      "thumbnail": "screenshots/advanced-accordion-glaze-pro.webp"
+    },
+    {
+      "id": "advanced-accordion-afterglow-pro",
+      "title": "Advanced Accordion â€” Afterglow / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Accordion",
+        "FAQ",
+        "Content"
+      ],
+      "file": "widgets/advanced-accordion-afterglow-pro.json",
+      "thumbnail": "screenshots/advanced-accordion-afterglow-pro.webp"
+    },
+    {
+      "id": "advanced-accordion-trace-pro",
+      "title": "Advanced Accordion â€” Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Accordion",
+        "FAQ",
+        "Content"
+      ],
+      "file": "widgets/advanced-accordion-trace-pro.json",
+      "thumbnail": "screenshots/advanced-accordion-trace-pro.webp"
+    },
+    {
+      "id": "advanced-accordion-studio-pro",
+      "title": "Advanced Accordion â€” Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Accordion",
+        "FAQ",
+        "Content"
+      ],
+      "file": "widgets/advanced-accordion-studio-pro.json",
+      "thumbnail": "screenshots/advanced-accordion-studio-pro.webp"
     }
   ]
 }
