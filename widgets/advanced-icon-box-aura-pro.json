@@ -1,0 +1,354 @@
+{
+    "content": [
+        {
+            "id": "543c1277",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 600,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "54357113",
+                    "settings": {
+                        "skin": "spotlight",
+                        "icon_type": "icon",
+                        "selected_icon": {
+                            "value": "fas fa-sun",
+                            "library": "fa-solid"
+                        },
+                        "icon_position": "top",
+                        "title": "Bring your next idea into focus.",
+                        "title_tag": "h3",
+                        "title_link": {
+                            "url": "",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "show_subtitle": "yes",
+                        "subtitle": "A FRESH PERSPECTIVE",
+                        "show_separator": "",
+                        "description": "See the possibilities with a little more clarity. Connect your vision to practical choices, then refine the details that make the experience feel like your own.",
+                        "show_read_more": "yes",
+                        "read_more_text": "Explore a new perspective",
+                        "read_more_link": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "read_more_click_on": "button",
+                        "read_more_show_on_hover": "",
+                        "read_more_icon": {
+                            "value": "fas fa-arrow-right",
+                            "library": "fa-solid"
+                        },
+                        "read_more_icon_position": "right",
+                        "global_link": {
+                            "url": "",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "show_badge": "yes",
+                        "badge_text": "New perspective",
+                        "show_indicator": "yes",
+                        "indicator_style": "style-2",
+                        "hover_effect": "lift",
+                        "alignment": "left",
+                        "box_link_label": "Bring your next idea into focus.",
+                        "box_min_height": {
+                            "size": 520,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "box_min_height_mobile": {
+                            "size": 120,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "box_padding": {
+                            "top": "42",
+                            "right": "42",
+                            "bottom": "42",
+                            "left": "42",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "box_padding_mobile": {
+                            "top": "28",
+                            "right": "24",
+                            "bottom": "28",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "box_gap": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "box_gap_mobile": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "box_radius": {
+                            "top": "28",
+                            "right": "28",
+                            "bottom": "28",
+                            "left": "28",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "box_background_background": "gradient",
+                        "box_background_color": "#F5F0FC",
+                        "box_background_color_b": "#EBE3F8",
+                        "box_background_gradient_angle": {
+                            "size": 140,
+                            "unit": "deg",
+                            "sizes": []
+                        },
+                        "box_hover_background_background": "classic",
+                        "box_hover_background_color": "#F5F0FC",
+                        "box_border_border": "solid",
+                        "box_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "box_border_color": "#8C6AAF44",
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 16,
+                            "blur": 40,
+                            "spread": 0,
+                            "color": "#3D29470D"
+                        },
+                        "accent_color": "#8C6AAF",
+                        "hover_lift": {
+                            "size": 4,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "focus_color": "#8C6AAF",
+                        "icon_box_size": {
+                            "size": 84,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_size": {
+                            "size": 36,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_color": "#8C6AAF",
+                        "icon_background_background": "classic",
+                        "icon_background_color": "#E1D4F3",
+                        "icon_border_border": "none",
+                        "icon_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_border_color": "#8C6AAF77",
+                        "icon_shadow_box_shadow_type": "yes",
+                        "icon_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 0,
+                            "spread": 0,
+                            "color": "transparent"
+                        },
+                        "title_color": "#503B6A",
+                        "title_hover_color": "#503B6A",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 40,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "600",
+                        "title_typography_line_height": {
+                            "size": 1.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "subtitle_color": "#503B6A",
+                        "subtitle_typography_typography": "custom",
+                        "subtitle_typography_font_family": "Arial",
+                        "subtitle_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "subtitle_typography_font_weight": "600",
+                        "subtitle_typography_letter_spacing": {
+                            "size": 1.7,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "subtitle_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "description_color": "#735D83",
+                        "description_typography_typography": "custom",
+                        "description_typography_font_family": "Arial",
+                        "description_typography_font_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_font_size_mobile": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_line_height": {
+                            "size": 1.8,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "separator_color": "#8C6AAF",
+                        "separator_width": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "read_more_color": "#FFFFFF",
+                        "read_more_hover_color": "#FFFFFF",
+                        "read_more_background_background": "classic",
+                        "read_more_background_color": "#8C6AAF",
+                        "read_more_hover_background_background": "classic",
+                        "read_more_hover_background_color": "#8C6AAF",
+                        "read_more_padding": {
+                            "top": "14",
+                            "right": "18",
+                            "bottom": "14",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "read_more_margin": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "read_more_typography_typography": "custom",
+                        "read_more_typography_font_family": "Arial",
+                        "read_more_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "read_more_typography_font_weight": "600",
+                        "read_more_typography_line_height": {
+                            "size": 1.4,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "badge_color": "#503B6A",
+                        "badge_background_background": "classic",
+                        "badge_background_color": "#8C6AAF14",
+                        "badge_padding": {
+                            "top": "7",
+                            "right": "11",
+                            "bottom": "7",
+                            "left": "11",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "badge_radius": {
+                            "size": 999,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "badge_typography_typography": "custom",
+                        "badge_typography_font_family": "Arial",
+                        "badge_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "badge_typography_font_weight": "600",
+                        "badge_typography_letter_spacing": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "badge_typography_line_height": {
+                            "size": 1.4,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "aib_title_paint_mode": "gradient",
+                        "aib_title_gradient_start": "#513275",
+                        "aib_title_gradient_end": "#A066A0",
+                        "aib_title_gradient_angle": {
+                            "size": 125,
+                            "unit": "deg",
+                            "sizes": []
+                        },
+                        "aib_icon_paint_mode": "gradient",
+                        "aib_icon_gradient_start": "#513275",
+                        "aib_icon_gradient_end": "#A066A0",
+                        "aib_icon_gradient_angle": {
+                            "size": 125,
+                            "unit": "deg",
+                            "sizes": []
+                        },
+                        "indicator_fill_color": "#8C6AAF",
+                        "indicator_stroke_color": "#8C6AAF44"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-icon-box-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Icon Box — Aura",
+    "type": "section"
+}

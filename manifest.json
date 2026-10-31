@@ -2381,6 +2381,78 @@
       ],
       "file": "widgets/advanced-accordion-studio-pro.json",
       "thumbnail": "screenshots/advanced-accordion-studio-pro.webp"
+    },
+    {
+      "id": "advanced-icon-box-folio-pro",
+      "title": "Advanced Icon Box â€” Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Icon Box",
+        "Features",
+        "Services"
+      ],
+      "file": "widgets/advanced-icon-box-folio-pro.json",
+      "thumbnail": "screenshots/advanced-icon-box-folio-pro.webp"
+    },
+    {
+      "id": "advanced-icon-box-still-pro",
+      "title": "Advanced Icon Box â€” Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Icon Box",
+        "Features",
+        "Services"
+      ],
+      "file": "widgets/advanced-icon-box-still-pro.json",
+      "thumbnail": "screenshots/advanced-icon-box-still-pro.webp"
+    },
+    {
+      "id": "advanced-icon-box-nocturne-pro",
+      "title": "Advanced Icon Box â€” Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Icon Box",
+        "Features",
+        "Services"
+      ],
+      "file": "widgets/advanced-icon-box-nocturne-pro.json",
+      "thumbnail": "screenshots/advanced-icon-box-nocturne-pro.webp"
+    },
+    {
+      "id": "advanced-icon-box-trace-pro",
+      "title": "Advanced Icon Box â€” Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Icon Box",
+        "Features",
+        "Services"
+      ],
+      "file": "widgets/advanced-icon-box-trace-pro.json",
+      "thumbnail": "screenshots/advanced-icon-box-trace-pro.webp"
+    },
+    {
+      "id": "advanced-icon-box-meadow-pro",
+      "title": "Advanced Icon Box â€” Meadow / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Icon Box",
+        "Features",
+        "Services"
+      ],
+      "file": "widgets/advanced-icon-box-meadow-pro.json",
+      "thumbnail": "screenshots/advanced-icon-box-meadow-pro.webp"
+    },
+    {
+      "id": "advanced-icon-box-aura-pro",
+      "title": "Advanced Icon Box â€” Aura / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Icon Box",
+        "Features",
+        "Services"
+      ],
+      "file": "widgets/advanced-icon-box-aura-pro.json",
+      "thumbnail": "screenshots/advanced-icon-box-aura-pro.webp"
     }
   ]
 }

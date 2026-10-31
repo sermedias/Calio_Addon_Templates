@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 156 editable designs across 26 widget families (150 Free and 6 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 162 editable designs across 27 widget families (150 Free and 12 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -275,3 +275,7 @@ Folio, Glaze, Nightfall, Trace, Studio and Meadow provide six editable product c
 ### Advanced Accordion / Pro
 
 Ledger, Still, Glaze, Afterglow, Trace and Studio provide six editable accordions across Editorial, Minimal, Glass, Contrast, Outline and Split skins. These native section exports each contain one Advanced Accordion Pro widget and require the updated Calio Pro 1.0 companion plugin with these skins installed. Calio Free alone cannot render them. The original skin, setting IDs and existing content remain supported. All question and answer copy, typography, independent text/icon/surface paint, numbering, responsive spacing and disclosure behavior use registered controls. Previews are actual desktop browser screenshots of the exported content. No custom CSS, external fonts, media, local page IDs or saved-template dependencies are imported. Replace the illustrative copy for your own site. This catalog publication is separate from plugin distribution and WordPress.org releases.
+
+### Advanced Icon Box / Pro
+
+Folio, Still, Nocturne, Trace, Meadow and Aura provide six editable feature cards across Editorial, Minimal, Contrast, Outline, Soft and Spotlight skins. Each native section contains exactly one Advanced Icon Box Pro widget. They require the updated Calio Pro 1.0 companion implementation with these six skins; Calio Free alone cannot render them. Existing Classic, Framed, Gradient Surface, Glass, Corner Accent and Split Panel values remain supported. All authored copy, native icons, typography, independent text/icon/surface paint, badge, indicator, responsive spacing and native links use registered controls. The Still design uses one whole-card destination. Replace illustrative copy and # placeholder links before publishing your own site. No custom CSS, remote fonts, media, local site IDs or saved-template dependencies are imported. Previews are actual desktop browser screenshots of the exported widget content. This catalog publication is separate from plugin distribution and WordPress.org releases.
