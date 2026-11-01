@@ -1,7 +1,7 @@
 {
     "content": [
         {
-            "id": "651609e",
+            "id": "1022de58",
             "settings": {
                 "content_width": "boxed",
                 "boxed_width": {
@@ -21,7 +21,7 @@
             },
             "elements": [
                 {
-                    "id": "2d896830",
+                    "id": "21c49de0",
                     "settings": {
                         "skin": "outline",
                         "slides": [
@@ -79,14 +79,14 @@
                         ],
                         "static_image": {
                             "id": 0,
-                            "url": "",
+                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/detail-natural-stone.png",
                             "size": ""
                         },
-                        "static_image_alt": "",
+                        "static_image_alt": "Trace illustrative architectural composition",
                         "slider_label": "Trace illustrative stories",
                         "title_tag": "h3",
                         "loop": "yes",
-                        "autoplay": "",
+                        "autoplay": "yes",
                         "autoplay_speed": 5200,
                         "pause_on_hover": "yes",
                         "show_arrows": "yes",
@@ -100,17 +100,17 @@
                         "effect_ease": "power3.out",
                         "split_text_enabled": "",
                         "stage_height": {
-                            "size": 620,
+                            "size": 820,
                             "unit": "px",
                             "sizes": []
                         },
                         "stage_height_tablet": {
-                            "size": 600,
+                            "size": 860,
                             "unit": "px",
                             "sizes": []
                         },
                         "stage_height_mobile": {
-                            "size": 640,
+                            "size": 920,
                             "unit": "px",
                             "sizes": []
                         },
@@ -138,7 +138,7 @@
                         "background_fit": "cover",
                         "background_position": "center center",
                         "text_x": {
-                            "size": 9,
+                            "size": 22,
                             "unit": "%",
                             "sizes": []
                         },
@@ -148,17 +148,17 @@
                             "sizes": []
                         },
                         "text_y": {
-                            "size": 48,
+                            "size": 66,
                             "unit": "%",
                             "sizes": []
                         },
                         "text_y_mobile": {
-                            "size": 47,
+                            "size": 65,
                             "unit": "%",
                             "sizes": []
                         },
                         "text_max_width": {
-                            "size": 520,
+                            "size": 620,
                             "unit": "px",
                             "sizes": []
                         },
@@ -167,7 +167,7 @@
                             "unit": "%",
                             "sizes": []
                         },
-                        "text_align": "left",
+                        "text_align": "center",
                         "stage_padding": {
                             "size": 48,
                             "unit": "px",
@@ -204,12 +204,12 @@
                         "title_typography_typography": "custom",
                         "title_typography_font_family": "Arial",
                         "title_typography_font_size": {
-                            "size": 50,
+                            "size": 42,
                             "unit": "px",
                             "sizes": []
                         },
                         "title_typography_font_size_mobile": {
-                            "size": 34,
+                            "size": 32,
                             "unit": "px",
                             "sizes": []
                         },
@@ -286,10 +286,83 @@
                             "sizes": []
                         },
                         "split_width": {
-                            "size": 49,
+                            "size": 60,
                             "unit": "px",
                             "sizes": []
-                        }
+                        },
+                        "copy_mode": "fixed",
+                        "fixed_eyebrow": "TRACE / COLLECTION",
+                        "fixed_title": "The beauty is in the details.",
+                        "fixed_description": "Follow the line from an early sketch to a more thoughtful place to live.",
+                        "fixed_button_text": "Explore the collection",
+                        "fixed_button_link": {
+                            "url": "#",
+                            "is_external": "",
+                            "nofollow": "",
+                            "custom_attributes": ""
+                        },
+                        "static_image_x": {
+                            "size": 50,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "static_image_y": {
+                            "size": 24,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "static_image_x_mobile": {
+                            "size": 50,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "static_image_y_mobile": {
+                            "size": 23,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "static_image_width": {
+                            "size": 28,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "static_image_width_tablet": {
+                            "size": 38,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "static_image_width_mobile": {
+                            "size": 68,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "foreground_height": {
+                            "size": 230,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "foreground_height_mobile": {
+                            "size": 200,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "foreground_radius": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "static_image_shadow_box_shadow_type": "yes",
+                        "static_image_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 18,
+                            "blur": 46,
+                            "spread": 0,
+                            "color": "#07182766"
+                        },
+                        "playback_color": "#FFFFFF"
                     },
                     "elements": [],
                     "isInner": false,
