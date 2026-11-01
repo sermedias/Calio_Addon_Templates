@@ -1,0 +1,308 @@
+{
+    "content": [
+        {
+            "id": "f6b39cd",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1120,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "5da0926f",
+                    "settings": {
+                        "skin": "split",
+                        "slides": [
+                            {
+                                "_id": "bgsrow1",
+                                "background_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/hillside-cabin.png"
+                                },
+                                "eyebrow": "STUDIO / 01",
+                                "title": "Space for a better everyday.",
+                                "description": "Three imagined places that balance practical living with an individual point of view.",
+                                "button_text": "Explore the collection",
+                                "button_link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "bgsrow2",
+                                "background_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/courtyard-house.png"
+                                },
+                                "eyebrow": "STUDIO / 02",
+                                "title": "A fresh perspective.",
+                                "description": "An illustrative scene that invites a closer look at material, light and space.",
+                                "button_text": "Discover the story",
+                                "button_link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "bgsrow3",
+                                "background_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/atelier/urban-retreat.png"
+                                },
+                                "eyebrow": "STUDIO / 03",
+                                "title": "A place to make your own.",
+                                "description": "Replace these sample stories and artwork with your own projects.",
+                                "button_text": "Discover the story",
+                                "button_link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "static_image": {
+                            "id": 0,
+                            "url": "",
+                            "size": ""
+                        },
+                        "static_image_alt": "",
+                        "slider_label": "Studio illustrative stories",
+                        "title_tag": "h3",
+                        "loop": "yes",
+                        "autoplay": "",
+                        "autoplay_speed": 5200,
+                        "pause_on_hover": "yes",
+                        "show_arrows": "yes",
+                        "show_dots": "yes",
+                        "transition_speed": 650,
+                        "slide_transition_effect": "slide-horizontal",
+                        "text_effect": "cinematic-up",
+                        "effect_duration": 500,
+                        "effect_stagger": 60,
+                        "effect_delay": 40,
+                        "effect_ease": "power3.out",
+                        "split_text_enabled": "",
+                        "stage_height": {
+                            "size": 620,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_tablet": {
+                            "size": 600,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_mobile": {
+                            "size": 640,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_radius": {
+                            "top": "4",
+                            "right": "4",
+                            "bottom": "4",
+                            "left": "4",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "stage_fallback_background_background": "classic",
+                        "stage_fallback_background_color": "#253239",
+                        "stage_border_border": "solid",
+                        "stage_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "stage_border_color": "#B1836555",
+                        "overlay_color": "rgba(16,28,32,0.12)",
+                        "background_fit": "cover",
+                        "background_position": "center center",
+                        "text_x": {
+                            "size": 9,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "text_x_mobile": {
+                            "size": 7,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "text_y": {
+                            "size": 48,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "text_y_mobile": {
+                            "size": 47,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "text_max_width": {
+                            "size": 520,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "text_max_width_mobile": {
+                            "size": 86,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "text_align": "left",
+                        "stage_padding": {
+                            "size": 48,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_padding_mobile": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eyebrow_color": "#667660",
+                        "title_color": "#3C443A",
+                        "description_color": "#596453",
+                        "button_color": "#F9F5EB",
+                        "button_background": "#3C4C3C",
+                        "button_hover_color": "#FFFFFF",
+                        "button_hover_background": "#B18365",
+                        "button_padding": {
+                            "top": "13",
+                            "right": "20",
+                            "bottom": "13",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "button_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Georgia",
+                        "title_typography_font_size": {
+                            "size": 50,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 34,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "400",
+                        "title_typography_line_height": {
+                            "size": 1.08,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "title_typography_letter_spacing": {
+                            "size": -1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_typography": "custom",
+                        "description_typography_font_family": "Arial",
+                        "description_typography_font_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_font_size_mobile": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_line_height": {
+                            "size": 1.7,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "eyebrow_typography_typography": "custom",
+                        "eyebrow_typography_font_family": "Arial",
+                        "eyebrow_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_typography_typography": "custom",
+                        "button_typography_font_family": "Arial",
+                        "button_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_typography_font_weight": "600",
+                        "arrow_size": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "arrow_color": "#FFFFFF",
+                        "arrow_background": "#1F2F2E99",
+                        "arrow_hover_color": "#24352B",
+                        "arrow_hover_background": "#F3E7D1",
+                        "arrow_radius": {
+                            "size": 999,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dot_color": "#FFFFFF66",
+                        "dot_active_color": "#FFFFFF",
+                        "skin_accent": "#B18365",
+                        "skin_line": "#FFFFFF88",
+                        "focus_color": "#B18365",
+                        "glass_blur": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "frame_inset": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "split_width": {
+                            "size": 49,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-background-slider-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Background Slider — Studio",
+    "type": "section"
+}

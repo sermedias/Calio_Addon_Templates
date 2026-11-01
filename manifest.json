@@ -2525,6 +2525,78 @@
       ],
       "file": "widgets/advanced-progress-bar-circuit-pro.json",
       "thumbnail": "screenshots/advanced-progress-bar-circuit-pro.webp"
+    },
+    {
+      "id": "background-slider-atlas-pro",
+      "title": "Background Slider â€” Atlas / Pro",
+      "type": "widgets",
+      "categories": [
+        "Background Slider",
+        "Hero",
+        "Slider"
+      ],
+      "file": "widgets/background-slider-atlas-pro.json",
+      "thumbnail": "screenshots/background-slider-atlas-pro.webp"
+    },
+    {
+      "id": "background-slider-haven-pro",
+      "title": "Background Slider â€” Haven / Pro",
+      "type": "widgets",
+      "categories": [
+        "Background Slider",
+        "Hero",
+        "Slider"
+      ],
+      "file": "widgets/background-slider-haven-pro.json",
+      "thumbnail": "screenshots/background-slider-haven-pro.webp"
+    },
+    {
+      "id": "background-slider-glaze-pro",
+      "title": "Background Slider â€” Glaze / Pro",
+      "type": "widgets",
+      "categories": [
+        "Background Slider",
+        "Hero",
+        "Slider"
+      ],
+      "file": "widgets/background-slider-glaze-pro.json",
+      "thumbnail": "screenshots/background-slider-glaze-pro.webp"
+    },
+    {
+      "id": "background-slider-nocturne-pro",
+      "title": "Background Slider â€” Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Background Slider",
+        "Hero",
+        "Slider"
+      ],
+      "file": "widgets/background-slider-nocturne-pro.json",
+      "thumbnail": "screenshots/background-slider-nocturne-pro.webp"
+    },
+    {
+      "id": "background-slider-trace-pro",
+      "title": "Background Slider â€” Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Background Slider",
+        "Hero",
+        "Slider"
+      ],
+      "file": "widgets/background-slider-trace-pro.json",
+      "thumbnail": "screenshots/background-slider-trace-pro.webp"
+    },
+    {
+      "id": "background-slider-studio-pro",
+      "title": "Background Slider â€” Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Background Slider",
+        "Hero",
+        "Slider"
+      ],
+      "file": "widgets/background-slider-studio-pro.json",
+      "thumbnail": "screenshots/background-slider-studio-pro.webp"
     }
   ]
 }
