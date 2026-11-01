@@ -2453,6 +2453,78 @@
       ],
       "file": "widgets/advanced-icon-box-aura-pro.json",
       "thumbnail": "screenshots/advanced-icon-box-aura-pro.webp"
+    },
+    {
+      "id": "advanced-progress-bar-ledger-pro",
+      "title": "Advanced Progress Bar â€” Ledger / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Progress Bar",
+        "Progress",
+        "Data"
+      ],
+      "file": "widgets/advanced-progress-bar-ledger-pro.json",
+      "thumbnail": "screenshots/advanced-progress-bar-ledger-pro.webp"
+    },
+    {
+      "id": "advanced-progress-bar-still-pro",
+      "title": "Advanced Progress Bar â€” Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Progress Bar",
+        "Progress",
+        "Data"
+      ],
+      "file": "widgets/advanced-progress-bar-still-pro.json",
+      "thumbnail": "screenshots/advanced-progress-bar-still-pro.webp"
+    },
+    {
+      "id": "advanced-progress-bar-glaze-pro",
+      "title": "Advanced Progress Bar â€” Glaze / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Progress Bar",
+        "Progress",
+        "Data"
+      ],
+      "file": "widgets/advanced-progress-bar-glaze-pro.json",
+      "thumbnail": "screenshots/advanced-progress-bar-glaze-pro.webp"
+    },
+    {
+      "id": "advanced-progress-bar-nocturne-pro",
+      "title": "Advanced Progress Bar â€” Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Progress Bar",
+        "Progress",
+        "Data"
+      ],
+      "file": "widgets/advanced-progress-bar-nocturne-pro.json",
+      "thumbnail": "screenshots/advanced-progress-bar-nocturne-pro.webp"
+    },
+    {
+      "id": "advanced-progress-bar-trace-pro",
+      "title": "Advanced Progress Bar â€” Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Progress Bar",
+        "Progress",
+        "Data"
+      ],
+      "file": "widgets/advanced-progress-bar-trace-pro.json",
+      "thumbnail": "screenshots/advanced-progress-bar-trace-pro.webp"
+    },
+    {
+      "id": "advanced-progress-bar-circuit-pro",
+      "title": "Advanced Progress Bar â€” Circuit / Pro",
+      "type": "widgets",
+      "categories": [
+        "Advanced Progress Bar",
+        "Progress",
+        "Data"
+      ],
+      "file": "widgets/advanced-progress-bar-circuit-pro.json",
+      "thumbnail": "screenshots/advanced-progress-bar-circuit-pro.webp"
     }
   ]
 }

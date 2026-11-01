@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 162 editable designs across 27 widget families (150 Free and 12 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 168 editable designs across 28 widget families (150 Free and 18 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -279,3 +279,7 @@ Ledger, Still, Glaze, Afterglow, Trace and Studio provide six editable accordion
 ### Advanced Icon Box / Pro
 
 Folio, Still, Nocturne, Trace, Meadow and Aura provide six editable feature cards across Editorial, Minimal, Contrast, Outline, Soft and Spotlight skins. Each native section contains exactly one Advanced Icon Box Pro widget. They require the updated Calio Pro 1.0 companion implementation with these six skins; Calio Free alone cannot render them. Existing Classic, Framed, Gradient Surface, Glass, Corner Accent and Split Panel values remain supported. All authored copy, native icons, typography, independent text/icon/surface paint, badge, indicator, responsive spacing and native links use registered controls. The Still design uses one whole-card destination. Replace illustrative copy and # placeholder links before publishing your own site. No custom CSS, remote fonts, media, local site IDs or saved-template dependencies are imported. Previews are actual desktop browser screenshots of the exported widget content. This catalog publication is separate from plugin distribution and WordPress.org releases.
+
+### Advanced Progress Bar / Pro
+
+Ledger, Still, Glaze, Nocturne, Trace and Circuit provide six editable progress displays across Editorial, Minimal, Glass, Contrast, Outline and Segmented skins. Each native section contains one Advanced Progress Bar Pro widget, with three editable progress rows and complete native row defaults. These require the updated Calio Pro 1.0 implementation with the six new skins; Calio Free alone cannot render them. Existing Classic, Inside Text, Stacked, Striped, Gradient, Rainbow Motion and Soft Cards values remain supported. All percentages, stages, notes and project descriptions are illustrative examples, not measured business results; replace them with your own data. Text, surfaces, tracks, row colors, segments, typography, responsive spacing and animation timing use registered controls. Glaze uses inside text; Circuit includes native playback controls. Previews are actual settled desktop browser screenshots. No custom CSS, remote fonts, media, local site IDs or saved-template dependencies are imported. Catalog publication is separate from plugin distribution and WordPress.org releases.

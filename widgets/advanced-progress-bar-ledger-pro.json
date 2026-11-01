@@ -1,0 +1,324 @@
+{
+    "content": [
+        {
+            "id": "68e9911d",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 680,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                },
+                "align_self": "center"
+            },
+            "elements": [
+                {
+                    "id": "72d7039e",
+                    "settings": {
+                        "skin": "editorial",
+                        "title": "From first idea to final detail.",
+                        "subtitle": "An illustrative project snapshot. Update the stages and percentages for your own work.",
+                        "title_tag": "h3",
+                        "items": [
+                            {
+                                "_id": "apbrow1",
+                                "label": "Discovery",
+                                "value": {
+                                    "size": 90,
+                                    "unit": "%",
+                                    "sizes": []
+                                },
+                                "prefix": "",
+                                "suffix": "%",
+                                "note": "Research and shared direction",
+                                "main_color": "#A07B55",
+                                "second_color": "#CFAD80"
+                            },
+                            {
+                                "_id": "apbrow2",
+                                "label": "Design",
+                                "value": {
+                                    "size": 68,
+                                    "unit": "%",
+                                    "sizes": []
+                                },
+                                "prefix": "",
+                                "suffix": "%",
+                                "note": "Exploring the visual language",
+                                "main_color": "#A07B55",
+                                "second_color": "#CFAD80"
+                            },
+                            {
+                                "_id": "apbrow3",
+                                "label": "Delivery",
+                                "value": {
+                                    "size": 42,
+                                    "unit": "%",
+                                    "sizes": []
+                                },
+                                "prefix": "",
+                                "suffix": "%",
+                                "note": "Turning decisions into a working result",
+                                "main_color": "#A07B55",
+                                "second_color": "#CFAD80"
+                            }
+                        ],
+                        "show_title": "yes",
+                        "show_values": "yes",
+                        "show_notes": "yes",
+                        "text_position": "above",
+                        "value_precision": "0",
+                        "progress_label": "Ledger illustrative progress",
+                        "animate": "yes",
+                        "trigger": "viewport",
+                        "duration": 1200,
+                        "delay": 80,
+                        "stagger": 100,
+                        "ease": "power3.out",
+                        "count_up": "yes",
+                        "once": "yes",
+                        "show_playback": "",
+                        "decorative_motion": "",
+                        "fill_mode": "gradient",
+                        "wrapper_padding": {
+                            "top": "36",
+                            "right": "36",
+                            "bottom": "36",
+                            "left": "36",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "wrapper_padding_mobile": {
+                            "top": "24",
+                            "right": "20",
+                            "bottom": "24",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "wrapper_radius": {
+                            "top": "4",
+                            "right": "4",
+                            "bottom": "4",
+                            "left": "4",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "wrapper_background_background": "classic",
+                        "wrapper_background_color": "#FCF8EF",
+                        "wrapper_background_color_b": "#DDEBF7CC",
+                        "wrapper_background_gradient_angle": {
+                            "size": 135,
+                            "unit": "deg",
+                            "sizes": []
+                        },
+                        "wrapper_border_border": "solid",
+                        "wrapper_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "wrapper_border_color": "#A07B5544",
+                        "wrapper_shadow_box_shadow_type": "yes",
+                        "wrapper_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 18,
+                            "blur": 48,
+                            "spread": 0,
+                            "color": "#24364A0D"
+                        },
+                        "item_gap": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "bar_height": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "bar_height_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "bar_radius": {
+                            "top": "999",
+                            "right": "999",
+                            "bottom": "999",
+                            "left": "999",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "track_color": "#E7DDCA",
+                        "fill_shadow_color": "transparent",
+                        "gradient_angle": {
+                            "size": 90,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "decoration_opacity": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "segment_count": 12,
+                        "segment_gap": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "segment_color": "#FCF8EF",
+                        "glass_blur": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_color": "#49392C",
+                        "subtitle_color": "#786650",
+                        "label_color": "#49392C",
+                        "value_color": "#49392C",
+                        "apb_note_paint_mode": "classic",
+                        "apb_note_color": "#786650",
+                        "inside_text_color": "#49392C",
+                        "inside_surface_background": "classic",
+                        "inside_surface_color": "#FFFFFFCC",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Georgia",
+                        "title_typography_font_size": {
+                            "size": 39,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 27,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "400",
+                        "title_typography_line_height": {
+                            "size": 1.15,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "title_typography_letter_spacing": {
+                            "size": -0.6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "subtitle_typography_typography": "custom",
+                        "subtitle_typography_font_family": "Arial",
+                        "subtitle_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "subtitle_typography_line_height": {
+                            "size": 1.75,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "label_typography_typography": "custom",
+                        "label_typography_font_family": "Arial",
+                        "label_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "label_typography_font_weight": "600",
+                        "value_typography_typography": "custom",
+                        "value_typography_font_family": "Arial",
+                        "value_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "value_typography_font_weight": "600",
+                        "note_typography_typography": "custom",
+                        "note_typography_font_family": "Arial",
+                        "note_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "note_typography_font_weight": "400",
+                        "note_typography_line_height": {
+                            "size": 1.65,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "inside_typography_typography": "custom",
+                        "inside_typography_font_family": "Arial",
+                        "inside_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "inside_typography_font_weight": "600",
+                        "inside_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "row_padding": {
+                            "top": "12",
+                            "right": "0",
+                            "bottom": "12",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "row_radius": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "row_background_background": "classic",
+                        "row_background_color": "transparent",
+                        "row_border_border": "solid",
+                        "row_border_width": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "row_border_color": "#A07B5544",
+                        "apb_control_text_color": "#49392C",
+                        "control_typography_typography": "custom",
+                        "control_typography_font_family": "Arial",
+                        "control_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "focus_color": "#A07B55"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-advanced-progress-bar-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Advanced Progress Bar — Ledger",
+    "type": "section"
+}
