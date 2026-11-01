@@ -2597,6 +2597,78 @@
       ],
       "file": "widgets/background-slider-studio-pro.json",
       "thumbnail": "screenshots/background-slider-studio-pro.webp"
+    },
+    {
+      "id": "bento-grid-posts-folio-pro",
+      "title": "Bento Grid Posts — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Bento Grid Posts",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/bento-grid-posts-folio-pro.json",
+      "thumbnail": "screenshots/bento-grid-posts-folio-pro.webp"
+    },
+    {
+      "id": "bento-grid-posts-still-pro",
+      "title": "Bento Grid Posts — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Bento Grid Posts",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/bento-grid-posts-still-pro.json",
+      "thumbnail": "screenshots/bento-grid-posts-still-pro.webp"
+    },
+    {
+      "id": "bento-grid-posts-glaze-pro",
+      "title": "Bento Grid Posts — Glaze / Pro",
+      "type": "widgets",
+      "categories": [
+        "Bento Grid Posts",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/bento-grid-posts-glaze-pro.json",
+      "thumbnail": "screenshots/bento-grid-posts-glaze-pro.webp"
+    },
+    {
+      "id": "bento-grid-posts-nocturne-pro",
+      "title": "Bento Grid Posts — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Bento Grid Posts",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/bento-grid-posts-nocturne-pro.json",
+      "thumbnail": "screenshots/bento-grid-posts-nocturne-pro.webp"
+    },
+    {
+      "id": "bento-grid-posts-trace-pro",
+      "title": "Bento Grid Posts — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Bento Grid Posts",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/bento-grid-posts-trace-pro.json",
+      "thumbnail": "screenshots/bento-grid-posts-trace-pro.webp"
+    },
+    {
+      "id": "bento-grid-posts-studio-pro",
+      "title": "Bento Grid Posts — Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Bento Grid Posts",
+        "Posts",
+        "Blog"
+      ],
+      "file": "widgets/bento-grid-posts-studio-pro.json",
+      "thumbnail": "screenshots/bento-grid-posts-studio-pro.webp"
     }
   ]
 }
