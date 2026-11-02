@@ -2741,6 +2741,78 @@
       ],
       "file": "widgets/calendar-nocturne-pro.json",
       "thumbnail": "screenshots/calendar-nocturne-pro.webp"
+    },
+    {
+      "id": "card-deck-atlas-pro",
+      "title": "Card Deck â€” Atlas / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Deck",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-deck-atlas-pro.json",
+      "thumbnail": "screenshots/card-deck-atlas-pro.webp"
+    },
+    {
+      "id": "card-deck-still-pro",
+      "title": "Card Deck â€” Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Deck",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-deck-still-pro.json",
+      "thumbnail": "screenshots/card-deck-still-pro.webp"
+    },
+    {
+      "id": "card-deck-glaze-pro",
+      "title": "Card Deck â€” Glaze / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Deck",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-deck-glaze-pro.json",
+      "thumbnail": "screenshots/card-deck-glaze-pro.webp"
+    },
+    {
+      "id": "card-deck-nocturne-pro",
+      "title": "Card Deck â€” Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Deck",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-deck-nocturne-pro.json",
+      "thumbnail": "screenshots/card-deck-nocturne-pro.webp"
+    },
+    {
+      "id": "card-deck-trace-pro",
+      "title": "Card Deck â€” Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Deck",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-deck-trace-pro.json",
+      "thumbnail": "screenshots/card-deck-trace-pro.webp"
+    },
+    {
+      "id": "card-deck-passage-pro",
+      "title": "Card Deck â€” Passage / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Deck",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-deck-passage-pro.json",
+      "thumbnail": "screenshots/card-deck-passage-pro.webp"
     }
   ]
 }
