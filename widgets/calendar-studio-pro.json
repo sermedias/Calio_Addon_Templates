@@ -1,0 +1,261 @@
+{
+    "content": [
+        {
+            "id": "2e51fe73",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1180,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "flex_direction": "column",
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "3737b61e",
+                    "settings": {
+                        "skin_preset": "studio",
+                        "calendar_density": "compact",
+                        "show_intro": "yes",
+                        "intro_eyebrow": "STUDIO / COMMUNITY CALENDAR",
+                        "intro_title": "Bring your next idea to life.",
+                        "intro_description": "A sample programme of art, music and wellbeing. Discover the details, choose a date and make it your own.",
+                        "enabled_views": [
+                            "weekdays_schedule",
+                            "mini_calendar",
+                            "day_schedule"
+                        ],
+                        "initial_view": "weekdays_schedule",
+                        "initial_date": "2026-11-05 08:00",
+                        "timeline_items": [
+                            {
+                                "_id": "calrow1",
+                                "event_title": "Colour & Canvas",
+                                "event_badge": "Community session",
+                                "event_category": "Art",
+                                "event_source_key": "manual",
+                                "event_resource_key": "",
+                                "event_slot_label": "",
+                                "event_slot_status": "open",
+                                "start_datetime": "2026-11-06 10:00",
+                                "end_datetime": "2026-11-06 12:00",
+                                "all_day": "",
+                                "event_recurrence": "none",
+                                "recurrence_interval": 1,
+                                "recurrence_count": 1,
+                                "recurrence_until": "",
+                                "event_location": "Art Studio",
+                                "event_host": "",
+                                "event_capacity": "0",
+                                "event_seats_left": "0",
+                                "event_price": "",
+                                "event_description": "Explore bold colour, expressive brushwork and a fresh way to see everyday forms.",
+                                "event_secondary_note": "Illustrative programme. Replace these sample events with your own.",
+                                "event_color": "#B2753B",
+                                "event_featured": "yes",
+                                "event_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/calendar/art-workshop.webp",
+                                    "size": ""
+                                },
+                                "event_cta_label": "View programme",
+                                "event_link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "calrow2",
+                                "event_title": "Acoustic After Hours",
+                                "event_badge": "Community session",
+                                "event_category": "Music",
+                                "event_source_key": "manual",
+                                "event_resource_key": "",
+                                "event_slot_label": "",
+                                "event_slot_status": "open",
+                                "start_datetime": "2026-11-07 18:00",
+                                "end_datetime": "2026-11-07 20:00",
+                                "all_day": "",
+                                "event_recurrence": "none",
+                                "recurrence_interval": 1,
+                                "recurrence_count": 1,
+                                "recurrence_until": "",
+                                "event_location": "Listening Room",
+                                "event_host": "",
+                                "event_capacity": "0",
+                                "event_seats_left": "0",
+                                "event_price": "",
+                                "event_description": "A relaxed evening of warm acoustic sounds and small-room atmosphere.",
+                                "event_secondary_note": "Illustrative programme. Replace these sample events with your own.",
+                                "event_color": "#936397",
+                                "event_featured": "yes",
+                                "event_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/calendar/acoustic-evening.webp",
+                                    "size": ""
+                                },
+                                "event_cta_label": "View programme",
+                                "event_link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "calrow3",
+                                "event_title": "Morning by the Water",
+                                "event_badge": "Community session",
+                                "event_category": "Wellbeing",
+                                "event_source_key": "manual",
+                                "event_resource_key": "",
+                                "event_slot_label": "",
+                                "event_slot_status": "open",
+                                "start_datetime": "2026-11-05 08:00",
+                                "end_datetime": "2026-11-05 09:30",
+                                "all_day": "",
+                                "event_recurrence": "none",
+                                "recurrence_interval": 1,
+                                "recurrence_count": 1,
+                                "recurrence_until": "",
+                                "event_location": "Lakeside Deck",
+                                "event_host": "",
+                                "event_capacity": "0",
+                                "event_seats_left": "0",
+                                "event_price": "",
+                                "event_description": "Start the day with gentle movement, fresh air and a little room to breathe.",
+                                "event_secondary_note": "Illustrative programme. Replace these sample events with your own.",
+                                "event_color": "#4E8575",
+                                "event_featured": "yes",
+                                "event_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/calendar/lakeside-yoga.webp",
+                                    "size": ""
+                                },
+                                "event_cta_label": "View programme",
+                                "event_link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "source_mode": "manual",
+                        "calendar_sources": [],
+                        "calendar_resources": [],
+                        "show_sidebar": "yes",
+                        "sidebar_mode": "all",
+                        "sidebar_limit": 1,
+                        "show_legend": "yes",
+                        "show_resources_panel": "",
+                        "show_month_cards": "",
+                        "month_cards_limit": 3,
+                        "month_cards_heading": "On the programme",
+                        "legend_heading": "Find your interest",
+                        "show_resource_filters": "",
+                        "show_source_filters": "",
+                        "show_filters": "yes",
+                        "popup_enabled": "yes",
+                        "enable_ics_export": "yes",
+                        "calendar_stage_height": {
+                            "size": 380,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "calendar_stage_height_mobile": {
+                            "size": 400,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "calendar_skin_accent": "#176E84",
+                        "calendar_accent_color": "#176E84",
+                        "calendar_skin_accent_width": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "calendar_skin_blur": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "calendar_skin_inset": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "calendar_focus_color": "#176E84",
+                        "calendar_shell_background_group_background": "classic",
+                        "calendar_shell_background_group_color": "#FAFBF8",
+                        "calendar_shell_border_border": "solid",
+                        "calendar_shell_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "calendar_shell_border_color": "#176E8444",
+                        "calendar_intro_title_typography_typography": "custom",
+                        "calendar_intro_title_typography_font_family": "Arial",
+                        "calendar_intro_title_typography_font_size": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "calendar_intro_title_typography_font_size_mobile": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "calendar_intro_title_typography_font_weight": "600",
+                        "calendar_intro_title_typography_line_height": {
+                            "size": 1.15,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "calendar_intro_title_color": "#28362F",
+                        "calendar_intro_description_color": "#647066",
+                        "calendar_intro_eyebrow_color": "#176E84",
+                        "calendar_intro_stat_text_color": "#435848",
+                        "calendar_card_title_color": "#28362F",
+                        "calendar_card_meta_color": "#68766B",
+                        "calendar_card_description_color": "#68766B",
+                        "calendar_controls_background_normal_background": "classic",
+                        "calendar_controls_background_normal_color": "#EBEDE5",
+                        "calendar_controls_text_color_normal": "#435848",
+                        "calendar_controls_background_active_background": "classic",
+                        "calendar_controls_background_active_color": "#176E84",
+                        "calendar_controls_text_color_active": "#FFFFFF",
+                        "calendar_controls_background_hover_background": "classic",
+                        "calendar_controls_background_hover_color": "#E1E4DA",
+                        "calendar_controls_text_color_hover": "#28362F"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-calendar-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Calendar — Studio",
+    "type": "section"
+}

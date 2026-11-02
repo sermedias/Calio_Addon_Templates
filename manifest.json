@@ -2669,6 +2669,78 @@
       ],
       "file": "widgets/bento-grid-posts-studio-pro.json",
       "thumbnail": "screenshots/bento-grid-posts-studio-pro.webp"
+    },
+    {
+      "id": "calendar-ledger-pro",
+      "title": "Calendar â€” Ledger / Pro",
+      "type": "widgets",
+      "categories": [
+        "Calendar",
+        "Events",
+        "Schedule"
+      ],
+      "file": "widgets/calendar-ledger-pro.json",
+      "thumbnail": "screenshots/calendar-ledger-pro.webp"
+    },
+    {
+      "id": "calendar-still-pro",
+      "title": "Calendar â€” Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Calendar",
+        "Events",
+        "Schedule"
+      ],
+      "file": "widgets/calendar-still-pro.json",
+      "thumbnail": "screenshots/calendar-still-pro.webp"
+    },
+    {
+      "id": "calendar-trace-pro",
+      "title": "Calendar â€” Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Calendar",
+        "Events",
+        "Schedule"
+      ],
+      "file": "widgets/calendar-trace-pro.json",
+      "thumbnail": "screenshots/calendar-trace-pro.webp"
+    },
+    {
+      "id": "calendar-prism-pro",
+      "title": "Calendar â€” Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Calendar",
+        "Events",
+        "Schedule"
+      ],
+      "file": "widgets/calendar-prism-pro.json",
+      "thumbnail": "screenshots/calendar-prism-pro.webp"
+    },
+    {
+      "id": "calendar-studio-pro",
+      "title": "Calendar â€” Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Calendar",
+        "Events",
+        "Schedule"
+      ],
+      "file": "widgets/calendar-studio-pro.json",
+      "thumbnail": "screenshots/calendar-studio-pro.webp"
+    },
+    {
+      "id": "calendar-nocturne-pro",
+      "title": "Calendar â€” Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Calendar",
+        "Events",
+        "Schedule"
+      ],
+      "file": "widgets/calendar-nocturne-pro.json",
+      "thumbnail": "screenshots/calendar-nocturne-pro.webp"
     }
   ]
 }
