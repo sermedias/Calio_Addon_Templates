@@ -1,0 +1,483 @@
+{
+    "content": [
+        {
+            "id": "16fe5499",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1000,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "22e5d331",
+                    "settings": {
+                        "items": [
+                            {
+                                "_id": "circleitem1",
+                                "item_title": "Source",
+                                "item_details": "Choose useful materials and think carefully about where they begin.",
+                                "item_icon": {
+                                    "value": "fas fa-leaf",
+                                    "library": "fa-solid"
+                                },
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "item_bg_type": "none",
+                                "item_bg_color": "",
+                                "item_bg_gradient_start": "",
+                                "item_bg_gradient_end": "",
+                                "item_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "item_center_title_color": "",
+                                "item_center_text_color": "",
+                                "item_center_bg_type": "none",
+                                "item_center_bg_color": "",
+                                "item_center_bg_gradient_start": "",
+                                "item_center_bg_gradient_end": "",
+                                "item_center_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_center_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                }
+                            },
+                            {
+                                "_id": "circleitem2",
+                                "item_title": "Design",
+                                "item_details": "Create with longevity, clarity and everyday use in mind.",
+                                "item_icon": {
+                                    "value": "fas fa-drafting-compass",
+                                    "library": "fa-solid"
+                                },
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "item_bg_type": "none",
+                                "item_bg_color": "",
+                                "item_bg_gradient_start": "",
+                                "item_bg_gradient_end": "",
+                                "item_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "item_center_title_color": "",
+                                "item_center_text_color": "",
+                                "item_center_bg_type": "none",
+                                "item_center_bg_color": "",
+                                "item_center_bg_gradient_start": "",
+                                "item_center_bg_gradient_end": "",
+                                "item_center_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_center_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                }
+                            },
+                            {
+                                "_id": "circleitem3",
+                                "item_title": "Make",
+                                "item_details": "Turn considered choices into well-crafted, practical outcomes.",
+                                "item_icon": {
+                                    "value": "fas fa-hammer",
+                                    "library": "fa-solid"
+                                },
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "item_bg_type": "none",
+                                "item_bg_color": "",
+                                "item_bg_gradient_start": "",
+                                "item_bg_gradient_end": "",
+                                "item_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "item_center_title_color": "",
+                                "item_center_text_color": "",
+                                "item_center_bg_type": "none",
+                                "item_center_bg_color": "",
+                                "item_center_bg_gradient_start": "",
+                                "item_center_bg_gradient_end": "",
+                                "item_center_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_center_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                }
+                            },
+                            {
+                                "_id": "circleitem4",
+                                "item_title": "Use",
+                                "item_details": "Care for what you have and make its useful life last longer.",
+                                "item_icon": {
+                                    "value": "fas fa-hand-holding-heart",
+                                    "library": "fa-solid"
+                                },
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "item_bg_type": "none",
+                                "item_bg_color": "",
+                                "item_bg_gradient_start": "",
+                                "item_bg_gradient_end": "",
+                                "item_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "item_center_title_color": "",
+                                "item_center_text_color": "",
+                                "item_center_bg_type": "none",
+                                "item_center_bg_color": "",
+                                "item_center_bg_gradient_start": "",
+                                "item_center_bg_gradient_end": "",
+                                "item_center_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_center_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                }
+                            },
+                            {
+                                "_id": "circleitem5",
+                                "item_title": "Renew",
+                                "item_details": "Find a new purpose and keep valuable resources in circulation.",
+                                "item_icon": {
+                                    "value": "fas fa-recycle",
+                                    "library": "fa-solid"
+                                },
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "item_bg_type": "none",
+                                "item_bg_color": "",
+                                "item_bg_gradient_start": "",
+                                "item_bg_gradient_end": "",
+                                "item_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "item_center_title_color": "",
+                                "item_center_text_color": "",
+                                "item_center_bg_type": "none",
+                                "item_center_bg_color": "",
+                                "item_center_bg_gradient_start": "",
+                                "item_center_bg_gradient_end": "",
+                                "item_center_bg_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 135,
+                                    "sizes": []
+                                },
+                                "item_center_bg_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                }
+                            }
+                        ],
+                        "design_skin": "orbit",
+                        "visual_skin": "classic",
+                        "preset_pack": "custom",
+                        "mobile_layout": "list",
+                        "layout_density": "comfortable",
+                        "content_alignment_preset": "center",
+                        "initial_item": 5,
+                        "select_event": "click",
+                        "link_on_icon": "",
+                        "circle_size": {
+                            "size": 560,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "circle_size_mobile": {
+                            "size": 350,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_area_size": {
+                            "size": 76,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_area_size_mobile": {
+                            "size": 56,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_size": {
+                            "size": 27,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_size_mobile": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_shape": "circle",
+                        "ring_style": "solid",
+                        "content_padding": {
+                            "top": "28",
+                            "right": "24",
+                            "bottom": "28",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_padding_mobile": {
+                            "top": "18",
+                            "right": "16",
+                            "bottom": "18",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_border_border": "solid",
+                        "content_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "content_border_color": "#B18B6066",
+                        "content_border_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "content_background_type_background": "classic",
+                        "content_background_type_color": "#FBF9F2",
+                        "center_width": {
+                            "size": 56,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "center_width_mobile": {
+                            "size": 64,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "title_color": "#554132",
+                        "text_color": "#6C7167",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 25,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "600",
+                        "title_typography_line_height": {
+                            "size": 1.18,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "text_typography_typography": "custom",
+                        "text_typography_font_family": "Arial",
+                        "text_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "text_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "text_typography_line_height": {
+                            "size": 1.65,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "icon_color": "#B18B60",
+                        "icon_hover_color": "#FFFFFF",
+                        "icon_active_color": "#FFFFFF",
+                        "icon_background_type_background": "classic",
+                        "icon_background_type_color": "#FCFBF7",
+                        "icon_hover_background_type_background": "classic",
+                        "icon_hover_background_type_color": "#B18B60",
+                        "icon_active_background_type_background": "classic",
+                        "icon_active_background_type_color": "#B18B60",
+                        "skin_accent": "#B18B60",
+                        "skin_line": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "skin_blur": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "skin_number_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "focus_color": "#B18B60",
+                        "list_surface_background": "classic",
+                        "list_surface_color": "#FBF9F2",
+                        "list_border_border": "solid",
+                        "list_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "list_border_color": "#B18B6055",
+                        "list_radius": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "list_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "list_title_typography_typography": "custom",
+                        "list_title_typography_font_family": "Arial",
+                        "list_title_typography_font_size": {
+                            "size": 19,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "list_title_typography_font_weight": "600",
+                        "list_title_color": "#554132",
+                        "list_text_typography_typography": "custom",
+                        "list_text_typography_font_family": "Arial",
+                        "list_text_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "list_text_typography_line_height": {
+                            "size": 1.55,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "list_text_color": "#6C7167",
+                        "list_icon_size": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "auto_mode": "",
+                        "auto_delay": 4200,
+                        "auto_resume_delay": 450,
+                        "pause_on_hover": "yes",
+                        "pause_on_interaction": "yes",
+                        "pause_when_hidden": "yes",
+                        "pause_when_offscreen": "yes",
+                        "resume_on_mouseleave": "yes",
+                        "keyboard_navigation": "yes",
+                        "sync_timer_on_manual": "yes",
+                        "lock_center_height": "yes",
+                        "switch_duration": 220,
+                        "switch_effect": "fade",
+                        "switch_easing": "smooth",
+                        "respect_reduced_motion": "yes",
+                        "announce_changes": "yes",
+                        "circle_label": "Cycle editable circle information"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-circle-info-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Circle Info — Cycle",
+    "type": "section"
+}

@@ -2885,6 +2885,78 @@
       ],
       "file": "widgets/card-slider-studio-pro.json",
       "thumbnail": "screenshots/card-slider-studio-pro.webp"
+    },
+    {
+      "id": "circle-info-folio-pro",
+      "title": "Circle Info — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Circle Info",
+        "Features",
+        "Process"
+      ],
+      "file": "widgets/circle-info-folio-pro.json",
+      "thumbnail": "screenshots/circle-info-folio-pro.webp"
+    },
+    {
+      "id": "circle-info-still-pro",
+      "title": "Circle Info — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Circle Info",
+        "Features",
+        "Process"
+      ],
+      "file": "widgets/circle-info-still-pro.json",
+      "thumbnail": "screenshots/circle-info-still-pro.webp"
+    },
+    {
+      "id": "circle-info-prism-pro",
+      "title": "Circle Info — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Circle Info",
+        "Features",
+        "Process"
+      ],
+      "file": "widgets/circle-info-prism-pro.json",
+      "thumbnail": "screenshots/circle-info-prism-pro.webp"
+    },
+    {
+      "id": "circle-info-nocturne-pro",
+      "title": "Circle Info — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Circle Info",
+        "Features",
+        "Process"
+      ],
+      "file": "widgets/circle-info-nocturne-pro.json",
+      "thumbnail": "screenshots/circle-info-nocturne-pro.webp"
+    },
+    {
+      "id": "circle-info-trace-pro",
+      "title": "Circle Info — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Circle Info",
+        "Features",
+        "Process"
+      ],
+      "file": "widgets/circle-info-trace-pro.json",
+      "thumbnail": "screenshots/circle-info-trace-pro.webp"
+    },
+    {
+      "id": "circle-info-cycle-pro",
+      "title": "Circle Info — Cycle / Pro",
+      "type": "widgets",
+      "categories": [
+        "Circle Info",
+        "Features",
+        "Process"
+      ],
+      "file": "widgets/circle-info-cycle-pro.json",
+      "thumbnail": "screenshots/circle-info-cycle-pro.webp"
     }
   ]
 }

@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 198 editable designs across 33 widget families (150 Free and 48 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 204 editable designs across 34 widget families (150 Free and 54 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -303,3 +303,7 @@ Atlas, Still, Glaze, Nocturne, Trace and Passage offer six native editable Card 
 ### Card Slider / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Studio offer six native editable Card Slider Pro sections using Editorial, Minimal, Glass, Contrast, Outline and Split skins. Each includes one Pro widget and three editable fictional studio stories with original terracotta-lamp, floral-study and espresso-ritual photographs. All four slider arrangements, original card/scene presets and saved settings remain supported by the updated Calio Pro 1.0 implementation. Native typography, independent glyph/icon and surface paint, media, responsive card geometry and navigation remain editable. Keyboard navigation, focus transfer, native links, GSAP/Draggable, paused autoplay and reduced motion are supported. Example links are editable placeholders. No local site IDs, custom CSS, remote fonts or saved-template dependencies are included. Three new WebP assets under media/card-slider support native attachment remapping. Previews are actual desktop browser captures; mobile layouts were also checked. Catalog publication is separate from plugin distribution and WordPress.org releases.
+
+### Circle Info / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Cycle offer six native editable Circle Info Pro sections using Editorial, Minimal, Glass, Contrast, Outline and Orbit skins. Each includes one Pro widget with five editable items and native icons. Original Classic/Glass/Vivid skins and Custom/Aurora/Frost/Sunset/Mono preset packs remain supported. Typography, independent text and SVG icon paint, surfaces, responsive circle/list layouts and skin details remain editable. Native links, keyboard selection, content transitions, remaining-delay autoplay and reduced motion are supported. No local site IDs, custom CSS, remote fonts, media fixtures or saved-template dependencies are included. Previews are actual desktop browser captures; mobile layouts were also checked. Catalog publication is separate from plugin distribution and WordPress.org releases.
