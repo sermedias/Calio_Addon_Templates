@@ -2957,6 +2957,78 @@
       ],
       "file": "widgets/circle-info-cycle-pro.json",
       "thumbnail": "screenshots/circle-info-cycle-pro.webp"
+    },
+    {
+      "id": "content-timeline-folio-pro",
+      "title": "Content Timeline — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Content Timeline",
+        "Stories",
+        "Process"
+      ],
+      "file": "widgets/content-timeline-folio-pro.json",
+      "thumbnail": "screenshots/content-timeline-folio-pro.webp"
+    },
+    {
+      "id": "content-timeline-still-pro",
+      "title": "Content Timeline — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Content Timeline",
+        "Stories",
+        "Process"
+      ],
+      "file": "widgets/content-timeline-still-pro.json",
+      "thumbnail": "screenshots/content-timeline-still-pro.webp"
+    },
+    {
+      "id": "content-timeline-prism-pro",
+      "title": "Content Timeline — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Content Timeline",
+        "Stories",
+        "Process"
+      ],
+      "file": "widgets/content-timeline-prism-pro.json",
+      "thumbnail": "screenshots/content-timeline-prism-pro.webp"
+    },
+    {
+      "id": "content-timeline-nocturne-pro",
+      "title": "Content Timeline — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Content Timeline",
+        "Stories",
+        "Process"
+      ],
+      "file": "widgets/content-timeline-nocturne-pro.json",
+      "thumbnail": "screenshots/content-timeline-nocturne-pro.webp"
+    },
+    {
+      "id": "content-timeline-trace-pro",
+      "title": "Content Timeline — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Content Timeline",
+        "Stories",
+        "Process"
+      ],
+      "file": "widgets/content-timeline-trace-pro.json",
+      "thumbnail": "screenshots/content-timeline-trace-pro.webp"
+    },
+    {
+      "id": "content-timeline-passage-pro",
+      "title": "Content Timeline — Passage / Pro",
+      "type": "widgets",
+      "categories": [
+        "Content Timeline",
+        "Stories",
+        "Process"
+      ],
+      "file": "widgets/content-timeline-passage-pro.json",
+      "thumbnail": "screenshots/content-timeline-passage-pro.webp"
     }
   ]
 }

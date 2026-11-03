@@ -1,0 +1,306 @@
+{
+    "content": [
+        {
+            "id": "5581327e",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1000,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "61fd9140",
+                    "settings": {
+                        "items": [
+                            {
+                                "_id": "milestone1",
+                                "item_title": "Listen closely",
+                                "item_date": "2026-03-10 10:00",
+                                "date_label": "March 2026",
+                                "badge_text": "Discover",
+                                "item_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "author_text": "",
+                                "category_text": "",
+                                "comments_text": "",
+                                "description": "Start with meaningful questions and a clear view of the challenge.",
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "milestone2",
+                                "item_title": "Build with purpose",
+                                "item_date": "2026-04-10 10:00",
+                                "date_label": "April 2026",
+                                "badge_text": "Create",
+                                "item_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "author_text": "",
+                                "category_text": "",
+                                "comments_text": "",
+                                "description": "Connect careful thinking with practical craft through every stage.",
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "milestone3",
+                                "item_title": "Support what comes next",
+                                "item_date": "2026-05-10 10:00",
+                                "date_label": "May 2026",
+                                "badge_text": "Continue",
+                                "item_image": {
+                                    "url": "",
+                                    "id": "",
+                                    "size": ""
+                                },
+                                "author_text": "",
+                                "category_text": "",
+                                "comments_text": "",
+                                "description": "Review the outcome and shape the next chapter with confidence.",
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "timeline_skin": "contrast",
+                        "eael_dynamic_template_Layout": "card",
+                        "timeline_orientation": "vertical",
+                        "timeline_item_animation": "none",
+                        "posts_per_page": 3,
+                        "show_load_more": "no",
+                        "eael_show_image": "",
+                        "eael_show_title": "yes",
+                        "eael_show_excerpt": "yes",
+                        "eael_excerpt_length": 0,
+                        "title_tag": "h3",
+                        "eael_show_meta": "",
+                        "timeline_date_display_mode": "inline",
+                        "timeline_date_source": "custom_text",
+                        "timeline_date_format_mode": "default",
+                        "timeline_date_reveal": "always",
+                        "meta_position": "before_title",
+                        "show_badge": "yes",
+                        "badge_source": "item",
+                        "badge_skin": "soft",
+                        "show_read_more": "",
+                        "timeline_label": "Nocturne editable content timeline",
+                        "timeline_announce": "yes",
+                        "ct_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ct_gap_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ct_column_gap": {
+                            "size": 80,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ct_card_min_height": {
+                            "size": 150,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ct_media_height": {
+                            "size": 140,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ct_media_height_mobile": {
+                            "size": 110,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ct_split_ratio": {
+                            "size": 38,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "ct_accent": "#B19ACB",
+                        "ct_frame_width": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ct_glass_blur": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ct_focus": "#B19ACB",
+                        "eael_timeline_bg_color": "#1C283D",
+                        "eael_post_timeline_content_spacing": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "eael_post_timeline_content_spacing_mobile": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "eael_post_grid_spacing": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "eael_post_timeline_border_radius": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "eael_timeline_title_color": "#FFF4E4",
+                        "eael_timeline_excerpt_color": "#CFD6E2",
+                        "eael_timeline_title_typography_typography": "custom",
+                        "eael_timeline_title_typography_font_family": "Arial",
+                        "eael_timeline_title_typography_font_size": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_title_typography_font_size_mobile": {
+                            "size": 21,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_title_typography_font_weight": "600",
+                        "eael_timeline_title_typography_line_height": {
+                            "size": 1.2,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "eael_timeline_excerpt_typography_typography": "custom",
+                        "eael_timeline_excerpt_typography_font_family": "Arial",
+                        "eael_timeline_excerpt_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_excerpt_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "eael_timeline_meta_item_bg": "transparent",
+                        "eael_timeline_meta_item_color": "#BBC7DC",
+                        "eael_timeline_meta_item_padding": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "eael_timeline_meta_spacing": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_meta_typography_typography": "custom",
+                        "eael_timeline_meta_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_meta_typography_letter_spacing": {
+                            "size": 0.1,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "eael_timeline_meta_typography_font_weight": "600",
+                        "eael_timeline_badge_text_color": "#B19ACB",
+                        "eael_timeline_badge_bg_color": "#29364D",
+                        "eael_timeline_badge_padding": {
+                            "top": "5",
+                            "right": "9",
+                            "bottom": "5",
+                            "left": "9",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "eael_timeline_badge_radius": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "eael_timeline_badge_typography_typography": "custom",
+                        "eael_timeline_badge_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_badge_typography_font_weight": "600",
+                        "eael_timeline_vertical_line_color": "#B19ACB55",
+                        "eael_timeline_bullet_color": "#B19ACB",
+                        "eael_timeline_bullet_border_color": "#11192A",
+                        "eael_timeline_arrow_color": "#B19ACB66",
+                        "eael_section_post_timeline_line_size": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eael_timeline_arrow_hover_effect": "none",
+                        "eael_timeline_bullet_effect": "none"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-content-timeline-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Content Timeline — Nocturne",
+    "type": "section"
+}

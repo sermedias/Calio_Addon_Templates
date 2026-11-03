@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 204 editable designs across 34 widget families (150 Free and 54 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 210 editable designs across 35 widget families (150 Free and 60 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -307,3 +307,7 @@ Folio, Still, Prism, Nocturne, Trace and Studio offer six native editable Card S
 ### Circle Info / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Cycle offer six native editable Circle Info Pro sections using Editorial, Minimal, Glass, Contrast, Outline and Orbit skins. Each includes one Pro widget with five editable items and native icons. Original Classic/Glass/Vivid skins and Custom/Aurora/Frost/Sunset/Mono preset packs remain supported. Typography, independent text and SVG icon paint, surfaces, responsive circle/list layouts and skin details remain editable. Native links, keyboard selection, content transitions, remaining-delay autoplay and reduced motion are supported. No local site IDs, custom CSS, remote fonts, media fixtures or saved-template dependencies are included. Previews are actual desktop browser captures; mobile layouts were also checked. Catalog publication is separate from plugin distribution and WordPress.org releases.
+
+### Content Timeline / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Passage provide six native editable Content Timeline Pro sections using Editorial, Minimal, Glass, Contrast, Outline and Split skins. Each contains one Pro widget with two or three editable manual milestones. Default/Card layouts and vertical/horizontal orientations remain supported. Native typography, independent glyph and surface paint, responsive content-safe geometry, dates, metadata, badges, connectors and actions remain editable. Native links, local reveal pagination, focus transfer, reduced motion and lifecycle cleanup are supported. Passage reuses two existing original public travel photographs under media/card-deck; native attachment import is verified. No local site IDs, custom CSS, remote fonts, fixture content dependencies or saved-template references are included. Previews are actual desktop Edge captures and all mobile designs were checked. Catalog publication is separate from plugin distribution and WordPress.org releases.
