@@ -2813,6 +2813,78 @@
       ],
       "file": "widgets/card-deck-passage-pro.json",
       "thumbnail": "screenshots/card-deck-passage-pro.webp"
+    },
+    {
+      "id": "card-slider-folio-pro",
+      "title": "Card Slider — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Slider",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-slider-folio-pro.json",
+      "thumbnail": "screenshots/card-slider-folio-pro.webp"
+    },
+    {
+      "id": "card-slider-still-pro",
+      "title": "Card Slider — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Slider",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-slider-still-pro.json",
+      "thumbnail": "screenshots/card-slider-still-pro.webp"
+    },
+    {
+      "id": "card-slider-prism-pro",
+      "title": "Card Slider — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Slider",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-slider-prism-pro.json",
+      "thumbnail": "screenshots/card-slider-prism-pro.webp"
+    },
+    {
+      "id": "card-slider-nocturne-pro",
+      "title": "Card Slider — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Slider",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-slider-nocturne-pro.json",
+      "thumbnail": "screenshots/card-slider-nocturne-pro.webp"
+    },
+    {
+      "id": "card-slider-trace-pro",
+      "title": "Card Slider — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Slider",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-slider-trace-pro.json",
+      "thumbnail": "screenshots/card-slider-trace-pro.webp"
+    },
+    {
+      "id": "card-slider-studio-pro",
+      "title": "Card Slider — Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Card Slider",
+        "Stories",
+        "Media"
+      ],
+      "file": "widgets/card-slider-studio-pro.json",
+      "thumbnail": "screenshots/card-slider-studio-pro.webp"
     }
   ]
 }
