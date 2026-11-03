@@ -1,0 +1,351 @@
+{
+    "content": [
+        {
+            "id": "6c1bc14e",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1080,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "2ad85fa2",
+                    "settings": {
+                        "table_skin": "minimal",
+                        "data_source": "manual",
+                        "caption": "A considered reading list",
+                        "show_caption": "yes",
+                        "columns": [
+                            {
+                                "_id": "column1",
+                                "column_label": "Book",
+                                "column_key": "Book",
+                                "column_icon": {
+                                    "value": "fas fa-layer-group",
+                                    "library": "fa-solid"
+                                },
+                                "column_align": "left",
+                                "column_sortable": "yes",
+                                "column_min_width": 180,
+                                "column_sort_type": "text"
+                            },
+                            {
+                                "_id": "column2",
+                                "column_label": "Topic",
+                                "column_key": "Topic",
+                                "column_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "column_align": "left",
+                                "column_sortable": "yes",
+                                "column_min_width": 120,
+                                "column_sort_type": "text"
+                            },
+                            {
+                                "_id": "column3",
+                                "column_label": "Pages",
+                                "column_key": "Pages",
+                                "column_icon": {
+                                    "value": "fas fa-chart-bar",
+                                    "library": "fa-solid"
+                                },
+                                "column_align": "right",
+                                "column_sortable": "yes",
+                                "column_min_width": 120,
+                                "column_sort_type": "number"
+                            },
+                            {
+                                "_id": "column4",
+                                "column_label": "Status",
+                                "column_key": "Status",
+                                "column_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "column_align": "right",
+                                "column_sortable": "yes",
+                                "column_min_width": 120,
+                                "column_sort_type": "text"
+                            }
+                        ],
+                        "manual_rows": [
+                            {
+                                "_id": "record1",
+                                "row_cells": "Everyday Nature|Botany|240|Reading"
+                            },
+                            {
+                                "_id": "record2",
+                                "row_cells": "Slow Objects|Craft|180|Saved"
+                            },
+                            {
+                                "_id": "record3",
+                                "row_cells": "Ways of Seeing|Design|212|Finished"
+                            },
+                            {
+                                "_id": "record4",
+                                "row_cells": "Small Gardens|Growing|156|Saved"
+                            },
+                            {
+                                "_id": "record5",
+                                "row_cells": "A Quiet Practice|Wellbeing|224|Reading"
+                            },
+                            {
+                                "_id": "record6",
+                                "row_cells": "The Useful Home|Living|192|Finished"
+                            }
+                        ],
+                        "enable_search": "yes",
+                        "search_placeholder": "Search A considered reading list...",
+                        "enable_sort": "yes",
+                        "navigation_mode": "pagination",
+                        "rows_per_page": 3,
+                        "mobile_mode": "cards",
+                        "table_label": "A considered reading list",
+                        "surface_background_background": "classic",
+                        "surface_background_color": "#F7F9F1",
+                        "surface_padding": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_padding_mobile": {
+                            "top": "14",
+                            "right": "14",
+                            "bottom": "14",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_radius": {
+                            "top": "6",
+                            "right": "6",
+                            "bottom": "6",
+                            "left": "6",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_border_border": "solid",
+                        "surface_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_border_color": "#72856955",
+                        "caption_color": "#354532",
+                        "caption_typography_typography": "custom",
+                        "caption_typography_font_family": "Arial",
+                        "caption_typography_font_size": {
+                            "size": 25,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_font_size_mobile": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_font_weight": "600",
+                        "caption_typography_line_height": {
+                            "size": 1.2,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "header_background": "#EBF0E3",
+                        "header_color": "#4F6547",
+                        "header_icon_color": "#4F6547",
+                        "header_icon_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_typography": "custom",
+                        "header_typography_font_family": "Arial",
+                        "header_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_weight": "700",
+                        "header_typography_letter_spacing": {
+                            "size": 0.08,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "header_padding": {
+                            "top": "14",
+                            "right": "16",
+                            "bottom": "14",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "body_color": "#354532",
+                        "body_typography_typography": "custom",
+                        "body_typography_font_family": "Arial",
+                        "body_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "body_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "body_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "row_background": "#F7F9F1",
+                        "row_alt_background": "#F2F5EC",
+                        "row_hover_background": "#72856922",
+                        "cell_padding": {
+                            "top": "18",
+                            "right": "16",
+                            "bottom": "18",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "cell_padding_mobile": {
+                            "top": "8",
+                            "right": "10",
+                            "bottom": "8",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "cell_border_border": "solid",
+                        "cell_border_width": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "1",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "cell_border_color": "#72856922",
+                        "search_background": "#FFFFFF99",
+                        "search_color": "#354532",
+                        "search_radius": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "search_typography_typography": "custom",
+                        "search_typography_font_family": "Arial",
+                        "search_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pagination_button_color": "#354532",
+                        "pagination_button_background": "#FFFFFF88",
+                        "pagination_active_background": "#4F6547",
+                        "pagination_active_color": "#FFFFFF",
+                        "pagination_hover_background": "#4F6547",
+                        "pagination_hover_color": "#FFFFFF",
+                        "pagination_radius": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pagination_typography_typography": "custom",
+                        "pagination_typography_font_family": "Arial",
+                        "pagination_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dt_status_color": "#4F6547",
+                        "status_typography_typography": "custom",
+                        "status_typography_font_family": "Arial",
+                        "status_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dt_mobile_label_color": "#4F6547",
+                        "mobile_label_typography_typography": "custom",
+                        "mobile_label_typography_font_family": "Arial",
+                        "mobile_label_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_label_width": {
+                            "size": 38,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "skin_accent": "#4F6547",
+                        "skin_frame": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "skin_blur": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "toolbar_gap": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "toolbar_gap_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "footer_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_card_gap": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "table_min_width": {
+                            "size": 640,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-data-table-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Data Table — Still",
+    "type": "section"
+}

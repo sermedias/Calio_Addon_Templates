@@ -1,0 +1,351 @@
+{
+    "content": [
+        {
+            "id": "5629003c",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1080,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "a6faa37",
+                    "settings": {
+                        "table_skin": "editorial",
+                        "data_source": "manual",
+                        "caption": "Maker sessions",
+                        "show_caption": "yes",
+                        "columns": [
+                            {
+                                "_id": "column1",
+                                "column_label": "Session",
+                                "column_key": "Session",
+                                "column_icon": {
+                                    "value": "fas fa-layer-group",
+                                    "library": "fa-solid"
+                                },
+                                "column_align": "left",
+                                "column_sortable": "yes",
+                                "column_min_width": 180,
+                                "column_sort_type": "text"
+                            },
+                            {
+                                "_id": "column2",
+                                "column_label": "Day",
+                                "column_key": "Day",
+                                "column_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "column_align": "left",
+                                "column_sortable": "yes",
+                                "column_min_width": 120,
+                                "column_sort_type": "text"
+                            },
+                            {
+                                "_id": "column3",
+                                "column_label": "Format",
+                                "column_key": "Format",
+                                "column_icon": {
+                                    "value": "fas fa-chart-bar",
+                                    "library": "fa-solid"
+                                },
+                                "column_align": "right",
+                                "column_sortable": "yes",
+                                "column_min_width": 120,
+                                "column_sort_type": "text"
+                            },
+                            {
+                                "_id": "column4",
+                                "column_label": "Seats",
+                                "column_key": "Seats",
+                                "column_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "column_align": "right",
+                                "column_sortable": "yes",
+                                "column_min_width": 120,
+                                "column_sort_type": "number"
+                            }
+                        ],
+                        "manual_rows": [
+                            {
+                                "_id": "record1",
+                                "row_cells": "Design notes|Monday|Roundtable|12"
+                            },
+                            {
+                                "_id": "record2",
+                                "row_cells": "Material stories|Tuesday|Workshop|8"
+                            },
+                            {
+                                "_id": "record3",
+                                "row_cells": "Studio practice|Wednesday|Open studio|16"
+                            },
+                            {
+                                "_id": "record4",
+                                "row_cells": "Useful objects|Thursday|Workshop|10"
+                            },
+                            {
+                                "_id": "record5",
+                                "row_cells": "New perspectives|Friday|Conversation|20"
+                            },
+                            {
+                                "_id": "record6",
+                                "row_cells": "Shared ideas|Saturday|Showcase|24"
+                            }
+                        ],
+                        "enable_search": "yes",
+                        "search_placeholder": "Search Maker sessions...",
+                        "enable_sort": "yes",
+                        "navigation_mode": "pagination",
+                        "rows_per_page": 3,
+                        "mobile_mode": "cards",
+                        "table_label": "Maker sessions",
+                        "surface_background_background": "classic",
+                        "surface_background_color": "#FFFDF6",
+                        "surface_padding": {
+                            "top": "26",
+                            "right": "26",
+                            "bottom": "26",
+                            "left": "26",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_padding_mobile": {
+                            "top": "14",
+                            "right": "14",
+                            "bottom": "14",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_radius": {
+                            "top": "6",
+                            "right": "6",
+                            "bottom": "6",
+                            "left": "6",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_border_border": "solid",
+                        "surface_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_border_color": "#977B5455",
+                        "caption_color": "#403A30",
+                        "caption_typography_typography": "custom",
+                        "caption_typography_font_family": "Georgia",
+                        "caption_typography_font_size": {
+                            "size": 28,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_font_size_mobile": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_font_weight": "400",
+                        "caption_typography_line_height": {
+                            "size": 1.2,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "header_background": "#EAE0CE",
+                        "header_color": "#7A6140",
+                        "header_icon_color": "#7A6140",
+                        "header_icon_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_typography": "custom",
+                        "header_typography_font_family": "Arial",
+                        "header_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "header_typography_font_weight": "700",
+                        "header_typography_letter_spacing": {
+                            "size": 0.08,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "header_padding": {
+                            "top": "14",
+                            "right": "16",
+                            "bottom": "14",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "body_color": "#403A30",
+                        "body_typography_typography": "custom",
+                        "body_typography_font_family": "Arial",
+                        "body_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "body_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "body_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "row_background": "#FFFDF6",
+                        "row_alt_background": "#F6F0E4",
+                        "row_hover_background": "#977B5422",
+                        "cell_padding": {
+                            "top": "18",
+                            "right": "16",
+                            "bottom": "18",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "cell_padding_mobile": {
+                            "top": "8",
+                            "right": "10",
+                            "bottom": "8",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "cell_border_border": "solid",
+                        "cell_border_width": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "1",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "cell_border_color": "#977B5422",
+                        "search_background": "#FFFFFF99",
+                        "search_color": "#403A30",
+                        "search_radius": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "search_typography_typography": "custom",
+                        "search_typography_font_family": "Arial",
+                        "search_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pagination_button_color": "#403A30",
+                        "pagination_button_background": "#FFFFFF88",
+                        "pagination_active_background": "#7A6140",
+                        "pagination_active_color": "#FFFFFF",
+                        "pagination_hover_background": "#7A6140",
+                        "pagination_hover_color": "#FFFFFF",
+                        "pagination_radius": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "pagination_typography_typography": "custom",
+                        "pagination_typography_font_family": "Arial",
+                        "pagination_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dt_status_color": "#7A6140",
+                        "status_typography_typography": "custom",
+                        "status_typography_font_family": "Arial",
+                        "status_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dt_mobile_label_color": "#7A6140",
+                        "mobile_label_typography_typography": "custom",
+                        "mobile_label_typography_font_family": "Arial",
+                        "mobile_label_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_label_width": {
+                            "size": 38,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "skin_accent": "#7A6140",
+                        "skin_frame": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "skin_blur": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "toolbar_gap": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "toolbar_gap_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "footer_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mobile_card_gap": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "table_min_width": {
+                            "size": 640,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-data-table-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Data Table — Folio",
+    "type": "section"
+}

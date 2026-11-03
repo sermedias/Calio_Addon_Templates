@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 210 editable designs across 35 widget families (150 Free and 60 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 216 editable designs across 36 widget families (150 Free and 66 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -311,3 +311,7 @@ Folio, Still, Prism, Nocturne, Trace and Cycle offer six native editable Circle 
 ### Content Timeline / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Passage provide six native editable Content Timeline Pro sections using Editorial, Minimal, Glass, Contrast, Outline and Split skins. Each contains one Pro widget with two or three editable manual milestones. Default/Card layouts and vertical/horizontal orientations remain supported. Native typography, independent glyph and surface paint, responsive content-safe geometry, dates, metadata, badges, connectors and actions remain editable. Native links, local reveal pagination, focus transfer, reduced motion and lifecycle cleanup are supported. Passage reuses two existing original public travel photographs under media/card-deck; native attachment import is verified. No local site IDs, custom CSS, remote fonts, fixture content dependencies or saved-template references are included. Previews are actual desktop Edge captures and all mobile designs were checked. Catalog publication is separate from plugin distribution and WordPress.org releases.
+
+### Data Table / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Index offer six native editable Data Table Pro sections using Editorial, Minimal, Glass, Contrast, Outline and Compact skins. Each contains one Pro widget, four editable columns and six fictional manual rows. Original Manual/CSV sources, three navigation modes and both mobile layouts remain supported. Typography, independent caption/header/cell paint, Classic/Gradient surfaces, icons, spacing, borders, search, pagination states and skin details remain editable. Stable text/numeric/ISO-date sorting, Unicode search, bounded pagination with retained focus, mobile sorting and instance cleanup are supported. CSV reads only validated local upload files with bounded size/rows. No local site IDs, custom CSS, remote fonts, media fixtures, accounts or saved-template dependencies are included. Previews are actual Edge desktop captures; mobile cards and horizontal scrolling were checked. Catalog publication is separate from plugin distribution and WordPress.org releases.

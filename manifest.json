@@ -3029,6 +3029,78 @@
       ],
       "file": "widgets/content-timeline-passage-pro.json",
       "thumbnail": "screenshots/content-timeline-passage-pro.webp"
+    },
+    {
+      "id": "data-table-folio-pro",
+      "title": "Data Table — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Data Table",
+        "Tables",
+        "Information"
+      ],
+      "file": "widgets/data-table-folio-pro.json",
+      "thumbnail": "screenshots/data-table-folio-pro.webp"
+    },
+    {
+      "id": "data-table-still-pro",
+      "title": "Data Table — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Data Table",
+        "Tables",
+        "Information"
+      ],
+      "file": "widgets/data-table-still-pro.json",
+      "thumbnail": "screenshots/data-table-still-pro.webp"
+    },
+    {
+      "id": "data-table-prism-pro",
+      "title": "Data Table — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Data Table",
+        "Tables",
+        "Information"
+      ],
+      "file": "widgets/data-table-prism-pro.json",
+      "thumbnail": "screenshots/data-table-prism-pro.webp"
+    },
+    {
+      "id": "data-table-nocturne-pro",
+      "title": "Data Table — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Data Table",
+        "Tables",
+        "Information"
+      ],
+      "file": "widgets/data-table-nocturne-pro.json",
+      "thumbnail": "screenshots/data-table-nocturne-pro.webp"
+    },
+    {
+      "id": "data-table-trace-pro",
+      "title": "Data Table — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Data Table",
+        "Tables",
+        "Information"
+      ],
+      "file": "widgets/data-table-trace-pro.json",
+      "thumbnail": "screenshots/data-table-trace-pro.webp"
+    },
+    {
+      "id": "data-table-index-pro",
+      "title": "Data Table — Index / Pro",
+      "type": "widgets",
+      "categories": [
+        "Data Table",
+        "Tables",
+        "Information"
+      ],
+      "file": "widgets/data-table-index-pro.json",
+      "thumbnail": "screenshots/data-table-index-pro.webp"
     }
   ]
 }
