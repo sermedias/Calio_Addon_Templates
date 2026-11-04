@@ -3173,6 +3173,78 @@
       ],
       "file": "widgets/fancy-text-ribbon-pro.json",
       "thumbnail": "screenshots/fancy-text-ribbon-pro.webp"
+    },
+    {
+      "id": "flipbook-pdf-reader-folio-pro",
+      "title": "Flipbook PDF Reader — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flipbook PDF Reader",
+        "Documents",
+        "Publications"
+      ],
+      "file": "widgets/flipbook-pdf-reader-folio-pro.json",
+      "thumbnail": "screenshots/flipbook-pdf-reader-folio-pro.webp"
+    },
+    {
+      "id": "flipbook-pdf-reader-still-pro",
+      "title": "Flipbook PDF Reader — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flipbook PDF Reader",
+        "Documents",
+        "Publications"
+      ],
+      "file": "widgets/flipbook-pdf-reader-still-pro.json",
+      "thumbnail": "screenshots/flipbook-pdf-reader-still-pro.webp"
+    },
+    {
+      "id": "flipbook-pdf-reader-prism-pro",
+      "title": "Flipbook PDF Reader — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flipbook PDF Reader",
+        "Documents",
+        "Publications"
+      ],
+      "file": "widgets/flipbook-pdf-reader-prism-pro.json",
+      "thumbnail": "screenshots/flipbook-pdf-reader-prism-pro.webp"
+    },
+    {
+      "id": "flipbook-pdf-reader-nocturne-pro",
+      "title": "Flipbook PDF Reader — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flipbook PDF Reader",
+        "Documents",
+        "Publications"
+      ],
+      "file": "widgets/flipbook-pdf-reader-nocturne-pro.json",
+      "thumbnail": "screenshots/flipbook-pdf-reader-nocturne-pro.webp"
+    },
+    {
+      "id": "flipbook-pdf-reader-trace-pro",
+      "title": "Flipbook PDF Reader — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flipbook PDF Reader",
+        "Documents",
+        "Publications"
+      ],
+      "file": "widgets/flipbook-pdf-reader-trace-pro.json",
+      "thumbnail": "screenshots/flipbook-pdf-reader-trace-pro.webp"
+    },
+    {
+      "id": "flipbook-pdf-reader-archive-pro",
+      "title": "Flipbook PDF Reader — Archive / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flipbook PDF Reader",
+        "Documents",
+        "Publications"
+      ],
+      "file": "widgets/flipbook-pdf-reader-archive-pro.json",
+      "thumbnail": "screenshots/flipbook-pdf-reader-archive-pro.webp"
     }
   ]
 }
