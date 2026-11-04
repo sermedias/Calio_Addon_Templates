@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 216 editable designs across 36 widget families (150 Free and 66 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 222 editable designs across 37 widget families (150 Free and 72 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -315,3 +315,7 @@ Folio, Still, Prism, Nocturne, Trace and Passage provide six native editable Con
 ### Data Table / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Index offer six native editable Data Table Pro sections using Editorial, Minimal, Glass, Contrast, Outline and Compact skins. Each contains one Pro widget, four editable columns and six fictional manual rows. Original Manual/CSV sources, three navigation modes and both mobile layouts remain supported. Typography, independent caption/header/cell paint, Classic/Gradient surfaces, icons, spacing, borders, search, pagination states and skin details remain editable. Stable text/numeric/ISO-date sorting, Unicode search, bounded pagination with retained focus, mobile sorting and instance cleanup are supported. CSV reads only validated local upload files with bounded size/rows. No local site IDs, custom CSS, remote fonts, media fixtures, accounts or saved-template dependencies are included. Previews are actual Edge desktop captures; mobile cards and horizontal scrolling were checked. Catalog publication is separate from plugin distribution and WordPress.org releases.
+
+### Fancy Text / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Ribbon offer six native editable Fancy Text Pro sections using Editorial, Minimal, Glass, Contrast, Outline and Ribbon skins. Each contains one Pro widget with three editable phrases and independent prefix/suffix copy. Original two layouts, four visual presets, content presets and typing, directional and split-text effects remain supported. Typography, Classic/Gradient glyph paint, independent surfaces, spacing, borders, shadows, playback states and skin details remain editable. Responsive phrase measures, stable accessible alternatives, native Pause/Play/Replay, reduced-motion and clean instance lifecycle support readable motion. No local site IDs, custom CSS, remote fonts, media fixtures, accounts or saved-template dependencies. Previews are actual Edge desktop captures with mobile checks. Catalog publication is separate from WordPress.org plugin distribution.

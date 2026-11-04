@@ -1,0 +1,189 @@
+{
+    "content": [
+        {
+            "id": "2861af51",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1080,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "2b810052",
+                    "settings": {
+                        "design_skin": "outline",
+                        "heading_tag": "div",
+                        "fancy_text_style": "style-1",
+                        "fancy_text_skin_preset": "custom",
+                        "fancy_text_prefix": "An invitation to",
+                        "fancy_text_strings": [
+                            {
+                                "_id": "phrase1",
+                                "text": "look a little closer"
+                            },
+                            {
+                                "_id": "phrase2",
+                                "text": "follow a new path"
+                            },
+                            {
+                                "_id": "phrase3",
+                                "text": "notice the details"
+                            }
+                        ],
+                        "fancy_text_suffix": "Walk slowly. Leave space for wonder.",
+                        "fancy_text_transition_type": "anime-lines-reveal",
+                        "fancy_text_duration": 650,
+                        "fancy_text_delay": 2500,
+                        "fancy_text_speed": 45,
+                        "fancy_text_loop": "yes",
+                        "fancy_text_hover_enabled": "",
+                        "fancy_text_cursor": "",
+                        "fancy_text_alignment": "left",
+                        "fancy_text_alignment_mobile": "left",
+                        "surface_background": "classic",
+                        "surface_color": "#FFFCF4",
+                        "surface_padding": {
+                            "top": "48",
+                            "right": "48",
+                            "bottom": "48",
+                            "left": "48",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_padding_mobile": {
+                            "top": "28",
+                            "right": "28",
+                            "bottom": "28",
+                            "left": "28",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "surface_radius": {
+                            "size": 4,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "skin_accent": "#7E6748",
+                        "skin_line": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "skin_blur": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_text_prefix_color": "#514739",
+                        "fancy_text_suffix_color": "#514739",
+                        "fancy_text_strings_color": "#514739",
+                        "show_playback": "yes",
+                        "pause_label": "Pause animation",
+                        "play_label": "Play animation",
+                        "replay_label": "Replay animation",
+                        "playback_color": "#514739",
+                        "playback_hover_color": "#514739",
+                        "playback_hover_background": "#FFFFFF66",
+                        "playback_typography_typography": "custom",
+                        "playback_typography_font_family": "Arial",
+                        "playback_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "playback_border_border": "solid",
+                        "playback_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "playback_border_color": "#7E6748",
+                        "part_gap": {
+                            "size": 0.18,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "fancy_text_prefix_typography_typography": "custom",
+                        "fancy_text_prefix_typography_font_family": "Arial",
+                        "fancy_text_prefix_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_text_prefix_typography_font_size_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_text_prefix_typography_font_weight": "600",
+                        "fancy_text_prefix_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "fancy_text_strings_typography_typography": "custom",
+                        "fancy_text_strings_typography_font_family": "Georgia",
+                        "fancy_text_strings_typography_font_size": {
+                            "size": 56,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_text_strings_typography_font_size_mobile": {
+                            "size": 34,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_text_strings_typography_font_weight": "400",
+                        "fancy_text_strings_typography_line_height": {
+                            "size": 1.18,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "fancy_text_suffix_typography_typography": "custom",
+                        "fancy_text_suffix_typography_font_family": "Arial",
+                        "fancy_text_suffix_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_text_suffix_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "fancy_text_suffix_typography_font_weight": "400",
+                        "fancy_text_suffix_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-fancy-text-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Fancy Text — Trace",
+    "type": "section"
+}

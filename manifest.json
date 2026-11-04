@@ -3101,6 +3101,78 @@
       ],
       "file": "widgets/data-table-index-pro.json",
       "thumbnail": "screenshots/data-table-index-pro.webp"
+    },
+    {
+      "id": "fancy-text-folio-pro",
+      "title": "Fancy Text — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Fancy Text",
+        "Typography",
+        "Headlines"
+      ],
+      "file": "widgets/fancy-text-folio-pro.json",
+      "thumbnail": "screenshots/fancy-text-folio-pro.webp"
+    },
+    {
+      "id": "fancy-text-still-pro",
+      "title": "Fancy Text — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Fancy Text",
+        "Typography",
+        "Headlines"
+      ],
+      "file": "widgets/fancy-text-still-pro.json",
+      "thumbnail": "screenshots/fancy-text-still-pro.webp"
+    },
+    {
+      "id": "fancy-text-prism-pro",
+      "title": "Fancy Text — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Fancy Text",
+        "Typography",
+        "Headlines"
+      ],
+      "file": "widgets/fancy-text-prism-pro.json",
+      "thumbnail": "screenshots/fancy-text-prism-pro.webp"
+    },
+    {
+      "id": "fancy-text-nocturne-pro",
+      "title": "Fancy Text — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Fancy Text",
+        "Typography",
+        "Headlines"
+      ],
+      "file": "widgets/fancy-text-nocturne-pro.json",
+      "thumbnail": "screenshots/fancy-text-nocturne-pro.webp"
+    },
+    {
+      "id": "fancy-text-trace-pro",
+      "title": "Fancy Text — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Fancy Text",
+        "Typography",
+        "Headlines"
+      ],
+      "file": "widgets/fancy-text-trace-pro.json",
+      "thumbnail": "screenshots/fancy-text-trace-pro.webp"
+    },
+    {
+      "id": "fancy-text-ribbon-pro",
+      "title": "Fancy Text — Ribbon / Pro",
+      "type": "widgets",
+      "categories": [
+        "Fancy Text",
+        "Typography",
+        "Headlines"
+      ],
+      "file": "widgets/fancy-text-ribbon-pro.json",
+      "thumbnail": "screenshots/fancy-text-ribbon-pro.webp"
     }
   ]
 }
