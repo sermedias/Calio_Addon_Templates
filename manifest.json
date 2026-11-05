@@ -3245,6 +3245,78 @@
       ],
       "file": "widgets/flipbook-pdf-reader-archive-pro.json",
       "thumbnail": "screenshots/flipbook-pdf-reader-archive-pro.webp"
+    },
+    {
+      "id": "flip-gallery-folio-pro",
+      "title": "Flip Gallery — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flip Gallery",
+        "Gallery",
+        "Media"
+      ],
+      "file": "widgets/flip-gallery-folio-pro.json",
+      "thumbnail": "screenshots/flip-gallery-folio-pro.webp"
+    },
+    {
+      "id": "flip-gallery-still-pro",
+      "title": "Flip Gallery — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flip Gallery",
+        "Gallery",
+        "Media"
+      ],
+      "file": "widgets/flip-gallery-still-pro.json",
+      "thumbnail": "screenshots/flip-gallery-still-pro.webp"
+    },
+    {
+      "id": "flip-gallery-prism-pro",
+      "title": "Flip Gallery — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flip Gallery",
+        "Gallery",
+        "Media"
+      ],
+      "file": "widgets/flip-gallery-prism-pro.json",
+      "thumbnail": "screenshots/flip-gallery-prism-pro.webp"
+    },
+    {
+      "id": "flip-gallery-nocturne-pro",
+      "title": "Flip Gallery — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flip Gallery",
+        "Gallery",
+        "Media"
+      ],
+      "file": "widgets/flip-gallery-nocturne-pro.json",
+      "thumbnail": "screenshots/flip-gallery-nocturne-pro.webp"
+    },
+    {
+      "id": "flip-gallery-trace-pro",
+      "title": "Flip Gallery — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flip Gallery",
+        "Gallery",
+        "Media"
+      ],
+      "file": "widgets/flip-gallery-trace-pro.json",
+      "thumbnail": "screenshots/flip-gallery-trace-pro.webp"
+    },
+    {
+      "id": "flip-gallery-studio-pro",
+      "title": "Flip Gallery — Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flip Gallery",
+        "Gallery",
+        "Media"
+      ],
+      "file": "widgets/flip-gallery-studio-pro.json",
+      "thumbnail": "screenshots/flip-gallery-studio-pro.webp"
     }
   ]
 }

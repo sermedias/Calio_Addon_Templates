@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 228 editable designs across 38 widget families (150 Free and 78 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 234 editable designs across 39 widget families (150 Free and 84 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -323,3 +323,7 @@ Folio, Still, Prism, Nocturne, Trace and Ribbon offer six native editable Fancy 
 ### Flipbook PDF Reader / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Archive offer six native editable Flipbook PDF Reader Pro sections using Editorial, Minimal, Glass, Contrast, Outline and Archive skins. Each contains one Pro widget and a public four-page reading sample. Six original PDFs in media/flipbook use original Calio demonstration text and vector artwork (CC0); embedded font rights remain with their owners. PDF source, title, spread/single mode, cover, direction, mobile mode, navigation, zoom, fullscreen, thumbnails and readable text remain native controls. Typography, independent glyph paint, Classic/Gradient surfaces, borders, shadows, spacing and skin decoration are editable. Existing bundled PDF.js and GSAP render the documents; the reader owns and cleans tasks, animations, workers and fallback blobs. PDF loading is bounded; failed HTML URLs are never embedded as web pages. Native original-file links remain usable without JavaScript. Exports have no local site IDs, custom CSS, fixture IDs, remote fonts, accounts or saved-template references. Real Edge desktop/mobile captures show loaded PDFs. Catalog publication is separate from WordPress.org plugin distribution.
+
+### Flip Gallery / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Studio offer six native editable sections with one Flip Gallery Pro widget each. They use Editorial, Minimal, Glass, Contrast, Outline and Split skins. All six include four original demonstration photographs, editable captions and filters, and a keyboard accessible image dialog. Responsive layout, text paint, surfaces, borders and spacing use native Elementor controls. The JSON exports use portable public media URLs.

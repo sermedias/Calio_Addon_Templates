@@ -1,0 +1,313 @@
+{
+    "content": [
+        {
+            "id": "77327aea",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1120,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1bd53445",
+                    "settings": {
+                        "design_skin": "minimal",
+                        "scene_preset": "custom",
+                        "item_skin": "custom",
+                        "items": [
+                            {
+                                "_id": "galleryrow1",
+                                "item_title": "Citrus Hour",
+                                "item_caption": "Late light, linen and a little everyday colour.",
+                                "item_terms": "objects",
+                                "item_badge": "STILL LIFE",
+                                "item_alt": "Sunlit tangerines and a ceramic bowl on linen",
+                                "item_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/flip-gallery/citrus.webp",
+                                    "size": ""
+                                },
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "galleryrow2",
+                                "item_title": "Woven Indigo",
+                                "item_caption": "Stories held in the texture of handwoven cloth.",
+                                "item_terms": "objects",
+                                "item_badge": "MATERIAL STUDY",
+                                "item_alt": "Indigo cloth and wooden tools on a traditional loom",
+                                "item_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/flip-gallery/indigo.webp",
+                                    "size": ""
+                                },
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "galleryrow3",
+                                "item_title": "Copper Sands",
+                                "item_caption": "Soft ridges, open skies and the shape of silence.",
+                                "item_terms": "places",
+                                "item_badge": "OPEN LAND",
+                                "item_alt": "Warm copper dunes beneath distant mountain ridges",
+                                "item_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/flip-gallery/dunes.webp",
+                                    "size": ""
+                                },
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "galleryrow4",
+                                "item_title": "After Rain",
+                                "item_caption": "A quiet street finding its evening glow.",
+                                "item_terms": "places",
+                                "item_badge": "CITY NOTES",
+                                "item_alt": "A bicycle beside a green wall on a rain washed street",
+                                "item_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/flip-gallery/rain.webp",
+                                    "size": ""
+                                },
+                                "item_link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "filters": [
+                            {
+                                "_id": "objectsfilter",
+                                "filter_label": "Objects",
+                                "filter_slug": "objects",
+                                "filter_active": "yes"
+                            },
+                            {
+                                "_id": "placesfilter",
+                                "filter_label": "Places",
+                                "filter_slug": "places",
+                                "filter_active": "yes"
+                            }
+                        ],
+                        "all_label": "All stories",
+                        "show_filters": "yes",
+                        "show_modal": "yes",
+                        "gallery_label": "Still visual stories",
+                        "show_count": "yes",
+                        "close_label": "Close",
+                        "visit_label": "Explore story",
+                        "empty_label": "No stories in this selection.",
+                        "count_label": "stories",
+                        "columns": 2,
+                        "columns_tablet": 2,
+                        "columns_mobile": 2,
+                        "gap": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gap_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_min_height": {
+                            "size": 280,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_min_height_mobile": {
+                            "size": 230,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_height": {
+                            "size": 200,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_height_mobile": {
+                            "size": 130,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_fit": "cover",
+                        "image_position": "center center",
+                        "scene_padding": {
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "scene_padding_mobile": {
+                            "top": "16",
+                            "right": "12",
+                            "bottom": "16",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "scene_radius": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "scene_background_background": "classic",
+                        "scene_background_color": "#EDF1EB",
+                        "card_radius": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_hover_lift": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_hover_scale": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_padding": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "top": "14",
+                            "right": "12",
+                            "bottom": "14",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_gap": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_alignment": "start",
+                        "card_surface_background_background": "classic",
+                        "card_surface_background_color": "#FFFFFF00",
+                        "card_content_background_background": "classic",
+                        "card_content_background_color": "#FFFFFF00",
+                        "card_title_color": "#293B3C",
+                        "card_caption_color": "#6C7875",
+                        "card_title_typography_typography": "custom",
+                        "card_title_typography_font_family": "Arial",
+                        "card_title_typography_font_size": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_title_typography_font_size_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_title_typography_font_weight": "600",
+                        "card_title_typography_line_height": {
+                            "size": 1.22,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "card_caption_typography_typography": "custom",
+                        "card_caption_typography_font_family": "Arial",
+                        "card_caption_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_caption_typography_font_size_mobile": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_caption_typography_line_height": {
+                            "size": 1.55,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "badge_color": "#527A65",
+                        "badge_background": "#F1EFE7",
+                        "badge_border_color": "#527A6544",
+                        "filter_color": "#293B3C",
+                        "filter_hover_color": "#293B3C",
+                        "filter_active_color": "#294F4E",
+                        "skin_accent": "#527A65",
+                        "skin_line": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "transition_duration": 0.55,
+                        "transition_stagger": 0.05,
+                        "transition_ease": "power2.inOut",
+                        "modal_max_width": {
+                            "size": 880,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "modal_card_background_background": "classic",
+                        "modal_card_background_color": "#FFFDFA",
+                        "modal_card_border_border": "solid",
+                        "modal_card_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "modal_card_border_color": "#527A6566",
+                        "dialog_text_color": "#293B3C"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-flip-gallery-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Flip Gallery — Still",
+    "type": "section"
+}
