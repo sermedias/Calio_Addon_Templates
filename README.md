@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 240 editable designs across 40 widget families (150 Free and 90 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 246 editable designs across 41 widget families (150 Free and 96 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -331,3 +331,7 @@ Folio, Still, Prism, Nocturne, Trace and Studio offer six native editable sectio
 ### Flow Step / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Relay are six native sections, each with one editable Flow Step Pro widget. Examples cover editorial publishing, studio visits, design sprints, software releases, field archives and client handovers. Native icons, step labels, progress, connectors and mobile layouts remain editable. The gallery uses desktop browser captures, with mobile layouts verified separately.
+
+### Horizontal Timeline / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Relay are native sections with one editable Horizontal Timeline Pro widget each. Examples cover museum restoration, seasonal gardening, research, astronomy, trail conservation and a product launch. The timelines keep above, below and alternating cards on a shared rail. Event copy, markers, responsive spacing, glyph paint and Classic or Gradient surfaces are editable. Navigation supports the keyboard, both reading directions and reduced motion.

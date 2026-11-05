@@ -3389,6 +3389,78 @@
       ],
       "file": "widgets/flow-step-relay-pro.json",
       "thumbnail": "screenshots/flow-step-relay-pro.webp"
+    },
+    {
+      "id": "horizontal-timeline-folio-pro",
+      "title": "Horizontal Timeline — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Horizontal Timeline",
+        "Milestones",
+        "History"
+      ],
+      "file": "widgets/horizontal-timeline-folio-pro.json",
+      "thumbnail": "screenshots/horizontal-timeline-folio-pro.webp"
+    },
+    {
+      "id": "horizontal-timeline-still-pro",
+      "title": "Horizontal Timeline — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Horizontal Timeline",
+        "Milestones",
+        "History"
+      ],
+      "file": "widgets/horizontal-timeline-still-pro.json",
+      "thumbnail": "screenshots/horizontal-timeline-still-pro.webp"
+    },
+    {
+      "id": "horizontal-timeline-prism-pro",
+      "title": "Horizontal Timeline — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Horizontal Timeline",
+        "Milestones",
+        "History"
+      ],
+      "file": "widgets/horizontal-timeline-prism-pro.json",
+      "thumbnail": "screenshots/horizontal-timeline-prism-pro.webp"
+    },
+    {
+      "id": "horizontal-timeline-nocturne-pro",
+      "title": "Horizontal Timeline — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Horizontal Timeline",
+        "Milestones",
+        "History"
+      ],
+      "file": "widgets/horizontal-timeline-nocturne-pro.json",
+      "thumbnail": "screenshots/horizontal-timeline-nocturne-pro.webp"
+    },
+    {
+      "id": "horizontal-timeline-trace-pro",
+      "title": "Horizontal Timeline — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Horizontal Timeline",
+        "Milestones",
+        "History"
+      ],
+      "file": "widgets/horizontal-timeline-trace-pro.json",
+      "thumbnail": "screenshots/horizontal-timeline-trace-pro.webp"
+    },
+    {
+      "id": "horizontal-timeline-relay-pro",
+      "title": "Horizontal Timeline — Relay / Pro",
+      "type": "widgets",
+      "categories": [
+        "Horizontal Timeline",
+        "Milestones",
+        "History"
+      ],
+      "file": "widgets/horizontal-timeline-relay-pro.json",
+      "thumbnail": "screenshots/horizontal-timeline-relay-pro.webp"
     }
   ]
 }

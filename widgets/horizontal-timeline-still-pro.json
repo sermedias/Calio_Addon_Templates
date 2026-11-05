@@ -1,0 +1,275 @@
+{
+    "content": [
+        {
+            "id": "246e2ec4",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1120,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "2428846d",
+                    "settings": {
+                        "events": [
+                            {
+                                "_id": "timelineevent1",
+                                "date": "Milestone 01",
+                                "title": "Plan",
+                                "description": "Choose crops that suit the soil and season.",
+                                "position": "top",
+                                "marker_type": "number",
+                                "marker_text": "01",
+                                "marker_icon": {
+                                    "value": "fas fa-search",
+                                    "library": "fa-solid"
+                                },
+                                "accent_color": ""
+                            },
+                            {
+                                "_id": "timelineevent2",
+                                "date": "Milestone 02",
+                                "title": "Sow",
+                                "description": "Set the first rows after the last frost.",
+                                "position": "top",
+                                "marker_type": "number",
+                                "marker_text": "02",
+                                "marker_icon": {
+                                    "value": "fas fa-compass",
+                                    "library": "fa-solid"
+                                },
+                                "accent_color": ""
+                            },
+                            {
+                                "_id": "timelineevent3",
+                                "date": "Milestone 03",
+                                "title": "Thin",
+                                "description": "Give each plant space to reach the light.",
+                                "position": "top",
+                                "marker_type": "number",
+                                "marker_text": "03",
+                                "marker_icon": {
+                                    "value": "fas fa-flask",
+                                    "library": "fa-solid"
+                                },
+                                "accent_color": ""
+                            },
+                            {
+                                "_id": "timelineevent4",
+                                "date": "Milestone 04",
+                                "title": "Harvest",
+                                "description": "Pick at peak ripeness and share the surplus.",
+                                "position": "top",
+                                "marker_type": "number",
+                                "marker_text": "04",
+                                "marker_icon": {
+                                    "value": "fas fa-chart-bar",
+                                    "library": "fa-solid"
+                                },
+                                "accent_color": ""
+                            },
+                            {
+                                "_id": "timelineevent5",
+                                "date": "Milestone 05",
+                                "title": "Save seed",
+                                "description": "Store the strongest seed for next year.",
+                                "position": "top",
+                                "marker_type": "number",
+                                "marker_text": "05",
+                                "marker_icon": {
+                                    "value": "fas fa-flag",
+                                    "library": "fa-solid"
+                                },
+                                "accent_color": ""
+                            }
+                        ],
+                        "design_skin": "minimal",
+                        "timeline_label": "Seasonal garden",
+                        "show_arrows": "yes",
+                        "show_progress": "yes",
+                        "entrance_animation": "yes",
+                        "timeline_duration": {
+                            "size": 0.55,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "animation_stagger": {
+                            "size": 0.06,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "scroll_duration": {
+                            "size": 0.35,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_padding": {
+                            "top": "26",
+                            "right": "24",
+                            "bottom": "26",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stage_padding_mobile": {
+                            "top": "14",
+                            "right": "10",
+                            "bottom": "14",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stage_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "stage_background_background": "classic",
+                        "stage_background_color": "#EEF3EF",
+                        "item_width": {
+                            "size": 278,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_width_mobile": {
+                            "size": 76,
+                            "unit": "vw",
+                            "sizes": []
+                        },
+                        "item_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_gap_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_height": {
+                            "size": 94,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_height_mobile": {
+                            "size": 90,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marker_size": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marker_size_mobile": {
+                            "size": 36,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "connector_length": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "line_thickness": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "active_color": "#417760",
+                        "line_color": "#41776065",
+                        "marker_text_color": "#FFFFFF",
+                        "marker_surface_background": "classic",
+                        "marker_surface_color": "#417760",
+                        "card_background_background": "classic",
+                        "card_background_color": "#FFFFFF00",
+                        "card_padding": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_padding_mobile": {
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_radius": {
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "date_color": "#417760",
+                        "title_color": "#273735",
+                        "description_color": "#526461",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 19,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_typography": "custom",
+                        "description_typography_font_family": "Arial",
+                        "description_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "nav_color": "#273735",
+                        "nav_background": "#FFFFFF",
+                        "nav_hover_background": "#417760",
+                        "nav_hover_color": "#FFFFFF",
+                        "rule_width": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-horizontal-timeline-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Horizontal Timeline — Still",
+    "type": "section"
+}
