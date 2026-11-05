@@ -3317,6 +3317,78 @@
       ],
       "file": "widgets/flip-gallery-studio-pro.json",
       "thumbnail": "screenshots/flip-gallery-studio-pro.webp"
+    },
+    {
+      "id": "flow-step-folio-pro",
+      "title": "Flow Step — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flow Step",
+        "Process",
+        "Steps"
+      ],
+      "file": "widgets/flow-step-folio-pro.json",
+      "thumbnail": "screenshots/flow-step-folio-pro.webp"
+    },
+    {
+      "id": "flow-step-still-pro",
+      "title": "Flow Step — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flow Step",
+        "Process",
+        "Steps"
+      ],
+      "file": "widgets/flow-step-still-pro.json",
+      "thumbnail": "screenshots/flow-step-still-pro.webp"
+    },
+    {
+      "id": "flow-step-prism-pro",
+      "title": "Flow Step — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flow Step",
+        "Process",
+        "Steps"
+      ],
+      "file": "widgets/flow-step-prism-pro.json",
+      "thumbnail": "screenshots/flow-step-prism-pro.webp"
+    },
+    {
+      "id": "flow-step-nocturne-pro",
+      "title": "Flow Step — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flow Step",
+        "Process",
+        "Steps"
+      ],
+      "file": "widgets/flow-step-nocturne-pro.json",
+      "thumbnail": "screenshots/flow-step-nocturne-pro.webp"
+    },
+    {
+      "id": "flow-step-trace-pro",
+      "title": "Flow Step — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flow Step",
+        "Process",
+        "Steps"
+      ],
+      "file": "widgets/flow-step-trace-pro.json",
+      "thumbnail": "screenshots/flow-step-trace-pro.webp"
+    },
+    {
+      "id": "flow-step-relay-pro",
+      "title": "Flow Step — Relay / Pro",
+      "type": "widgets",
+      "categories": [
+        "Flow Step",
+        "Process",
+        "Steps"
+      ],
+      "file": "widgets/flow-step-relay-pro.json",
+      "thumbnail": "screenshots/flow-step-relay-pro.webp"
     }
   ]
 }

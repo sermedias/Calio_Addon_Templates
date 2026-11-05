@@ -1,0 +1,225 @@
+{
+    "content": [
+        {
+            "id": "3fd826b8",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1120,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "262fdea6",
+                    "settings": {
+                        "items": [
+                            {
+                                "_id": "flowrow1",
+                                "icon_type": "icon",
+                                "selected_icon": {
+                                    "value": "fas fa-pen-nib",
+                                    "library": "fa-solid"
+                                },
+                                "title": "Pitch",
+                                "description": "A focused idea and a short outline.",
+                                "tooltip_text": "",
+                                "badge_text": "",
+                                "step_status": "upcoming",
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "flowrow2",
+                                "icon_type": "icon",
+                                "selected_icon": {
+                                    "value": "fas fa-edit",
+                                    "library": "fa-solid"
+                                },
+                                "title": "Shape",
+                                "description": "Develop the story and check the sources.",
+                                "tooltip_text": "",
+                                "badge_text": "",
+                                "step_status": "upcoming",
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "flowrow3",
+                                "icon_type": "icon",
+                                "selected_icon": {
+                                    "value": "fas fa-book-open",
+                                    "library": "fa-solid"
+                                },
+                                "title": "Publish",
+                                "description": "Prepare the final copy and share the issue.",
+                                "tooltip_text": "",
+                                "badge_text": "",
+                                "step_status": "upcoming",
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "design_skin": "editorial",
+                        "skin_preset": "classic",
+                        "layout_direction": "horizontal",
+                        "icon_position": "top",
+                        "active_trigger": "click",
+                        "show_badge": "yes",
+                        "badge_prefix": "Stage ",
+                        "show_status_mode": "yes",
+                        "show_status_label": "yes",
+                        "status_source": "auto",
+                        "show_connector": "yes",
+                        "connector_style": "line",
+                        "hide_connector_mobile": "yes",
+                        "show_progress_summary": "yes",
+                        "progress_label": "The editorial process",
+                        "show_mini_nav": "yes",
+                        "mini_nav_clickable": "yes",
+                        "mini_nav_style": "number",
+                        "show_readmore": "",
+                        "mobile_layout_mode": "stack",
+                        "mobile_columns": 1,
+                        "columns": 3,
+                        "columns_tablet": 3,
+                        "item_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_gap_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_min_height": {
+                            "size": 252,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_min_height_mobile": {
+                            "size": 186,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_padding": {
+                            "top": "23",
+                            "right": "23",
+                            "bottom": "23",
+                            "left": "23",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_radius": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_bg_type_background": "classic",
+                        "card_bg_type_color": "#FFFDFA",
+                        "card_active_bg_type_background": "classic",
+                        "card_active_bg_type_color": "#FFFFFF",
+                        "card_border_color_normal": "#8753313B",
+                        "card_active_border_color": "#875331",
+                        "icon_bg_type_background": "classic",
+                        "icon_bg_type_color": "#87533120",
+                        "icon_color": "#875331",
+                        "icon_active_color": "#875331",
+                        "icon_box_size": {
+                            "size": 52,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_size": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_color": "#253633",
+                        "desc_color": "#536561",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Georgia",
+                        "title_typography_font_size": {
+                            "size": 23,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 19,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "desc_typography_typography": "custom",
+                        "desc_typography_font_family": "Arial",
+                        "desc_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "desc_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "status_active_title_color": "#253633",
+                        "status_active_desc_color": "#536561",
+                        "status_done_title_color": "#253633",
+                        "status_done_desc_color": "#536561",
+                        "status_upcoming_title_color": "#253633",
+                        "status_upcoming_desc_color": "#536561",
+                        "progress_summary_bg_type_background": "classic",
+                        "progress_summary_bg_type_color": "#FFFDFA",
+                        "progress_summary_border_color": "#8753315A",
+                        "progress_summary_text_color": "#253633",
+                        "progress_summary_meta_color": "#536561",
+                        "progress_summary_bar_fill": "#875331",
+                        "connector_color": "#87533165",
+                        "connector_pending_color": "#87533165",
+                        "connector_complete_color": "#875331",
+                        "design_accent": "#875331",
+                        "design_rule_width": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-flow-step-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Flow Step — Folio",
+    "type": "section"
+}
