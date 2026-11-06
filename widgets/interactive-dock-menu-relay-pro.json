@@ -1,0 +1,171 @@
+{
+    "content": [
+        {
+            "id": "37f7680c",
+            "settings": {
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "6f622273",
+                    "settings": {
+                        "design_skin": "relay",
+                        "items": [
+                            {
+                                "_id": "dock00",
+                                "tooltip": "Packages",
+                                "icon": {
+                                    "value": "fas fa-box",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#packages",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock01",
+                                "tooltip": "Fleet",
+                                "icon": {
+                                    "value": "fas fa-truck",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#fleet",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock02",
+                                "tooltip": "Dispatch",
+                                "icon": {
+                                    "value": "fas fa-clipboard-list",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#dispatch",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock03",
+                                "tooltip": "Alerts",
+                                "icon": {
+                                    "value": "fas fa-bell",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#alerts",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock04",
+                                "tooltip": "Reports",
+                                "icon": {
+                                    "value": "fas fa-chart-line",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#reports",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "orientation": "vertical",
+                        "icon_color": "#522d20",
+                        "icon_hover_color": "#522d20",
+                        "focus_color": "#a7471a",
+                        "container_radius": {
+                            "top": "22",
+                            "right": "22",
+                            "bottom": "22",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_radius": {
+                            "top": "11",
+                            "right": "11",
+                            "bottom": "11",
+                            "left": "11",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding": {
+                            "top": "13",
+                            "right": "13",
+                            "bottom": "13",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding_mobile": {
+                            "top": "9",
+                            "right": "9",
+                            "bottom": "9",
+                            "left": "9",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_base_size": {
+                            "size": 60,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_base_size_mobile": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap_mobile": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tooltip_background_background": "classic",
+                        "tooltip_background_color": "#522d20",
+                        "max_scale": 1.42,
+                        "lift_amount": {
+                            "size": 7,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-interactive-dock-menu-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Interactive Dock Menu - Relay",
+    "type": "section"
+}

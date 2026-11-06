@@ -1,0 +1,171 @@
+{
+    "content": [
+        {
+            "id": "567e6471",
+            "settings": {
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1624c42b",
+                    "settings": {
+                        "design_skin": "nocturne",
+                        "items": [
+                            {
+                                "_id": "dock00",
+                                "tooltip": "Monitor",
+                                "icon": {
+                                    "value": "fas fa-headphones",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#monitor",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock01",
+                                "tooltip": "Tracks",
+                                "icon": {
+                                    "value": "fas fa-music",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#tracks",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock02",
+                                "tooltip": "Mixer",
+                                "icon": {
+                                    "value": "fas fa-sliders-h",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#mixer",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock03",
+                                "tooltip": "Live signal",
+                                "icon": {
+                                    "value": "fas fa-broadcast-tower",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#live-signal",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock04",
+                                "tooltip": "Volume",
+                                "icon": {
+                                    "value": "fas fa-volume-up",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#volume",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "orientation": "horizontal",
+                        "icon_color": "#192c23",
+                        "icon_hover_color": "#192c23",
+                        "focus_color": "#e3f5b9",
+                        "container_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_radius": {
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding": {
+                            "top": "13",
+                            "right": "13",
+                            "bottom": "13",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding_mobile": {
+                            "top": "9",
+                            "right": "9",
+                            "bottom": "9",
+                            "left": "9",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_base_size": {
+                            "size": 60,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_base_size_mobile": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap_mobile": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tooltip_background_background": "classic",
+                        "tooltip_background_color": "#0e1722",
+                        "max_scale": 1.42,
+                        "lift_amount": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-interactive-dock-menu-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Interactive Dock Menu - Nocturne",
+    "type": "section"
+}

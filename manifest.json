@@ -3605,6 +3605,72 @@
       ],
       "file": "widgets/instagram-feed-split-pro.json",
       "thumbnail": "screenshots/instagram-feed-split-pro.webp"
+    },
+    {
+      "id": "interactive-dock-menu-folio-pro",
+      "title": "Interactive Dock Menu — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Dock Menu",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-dock-menu-folio-pro.json",
+      "thumbnail": "screenshots/interactive-dock-menu-folio-pro.webp"
+    },
+    {
+      "id": "interactive-dock-menu-still-pro",
+      "title": "Interactive Dock Menu — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Dock Menu",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-dock-menu-still-pro.json",
+      "thumbnail": "screenshots/interactive-dock-menu-still-pro.webp"
+    },
+    {
+      "id": "interactive-dock-menu-prism-pro",
+      "title": "Interactive Dock Menu — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Dock Menu",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-dock-menu-prism-pro.json",
+      "thumbnail": "screenshots/interactive-dock-menu-prism-pro.webp"
+    },
+    {
+      "id": "interactive-dock-menu-nocturne-pro",
+      "title": "Interactive Dock Menu — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Dock Menu",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-dock-menu-nocturne-pro.json",
+      "thumbnail": "screenshots/interactive-dock-menu-nocturne-pro.webp"
+    },
+    {
+      "id": "interactive-dock-menu-trace-pro",
+      "title": "Interactive Dock Menu — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Dock Menu",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-dock-menu-trace-pro.json",
+      "thumbnail": "screenshots/interactive-dock-menu-trace-pro.webp"
+    },
+    {
+      "id": "interactive-dock-menu-relay-pro",
+      "title": "Interactive Dock Menu — Relay / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Dock Menu",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-dock-menu-relay-pro.json",
+      "thumbnail": "screenshots/interactive-dock-menu-relay-pro.webp"
     }
   ]
 }

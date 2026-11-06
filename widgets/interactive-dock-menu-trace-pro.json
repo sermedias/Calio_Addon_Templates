@@ -1,0 +1,171 @@
+{
+    "content": [
+        {
+            "id": "6850da7b",
+            "settings": {
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "592c5af8",
+                    "settings": {
+                        "design_skin": "trace",
+                        "items": [
+                            {
+                                "_id": "dock00",
+                                "tooltip": "Compass",
+                                "icon": {
+                                    "value": "fas fa-compass",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#compass",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock01",
+                                "tooltip": "Map",
+                                "icon": {
+                                    "value": "fas fa-map",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#map",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock02",
+                                "tooltip": "Terrain",
+                                "icon": {
+                                    "value": "fas fa-mountain",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#terrain",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock03",
+                                "tooltip": "Markers",
+                                "icon": {
+                                    "value": "fas fa-flag",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#markers",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock04",
+                                "tooltip": "Route",
+                                "icon": {
+                                    "value": "fas fa-route",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#route",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "orientation": "horizontal",
+                        "icon_color": "#243748",
+                        "icon_hover_color": "#243748",
+                        "focus_color": "#174f82",
+                        "container_radius": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_radius": {
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding": {
+                            "top": "13",
+                            "right": "13",
+                            "bottom": "13",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding_mobile": {
+                            "top": "9",
+                            "right": "9",
+                            "bottom": "9",
+                            "left": "9",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_base_size": {
+                            "size": 60,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_base_size_mobile": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap_mobile": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tooltip_background_background": "classic",
+                        "tooltip_background_color": "#243748",
+                        "max_scale": 1.42,
+                        "lift_amount": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-interactive-dock-menu-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Interactive Dock Menu - Trace",
+    "type": "section"
+}

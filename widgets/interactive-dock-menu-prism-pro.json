@@ -1,0 +1,171 @@
+{
+    "content": [
+        {
+            "id": "79f58f05",
+            "settings": {
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "2e1296d7",
+                    "settings": {
+                        "design_skin": "prism",
+                        "items": [
+                            {
+                                "_id": "dock00",
+                                "tooltip": "Palette",
+                                "icon": {
+                                    "value": "fas fa-palette",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#palette",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock01",
+                                "tooltip": "Images",
+                                "icon": {
+                                    "value": "fas fa-image",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#images",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock02",
+                                "tooltip": "Layers",
+                                "icon": {
+                                    "value": "fas fa-layer-group",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#layers",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock03",
+                                "tooltip": "Tones",
+                                "icon": {
+                                    "value": "fas fa-adjust",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#tones",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock04",
+                                "tooltip": "Effects",
+                                "icon": {
+                                    "value": "fas fa-magic",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#effects",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "orientation": "horizontal",
+                        "icon_color": "#38225b",
+                        "icon_hover_color": "#38225b",
+                        "focus_color": "#5821a3",
+                        "container_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_radius": {
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding": {
+                            "top": "13",
+                            "right": "13",
+                            "bottom": "13",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding_mobile": {
+                            "top": "9",
+                            "right": "9",
+                            "bottom": "9",
+                            "left": "9",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_base_size": {
+                            "size": 60,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_base_size_mobile": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap_mobile": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tooltip_background_background": "classic",
+                        "tooltip_background_color": "#38225b",
+                        "max_scale": 1.42,
+                        "lift_amount": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-interactive-dock-menu-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Interactive Dock Menu - Prism",
+    "type": "section"
+}

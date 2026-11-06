@@ -1,0 +1,171 @@
+{
+    "content": [
+        {
+            "id": "71c2c2a3",
+            "settings": {
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "14c34662",
+                    "settings": {
+                        "design_skin": "folio",
+                        "items": [
+                            {
+                                "_id": "dock00",
+                                "tooltip": "Reading room",
+                                "icon": {
+                                    "value": "fas fa-book-open",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#reading-room",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock01",
+                                "tooltip": "Essays",
+                                "icon": {
+                                    "value": "fas fa-feather-alt",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#essays",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock02",
+                                "tooltip": "Saved pages",
+                                "icon": {
+                                    "value": "fas fa-bookmark",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#saved-pages",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock03",
+                                "tooltip": "Notes",
+                                "icon": {
+                                    "value": "fas fa-pen-nib",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#notes",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "dock04",
+                                "tooltip": "Archive",
+                                "icon": {
+                                    "value": "fas fa-archive",
+                                    "library": "fa-solid"
+                                },
+                                "link": {
+                                    "url": "#archive",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "orientation": "horizontal",
+                        "icon_color": "#4b2c23",
+                        "icon_hover_color": "#4b2c23",
+                        "focus_color": "#783d24",
+                        "container_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_radius": {
+                            "top": "15",
+                            "right": "15",
+                            "bottom": "15",
+                            "left": "15",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding": {
+                            "top": "13",
+                            "right": "13",
+                            "bottom": "13",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "container_padding_mobile": {
+                            "top": "9",
+                            "right": "9",
+                            "bottom": "9",
+                            "left": "9",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "icon_base_size": {
+                            "size": 60,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_base_size_mobile": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "icon_gap_mobile": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tooltip_background_background": "classic",
+                        "tooltip_background_color": "#4b2c23",
+                        "max_scale": 1.42,
+                        "lift_amount": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-interactive-dock-menu-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Interactive Dock Menu - Folio",
+    "type": "section"
+}
