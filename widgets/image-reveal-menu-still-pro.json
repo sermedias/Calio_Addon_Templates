@@ -1,0 +1,229 @@
+{
+    "content": [
+        {
+            "id": "186aa6f8",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1120,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "3bf6714e",
+                    "settings": {
+                        "items": [
+                            {
+                                "_id": "irmrow1",
+                                "label": "Forest lake",
+                                "accent_color": "#DCF0D3",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/image-reveal-menu/pines.webp",
+                                    "size": ""
+                                },
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "irmrow2",
+                                "label": "Sea stacks",
+                                "accent_color": "#DCF0D3",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/image-reveal-menu/basalt.webp",
+                                    "size": ""
+                                },
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "irmrow3",
+                                "label": "Salt flat",
+                                "accent_color": "#DCF0D3",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/image-reveal-menu/salt.webp",
+                                    "size": ""
+                                },
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "irmrow4",
+                                "label": "City after dark",
+                                "accent_color": "#DCF0D3",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/image-reveal-menu/night.webp",
+                                    "size": ""
+                                },
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "eyebrow": "Slow travel",
+                        "title": "Find a quiet route",
+                        "menu_label": "Find a quiet route",
+                        "design_skin": "minimal",
+                        "initial_item": 1,
+                        "stage_height": {
+                            "size": 610,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_mobile": {
+                            "size": 520,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_width": {
+                            "size": 46,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "content_padding": {
+                            "top": "38",
+                            "right": "48",
+                            "bottom": "38",
+                            "left": "48",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "content_padding_mobile": {
+                            "top": "25",
+                            "right": "20",
+                            "bottom": "25",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stage_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "menu_alignment": "center",
+                        "transition_duration": {
+                            "size": 500,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "transition_ease": "power3.out",
+                        "fallback_background_background": "classic",
+                        "fallback_background_color": "#162433",
+                        "overlay_color": "#07101970",
+                        "image_position": "center",
+                        "image_position_mobile": "center",
+                        "eyebrow_color": "#DCF0D3",
+                        "title_color": "#FFFFFF",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 31,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_line_height": {
+                            "size": 1.08,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "menu_typography_typography": "custom",
+                        "menu_typography_font_family": "Arial",
+                        "menu_typography_font_size": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_typography_font_size_mobile": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_typography_line_height": {
+                            "size": 1.14,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "menu_typography_letter_spacing": {
+                            "size": -0.5,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "menu_color": "#F3F5F4",
+                        "menu_hover_color": "#FFFFFF",
+                        "menu_hover_background": "#FFFFFF21",
+                        "menu_gap": {
+                            "size": 7,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_padding": {
+                            "top": "8",
+                            "right": "11",
+                            "bottom": "8",
+                            "left": "11",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "item_radius": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "underline_thickness": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-image-reveal-menu-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Image Reveal Menu â€” Still",
+    "type": "section"
+}

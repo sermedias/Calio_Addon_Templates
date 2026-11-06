@@ -3461,6 +3461,78 @@
       ],
       "file": "widgets/horizontal-timeline-relay-pro.json",
       "thumbnail": "screenshots/horizontal-timeline-relay-pro.webp"
+    },
+    {
+      "id": "image-reveal-menu-folio-pro",
+      "title": "Image Reveal Menu â€” Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Image Reveal Menu",
+        "Navigation",
+        "Photography"
+      ],
+      "file": "widgets/image-reveal-menu-folio-pro.json",
+      "thumbnail": "screenshots/image-reveal-menu-folio-pro.webp"
+    },
+    {
+      "id": "image-reveal-menu-still-pro",
+      "title": "Image Reveal Menu â€” Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Image Reveal Menu",
+        "Navigation",
+        "Photography"
+      ],
+      "file": "widgets/image-reveal-menu-still-pro.json",
+      "thumbnail": "screenshots/image-reveal-menu-still-pro.webp"
+    },
+    {
+      "id": "image-reveal-menu-prism-pro",
+      "title": "Image Reveal Menu â€” Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Image Reveal Menu",
+        "Navigation",
+        "Photography"
+      ],
+      "file": "widgets/image-reveal-menu-prism-pro.json",
+      "thumbnail": "screenshots/image-reveal-menu-prism-pro.webp"
+    },
+    {
+      "id": "image-reveal-menu-nocturne-pro",
+      "title": "Image Reveal Menu â€” Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Image Reveal Menu",
+        "Navigation",
+        "Photography"
+      ],
+      "file": "widgets/image-reveal-menu-nocturne-pro.json",
+      "thumbnail": "screenshots/image-reveal-menu-nocturne-pro.webp"
+    },
+    {
+      "id": "image-reveal-menu-trace-pro",
+      "title": "Image Reveal Menu â€” Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Image Reveal Menu",
+        "Navigation",
+        "Photography"
+      ],
+      "file": "widgets/image-reveal-menu-trace-pro.json",
+      "thumbnail": "screenshots/image-reveal-menu-trace-pro.webp"
+    },
+    {
+      "id": "image-reveal-menu-split-pro",
+      "title": "Image Reveal Menu â€” Split / Pro",
+      "type": "widgets",
+      "categories": [
+        "Image Reveal Menu",
+        "Navigation",
+        "Photography"
+      ],
+      "file": "widgets/image-reveal-menu-split-pro.json",
+      "thumbnail": "screenshots/image-reveal-menu-split-pro.webp"
     }
   ]
 }
