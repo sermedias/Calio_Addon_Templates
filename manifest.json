@@ -3533,6 +3533,78 @@
       ],
       "file": "widgets/image-reveal-menu-split-pro.json",
       "thumbnail": "screenshots/image-reveal-menu-split-pro.webp"
+    },
+    {
+      "id": "instagram-feed-folio-pro",
+      "title": "Instagram Feed â€” Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Instagram Feed",
+        "Social",
+        "Photography"
+      ],
+      "file": "widgets/instagram-feed-folio-pro.json",
+      "thumbnail": "screenshots/instagram-feed-folio-pro.webp"
+    },
+    {
+      "id": "instagram-feed-still-pro",
+      "title": "Instagram Feed â€” Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Instagram Feed",
+        "Social",
+        "Photography"
+      ],
+      "file": "widgets/instagram-feed-still-pro.json",
+      "thumbnail": "screenshots/instagram-feed-still-pro.webp"
+    },
+    {
+      "id": "instagram-feed-prism-pro",
+      "title": "Instagram Feed â€” Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Instagram Feed",
+        "Social",
+        "Photography"
+      ],
+      "file": "widgets/instagram-feed-prism-pro.json",
+      "thumbnail": "screenshots/instagram-feed-prism-pro.webp"
+    },
+    {
+      "id": "instagram-feed-nocturne-pro",
+      "title": "Instagram Feed â€” Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Instagram Feed",
+        "Social",
+        "Photography"
+      ],
+      "file": "widgets/instagram-feed-nocturne-pro.json",
+      "thumbnail": "screenshots/instagram-feed-nocturne-pro.webp"
+    },
+    {
+      "id": "instagram-feed-trace-pro",
+      "title": "Instagram Feed â€” Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Instagram Feed",
+        "Social",
+        "Photography"
+      ],
+      "file": "widgets/instagram-feed-trace-pro.json",
+      "thumbnail": "screenshots/instagram-feed-trace-pro.webp"
+    },
+    {
+      "id": "instagram-feed-split-pro",
+      "title": "Instagram Feed â€” Split / Pro",
+      "type": "widgets",
+      "categories": [
+        "Instagram Feed",
+        "Social",
+        "Photography"
+      ],
+      "file": "widgets/instagram-feed-split-pro.json",
+      "thumbnail": "screenshots/instagram-feed-split-pro.webp"
     }
   ]
 }

@@ -1,0 +1,229 @@
+{
+    "content": [
+        {
+            "id": "20378e54",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1120,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "73ea436",
+                    "settings": {
+                        "design_skin": "editorial",
+                        "items": [
+                            {
+                                "_id": "igrow1",
+                                "caption": "Paper studies in cobalt and warm red.",
+                                "image_alt": "Bright paper swatches on a blue worktable",
+                                "likes": 124,
+                                "comments": 4,
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/instagram-feed/paper.webp",
+                                    "size": ""
+                                },
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "igrow2",
+                                "caption": "A quiet afternoon at the wheel.",
+                                "image_alt": "Hands shaping a ceramic cup on a pottery wheel",
+                                "likes": 155,
+                                "comments": 7,
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/instagram-feed/clay.webp",
+                                    "size": ""
+                                },
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "igrow3",
+                                "caption": "Fresh colour for the next studio series.",
+                                "image_alt": "Pink and orange flowers against aubergine",
+                                "likes": 186,
+                                "comments": 10,
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/instagram-feed/flora.webp",
+                                    "size": ""
+                                },
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "igrow4",
+                                "caption": "Sunlight and the first proofs from the print wall.",
+                                "image_alt": "Blue cyanotype prints pinned to a studio wall",
+                                "likes": 217,
+                                "comments": 13,
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/instagram-feed/print.webp",
+                                    "size": ""
+                                },
+                                "link": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "show_overlay": "yes",
+                        "show_caption": "yes",
+                        "show_meta": "yes",
+                        "overlay_on_hover": "",
+                        "show_icon": "",
+                        "columns": "2",
+                        "columns_tablet": "2",
+                        "columns_mobile": "2",
+                        "item_gap": {
+                            "size": 17,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_gap_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_ratio": {
+                            "size": 60,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_radius": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_background": "#FFFEF9",
+                        "caption_color": "#293A39",
+                        "caption_lines": {
+                            "size": 4,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_spacing": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_typography": "custom",
+                        "caption_typography_font_family": "Georgia",
+                        "caption_typography_font_size": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "caption_typography_line_height": {
+                            "size": 1.35,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "overlay_padding": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "overlay_padding_mobile": {
+                            "top": "11",
+                            "right": "11",
+                            "bottom": "11",
+                            "left": "11",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "overlay_gap": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "overlay_gap_mobile": {
+                            "size": 4,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "meta_color": "#3B514D",
+                        "meta_chip_background": "#E9EFE8",
+                        "meta_chip_padding": {
+                            "top": "3",
+                            "right": "6",
+                            "bottom": "3",
+                            "left": "6",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "feed_surface_background": "classic",
+                        "feed_surface_color": "#F5EDE1",
+                        "feed_padding": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "feed_padding_mobile": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "design_accent": "#966041",
+                        "overlay_surface_background": "classic",
+                        "overlay_surface_color": "#FFFEF9"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-instagram-feed-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Instagram Feed â€” Folio",
+    "type": "section"
+}

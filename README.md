@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 252 editable designs across 42 widget families (150 Free and 102 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 258 editable designs across 43 widget families (150 Free and 108 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -339,3 +339,7 @@ Folio, Still, Prism, Nocturne, Trace and Relay are native sections with one edit
 ### Image Reveal Menu / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Split each contain one native Image Reveal Menu Pro widget. Four original photos accompany editable navigation labels, image crops, overlays, surfaces and links. The first image loads immediately and other images load as they are selected. Keyboard and touch-friendly buttons reveal backgrounds while links retain native navigation.
+
+### Instagram Feed / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Split each contain one native Instagram Feed Pro widget. The designs use four original studio photographs. Images, captions, alternative text, links and display counts are editable Elementor rows. These are manual feeds that do not require an account connection.
