@@ -1,0 +1,464 @@
+{
+    "content": [
+        {
+            "id": "3dd02216",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1120,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "32821838",
+                    "settings": {
+                        "design_skin": "glass",
+                        "members": [
+                            {
+                                "_id": "ita-mina",
+                                "name": "Mina Park",
+                                "job_title": "Creative Researcher",
+                                "bio": "Mina turns careful observation into useful questions. She brings together stories, references and research to help the team see a project from a fresh point of view.",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/interactive-team-accordion/mina.webp",
+                                    "size": ""
+                                },
+                                "image_alt": "Portrait of fictional creative researcher Mina Park",
+                                "image_fit": "cover",
+                                "image_position": "center top",
+                                "image_zoom": {
+                                    "size": 1,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "social_icon_1": {
+                                    "value": "fas fa-link",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_1": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_icon_2": {
+                                    "value": "fas fa-envelope",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_2": {
+                                    "url": "mailto:hello@example.com",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_icon_3": {
+                                    "value": "fas fa-comment",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_3": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "ita-jonas",
+                                "name": "Jonas Berg",
+                                "job_title": "Architect",
+                                "bio": "Jonas designs places around the people who use them. His work balances a quiet architectural language with practical materials, natural light and everyday life.",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/interactive-team-accordion/jonas.webp",
+                                    "size": ""
+                                },
+                                "image_alt": "Portrait of fictional architect Jonas Berg",
+                                "image_fit": "cover",
+                                "image_position": "center top",
+                                "image_zoom": {
+                                    "size": 1,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "social_icon_1": {
+                                    "value": "fas fa-link",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_1": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_icon_2": {
+                                    "value": "fas fa-envelope",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_2": {
+                                    "url": "mailto:hello@example.com",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_icon_3": {
+                                    "value": "fas fa-comment",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_3": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "ita-ada",
+                                "name": "Ada Vale",
+                                "job_title": "Design Director",
+                                "bio": "Ada connects a clear idea with the small details that give a brand its character. She leads the studio’s visual direction and makes space for thoughtful collaboration.",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/interactive-team-accordion/ada.webp",
+                                    "size": ""
+                                },
+                                "image_alt": "Portrait of fictional design director Ada Vale",
+                                "image_fit": "cover",
+                                "image_position": "center top",
+                                "image_zoom": {
+                                    "size": 1,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "social_icon_1": {
+                                    "value": "fas fa-link",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_1": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_icon_2": {
+                                    "value": "fas fa-envelope",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_2": {
+                                    "url": "mailto:hello@example.com",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_icon_3": {
+                                    "value": "fas fa-comment",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_3": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "ita-leo",
+                                "name": "Leo Okoro",
+                                "job_title": "Materials Designer",
+                                "bio": "Leo explores how things feel, wear and last. His work brings new materials into practical products through hands-on experiments and close conversations with makers.",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/interactive-team-accordion/leo.webp",
+                                    "size": ""
+                                },
+                                "image_alt": "Portrait of fictional materials designer Leo Okoro",
+                                "image_fit": "cover",
+                                "image_position": "center top",
+                                "image_zoom": {
+                                    "size": 1,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "social_icon_1": {
+                                    "value": "fas fa-link",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_1": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_icon_2": {
+                                    "value": "fas fa-envelope",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_2": {
+                                    "url": "mailto:hello@example.com",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_icon_3": {
+                                    "value": "fas fa-comment",
+                                    "library": "fa-solid"
+                                },
+                                "social_url_3": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "active_index": 1,
+                        "active_grow": {
+                            "size": 7,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "inactive_grow": {
+                            "size": 0.7,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height": {
+                            "size": 540,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_tablet": {
+                            "size": 500,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_mobile": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "items_gap": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "items_gap_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "strip_min_width": {
+                            "size": 64,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_width": {
+                            "size": 46,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "transition_speed": {
+                            "size": 400,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "show_item_count": "yes",
+                        "show_hint": "yes",
+                        "hint_text": "Select a portrait to meet the team",
+                        "design_accent": "#76619F",
+                        "wrapper_padding": {
+                            "top": "14",
+                            "right": "14",
+                            "bottom": "14",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "wrapper_padding_mobile": {
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "wrapper_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "item_radius": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "content_padding": {
+                            "top": "25",
+                            "right": "25",
+                            "bottom": "25",
+                            "left": "25",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "content_padding_mobile": {
+                            "top": "22",
+                            "right": "22",
+                            "bottom": "22",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "content_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "name_color": "#403856",
+                        "job_color": "#76619F",
+                        "bio_color": "#5D6259",
+                        "name_typography_typography": "custom",
+                        "name_typography_font_family": "Arial",
+                        "name_typography_font_size": {
+                            "size": 34,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "name_typography_font_size_mobile": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "name_typography_line_height": {
+                            "size": 1.08,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "name_typography_letter_spacing": {
+                            "size": -0.8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "job_typography_typography": "custom",
+                        "job_typography_font_family": "Arial",
+                        "job_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "job_typography_letter_spacing": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "bio_typography_typography": "custom",
+                        "bio_typography_font_family": "Arial",
+                        "bio_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "bio_typography_font_size_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "bio_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "social_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "social_box_size": {
+                            "size": 35,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "social_gap": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "social_radius": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "social_color": "#403856",
+                        "social_background": "#FFFFFF85",
+                        "social_hover_color": "#FFFFFF",
+                        "social_hover_background": "#76619F",
+                        "count_color": "#403856",
+                        "count_background": "#FFFFFF99",
+                        "hint_color": "#59685D",
+                        "inactive_grayscale": {
+                            "size": 75,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "image_brightness": {
+                            "size": 86,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "item_overlay_color": "#0C17221A",
+                        "active_overlay_opacity": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stacked_photo_height_mobile": {
+                            "size": 250,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "collapsed_image_position_mobile": "center 30%",
+                        "ita_name_paint_mode": "gradient",
+                        "ita_name_gradient_start": "#473963",
+                        "ita_name_gradient_end": "#2A6F79",
+                        "design_blur": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-interactive-team-accordion-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Interactive Team Accordion — Prism",
+    "type": "section"
+}

@@ -3743,6 +3743,78 @@
       ],
       "file": "widgets/interactive-tabs-atlas-pro.json",
       "thumbnail": "screenshots/interactive-tabs-atlas-pro.webp"
+    },
+    {
+      "id": "interactive-team-accordion-folio-pro",
+      "title": "Interactive Team Accordion — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Team Accordion",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/interactive-team-accordion-folio-pro.json",
+      "thumbnail": "screenshots/interactive-team-accordion-folio-pro.webp"
+    },
+    {
+      "id": "interactive-team-accordion-still-pro",
+      "title": "Interactive Team Accordion — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Team Accordion",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/interactive-team-accordion-still-pro.json",
+      "thumbnail": "screenshots/interactive-team-accordion-still-pro.webp"
+    },
+    {
+      "id": "interactive-team-accordion-prism-pro",
+      "title": "Interactive Team Accordion — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Team Accordion",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/interactive-team-accordion-prism-pro.json",
+      "thumbnail": "screenshots/interactive-team-accordion-prism-pro.webp"
+    },
+    {
+      "id": "interactive-team-accordion-nocturne-pro",
+      "title": "Interactive Team Accordion — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Team Accordion",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/interactive-team-accordion-nocturne-pro.json",
+      "thumbnail": "screenshots/interactive-team-accordion-nocturne-pro.webp"
+    },
+    {
+      "id": "interactive-team-accordion-trace-pro",
+      "title": "Interactive Team Accordion — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Team Accordion",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/interactive-team-accordion-trace-pro.json",
+      "thumbnail": "screenshots/interactive-team-accordion-trace-pro.webp"
+    },
+    {
+      "id": "interactive-team-accordion-studio-pro",
+      "title": "Interactive Team Accordion — Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Team Accordion",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/interactive-team-accordion-studio-pro.json",
+      "thumbnail": "screenshots/interactive-team-accordion-studio-pro.webp"
     }
   ]
 }
