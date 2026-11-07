@@ -1,0 +1,310 @@
+{
+    "content": [
+        {
+            "id": "fd8fdc9",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1100,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "20d421c3",
+                    "settings": {
+                        "design_skin": "contrast",
+                        "design_accent": "#D2ECA8",
+                        "tabs": [
+                            {
+                                "_id": "itrow1",
+                                "tab_title": "A clear night ahead",
+                                "tab_subtitle": "Conditions",
+                                "tab_badge": "01 / 03",
+                                "tab_featured": "",
+                                "tab_id": "nocturne-1",
+                                "tab_icon": {
+                                    "value": "fas fa-moon",
+                                    "library": "fa-solid"
+                                },
+                                "tab_content": "<p>Step outside after twilight and let your eyes adjust. The night sky rewards an unhurried look.</p><ul><li>Choose a place away from streetlights</li><li>Bring a red torch and a warm layer</li><li>Sketch the shapes you recognise</li></ul>",
+                                "tab_eyebrow": "AFTER DARK / FIELD CLUB",
+                                "tab_image": {
+                                    "url": "",
+                                    "id": 0,
+                                    "size": ""
+                                },
+                                "tab_image_alt": "",
+                                "tab_button_text": "Read the guide",
+                                "tab_button_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "tab_secondary_button_text": "Explore the journal",
+                                "tab_secondary_button_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "itrow2",
+                                "tab_title": "Read the sky slowly",
+                                "tab_subtitle": "Observation",
+                                "tab_badge": "",
+                                "tab_featured": "",
+                                "tab_id": "nocturne-2",
+                                "tab_icon": {
+                                    "value": "fas fa-star",
+                                    "library": "fa-solid"
+                                },
+                                "tab_content": "<p>Move from the first idea into a small, practical next step. Keep your plan open enough to adapt as you learn.</p><ul><li>Choose a place away from streetlights</li><li>Bring a red torch and a warm layer</li><li>Sketch the shapes you recognise</li></ul>",
+                                "tab_eyebrow": "AFTER DARK / FIELD CLUB",
+                                "tab_image": {
+                                    "url": "",
+                                    "id": 0,
+                                    "size": ""
+                                },
+                                "tab_image_alt": "",
+                                "tab_button_text": "Read the guide",
+                                "tab_button_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "tab_secondary_button_text": "Explore the journal",
+                                "tab_secondary_button_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "itrow3",
+                                "tab_title": "Keep a field record",
+                                "tab_subtitle": "Notebook",
+                                "tab_badge": "",
+                                "tab_featured": "",
+                                "tab_id": "nocturne-3",
+                                "tab_icon": {
+                                    "value": "fas fa-book",
+                                    "library": "fa-solid"
+                                },
+                                "tab_content": "<p>Take a moment to look back. Keep what worked, note what changed and choose one thing to carry forward.</p><ul><li>Choose a place away from streetlights</li><li>Bring a red torch and a warm layer</li><li>Sketch the shapes you recognise</li></ul>",
+                                "tab_eyebrow": "AFTER DARK / FIELD CLUB",
+                                "tab_image": {
+                                    "url": "",
+                                    "id": 0,
+                                    "size": ""
+                                },
+                                "tab_image_alt": "",
+                                "tab_button_text": "Read the guide",
+                                "tab_button_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "tab_secondary_button_text": "Explore the journal",
+                                "tab_secondary_button_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "orientation": "vertical",
+                        "show_image": "",
+                        "show_subtitle": "yes",
+                        "show_badge": "yes",
+                        "show_step_numbers": "",
+                        "show_button": "yes",
+                        "show_secondary_button": "",
+                        "show_panel_eyebrow": "yes",
+                        "sync_hash": "",
+                        "enable_autoplay": "",
+                        "tab_min_width": {
+                            "size": 190,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tab_wrap": "wrap",
+                        "tab_gap": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tab_gap_mobile": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tab_padding": {
+                            "top": "17",
+                            "right": "18",
+                            "bottom": "17",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "tab_padding_mobile": {
+                            "top": "13",
+                            "right": "13",
+                            "bottom": "13",
+                            "left": "13",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "tab_radius": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "panel_radius": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "panel_padding": {
+                            "top": "40",
+                            "right": "44",
+                            "bottom": "40",
+                            "left": "44",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "panel_padding_mobile": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "layout_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tab_title_typography_typography": "custom",
+                        "tab_title_typography_font_family": "Arial",
+                        "tab_title_typography_font_size": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tab_subtitle_typography_typography": "custom",
+                        "tab_subtitle_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "panel_title_typography_typography": "custom",
+                        "panel_title_typography_font_family": "Arial",
+                        "panel_title_typography_font_size": {
+                            "size": 36,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "panel_title_typography_font_size_mobile": {
+                            "size": 27,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "panel_title_typography_line_height": {
+                            "size": 1.15,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "panel_content_typography_typography": "custom",
+                        "panel_content_typography_font_family": "Arial",
+                        "panel_content_typography_font_size": {
+                            "size": 17,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "panel_content_typography_font_size_mobile": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "panel_content_typography_line_height": {
+                            "size": 1.7,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "panel_title_color": "#F1F7E4",
+                        "panel_content_color": "#D3E1EA",
+                        "panel_eyebrow_color": "#D2ECA8",
+                        "tab_text_color": "#EBF4F9",
+                        "tab_active_text_color": "#18342C",
+                        "tab_subtitle_color": "#C3D4E0",
+                        "tab_icon_color": "#E4F4EA",
+                        "tab_active_icon_color": "#18342C",
+                        "button_bg_color": "#D2ECA8",
+                        "button_text_color": "#18342C",
+                        "button_border_color": "#D2ECA8",
+                        "button_padding": {
+                            "top": "13",
+                            "right": "20",
+                            "bottom": "13",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "button_radius": {
+                            "size": 8,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_typography_typography": "custom",
+                        "button_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "secondary_button_text_color": "#F1F7E4",
+                        "secondary_button_bg_color": "#FFFFFF00",
+                        "secondary_button_border_color": "#D2ECA8",
+                        "secondary_button_padding": {
+                            "top": "13",
+                            "right": "20",
+                            "bottom": "13",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "tab_badge_text_color": "#1C362B",
+                        "tab_badge_bg_color": "#D2ECA8",
+                        "tab_active_subtitle_color": "#355147"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-interactive-tabs-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Interactive Tabs — Nocturne",
+    "type": "section"
+}

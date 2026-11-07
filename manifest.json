@@ -3671,6 +3671,78 @@
       ],
       "file": "widgets/interactive-dock-menu-relay-pro.json",
       "thumbnail": "screenshots/interactive-dock-menu-relay-pro.webp"
+    },
+    {
+      "id": "interactive-tabs-folio-pro",
+      "title": "Interactive Tabs — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Tabs",
+        "Content",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-tabs-folio-pro.json",
+      "thumbnail": "screenshots/interactive-tabs-folio-pro.webp"
+    },
+    {
+      "id": "interactive-tabs-still-pro",
+      "title": "Interactive Tabs — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Tabs",
+        "Content",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-tabs-still-pro.json",
+      "thumbnail": "screenshots/interactive-tabs-still-pro.webp"
+    },
+    {
+      "id": "interactive-tabs-prism-pro",
+      "title": "Interactive Tabs — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Tabs",
+        "Content",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-tabs-prism-pro.json",
+      "thumbnail": "screenshots/interactive-tabs-prism-pro.webp"
+    },
+    {
+      "id": "interactive-tabs-nocturne-pro",
+      "title": "Interactive Tabs — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Tabs",
+        "Content",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-tabs-nocturne-pro.json",
+      "thumbnail": "screenshots/interactive-tabs-nocturne-pro.webp"
+    },
+    {
+      "id": "interactive-tabs-trace-pro",
+      "title": "Interactive Tabs — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Tabs",
+        "Content",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-tabs-trace-pro.json",
+      "thumbnail": "screenshots/interactive-tabs-trace-pro.webp"
+    },
+    {
+      "id": "interactive-tabs-atlas-pro",
+      "title": "Interactive Tabs — Atlas / Pro",
+      "type": "widgets",
+      "categories": [
+        "Interactive Tabs",
+        "Content",
+        "Navigation"
+      ],
+      "file": "widgets/interactive-tabs-atlas-pro.json",
+      "thumbnail": "screenshots/interactive-tabs-atlas-pro.webp"
     }
   ]
 }
