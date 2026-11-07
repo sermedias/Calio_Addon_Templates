@@ -3815,6 +3815,78 @@
       ],
       "file": "widgets/interactive-team-accordion-studio-pro.json",
       "thumbnail": "screenshots/interactive-team-accordion-studio-pro.webp"
+    },
+    {
+      "id": "logo-carousel-folio-pro",
+      "title": "Logo Carousel — Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Logo Carousel",
+        "Brands",
+        "Carousel"
+      ],
+      "file": "widgets/logo-carousel-folio-pro.json",
+      "thumbnail": "screenshots/logo-carousel-folio-pro.webp"
+    },
+    {
+      "id": "logo-carousel-still-pro",
+      "title": "Logo Carousel — Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Logo Carousel",
+        "Brands",
+        "Carousel"
+      ],
+      "file": "widgets/logo-carousel-still-pro.json",
+      "thumbnail": "screenshots/logo-carousel-still-pro.webp"
+    },
+    {
+      "id": "logo-carousel-prism-pro",
+      "title": "Logo Carousel — Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Logo Carousel",
+        "Brands",
+        "Carousel"
+      ],
+      "file": "widgets/logo-carousel-prism-pro.json",
+      "thumbnail": "screenshots/logo-carousel-prism-pro.webp"
+    },
+    {
+      "id": "logo-carousel-nocturne-pro",
+      "title": "Logo Carousel — Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Logo Carousel",
+        "Brands",
+        "Carousel"
+      ],
+      "file": "widgets/logo-carousel-nocturne-pro.json",
+      "thumbnail": "screenshots/logo-carousel-nocturne-pro.webp"
+    },
+    {
+      "id": "logo-carousel-trace-pro",
+      "title": "Logo Carousel — Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Logo Carousel",
+        "Brands",
+        "Carousel"
+      ],
+      "file": "widgets/logo-carousel-trace-pro.json",
+      "thumbnail": "screenshots/logo-carousel-trace-pro.webp"
+    },
+    {
+      "id": "logo-carousel-relay-pro",
+      "title": "Logo Carousel — Relay / Pro",
+      "type": "widgets",
+      "categories": [
+        "Logo Carousel",
+        "Brands",
+        "Carousel"
+      ],
+      "file": "widgets/logo-carousel-relay-pro.json",
+      "thumbnail": "screenshots/logo-carousel-relay-pro.webp"
     }
   ]
 }

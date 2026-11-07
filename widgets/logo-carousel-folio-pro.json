@@ -1,0 +1,296 @@
+{
+    "content": [
+        {
+            "id": "50e55923",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1120,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "21eac7cc",
+                    "settings": {
+                        "design_skin": "editorial",
+                        "items": [
+                            {
+                                "_id": "lc-atlas",
+                                "title": "Atlas Studio",
+                                "subtitle": "Brand & identity",
+                                "logo": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/logo-carousel/atlas.webp"
+                                },
+                                "logo_hover": {
+                                    "url": ""
+                                },
+                                "link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes"
+                                }
+                            },
+                            {
+                                "_id": "lc-bluepeak",
+                                "title": "BluePeak",
+                                "subtitle": "Outdoor collective",
+                                "logo": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/logo-carousel/bluepeak.webp"
+                                },
+                                "logo_hover": {
+                                    "url": ""
+                                },
+                                "link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes"
+                                }
+                            },
+                            {
+                                "_id": "lc-lumen",
+                                "title": "Lumen Grid",
+                                "subtitle": "Connected spaces",
+                                "logo": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/logo-carousel/lumen.webp"
+                                },
+                                "logo_hover": {
+                                    "url": ""
+                                },
+                                "link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes"
+                                }
+                            },
+                            {
+                                "_id": "lc-northline",
+                                "title": "Northline",
+                                "subtitle": "Architecture studio",
+                                "logo": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/logo-carousel/northline.webp"
+                                },
+                                "logo_hover": {
+                                    "url": ""
+                                },
+                                "link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes"
+                                }
+                            },
+                            {
+                                "_id": "lc-spark",
+                                "title": "Spark Works",
+                                "subtitle": "Creative workshop",
+                                "logo": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/logo-carousel/spark.webp"
+                                },
+                                "logo_hover": {
+                                    "url": ""
+                                },
+                                "link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes"
+                                }
+                            },
+                            {
+                                "_id": "lc-metabloom",
+                                "title": "MetaBloom",
+                                "subtitle": "Material futures",
+                                "logo": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/logo-carousel/metabloom.webp"
+                                },
+                                "logo_hover": {
+                                    "url": ""
+                                },
+                                "link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes"
+                                }
+                            }
+                        ],
+                        "motion_mode": "slider",
+                        "show_arrows": "yes",
+                        "show_dots": "yes",
+                        "show_titles": "yes",
+                        "show_subtitles": "yes",
+                        "autoplay": "",
+                        "pause_on_hover": "yes",
+                        "pause_on_interaction": "yes",
+                        "show_playback": "yes",
+                        "grayscale": "",
+                        "slides_to_show": "3",
+                        "slides_to_show_tablet": "2",
+                        "slides_to_show_mobile": "1",
+                        "slides_to_scroll": "2",
+                        "item_gap": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_gap_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_padding": {
+                            "top": "28",
+                            "right": "24",
+                            "bottom": "28",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "item_padding_mobile": {
+                            "top": "24",
+                            "right": "20",
+                            "bottom": "24",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "item_min_height": {
+                            "size": 240,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "item_radius": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "logo_height": {
+                            "size": 76,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "logo_opacity": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "logo_hover_opacity": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_color": "#504335",
+                        "subtitle_color": "#6D746D",
+                        "title_hover_color": "#504335",
+                        "subtitle_hover_color": "#AD704A",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Georgia",
+                        "title_typography_font_size": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "600",
+                        "title_typography_line_height": {
+                            "size": 1.25,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "subtitle_typography_typography": "custom",
+                        "subtitle_typography_font_family": "Arial",
+                        "subtitle_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "subtitle_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "title_spacing": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "subtitle_spacing": {
+                            "size": 7,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "design_accent": "#AD704A",
+                        "design_line_width": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "design_inset": {
+                            "size": 7,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "design_blur": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "edge_fade": "",
+                        "arrow_color": "#504335",
+                        "arrow_background": "#FFFFFF",
+                        "arrow_border_color": "#AD704A",
+                        "arrow_icon_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "arrow_size": {
+                            "size": 38,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "arrow_horizontal_offset": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dot_color": "#B3B7AC",
+                        "dot_active_color": "#AD704A",
+                        "dot_size": {
+                            "size": 7,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "dots_margin_top": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-logo-carousel-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Logo Carousel — Folio",
+    "type": "section"
+}
