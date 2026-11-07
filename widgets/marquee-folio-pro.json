@@ -1,0 +1,309 @@
+{
+    "content": [
+        {
+            "id": "79a7858e",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1120,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "2766297e",
+                    "settings": {
+                        "design_skin": "editorial",
+                        "marquee_items": [
+                            {
+                                "_id": "mq-folio-0",
+                                "item_text": "Ideas in motion",
+                                "item_icon": {
+                                    "value": "fas fa-star",
+                                    "library": "fa-solid"
+                                },
+                                "item_image": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "item_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "mq-folio-1",
+                                "item_text": "New perspectives",
+                                "item_icon": {
+                                    "value": "fas fa-star",
+                                    "library": "fa-solid"
+                                },
+                                "item_image": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "item_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "mq-folio-2",
+                                "item_text": "Material stories",
+                                "item_icon": {
+                                    "value": "fas fa-star",
+                                    "library": "fa-solid"
+                                },
+                                "item_image": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "item_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "mq-folio-3",
+                                "item_text": "Made to matter",
+                                "item_icon": {
+                                    "value": "fas fa-star",
+                                    "library": "fa-solid"
+                                },
+                                "item_image": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "item_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "mq-folio-4",
+                                "item_text": "Quiet confidence",
+                                "item_icon": {
+                                    "value": "fas fa-star",
+                                    "library": "fa-solid"
+                                },
+                                "item_image": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "item_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "marquee_content_type": "text",
+                        "marquee_direction": "left",
+                        "marquee_speed": 35,
+                        "marquee_pause_on_hover": "yes",
+                        "marquee_draggable": "yes",
+                        "marquee_items_clickable": "yes",
+                        "show_playback": "yes",
+                        "marquee_item_gap": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_item_gap_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_vertical_height": {
+                            "size": 330,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_vertical_height_mobile": {
+                            "size": 330,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_rotate": {
+                            "size": 0,
+                            "unit": "deg",
+                            "sizes": []
+                        },
+                        "marquee_rotate_mobile": {
+                            "size": 0,
+                            "unit": "deg",
+                            "sizes": []
+                        },
+                        "marquee_mask_fade": "yes",
+                        "marquee_mask_size": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_mask_size_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_wrapper_padding": {
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "marquee_wrapper_padding_mobile": {
+                            "top": "8",
+                            "right": "8",
+                            "bottom": "8",
+                            "left": "8",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "marquee_wrapper_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "marquee_item_padding": {
+                            "top": "24",
+                            "right": "32",
+                            "bottom": "24",
+                            "left": "32",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "marquee_item_padding_mobile": {
+                            "top": "20",
+                            "right": "22",
+                            "bottom": "20",
+                            "left": "22",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "marquee_item_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "marquee_item_text_color": "#514032",
+                        "marquee_item_text_color_hover": "#A56B42",
+                        "marquee_item_icon_size": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_item_typography_typography": "custom",
+                        "marquee_item_typography_font_family": "Georgia",
+                        "marquee_item_typography_font_size": {
+                            "size": 56,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_item_typography_font_size_mobile": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_item_typography_font_weight": "600",
+                        "marquee_item_typography_line_height": {
+                            "size": 1.2,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "marquee_item_typography_letter_spacing": {
+                            "size": -0.5,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "design_accent": "#A56B42",
+                        "design_line_width": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "design_inset": {
+                            "size": 6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "design_blur": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_image_width": {
+                            "size": 320,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_image_width_mobile": {
+                            "size": 250,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_image_height": {
+                            "size": 214,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_image_height_mobile": {
+                            "size": 167,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "marquee_image_fit": "cover",
+                        "marquee_image_radius": {
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "mq_playback_ink": "#514032",
+                        "mq_focus_color": "#A56B42",
+                        "mq_text_paint_mode": "gradient",
+                        "mq_text_gradient_start": "#593C2B",
+                        "mq_text_gradient_end": "#A87042"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-marquee-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Marquee - Folio",
+    "type": "section"
+}

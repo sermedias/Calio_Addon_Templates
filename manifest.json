@@ -3887,6 +3887,78 @@
       ],
       "file": "widgets/logo-carousel-relay-pro.json",
       "thumbnail": "screenshots/logo-carousel-relay-pro.webp"
+    },
+    {
+      "id": "marquee-folio-pro",
+      "title": "Marquee - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Marquee",
+        "Motion",
+        "Typography"
+      ],
+      "file": "widgets/marquee-folio-pro.json",
+      "thumbnail": "screenshots/marquee-folio-pro.webp"
+    },
+    {
+      "id": "marquee-still-pro",
+      "title": "Marquee - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Marquee",
+        "Motion",
+        "Typography"
+      ],
+      "file": "widgets/marquee-still-pro.json",
+      "thumbnail": "screenshots/marquee-still-pro.webp"
+    },
+    {
+      "id": "marquee-prism-pro",
+      "title": "Marquee - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Marquee",
+        "Motion",
+        "Typography"
+      ],
+      "file": "widgets/marquee-prism-pro.json",
+      "thumbnail": "screenshots/marquee-prism-pro.webp"
+    },
+    {
+      "id": "marquee-nocturne-pro",
+      "title": "Marquee - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Marquee",
+        "Motion",
+        "Typography"
+      ],
+      "file": "widgets/marquee-nocturne-pro.json",
+      "thumbnail": "screenshots/marquee-nocturne-pro.webp"
+    },
+    {
+      "id": "marquee-trace-pro",
+      "title": "Marquee - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Marquee",
+        "Motion",
+        "Typography"
+      ],
+      "file": "widgets/marquee-trace-pro.json",
+      "thumbnail": "screenshots/marquee-trace-pro.webp"
+    },
+    {
+      "id": "marquee-ribbon-pro",
+      "title": "Marquee - Ribbon / Pro",
+      "type": "widgets",
+      "categories": [
+        "Marquee",
+        "Motion",
+        "Typography"
+      ],
+      "file": "widgets/marquee-ribbon-pro.json",
+      "thumbnail": "screenshots/marquee-ribbon-pro.webp"
     }
   ]
 }
