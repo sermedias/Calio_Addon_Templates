@@ -1,0 +1,438 @@
+{
+    "content": [
+        {
+            "id": "160f40ad",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "6c9f8141",
+                    "settings": {
+                        "design_skin": "contrast",
+                        "demo_preset": "custom",
+                        "inject_preset_content": "",
+                        "skin_preset": "aurora",
+                        "layout_style": "media-left",
+                        "stage_density": "balanced",
+                        "eyebrow_text": "INDEPENDENT DESIGN / EST. 2014",
+                        "headline_text": "Make the next move count.",
+                        "headline_tag": "h2",
+                        "description_text": "Strategy, craft and clear thinking for projects with something to say.",
+                        "primary_button_text": "Explore our work",
+                        "primary_button_url": {
+                            "url": "https://example.com/",
+                            "is_external": "yes",
+                            "nofollow": "yes",
+                            "custom_attributes": ""
+                        },
+                        "secondary_button_text": "Meet the studio",
+                        "secondary_button_url": {
+                            "url": "https://example.com/",
+                            "is_external": "yes",
+                            "nofollow": "yes",
+                            "custom_attributes": ""
+                        },
+                        "media_image": {
+                            "id": 0,
+                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/motion-spotlight/sculpture.webp"
+                        },
+                        "media_image_size": "large",
+                        "show_metrics": "yes",
+                        "metrics_items": [
+                            {
+                                "_id": "ms-years",
+                                "metric_value": "12",
+                                "metric_prefix": "",
+                                "metric_suffix": "+",
+                                "metric_label": "Years of practice"
+                            },
+                            {
+                                "_id": "ms-projects",
+                                "metric_value": "48",
+                                "metric_prefix": "",
+                                "metric_suffix": "",
+                                "metric_label": "Shared projects"
+                            }
+                        ],
+                        "metric_animation_mode": "count_up",
+                        "metric_animation_duration": 1000,
+                        "show_proof_chips": "yes",
+                        "proof_items": [
+                            {
+                                "_id": "ms-one",
+                                "proof_text": "Independent ideas"
+                            },
+                            {
+                                "_id": "ms-two",
+                                "proof_text": "Made for people"
+                            }
+                        ],
+                        "spotlight_cards": [
+                            {
+                                "_id": "ms-nocturne-card",
+                                "card_badge": "A CLOSER LOOK",
+                                "card_title": "Built with intent.",
+                                "card_text": "Clear ideas. Careful details. A shared point of view.",
+                                "card_meta": "Strategy / Design / Direction",
+                                "card_icon": {
+                                    "value": "fas fa-star",
+                                    "library": "fa-solid"
+                                },
+                                "card_position": "bottom-left",
+                                "accent_color": "#C4DC9D",
+                                "card_depth": 1,
+                                "card_layer_order": 14,
+                                "card_offset_x": 0,
+                                "card_offset_y": 0
+                            }
+                        ],
+                        "scene_trigger": "load",
+                        "motion_effect": "lines",
+                        "motion_sections": [
+                            "eyebrow",
+                            "headline",
+                            "description",
+                            "buttons",
+                            "metrics",
+                            "proof",
+                            "cards",
+                            "media"
+                        ],
+                        "motion_tempo": "balanced",
+                        "motion_duration_s": 0.65,
+                        "motion_stagger_s": 0.05,
+                        "scene_preset": "curtain",
+                        "scene_layer_style": "beams",
+                        "scene_layer_intensity": "soft",
+                        "ambient_motion": "",
+                        "ambient_distance": 5,
+                        "glow_loop": "yes",
+                        "mouse_parallax": "yes",
+                        "mouse_parallax_strength": 8,
+                        "mouse_parallax_tilt": 3,
+                        "magnetic_hover": "yes",
+                        "magnetic_strength": 4,
+                        "scene_scrub": "",
+                        "replay_on_scroll": "",
+                        "show_motion_controls": "yes",
+                        "shell_background_group_background": "classic",
+                        "shell_background_group_color": "#10272B",
+                        "shell_surface": "#19363B",
+                        "text_color": "#EAF2DE",
+                        "muted_color": "#B2C3BA",
+                        "accent_color": "#C4DC9D",
+                        "card_background": "#19363B",
+                        "card_border_color": "#4B6763",
+                        "shell_padding": {
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "shell_padding_mobile": {
+                            "top": "24",
+                            "right": "18",
+                            "bottom": "24",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "shell_radius": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "shell_border_border": "solid",
+                        "shell_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "shell_border_color": "#405E5A",
+                        "headline_color": "#EAF2DE",
+                        "description_color": "#B2C3BA",
+                        "eyebrow_color": "#C4DC9D",
+                        "headline_typography_typography": "custom",
+                        "headline_typography_font_family": "Arial",
+                        "headline_typography_font_size": {
+                            "size": 48,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "headline_typography_font_size_mobile": {
+                            "size": 34,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "headline_typography_line_height": {
+                            "size": 1.04,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "headline_typography_letter_spacing": {
+                            "size": -1.5,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "headline_typography_font_weight": "600",
+                        "description_typography_typography": "custom",
+                        "description_typography_font_family": "Arial",
+                        "description_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "description_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "eyebrow_typography_typography": "custom",
+                        "eyebrow_typography_font_family": "Arial",
+                        "eyebrow_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "eyebrow_typography_letter_spacing": {
+                            "size": 1.2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ms_layout_gap": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ms_layout_gap_mobile": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ms_media_ratio": 1.32,
+                        "ms_media_ratio_mobile": 1.4,
+                        "ms_media_radius": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "ms_stage_min_height": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ms_stage_min_height_mobile": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ms_accent_width": {
+                            "size": 3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ms_glass_blur": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ms_outline_inset": {
+                            "size": 7,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ms_focus_color": "#C4DC9D",
+                        "spotlight_card_padding": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "spotlight_card_radius": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "spotlight_card_title_color": "#EAF2DE",
+                        "spotlight_card_text_color": "#B2C3BA",
+                        "spotlight_card_meta_color": "#C4DC9D",
+                        "spotlight_card_badge_color": "#C4DC9D",
+                        "spotlight_card_title_typography_typography": "custom",
+                        "spotlight_card_title_typography_font_family": "Arial",
+                        "spotlight_card_title_typography_font_size": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "spotlight_card_title_typography_line_height": {
+                            "size": 1.25,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "spotlight_card_text_typography_typography": "custom",
+                        "spotlight_card_text_typography_font_family": "Arial",
+                        "spotlight_card_text_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "spotlight_card_text_typography_line_height": {
+                            "size": 1.5,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "spotlight_card_meta_typography_typography": "custom",
+                        "spotlight_card_meta_typography_font_family": "Arial",
+                        "spotlight_card_meta_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "spotlight_card_background_normal_background": "classic",
+                        "spotlight_card_background_normal_color": "#19363B",
+                        "metric_value_color": "#EAF2DE",
+                        "metric_label_color": "#B2C3BA",
+                        "metric_suffix_color": "#C4DC9D",
+                        "metric_value_typography_typography": "custom",
+                        "metric_value_typography_font_family": "Arial",
+                        "metric_value_typography_font_size": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "metric_label_typography_typography": "custom",
+                        "metric_label_typography_font_family": "Arial",
+                        "metric_label_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "metric_padding": {
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "metric_radius": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "metric_background_normal_background": "classic",
+                        "metric_background_normal_color": "#FFFFFF0C",
+                        "proof_chip_text_color_normal": "#EAF2DE",
+                        "proof_chip_background_normal_background": "classic",
+                        "proof_chip_background_normal_color": "#FFFFFF12",
+                        "proof_chip_padding": {
+                            "top": "7",
+                            "right": "10",
+                            "bottom": "7",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "proof_chip_radius": {
+                            "size": 999,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "proof_chip_typography_typography": "custom",
+                        "proof_chip_typography_font_family": "Arial",
+                        "proof_chip_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ms_control_ink": "#EAF2DE",
+                        "glow_intensity": 0.2,
+                        "scene_glow_intensity": 0.2,
+                        "media_halo_intensity": 0.15,
+                        "card_halo_opacity": 0.15,
+                        "motion_spotlight_primary_button_style_typography_typography": "custom",
+                        "motion_spotlight_primary_button_style_typography_font_family": "Arial",
+                        "motion_spotlight_primary_button_style_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "motion_spotlight_primary_button_style_padding": {
+                            "top": "13",
+                            "right": "18",
+                            "bottom": "13",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "motion_spotlight_primary_button_style_radius": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "motion_spotlight_primary_button_style_text_color_normal": "#17362E",
+                        "motion_spotlight_primary_button_style_background_normal_background": "classic",
+                        "motion_spotlight_primary_button_style_background_normal_color": "#C4DC9D",
+                        "motion_spotlight_secondary_button_style_typography_typography": "custom",
+                        "motion_spotlight_secondary_button_style_typography_font_family": "Arial",
+                        "motion_spotlight_secondary_button_style_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "motion_spotlight_secondary_button_style_padding": {
+                            "top": "13",
+                            "right": "18",
+                            "bottom": "13",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "motion_spotlight_secondary_button_style_radius": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "motion_spotlight_secondary_button_style_text_color_normal": "#EAF2DE",
+                        "motion_spotlight_secondary_button_style_background_normal_background": "classic",
+                        "motion_spotlight_secondary_button_style_background_normal_color": "#FFFFFF0D"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-motion-spotlight-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Motion Spotlight - Nocturne",
+    "type": "section"
+}

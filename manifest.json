@@ -3959,6 +3959,78 @@
       ],
       "file": "widgets/marquee-ribbon-pro.json",
       "thumbnail": "screenshots/marquee-ribbon-pro.webp"
+    },
+    {
+      "id": "motion-spotlight-folio-pro",
+      "title": "Motion Spotlight - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Motion Spotlight",
+        "Hero",
+        "Motion"
+      ],
+      "file": "widgets/motion-spotlight-folio-pro.json",
+      "thumbnail": "screenshots/motion-spotlight-folio-pro.webp"
+    },
+    {
+      "id": "motion-spotlight-still-pro",
+      "title": "Motion Spotlight - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Motion Spotlight",
+        "Hero",
+        "Motion"
+      ],
+      "file": "widgets/motion-spotlight-still-pro.json",
+      "thumbnail": "screenshots/motion-spotlight-still-pro.webp"
+    },
+    {
+      "id": "motion-spotlight-prism-pro",
+      "title": "Motion Spotlight - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Motion Spotlight",
+        "Hero",
+        "Motion"
+      ],
+      "file": "widgets/motion-spotlight-prism-pro.json",
+      "thumbnail": "screenshots/motion-spotlight-prism-pro.webp"
+    },
+    {
+      "id": "motion-spotlight-nocturne-pro",
+      "title": "Motion Spotlight - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Motion Spotlight",
+        "Hero",
+        "Motion"
+      ],
+      "file": "widgets/motion-spotlight-nocturne-pro.json",
+      "thumbnail": "screenshots/motion-spotlight-nocturne-pro.webp"
+    },
+    {
+      "id": "motion-spotlight-trace-pro",
+      "title": "Motion Spotlight - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Motion Spotlight",
+        "Hero",
+        "Motion"
+      ],
+      "file": "widgets/motion-spotlight-trace-pro.json",
+      "thumbnail": "screenshots/motion-spotlight-trace-pro.webp"
+    },
+    {
+      "id": "motion-spotlight-studio-pro",
+      "title": "Motion Spotlight - Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Motion Spotlight",
+        "Hero",
+        "Motion"
+      ],
+      "file": "widgets/motion-spotlight-studio-pro.json",
+      "thumbnail": "screenshots/motion-spotlight-studio-pro.webp"
     }
   ]
 }
