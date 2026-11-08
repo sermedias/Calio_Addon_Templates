@@ -1,0 +1,160 @@
+{
+    "content": [
+        {
+            "id": "67d08732",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "4fe5e217",
+                    "settings": {
+                        "design_skin": "split",
+                        "eyebrow": "MADE BY HAND / LISBON",
+                        "title": "Come in. Stay curious.",
+                        "description": "Three independent spaces for books, beautiful objects and a well-made cup. Explore these illustrative locations, then make the map your own.",
+                        "locations": [
+                            {
+                                "_id": "sl-place-0",
+                                "name": "Chapter & Canal",
+                                "address": "Príncipe Real · Lisbon — Illustrative location",
+                                "latitude": "38.714",
+                                "longitude": "-9.148",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/store-locator/canal-books.webp"
+                                }
+                            },
+                            {
+                                "_id": "sl-place-1",
+                                "name": "Atelier Terra",
+                                "address": "Bairro Alto · Lisbon — Illustrative location",
+                                "latitude": "38.709",
+                                "longitude": "-9.149",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/store-locator/clay-studio.webp"
+                                }
+                            },
+                            {
+                                "_id": "sl-place-2",
+                                "name": "Morning Corner",
+                                "address": "Alfama · Lisbon — Illustrative location",
+                                "latitude": "38.711",
+                                "longitude": "-9.133",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/store-locator/corner-coffee.webp"
+                                }
+                            }
+                        ],
+                        "location_view": "image-strip",
+                        "sidebar_position": "bottom",
+                        "search_placeholder": "Find a neighborhood…",
+                        "show_location_links": "yes",
+                        "location_link_label": "View on map",
+                        "map_height": {
+                            "size": 300,
+                            "unit": "px"
+                        },
+                        "map_height_mobile": {
+                            "size": 360,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "sidebar_width": {
+                            "size": 400,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "sidebar_padding": {
+                            "top": "28",
+                            "right": "28",
+                            "bottom": "28",
+                            "left": "28",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "sidebar_padding_mobile": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "layout_gap": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 34,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 27,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_line_height": {
+                            "size": 1.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "title_color": "#86533C",
+                        "text_color": "#86533C",
+                        "eyebrow_color": "#86533C",
+                        "item_name_color": "#86533C",
+                        "item_address_color": "#86533C",
+                        "sl_link_color": "#86533C",
+                        "sl_link_hover_color": "#86533C",
+                        "sl_accent": "#86533C",
+                        "sl_focus": "#86533C",
+                        "sl_current_name_color": "#86533C",
+                        "sl_current_address_color": "#86533C",
+                        "selector_label_color": "#86533C",
+                        "selector_text_color": "#86533C",
+                        "search_text_color": "#86533C",
+                        "search_placeholder_color": "#86533C",
+                        "sl_button_ink": "#86533C",
+                        "sl_button_hover_ink": "#86533C",
+                        "marker_color": "#86533C",
+                        "scroll_wheel": "",
+                        "initial_view": "fit",
+                        "image_picker_size": {
+                            "size": 180,
+                            "unit": "px"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-store-locator-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Store Locator - Studio",
+    "type": "section"
+}

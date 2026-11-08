@@ -4319,6 +4319,78 @@
       ],
       "file": "widgets/simple-animated-menu-split-pro.json",
       "thumbnail": "screenshots/simple-animated-menu-split-pro.webp"
+    },
+    {
+      "id": "store-locator-folio-pro",
+      "title": "Store Locator - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Store Locator",
+        "Maps",
+        "Locations"
+      ],
+      "file": "widgets/store-locator-folio-pro.json",
+      "thumbnail": "screenshots/store-locator-folio-pro.webp"
+    },
+    {
+      "id": "store-locator-still-pro",
+      "title": "Store Locator - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Store Locator",
+        "Maps",
+        "Locations"
+      ],
+      "file": "widgets/store-locator-still-pro.json",
+      "thumbnail": "screenshots/store-locator-still-pro.webp"
+    },
+    {
+      "id": "store-locator-prism-pro",
+      "title": "Store Locator - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Store Locator",
+        "Maps",
+        "Locations"
+      ],
+      "file": "widgets/store-locator-prism-pro.json",
+      "thumbnail": "screenshots/store-locator-prism-pro.webp"
+    },
+    {
+      "id": "store-locator-nocturne-pro",
+      "title": "Store Locator - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Store Locator",
+        "Maps",
+        "Locations"
+      ],
+      "file": "widgets/store-locator-nocturne-pro.json",
+      "thumbnail": "screenshots/store-locator-nocturne-pro.webp"
+    },
+    {
+      "id": "store-locator-trace-pro",
+      "title": "Store Locator - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Store Locator",
+        "Maps",
+        "Locations"
+      ],
+      "file": "widgets/store-locator-trace-pro.json",
+      "thumbnail": "screenshots/store-locator-trace-pro.webp"
+    },
+    {
+      "id": "store-locator-studio-pro",
+      "title": "Store Locator - Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Store Locator",
+        "Maps",
+        "Locations"
+      ],
+      "file": "widgets/store-locator-studio-pro.json",
+      "thumbnail": "screenshots/store-locator-studio-pro.webp"
     }
   ]
 }

@@ -1,0 +1,165 @@
+{
+    "content": [
+        {
+            "id": "6e42f32",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "41711692",
+                    "settings": {
+                        "design_skin": "glass",
+                        "eyebrow": "LOCAL CONNECTIONS / AMSTERDAM",
+                        "title": "Meet us around the corner",
+                        "description": "Three independent spaces for books, beautiful objects and a well-made cup. Explore these illustrative locations, then make the map your own.",
+                        "locations": [
+                            {
+                                "_id": "sl-place-0",
+                                "name": "Chapter & Canal",
+                                "address": "Jordaan · Amsterdam — Illustrative location",
+                                "latitude": "52.373",
+                                "longitude": "4.882",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/store-locator/canal-books.webp"
+                                }
+                            },
+                            {
+                                "_id": "sl-place-1",
+                                "name": "Atelier Terra",
+                                "address": "De Pijp · Amsterdam — Illustrative location",
+                                "latitude": "52.355",
+                                "longitude": "4.892",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/store-locator/clay-studio.webp"
+                                }
+                            },
+                            {
+                                "_id": "sl-place-2",
+                                "name": "Morning Corner",
+                                "address": "Oost · Amsterdam — Illustrative location",
+                                "latitude": "52.361",
+                                "longitude": "4.921",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/store-locator/corner-coffee.webp"
+                                }
+                            }
+                        ],
+                        "location_view": "image-grid",
+                        "sidebar_position": "top",
+                        "search_placeholder": "Find a neighborhood…",
+                        "show_location_links": "yes",
+                        "location_link_label": "View on map",
+                        "map_height": {
+                            "size": 360,
+                            "unit": "px"
+                        },
+                        "map_height_mobile": {
+                            "size": 360,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "sidebar_width": {
+                            "size": 400,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "sidebar_padding": {
+                            "top": "28",
+                            "right": "28",
+                            "bottom": "28",
+                            "left": "28",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "sidebar_padding_mobile": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "layout_gap": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 34,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 27,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_line_height": {
+                            "size": 1.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "title_color": "#4C5C84",
+                        "text_color": "#4C5C84",
+                        "eyebrow_color": "#4C5C84",
+                        "item_name_color": "#FFFFFF",
+                        "item_address_color": "#4C5C84",
+                        "sl_link_color": "#4C5C84",
+                        "sl_link_hover_color": "#4C5C84",
+                        "sl_accent": "#4C5C84",
+                        "sl_focus": "#4C5C84",
+                        "sl_current_name_color": "#4C5C84",
+                        "sl_current_address_color": "#4C5C84",
+                        "selector_label_color": "#4C5C84",
+                        "selector_text_color": "#4C5C84",
+                        "search_text_color": "#4C5C84",
+                        "search_placeholder_color": "#4C5C84",
+                        "sl_button_ink": "#4C5C84",
+                        "sl_button_hover_ink": "#4C5C84",
+                        "marker_color": "#4C5C84",
+                        "scroll_wheel": "",
+                        "initial_view": "fit",
+                        "sl_image_columns": {
+                            "size": 3,
+                            "unit": "px"
+                        },
+                        "sl_image_columns_mobile": {
+                            "size": 1,
+                            "unit": "px"
+                        },
+                        "image_picker_label_color": "#FFFFFF"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-store-locator-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Store Locator - Prism",
+    "type": "section"
+}
