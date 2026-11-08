@@ -1,0 +1,307 @@
+{
+    "content": [
+        {
+            "id": "22a22520",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "2465b15e",
+                    "settings": {
+                        "design_skin": "outline",
+                        "layout_style": "media-right",
+                        "stage_density": "balanced",
+                        "card_layout_mode": "stacked",
+                        "eyebrow": "FIELD GUIDE / VOLUME 04",
+                        "title": "Follow a clearer course.",
+                        "description": "Practical observations for purposeful journeys, gathered one coastline and conversation at a time.",
+                        "primary_button_text": "Open the field guide",
+                        "primary_button_url": {
+                            "url": "https://example.com/",
+                            "is_external": "yes",
+                            "nofollow": "yes",
+                            "custom_attributes": "data-calio-story|native"
+                        },
+                        "secondary_button_text": "Browse the archive",
+                        "secondary_button_url": {
+                            "url": "https://example.com/",
+                            "is_external": "yes",
+                            "nofollow": "yes",
+                            "custom_attributes": ""
+                        },
+                        "stage_image": {
+                            "id": 0,
+                            "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/narrative-layers/coast.webp"
+                        },
+                        "stage_image_alt": "Weathered red boat beside a quiet Atlantic cove",
+                        "show_stage_image": "yes",
+                        "story_cards": [
+                            {
+                                "_id": "nl-first",
+                                "card_kicker": "On the shoreline",
+                                "card_title": "A place to begin again.",
+                                "card_description": "Careful observation turns a familiar landscape into an entirely new perspective."
+                            },
+                            {
+                                "_id": "nl-next",
+                                "card_kicker": "The next chapter",
+                                "card_title": "Small details. Lasting impressions.",
+                                "card_description": "Look closer, ask another question and find something worth sharing."
+                            }
+                        ],
+                        "metrics": [
+                            {
+                                "_id": "nl-one",
+                                "metric_value": "12",
+                                "metric_suffix": "",
+                                "metric_label": "Years of exploration"
+                            },
+                            {
+                                "_id": "nl-two",
+                                "metric_value": "36",
+                                "metric_suffix": "",
+                                "metric_label": "Stories and field notes"
+                            }
+                        ],
+                        "enable_scroll_story": "yes",
+                        "enable_scene_pin": "",
+                        "animation_once": "yes",
+                        "title_animation_mode": "words",
+                        "motion_duration": 0.7,
+                        "motion_stagger": 0.04,
+                        "motion_offset": 24,
+                        "parallax_strength": 12,
+                        "metric_animation_mode": "count_up",
+                        "show_motion_controls": "yes",
+                        "scene_background_background": "classic",
+                        "scene_background_color": "#E6EEF2",
+                        "palette_text_color": "#33566C",
+                        "palette_muted_color": "#70766F",
+                        "palette_accent_color": "#5A889D",
+                        "scene_padding": {
+                            "top": "32",
+                            "right": "32",
+                            "bottom": "32",
+                            "left": "32",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "scene_padding_mobile": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "scene_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "scene_content_gap": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "scene_stage_min_height": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_color": "#33566C",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 44,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 31,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_line_height": {
+                            "size": 1.08,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "desc_color": "#70766F",
+                        "desc_typography_typography": "custom",
+                        "desc_typography_font_family": "Arial",
+                        "desc_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "desc_typography_line_height": {
+                            "size": 1.65,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "narrative_eyebrow_color": "#5A889D",
+                        "narrative_eyebrow_typography_typography": "custom",
+                        "narrative_eyebrow_typography_font_family": "Arial",
+                        "narrative_eyebrow_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "narrative_eyebrow_padding": {
+                            "top": "7",
+                            "right": "10",
+                            "bottom": "7",
+                            "left": "10",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "narrative_eyebrow_background_background": "classic",
+                        "narrative_eyebrow_background_color": "#FFFFFF55",
+                        "nlp_media_ratio": 1.55,
+                        "nlp_media_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_kicker_color": "#5A889D",
+                        "card_title_color": "#33566C",
+                        "card_desc_color": "#70766F",
+                        "card_title_typography_typography": "custom",
+                        "card_title_typography_font_family": "Arial",
+                        "card_title_typography_font_size": {
+                            "size": 17,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_desc_typography_typography": "custom",
+                        "card_desc_typography_font_family": "Arial",
+                        "card_desc_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "card_padding": {
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_radius": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "narrative_card_background_normal_background": "classic",
+                        "narrative_card_background_normal_color": "#FFFFFF88",
+                        "metric_value_color": "#33566C",
+                        "metric_label_color": "#70766F",
+                        "metric_value_typography_typography": "custom",
+                        "metric_value_typography_font_family": "Arial",
+                        "metric_value_typography_font_size": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "metric_label_typography_typography": "custom",
+                        "metric_label_typography_font_family": "Arial",
+                        "metric_label_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "metric_padding": {
+                            "top": "12",
+                            "right": "12",
+                            "bottom": "12",
+                            "left": "12",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "narrative_metric_background_normal_background": "classic",
+                        "narrative_metric_background_normal_color": "#FFFFFF88",
+                        "nlp_controls_ink": "#33566C",
+                        "narrative_primary_button_style_typography_typography": "custom",
+                        "narrative_primary_button_style_typography_font_family": "Arial",
+                        "narrative_primary_button_style_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "narrative_primary_button_style_padding": {
+                            "top": "13",
+                            "right": "18",
+                            "bottom": "13",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "narrative_primary_button_style_radius": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "narrative_primary_button_style_text_color_normal": "#FFFFFF",
+                        "narrative_primary_button_style_background_normal_background": "classic",
+                        "narrative_primary_button_style_background_normal_color": "#5A889D",
+                        "narrative_secondary_button_style_typography_typography": "custom",
+                        "narrative_secondary_button_style_typography_font_family": "Arial",
+                        "narrative_secondary_button_style_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "narrative_secondary_button_style_padding": {
+                            "top": "13",
+                            "right": "18",
+                            "bottom": "13",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "narrative_secondary_button_style_radius": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "narrative_secondary_button_style_text_color_normal": "#33566C",
+                        "narrative_secondary_button_style_background_normal_background": "classic",
+                        "narrative_secondary_button_style_background_normal_color": "#FFFFFF66"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-narrative-layers-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Narrative Layers - Trace",
+    "type": "section"
+}

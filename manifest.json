@@ -4031,6 +4031,78 @@
       ],
       "file": "widgets/motion-spotlight-studio-pro.json",
       "thumbnail": "screenshots/motion-spotlight-studio-pro.webp"
+    },
+    {
+      "id": "narrative-layers-folio-pro",
+      "title": "Narrative Layers - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Narrative Layers",
+        "Hero",
+        "Story"
+      ],
+      "file": "widgets/narrative-layers-folio-pro.json",
+      "thumbnail": "screenshots/narrative-layers-folio-pro.webp"
+    },
+    {
+      "id": "narrative-layers-still-pro",
+      "title": "Narrative Layers - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Narrative Layers",
+        "Hero",
+        "Story"
+      ],
+      "file": "widgets/narrative-layers-still-pro.json",
+      "thumbnail": "screenshots/narrative-layers-still-pro.webp"
+    },
+    {
+      "id": "narrative-layers-prism-pro",
+      "title": "Narrative Layers - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Narrative Layers",
+        "Hero",
+        "Story"
+      ],
+      "file": "widgets/narrative-layers-prism-pro.json",
+      "thumbnail": "screenshots/narrative-layers-prism-pro.webp"
+    },
+    {
+      "id": "narrative-layers-nocturne-pro",
+      "title": "Narrative Layers - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Narrative Layers",
+        "Hero",
+        "Story"
+      ],
+      "file": "widgets/narrative-layers-nocturne-pro.json",
+      "thumbnail": "screenshots/narrative-layers-nocturne-pro.webp"
+    },
+    {
+      "id": "narrative-layers-trace-pro",
+      "title": "Narrative Layers - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Narrative Layers",
+        "Hero",
+        "Story"
+      ],
+      "file": "widgets/narrative-layers-trace-pro.json",
+      "thumbnail": "screenshots/narrative-layers-trace-pro.webp"
+    },
+    {
+      "id": "narrative-layers-chapter-pro",
+      "title": "Narrative Layers - Chapter / Pro",
+      "type": "widgets",
+      "categories": [
+        "Narrative Layers",
+        "Hero",
+        "Story"
+      ],
+      "file": "widgets/narrative-layers-chapter-pro.json",
+      "thumbnail": "screenshots/narrative-layers-chapter-pro.webp"
     }
   ]
 }
