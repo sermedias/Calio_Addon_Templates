@@ -1,0 +1,215 @@
+{
+    "content": [
+        {
+            "id": "25f6b79d",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "37e77788",
+                    "settings": {
+                        "design_skin": "minimal",
+                        "sections": [
+                            {
+                                "_id": "story-1",
+                                "section_text": "A little space to breathe.",
+                                "section_kicker": "STILL / EVERYDAY BALANCE",
+                                "section_link_text": "Explore the story",
+                                "section_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-calio-story|native"
+                                }
+                            },
+                            {
+                                "_id": "story-2",
+                                "section_text": "Find your own rhythm.",
+                                "section_kicker": "CHAPTER 02 / THE NEXT THOUGHT",
+                                "section_link_text": "Find your perspective",
+                                "section_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-calio-story|native"
+                                }
+                            },
+                            {
+                                "_id": "story-3",
+                                "section_text": "Keep the good things close.",
+                                "section_kicker": "CHAPTER 03 / THE NEXT THOUGHT",
+                                "section_link_text": "Discover more",
+                                "section_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-calio-story|native"
+                                }
+                            },
+                            {
+                                "_id": "story-4",
+                                "section_text": "Begin again, every morning.",
+                                "section_kicker": "CHAPTER 04 / THE NEXT THOUGHT",
+                                "section_link_text": "Start your next chapter",
+                                "section_link": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-calio-story|native"
+                                }
+                            }
+                        ],
+                        "pin_scene": "",
+                        "snap_sections": "yes",
+                        "pin_anchor": "center",
+                        "pin_distance": 1.2,
+                        "scrub_smoothing": 0.45,
+                        "transition_duration": 0.9,
+                        "transition_ease": "power3.out",
+                        "show_navigation": "yes",
+                        "show_motion_controls": "yes",
+                        "dim_previous": "yes",
+                        "previous_scale": 0.94,
+                        "section_height": {
+                            "size": 560,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "section_height_mobile": {
+                            "size": 540,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "panel_width": {
+                            "size": 82,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "panel_width_mobile": {
+                            "size": 92,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "panel_radius": {
+                            "size": 0,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "scene_padding": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "scene_padding_mobile": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "scene_overlay": "rgba(0,0,0,0)",
+                        "text_color": "#46634D",
+                        "text_align": "left",
+                        "text_typography_typography": "custom",
+                        "text_typography_font_family": "Arial",
+                        "text_typography_font_size": {
+                            "size": 52,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "text_typography_font_size_mobile": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "text_typography_font_weight": "400",
+                        "text_typography_line_height": {
+                            "size": 1.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "text_typography_letter_spacing": {
+                            "size": -1.6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "text_typography_letter_spacing_mobile": {
+                            "size": -0.7,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "st_panel_padding": {
+                            "top": "50",
+                            "right": "54",
+                            "bottom": "50",
+                            "left": "54",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "st_panel_padding_mobile": {
+                            "top": "32",
+                            "right": "24",
+                            "bottom": "32",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "st_accent": "#46634D",
+                        "st_focus_color": "#46634D",
+                        "st_kicker_color": "#46634D",
+                        "st_link_color": "#46634D",
+                        "st_controls_ink": "#46634D",
+                        "st_controls_hover_ink": "#46634D",
+                        "st_link_hover_ink": "#46634D",
+                        "st_controls_surface_paint_mode": "classic",
+                        "st_controls_surface_color": "#FFFFFF66",
+                        "st_controls_hover_surface_paint_mode": "classic",
+                        "st_controls_hover_surface_color": "#FFFFFFCC",
+                        "st_link_surface_paint_mode": "classic",
+                        "st_link_surface_color": "#FFFFFF44",
+                        "st_kicker_typography_typography": "custom",
+                        "st_kicker_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "st_link_typography_typography": "custom",
+                        "st_link_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-scrolling-transition-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Scrolling Transition - Still",
+    "type": "section"
+}

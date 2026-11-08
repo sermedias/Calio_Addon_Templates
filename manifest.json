@@ -4175,6 +4175,78 @@
       ],
       "file": "widgets/product-showcase-slider-studio-pro.json",
       "thumbnail": "screenshots/product-showcase-slider-studio-pro.webp"
+    },
+    {
+      "id": "scrolling-transition-folio-pro",
+      "title": "Scrolling Transition - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Scrolling Transition",
+        "Storytelling",
+        "Text"
+      ],
+      "file": "widgets/scrolling-transition-folio-pro.json",
+      "thumbnail": "screenshots/scrolling-transition-folio-pro.webp"
+    },
+    {
+      "id": "scrolling-transition-still-pro",
+      "title": "Scrolling Transition - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Scrolling Transition",
+        "Storytelling",
+        "Text"
+      ],
+      "file": "widgets/scrolling-transition-still-pro.json",
+      "thumbnail": "screenshots/scrolling-transition-still-pro.webp"
+    },
+    {
+      "id": "scrolling-transition-prism-pro",
+      "title": "Scrolling Transition - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Scrolling Transition",
+        "Storytelling",
+        "Text"
+      ],
+      "file": "widgets/scrolling-transition-prism-pro.json",
+      "thumbnail": "screenshots/scrolling-transition-prism-pro.webp"
+    },
+    {
+      "id": "scrolling-transition-nocturne-pro",
+      "title": "Scrolling Transition - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Scrolling Transition",
+        "Storytelling",
+        "Text"
+      ],
+      "file": "widgets/scrolling-transition-nocturne-pro.json",
+      "thumbnail": "screenshots/scrolling-transition-nocturne-pro.webp"
+    },
+    {
+      "id": "scrolling-transition-trace-pro",
+      "title": "Scrolling Transition - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Scrolling Transition",
+        "Storytelling",
+        "Text"
+      ],
+      "file": "widgets/scrolling-transition-trace-pro.json",
+      "thumbnail": "screenshots/scrolling-transition-trace-pro.webp"
+    },
+    {
+      "id": "scrolling-transition-chapter-pro",
+      "title": "Scrolling Transition - Chapter / Pro",
+      "type": "widgets",
+      "categories": [
+        "Scrolling Transition",
+        "Storytelling",
+        "Text"
+      ],
+      "file": "widgets/scrolling-transition-chapter-pro.json",
+      "thumbnail": "screenshots/scrolling-transition-chapter-pro.webp"
     }
   ]
 }
