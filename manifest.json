@@ -4247,6 +4247,78 @@
       ],
       "file": "widgets/scrolling-transition-chapter-pro.json",
       "thumbnail": "screenshots/scrolling-transition-chapter-pro.webp"
+    },
+    {
+      "id": "simple-animated-menu-folio-pro",
+      "title": "Simple Animated Menu - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Simple Animated Menu",
+        "Navigation",
+        "Menu"
+      ],
+      "file": "widgets/simple-animated-menu-folio-pro.json",
+      "thumbnail": "screenshots/simple-animated-menu-folio-pro.webp"
+    },
+    {
+      "id": "simple-animated-menu-still-pro",
+      "title": "Simple Animated Menu - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Simple Animated Menu",
+        "Navigation",
+        "Menu"
+      ],
+      "file": "widgets/simple-animated-menu-still-pro.json",
+      "thumbnail": "screenshots/simple-animated-menu-still-pro.webp"
+    },
+    {
+      "id": "simple-animated-menu-prism-pro",
+      "title": "Simple Animated Menu - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Simple Animated Menu",
+        "Navigation",
+        "Menu"
+      ],
+      "file": "widgets/simple-animated-menu-prism-pro.json",
+      "thumbnail": "screenshots/simple-animated-menu-prism-pro.webp"
+    },
+    {
+      "id": "simple-animated-menu-nocturne-pro",
+      "title": "Simple Animated Menu - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Simple Animated Menu",
+        "Navigation",
+        "Menu"
+      ],
+      "file": "widgets/simple-animated-menu-nocturne-pro.json",
+      "thumbnail": "screenshots/simple-animated-menu-nocturne-pro.webp"
+    },
+    {
+      "id": "simple-animated-menu-trace-pro",
+      "title": "Simple Animated Menu - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Simple Animated Menu",
+        "Navigation",
+        "Menu"
+      ],
+      "file": "widgets/simple-animated-menu-trace-pro.json",
+      "thumbnail": "screenshots/simple-animated-menu-trace-pro.webp"
+    },
+    {
+      "id": "simple-animated-menu-split-pro",
+      "title": "Simple Animated Menu - Split / Pro",
+      "type": "widgets",
+      "categories": [
+        "Simple Animated Menu",
+        "Navigation",
+        "Menu"
+      ],
+      "file": "widgets/simple-animated-menu-split-pro.json",
+      "thumbnail": "screenshots/simple-animated-menu-split-pro.webp"
     }
   ]
 }
