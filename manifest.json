@@ -4103,6 +4103,78 @@
       ],
       "file": "widgets/narrative-layers-chapter-pro.json",
       "thumbnail": "screenshots/narrative-layers-chapter-pro.webp"
+    },
+    {
+      "id": "product-showcase-slider-folio-pro",
+      "title": "Product Showcase Slider - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Product Showcase Slider",
+        "Products",
+        "Slider"
+      ],
+      "file": "widgets/product-showcase-slider-folio-pro.json",
+      "thumbnail": "screenshots/product-showcase-slider-folio-pro.webp"
+    },
+    {
+      "id": "product-showcase-slider-still-pro",
+      "title": "Product Showcase Slider - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Product Showcase Slider",
+        "Products",
+        "Slider"
+      ],
+      "file": "widgets/product-showcase-slider-still-pro.json",
+      "thumbnail": "screenshots/product-showcase-slider-still-pro.webp"
+    },
+    {
+      "id": "product-showcase-slider-prism-pro",
+      "title": "Product Showcase Slider - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Product Showcase Slider",
+        "Products",
+        "Slider"
+      ],
+      "file": "widgets/product-showcase-slider-prism-pro.json",
+      "thumbnail": "screenshots/product-showcase-slider-prism-pro.webp"
+    },
+    {
+      "id": "product-showcase-slider-nocturne-pro",
+      "title": "Product Showcase Slider - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Product Showcase Slider",
+        "Products",
+        "Slider"
+      ],
+      "file": "widgets/product-showcase-slider-nocturne-pro.json",
+      "thumbnail": "screenshots/product-showcase-slider-nocturne-pro.webp"
+    },
+    {
+      "id": "product-showcase-slider-trace-pro",
+      "title": "Product Showcase Slider - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Product Showcase Slider",
+        "Products",
+        "Slider"
+      ],
+      "file": "widgets/product-showcase-slider-trace-pro.json",
+      "thumbnail": "screenshots/product-showcase-slider-trace-pro.webp"
+    },
+    {
+      "id": "product-showcase-slider-studio-pro",
+      "title": "Product Showcase Slider - Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Product Showcase Slider",
+        "Products",
+        "Slider"
+      ],
+      "file": "widgets/product-showcase-slider-studio-pro.json",
+      "thumbnail": "screenshots/product-showcase-slider-studio-pro.webp"
     }
   ]
 }

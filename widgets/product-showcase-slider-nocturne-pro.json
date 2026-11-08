@@ -1,0 +1,406 @@
+{
+    "content": [
+        {
+            "id": "2f4748eb",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "29d2b967",
+                    "settings": {
+                        "design_skin": "contrast",
+                        "logo_text": "LUMEN / AFTER THE LAST LIGHT",
+                        "show_logo": "yes",
+                        "can_image": {
+                            "id": 0,
+                            "url": ""
+                        },
+                        "label_strip_image": {
+                            "id": 0,
+                            "url": ""
+                        },
+                        "product_clip_mode": "none",
+                        "custom_mask_image": {
+                            "id": 0,
+                            "url": ""
+                        },
+                        "showcase_items": [
+                            {
+                                "_id": "psc-product-0",
+                                "item_title": "Lumen",
+                                "item_description": "A warm pool of light, a sculptural silhouette and a little more room to slow down.",
+                                "item_image_alt": "Olive-green sculptural table lamp",
+                                "item_action_text": "Explore the light",
+                                "item_action_url": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-calio-product|native"
+                                },
+                                "item_background": "#183239",
+                                "item_accent": "#DCE6AB",
+                                "item_product_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/product-showcase-slider/lamp.webp"
+                                },
+                                "item_overlay_color": "rgba(255,255,255,0)",
+                                "item_overlay_opacity": 0,
+                                "item_label_offset": {
+                                    "size": 0,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_label_width": {
+                                    "size": 100,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_label_y_offset": {
+                                    "size": 0,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_overlay_scale": {
+                                    "size": 1,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_overlay_rotate": {
+                                    "size": 0,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "decor_image_one": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "decor_image_two": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "decor_image_three": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "decor_image_four": {
+                                    "id": 0,
+                                    "url": ""
+                                }
+                            },
+                            {
+                                "_id": "psc-product-1",
+                                "item_title": "Roam",
+                                "item_description": "Rich sound, thoughtful details and a soft carry handle. Made to go where the day takes you.",
+                                "item_image_alt": "Rust-orange portable fabric speaker",
+                                "item_action_text": "Meet your next soundtrack",
+                                "item_action_url": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-calio-product|native"
+                                },
+                                "item_background": "#253D43",
+                                "item_accent": "#DCE6AB",
+                                "item_product_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/product-showcase-slider/speaker.webp"
+                                },
+                                "item_overlay_color": "rgba(255,255,255,0)",
+                                "item_overlay_opacity": 0,
+                                "item_label_offset": {
+                                    "size": 0,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_label_width": {
+                                    "size": 100,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_label_y_offset": {
+                                    "size": 0,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_overlay_scale": {
+                                    "size": 1,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_overlay_rotate": {
+                                    "size": 0,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "decor_image_one": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "decor_image_two": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "decor_image_three": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "decor_image_four": {
+                                    "id": 0,
+                                    "url": ""
+                                }
+                            },
+                            {
+                                "_id": "psc-product-2",
+                                "item_title": "Daily",
+                                "item_description": "A considered essential for the small rituals that make an ordinary day feel a little better.",
+                                "item_image_alt": "Amber glass skincare pump bottle",
+                                "item_action_text": "Discover the essentials",
+                                "item_action_url": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-calio-product|native"
+                                },
+                                "item_background": "#324D47",
+                                "item_accent": "#DCE6AB",
+                                "item_product_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/product-showcase-slider/bottle.webp"
+                                },
+                                "item_overlay_color": "rgba(255,255,255,0)",
+                                "item_overlay_opacity": 0,
+                                "item_label_offset": {
+                                    "size": 0,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_label_width": {
+                                    "size": 100,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_label_y_offset": {
+                                    "size": 0,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_overlay_scale": {
+                                    "size": 1,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "item_overlay_rotate": {
+                                    "size": 0,
+                                    "unit": "px",
+                                    "sizes": []
+                                },
+                                "decor_image_one": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "decor_image_two": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "decor_image_three": {
+                                    "id": 0,
+                                    "url": ""
+                                },
+                                "decor_image_four": {
+                                    "id": 0,
+                                    "url": ""
+                                }
+                            }
+                        ],
+                        "loop_slider": "yes",
+                        "show_navigation": "yes",
+                        "show_slide_selectors": "yes",
+                        "show_motion_controls": "yes",
+                        "show_wave": "",
+                        "float_motion": "yes",
+                        "transition_duration": 650,
+                        "transition_ease": "power3.inOut",
+                        "initial_slide": 1,
+                        "stage_height": {
+                            "size": 700,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_mobile": {
+                            "size": 660,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "can_width": {
+                            "size": 520,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "can_width_mobile": {
+                            "size": 350,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "scene_radius": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "nav_size": {
+                            "size": 44,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "nav_side_offset": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "nav_side_offset_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "nav_bg": "#FFFFFF14",
+                        "nav_color": "#EAF0DD",
+                        "nav_bg_hover": "#FFFFFF22",
+                        "nav_color_hover": "#EAF0DD",
+                        "logo_typography_typography": "custom",
+                        "logo_typography_font_family": "Arial",
+                        "logo_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_color": "#FFFFFF22",
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Arial",
+                        "title_typography_font_size": {
+                            "size": 180,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_size_mobile": {
+                            "size": 86,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_font_weight": "700",
+                        "title_typography_letter_spacing": {
+                            "size": -6,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "title_typography_letter_spacing_mobile": {
+                            "size": -3,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "psc_heading_color": "#EAF0DD",
+                        "psc_description_color": "#EAF0DD",
+                        "psc_action_color": "#EAF0DD",
+                        "psc_heading_typography_typography": "custom",
+                        "psc_heading_typography_font_family": "Arial",
+                        "psc_heading_typography_font_size": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "psc_description_typography_typography": "custom",
+                        "psc_description_typography_font_family": "Arial",
+                        "psc_description_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "psc_controls_ink": "#EAF0DD",
+                        "psc_details_width": {
+                            "size": 360,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "psc_details_width_mobile": {
+                            "size": 100,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "psc_details_padding": {
+                            "top": "18",
+                            "right": "18",
+                            "bottom": "18",
+                            "left": "18",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "psc_details_padding_mobile": {
+                            "top": "14",
+                            "right": "14",
+                            "bottom": "14",
+                            "left": "14",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "psc_action_surface_paint_mode": "classic",
+                        "psc_action_surface_color": "#FFFFFF12",
+                        "psc_controls_surface_paint_mode": "classic",
+                        "psc_controls_surface_color": "#FFFFFF12",
+                        "psc_controls_hover_surface_paint_mode": "classic",
+                        "psc_controls_hover_surface_color": "#FFFFFF26"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-product-showcase-slider-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": {
+        "ep_grid_line_enable": "",
+        "ep_grid_line_line_color": "",
+        "ep_grid_line_column_color": "",
+        "ep_grid_line_columns": "",
+        "ep_grid_line_outline": "",
+        "ep_grid_line_max_width": {
+            "unit": "px",
+            "size": "",
+            "sizes": []
+        },
+        "ep_grid_line_line_width": {
+            "unit": "px",
+            "size": 1,
+            "sizes": []
+        },
+        "ep_grid_line_direction": {
+            "unit": "px",
+            "size": "",
+            "sizes": []
+        },
+        "ep_grid_line_z_index": "",
+        "ep_grid_line_output": "1",
+        "ep_grid_line_horizontal": "",
+        "ep_grid_line_horizontal_output": "1"
+    },
+    "version": "0.4",
+    "title": "Product Showcase Slider - Nocturne",
+    "type": "section"
+}
