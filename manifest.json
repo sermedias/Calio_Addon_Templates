@@ -4391,6 +4391,78 @@
       ],
       "file": "widgets/store-locator-studio-pro.json",
       "thumbnail": "screenshots/store-locator-studio-pro.webp"
+    },
+    {
+      "id": "team-showcase-folio-pro",
+      "title": "Team Showcase - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Team Showcase",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/team-showcase-folio-pro.json",
+      "thumbnail": "screenshots/team-showcase-folio-pro.webp"
+    },
+    {
+      "id": "team-showcase-still-pro",
+      "title": "Team Showcase - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Team Showcase",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/team-showcase-still-pro.json",
+      "thumbnail": "screenshots/team-showcase-still-pro.webp"
+    },
+    {
+      "id": "team-showcase-prism-pro",
+      "title": "Team Showcase - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Team Showcase",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/team-showcase-prism-pro.json",
+      "thumbnail": "screenshots/team-showcase-prism-pro.webp"
+    },
+    {
+      "id": "team-showcase-nocturne-pro",
+      "title": "Team Showcase - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Team Showcase",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/team-showcase-nocturne-pro.json",
+      "thumbnail": "screenshots/team-showcase-nocturne-pro.webp"
+    },
+    {
+      "id": "team-showcase-trace-pro",
+      "title": "Team Showcase - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Team Showcase",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/team-showcase-trace-pro.json",
+      "thumbnail": "screenshots/team-showcase-trace-pro.webp"
+    },
+    {
+      "id": "team-showcase-studio-pro",
+      "title": "Team Showcase - Studio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Team Showcase",
+        "Team",
+        "People"
+      ],
+      "file": "widgets/team-showcase-studio-pro.json",
+      "thumbnail": "screenshots/team-showcase-studio-pro.webp"
     }
   ]
 }

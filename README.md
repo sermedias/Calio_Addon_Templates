@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 324 editable designs across 54 widget families (150 Free and 174 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 330 editable designs across 55 widget families (150 Free and 180 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -387,3 +387,7 @@ Folio, Still, Prism, Nocturne, Trace and Split each contain one editable native 
 ### Store Locator / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Studio each contain one editable native Store Locator Pro widget. Three illustrative locations, original storefront photographs, coordinates, searchable cards, native map links, map loading, responsive layout and independent paint remain editable. Uses the bundled Leaflet map with visible OpenStreetMap attribution.
+
+### Team Showcase / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Studio each contain one editable native Team Showcase Pro widget. Original fictional portraits, names, roles, biographies, native profile/social links, optional intro, responsive layout and independent paint remain editable.

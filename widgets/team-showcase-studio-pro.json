@@ -1,0 +1,339 @@
+{
+    "content": [
+        {
+            "id": "594e6739",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1eb40831",
+                    "settings": {
+                        "design_skin": "studio",
+                        "members": [
+                            {
+                                "_id": "ts-person-0",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/team-showcase/mira.webp"
+                                },
+                                "image_alt": "Fictional portrait of Mira, architect in a terracotta shirt",
+                                "name": "Mira Solis",
+                                "role": "Creative Director",
+                                "badge": "Founding Partner",
+                                "email": "",
+                                "location": "",
+                                "bio": "Builds thoughtful spaces and clear visual stories. Always curious about the details that make everyday life feel better.",
+                                "profile_url": {
+                                    "url": "https://example.com/team/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-profile|native"
+                                },
+                                "profile_button_text": "Meet Mira",
+                                "featured": "",
+                                "social_one": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_one_icon": {
+                                    "value": "fas fa-globe",
+                                    "library": "fa-solid"
+                                },
+                                "social_one_label": "Website",
+                                "social_two": {
+                                    "url": "https://example.com/work/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_two_icon": {
+                                    "value": "fas fa-briefcase",
+                                    "library": "fa-solid"
+                                },
+                                "social_two_label": "Selected work",
+                                "social_three": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_three_icon": {
+                                    "value": "fab fa-linkedin-in",
+                                    "library": "fa-brands"
+                                },
+                                "social_three_label": ""
+                            },
+                            {
+                                "_id": "ts-person-1",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/team-showcase/jonas.webp"
+                                },
+                                "image_alt": "Fictional portrait of Jonas, designer in an olive shirt",
+                                "name": "Jonas Reed",
+                                "role": "Design Partner",
+                                "badge": "Design & Strategy",
+                                "email": "",
+                                "location": "",
+                                "bio": "Brings strategy and craft together, helping ambitious ideas become useful, lasting experiences.",
+                                "profile_url": {
+                                    "url": "https://example.com/team/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-profile|native"
+                                },
+                                "profile_button_text": "Meet Jonas",
+                                "featured": "",
+                                "social_one": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_one_icon": {
+                                    "value": "fas fa-globe",
+                                    "library": "fa-solid"
+                                },
+                                "social_one_label": "Website",
+                                "social_two": {
+                                    "url": "https://example.com/work/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_two_icon": {
+                                    "value": "fas fa-briefcase",
+                                    "library": "fa-solid"
+                                },
+                                "social_two_label": "Selected work",
+                                "social_three": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_three_icon": {
+                                    "value": "fab fa-linkedin-in",
+                                    "library": "fa-brands"
+                                },
+                                "social_three_label": ""
+                            },
+                            {
+                                "_id": "ts-person-2",
+                                "image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/team-showcase/elin.webp"
+                                },
+                                "image_alt": "Fictional portrait of Elin, producer in a blue blouse",
+                                "name": "Elin Park",
+                                "role": "Studio Producer",
+                                "badge": "People & Projects",
+                                "email": "",
+                                "location": "",
+                                "bio": "Connects people, ideas and the small practical details that keep a good project moving forward.",
+                                "profile_url": {
+                                    "url": "https://example.com/team/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": "data-profile|native"
+                                },
+                                "profile_button_text": "Meet Elin",
+                                "featured": "",
+                                "social_one": {
+                                    "url": "https://example.com/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_one_icon": {
+                                    "value": "fas fa-globe",
+                                    "library": "fa-solid"
+                                },
+                                "social_one_label": "Website",
+                                "social_two": {
+                                    "url": "https://example.com/work/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                },
+                                "social_two_icon": {
+                                    "value": "fas fa-briefcase",
+                                    "library": "fa-solid"
+                                },
+                                "social_two_label": "Selected work",
+                                "social_three": {
+                                    "url": "",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "social_three_icon": {
+                                    "value": "fab fa-linkedin-in",
+                                    "library": "fa-brands"
+                                },
+                                "social_three_label": ""
+                            }
+                        ],
+                        "ts_intro_eyebrow": "A HUMAN KIND OF STUDIO",
+                        "ts_intro_title": "Made with care, by us.",
+                        "ts_intro_description": "A fictional team, ready for your own people, portraits and stories.",
+                        "columns": "3",
+                        "columns_tablet": "2",
+                        "columns_mobile": "1",
+                        "card_layout": "vertical",
+                        "horizontal_image_width": {
+                            "size": 30,
+                            "unit": "%",
+                            "sizes": []
+                        },
+                        "image_height": {
+                            "size": 190,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "image_height_mobile": {
+                            "size": 210,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "grid_gap": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "grid_gap_mobile": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "content_padding": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "content_gap": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "social_position": "content",
+                        "show_socials": "yes",
+                        "show_bio": "yes",
+                        "show_badge": "yes",
+                        "show_button": "yes",
+                        "show_featured_tag": "yes",
+                        "show_email": "",
+                        "show_location": "",
+                        "enable_tilt": "",
+                        "ts_tilt_strength": {
+                            "size": 4,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ts_accent": "#80563C",
+                        "ts_focus": "#80563C",
+                        "ts_intro_title_typography_typography": "custom",
+                        "ts_intro_title_typography_font_family": "Arial",
+                        "ts_intro_title_typography_font_size": {
+                            "size": 44,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ts_intro_title_typography_font_size_mobile": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ts_intro_title_typography_line_height": {
+                            "size": 1.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "ts_intro_title_color": "#80563C",
+                        "ts_intro_eyebrow_color": "#80563C",
+                        "ts_intro_description_color": "#80563C",
+                        "name_typography_typography": "custom",
+                        "name_typography_font_family": "Arial",
+                        "name_typography_font_size": {
+                            "size": 26,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "name_typography_line_height": {
+                            "size": 1.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "role_typography_typography": "custom",
+                        "role_typography_font_family": "Arial",
+                        "role_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "bio_typography_typography": "custom",
+                        "bio_typography_font_family": "Arial",
+                        "bio_typography_font_size": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "bio_typography_line_height": {
+                            "size": 1.65,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "social_color": "#80563C",
+                        "social_hover_color": "#80563C",
+                        "button_color": "#80563C",
+                        "button_hover_color": "#80563C",
+                        "button_typography_typography": "custom",
+                        "button_typography_font_family": "Arial",
+                        "button_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "button_typography_font_weight": "600",
+                        "bio_words": {
+                            "size": 40,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ts_image_position": "50% 35%",
+                        "content_alignment": "center"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-team-showcase-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Team Showcase - Studio",
+    "type": "section"
+}
