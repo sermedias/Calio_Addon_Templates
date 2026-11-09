@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 336 editable designs across 56 widget families (150 Free and 186 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 342 editable designs across 57 widget families (150 Free and 192 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -395,3 +395,7 @@ Folio, Still, Prism, Nocturne, Trace and Studio each contain one editable native
 ### Testimonial Grid / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Letter each contain one editable native Testimonial Grid Pro widget. Fictional sample reviews, native avatars, ratings, profile links, optional intro, responsive layout and independent paint remain editable.
+
+### Timed Slider / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Cinema each contain one editable native Timed Slider Pro widget. Three original imaginary architectural scenes, native slide links, image alternatives, large-stage and upcoming-card transitions, responsive typography and accessible timed playback remain editable.

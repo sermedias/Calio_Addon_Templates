@@ -1,0 +1,299 @@
+{
+    "content": [
+        {
+            "id": "2395b2c1",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "60b7478",
+                    "settings": {
+                        "design_skin": "contrast",
+                        "slides": [
+                            {
+                                "_id": "timed-story-0",
+                                "slide_place": "THE TIDAL HOUSE / AN IMAGINED ESCAPE",
+                                "slide_title_1": "Stillness",
+                                "slide_title_2": "by the sea.",
+                                "slide_description": "A quiet stone retreat where warm timber meets volcanic shore. An imaginary place to slow down, watch the water and let the day find its own rhythm.",
+                                "slide_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/timed-slider/tidal.webp"
+                                },
+                                "slide_image_alt": "Imaginary stone retreat beside a misty volcanic coast",
+                                "slide_button_label": "Explore the concept",
+                                "slide_button_url": {
+                                    "url": "https://example.com/retreats/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "timed-story-1",
+                                "slide_place": "THE CANOPY ROOM / AN IMAGINED ESCAPE",
+                                "slide_title_1": "A little",
+                                "slide_title_2": "closer to green.",
+                                "slide_description": "A glasshouse tucked beneath the fern canopy, with a well-worn chair and a shelf of unread stories. An imaginary hideaway for unhurried afternoons.",
+                                "slide_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/timed-slider/canopy.webp"
+                                },
+                                "slide_image_alt": "Imaginary glasshouse reading pavilion in a fern forest",
+                                "slide_button_label": "Explore the concept",
+                                "slide_button_url": {
+                                    "url": "https://example.com/retreats/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "timed-story-2",
+                                "slide_place": "THE MESA OBSERVATORY / AN IMAGINED ESCAPE",
+                                "slide_title_1": "After the",
+                                "slide_title_2": "last light.",
+                                "slide_description": "Warm terracotta walls, a quiet courtyard and a sky that opens slowly into stars. An imaginary desert refuge shaped around the beauty of doing less.",
+                                "slide_image": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/timed-slider/mesa.webp"
+                                },
+                                "slide_image_alt": "Imaginary terracotta observatory at desert dusk",
+                                "slide_button_label": "Explore the concept",
+                                "slide_button_url": {
+                                    "url": "https://example.com/retreats/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "initial_slide": 3,
+                        "autoplay": "",
+                        "autoplay_interval": 5.5,
+                        "pause_on_hover": "yes",
+                        "transition_duration": 0.82,
+                        "transition_ease": "power2.inOut",
+                        "visible_stack_cards": 2,
+                        "stage_height": {
+                            "size": 740,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_mobile": {
+                            "size": 820,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "scene_radius": {
+                            "size": 20,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_width": {
+                            "size": 450,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_left": {
+                            "size": 44,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_left_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_top": {
+                            "size": 54,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_top_mobile": {
+                            "size": 42,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mini_card_width": {
+                            "size": 144,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mini_card_width_mobile": {
+                            "size": 130,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mini_card_height": {
+                            "size": 190,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "mini_card_height_mobile": {
+                            "size": 170,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stack_gap": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stack_gap_mobile": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stack_right": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stack_right_mobile": {
+                            "size": 16,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stack_bottom": {
+                            "size": 112,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stack_bottom_mobile": {
+                            "size": 120,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "nav_side_offset": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "nav_edge_offset": {
+                            "size": 32,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "nav_edge_offset_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "show_bookmark": "yes",
+                        "show_nav": "yes",
+                        "show_progress": "yes",
+                        "show_slide_numbers": "yes",
+                        "show_top_indicator": "yes",
+                        "indicator_position": "top",
+                        "indicator_fill_direction": "forward",
+                        "ts_accent": "#E4F58C",
+                        "ts_focus": "#E4F58C",
+                        "details_place_typography_typography": "custom",
+                        "details_place_typography_font_family": "Arial",
+                        "details_place_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_place_typography_font_size_mobile": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_place_typography_line_height": {
+                            "size": 1.4,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "details_place_typography_letter_spacing": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_title_typography_typography": "custom",
+                        "details_title_typography_font_family": "Arial",
+                        "details_title_typography_font_size": {
+                            "size": 50,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_title_typography_font_size_mobile": {
+                            "size": 34,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_title_typography_line_height": {
+                            "size": 1.08,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "details_desc_typography_typography": "custom",
+                        "details_desc_typography_font_family": "Arial",
+                        "details_desc_typography_font_size": {
+                            "size": 14,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_desc_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "details_desc_typography_line_height": {
+                            "size": 1.65,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "cta_typography_typography": "custom",
+                        "cta_typography_font_family": "Arial",
+                        "cta_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ts_mini_title_typography_typography": "custom",
+                        "ts_mini_title_typography_font_family": "Arial",
+                        "ts_mini_title_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ts_mini_place_typography_typography": "custom",
+                        "ts_mini_place_typography_font_family": "Arial",
+                        "ts_mini_place_typography_font_size": {
+                            "size": 9,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "ts_show_playback": "yes"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-timed-slider-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Timed Slider - Nocturne",
+    "type": "section"
+}

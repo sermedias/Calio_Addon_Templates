@@ -4535,6 +4535,78 @@
       ],
       "file": "widgets/testimonial-grid-letter-pro.json",
       "thumbnail": "screenshots/testimonial-grid-letter-pro.webp"
+    },
+    {
+      "id": "timed-slider-folio-pro",
+      "title": "Timed Slider - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Timed Slider",
+        "Slider",
+        "Travel"
+      ],
+      "file": "widgets/timed-slider-folio-pro.json",
+      "thumbnail": "screenshots/timed-slider-folio-pro.webp"
+    },
+    {
+      "id": "timed-slider-still-pro",
+      "title": "Timed Slider - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Timed Slider",
+        "Slider",
+        "Travel"
+      ],
+      "file": "widgets/timed-slider-still-pro.json",
+      "thumbnail": "screenshots/timed-slider-still-pro.webp"
+    },
+    {
+      "id": "timed-slider-prism-pro",
+      "title": "Timed Slider - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Timed Slider",
+        "Slider",
+        "Travel"
+      ],
+      "file": "widgets/timed-slider-prism-pro.json",
+      "thumbnail": "screenshots/timed-slider-prism-pro.webp"
+    },
+    {
+      "id": "timed-slider-nocturne-pro",
+      "title": "Timed Slider - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Timed Slider",
+        "Slider",
+        "Travel"
+      ],
+      "file": "widgets/timed-slider-nocturne-pro.json",
+      "thumbnail": "screenshots/timed-slider-nocturne-pro.webp"
+    },
+    {
+      "id": "timed-slider-trace-pro",
+      "title": "Timed Slider - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Timed Slider",
+        "Slider",
+        "Travel"
+      ],
+      "file": "widgets/timed-slider-trace-pro.json",
+      "thumbnail": "screenshots/timed-slider-trace-pro.webp"
+    },
+    {
+      "id": "timed-slider-cinema-pro",
+      "title": "Timed Slider - Cinema / Pro",
+      "type": "widgets",
+      "categories": [
+        "Timed Slider",
+        "Slider",
+        "Travel"
+      ],
+      "file": "widgets/timed-slider-cinema-pro.json",
+      "thumbnail": "screenshots/timed-slider-cinema-pro.webp"
     }
   ]
 }
