@@ -1,0 +1,217 @@
+{
+    "content": [
+        {
+            "id": "1d3c7d6d",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "4d3772ff",
+                    "settings": {
+                        "design_skin": "poster",
+                        "initial_text": "MAKE WAVES",
+                        "lowercase_text": "",
+                        "max_letters": 80,
+                        "tt_eyebrow": "INDEPENDENT TYPE / BIG ENERGY",
+                        "tt_caption": "Small beginnings. Unexpected possibilities.",
+                        "tt_autoplay": "",
+                        "tt_loop": "yes",
+                        "tt_show_controls": "yes",
+                        "typing_delay": 150,
+                        "erase_delay": 60,
+                        "loop_pause": 1400,
+                        "animation_speed": {
+                            "size": 0.85,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "enable_decor": "yes",
+                        "triangle_count": 4,
+                        "circle_count": 4,
+                        "circle_color": "#804333",
+                        "palette": [
+                            {
+                                "_id": "tt-palette-0",
+                                "main": "#804333",
+                                "shade_1": "#804333",
+                                "shade_2": "#804333",
+                                "shade_3": "#804333",
+                                "shade_4": "#804333"
+                            },
+                            {
+                                "_id": "tt-palette-1",
+                                "main": "#AA593D",
+                                "shade_1": "#AA593D",
+                                "shade_2": "#AA593D",
+                                "shade_3": "#AA593D",
+                                "shade_4": "#AA593D"
+                            },
+                            {
+                                "_id": "tt-palette-2",
+                                "main": "#9B4D36",
+                                "shade_1": "#9B4D36",
+                                "shade_2": "#9B4D36",
+                                "shade_3": "#9B4D36",
+                                "shade_4": "#9B4D36"
+                            }
+                        ],
+                        "stage_height": {
+                            "size": 520,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_mobile": {
+                            "size": 560,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_padding": {
+                            "top": "56",
+                            "right": "44",
+                            "bottom": "56",
+                            "left": "44",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stage_padding_mobile": {
+                            "top": "44",
+                            "right": "24",
+                            "bottom": "44",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stage_radius": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "letter_typography_typography": "custom",
+                        "letter_typography_font_family": "Arial",
+                        "letter_typography_font_weight": "900",
+                        "letter_typography_font_size": {
+                            "size": 104,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "letter_typography_font_size_mobile": {
+                            "size": 68,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "letter_typography_line_height": {
+                            "size": 1.15,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "letter_typography_letter_spacing": {
+                            "size": -1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "letter_shadow_color": "transparent",
+                        "tt_eyebrow_typography_typography": "custom",
+                        "tt_eyebrow_typography_font_family": "Arial",
+                        "tt_eyebrow_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_eyebrow_typography_letter_spacing": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_eyebrow_color": "#804333",
+                        "tt_caption_typography_typography": "custom",
+                        "tt_caption_typography_font_family": "Arial",
+                        "tt_caption_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_caption_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_caption_color": "#804333",
+                        "tt_content_gap": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_content_gap_mobile": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_accent": "#804333",
+                        "tt_focus": "#804333",
+                        "tt_controls_typography_typography": "custom",
+                        "tt_controls_typography_font_family": "Arial",
+                        "tt_controls_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_controls_color": "#804333",
+                        "tt_controls_hover_color": "#804333",
+                        "tt_controls_border_border": "solid",
+                        "tt_controls_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "tt_controls_border_color": "#804333",
+                        "tt_letter_surface_background": "classic",
+                        "tt_letter_surface_color": "#F9E1B3",
+                        "tt_letter_padding": {
+                            "top": "4",
+                            "right": "3",
+                            "bottom": "4",
+                            "left": "3",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "tt_letter_radius": {
+                            "size": 4,
+                            "unit": "px",
+                            "sizes": []
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-typing-text-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Typing Text - Poster",
+    "type": "section"
+}

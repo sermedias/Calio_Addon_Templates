@@ -1,0 +1,220 @@
+{
+    "content": [
+        {
+            "id": "1ad87e01",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "6aa71118",
+                    "settings": {
+                        "design_skin": "outline",
+                        "initial_text": "A clear direction.",
+                        "lowercase_text": "",
+                        "max_letters": 80,
+                        "tt_eyebrow": "WORDS / ONE AT A TIME",
+                        "tt_caption": "Find the words. Make your next move.",
+                        "tt_autoplay": "",
+                        "tt_loop": "yes",
+                        "tt_show_controls": "yes",
+                        "typing_delay": 150,
+                        "erase_delay": 60,
+                        "loop_pause": 1400,
+                        "animation_speed": {
+                            "size": 0.85,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "enable_decor": "yes",
+                        "triangle_count": 4,
+                        "circle_count": 4,
+                        "circle_color": "#3D6478",
+                        "palette": [
+                            {
+                                "_id": "tt-palette-0",
+                                "main": "#3D6478",
+                                "shade_1": "#3D6478",
+                                "shade_2": "#3D6478",
+                                "shade_3": "#3D6478",
+                                "shade_4": "#3D6478"
+                            },
+                            {
+                                "_id": "tt-palette-1",
+                                "main": "#52798B",
+                                "shade_1": "#52798B",
+                                "shade_2": "#52798B",
+                                "shade_3": "#52798B",
+                                "shade_4": "#52798B"
+                            },
+                            {
+                                "_id": "tt-palette-2",
+                                "main": "#36566B",
+                                "shade_1": "#36566B",
+                                "shade_2": "#36566B",
+                                "shade_3": "#36566B",
+                                "shade_4": "#36566B"
+                            }
+                        ],
+                        "stage_height": {
+                            "size": 520,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_mobile": {
+                            "size": 560,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_padding": {
+                            "top": "56",
+                            "right": "44",
+                            "bottom": "56",
+                            "left": "44",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stage_padding_mobile": {
+                            "top": "44",
+                            "right": "24",
+                            "bottom": "44",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stage_radius": {
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "letter_typography_typography": "custom",
+                        "letter_typography_font_family": "Courier New",
+                        "letter_typography_font_weight": "700",
+                        "letter_typography_font_size": {
+                            "size": 66,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "letter_typography_font_size_mobile": {
+                            "size": 54,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "letter_typography_line_height": {
+                            "size": 1.15,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "letter_typography_letter_spacing": {
+                            "size": 1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "letter_shadow_color": "transparent",
+                        "tt_eyebrow_typography_typography": "custom",
+                        "tt_eyebrow_typography_font_family": "Arial",
+                        "tt_eyebrow_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_eyebrow_typography_letter_spacing": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_eyebrow_color": "#3D6478",
+                        "tt_caption_typography_typography": "custom",
+                        "tt_caption_typography_font_family": "Arial",
+                        "tt_caption_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_caption_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_caption_color": "#3D6478",
+                        "tt_content_gap": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_content_gap_mobile": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_accent": "#3D6478",
+                        "tt_focus": "#3D6478",
+                        "tt_controls_typography_typography": "custom",
+                        "tt_controls_typography_font_family": "Arial",
+                        "tt_controls_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_controls_color": "#3D6478",
+                        "tt_controls_hover_color": "#3D6478",
+                        "tt_controls_border_border": "solid",
+                        "tt_controls_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "tt_controls_border_color": "#3D6478",
+                        "tt_letter_border_border": "solid",
+                        "tt_letter_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "tt_letter_border_color": "#3D6478",
+                        "tt_letter_padding": {
+                            "top": "3",
+                            "right": "2",
+                            "bottom": "3",
+                            "left": "2",
+                            "unit": "px",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-typing-text-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Typing Text - Trace",
+    "type": "section"
+}

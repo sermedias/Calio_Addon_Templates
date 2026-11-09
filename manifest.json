@@ -4607,6 +4607,78 @@
       ],
       "file": "widgets/timed-slider-cinema-pro.json",
       "thumbnail": "screenshots/timed-slider-cinema-pro.webp"
+    },
+    {
+      "id": "typing-text-folio-pro",
+      "title": "Typing Text - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Typing Text",
+        "Typography",
+        "Animation"
+      ],
+      "file": "widgets/typing-text-folio-pro.json",
+      "thumbnail": "screenshots/typing-text-folio-pro.webp"
+    },
+    {
+      "id": "typing-text-still-pro",
+      "title": "Typing Text - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Typing Text",
+        "Typography",
+        "Animation"
+      ],
+      "file": "widgets/typing-text-still-pro.json",
+      "thumbnail": "screenshots/typing-text-still-pro.webp"
+    },
+    {
+      "id": "typing-text-prism-pro",
+      "title": "Typing Text - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Typing Text",
+        "Typography",
+        "Animation"
+      ],
+      "file": "widgets/typing-text-prism-pro.json",
+      "thumbnail": "screenshots/typing-text-prism-pro.webp"
+    },
+    {
+      "id": "typing-text-nocturne-pro",
+      "title": "Typing Text - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Typing Text",
+        "Typography",
+        "Animation"
+      ],
+      "file": "widgets/typing-text-nocturne-pro.json",
+      "thumbnail": "screenshots/typing-text-nocturne-pro.webp"
+    },
+    {
+      "id": "typing-text-trace-pro",
+      "title": "Typing Text - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Typing Text",
+        "Typography",
+        "Animation"
+      ],
+      "file": "widgets/typing-text-trace-pro.json",
+      "thumbnail": "screenshots/typing-text-trace-pro.webp"
+    },
+    {
+      "id": "typing-text-poster-pro",
+      "title": "Typing Text - Poster / Pro",
+      "type": "widgets",
+      "categories": [
+        "Typing Text",
+        "Typography",
+        "Animation"
+      ],
+      "file": "widgets/typing-text-poster-pro.json",
+      "thumbnail": "screenshots/typing-text-poster-pro.webp"
     }
   ]
 }

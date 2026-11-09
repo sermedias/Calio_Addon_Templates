@@ -1,0 +1,202 @@
+{
+    "content": [
+        {
+            "id": "62ccfd9f",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "1c4c37a4",
+                    "settings": {
+                        "design_skin": "contrast",
+                        "initial_text": "MAKE SOME NOISE",
+                        "lowercase_text": "",
+                        "max_letters": 80,
+                        "tt_eyebrow": "BOLD WORDS / BRIGHT IDEAS",
+                        "tt_caption": "For the ideas that deserve to be heard.",
+                        "tt_autoplay": "",
+                        "tt_loop": "yes",
+                        "tt_show_controls": "yes",
+                        "typing_delay": 150,
+                        "erase_delay": 60,
+                        "loop_pause": 1400,
+                        "animation_speed": {
+                            "size": 0.85,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "enable_decor": "yes",
+                        "triangle_count": 8,
+                        "circle_count": 4,
+                        "circle_color": "#DCEE8D",
+                        "palette": [
+                            {
+                                "_id": "tt-palette-0",
+                                "main": "#E2F2A5",
+                                "shade_1": "#E2F2A5",
+                                "shade_2": "#E2F2A5",
+                                "shade_3": "#E2F2A5",
+                                "shade_4": "#E2F2A5"
+                            },
+                            {
+                                "_id": "tt-palette-1",
+                                "main": "#9ED8CE",
+                                "shade_1": "#9ED8CE",
+                                "shade_2": "#9ED8CE",
+                                "shade_3": "#9ED8CE",
+                                "shade_4": "#9ED8CE"
+                            },
+                            {
+                                "_id": "tt-palette-2",
+                                "main": "#F7F1D4",
+                                "shade_1": "#F7F1D4",
+                                "shade_2": "#F7F1D4",
+                                "shade_3": "#F7F1D4",
+                                "shade_4": "#F7F1D4"
+                            }
+                        ],
+                        "stage_height": {
+                            "size": 520,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_height_mobile": {
+                            "size": 560,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "stage_padding": {
+                            "top": "56",
+                            "right": "44",
+                            "bottom": "56",
+                            "left": "44",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stage_padding_mobile": {
+                            "top": "44",
+                            "right": "24",
+                            "bottom": "44",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": false
+                        },
+                        "stage_radius": {
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "letter_typography_typography": "custom",
+                        "letter_typography_font_family": "Arial",
+                        "letter_typography_font_weight": "900",
+                        "letter_typography_font_size": {
+                            "size": 84,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "letter_typography_font_size_mobile": {
+                            "size": 54,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "letter_typography_line_height": {
+                            "size": 1.15,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "letter_typography_letter_spacing": {
+                            "size": -1,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "letter_shadow_color": "transparent",
+                        "tt_eyebrow_typography_typography": "custom",
+                        "tt_eyebrow_typography_font_family": "Arial",
+                        "tt_eyebrow_typography_font_size": {
+                            "size": 10,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_eyebrow_typography_letter_spacing": {
+                            "size": 2,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_eyebrow_color": "#DCEE8D",
+                        "tt_caption_typography_typography": "custom",
+                        "tt_caption_typography_font_family": "Arial",
+                        "tt_caption_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_caption_typography_font_size_mobile": {
+                            "size": 13,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_caption_color": "#DCEE8D",
+                        "tt_content_gap": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_content_gap_mobile": {
+                            "size": 24,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_accent": "#DCEE8D",
+                        "tt_focus": "#DCEE8D",
+                        "tt_controls_typography_typography": "custom",
+                        "tt_controls_typography_font_family": "Arial",
+                        "tt_controls_typography_font_size": {
+                            "size": 11,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tt_controls_color": "#DCEE8D",
+                        "tt_controls_hover_color": "#DCEE8D",
+                        "tt_controls_border_border": "solid",
+                        "tt_controls_border_width": {
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "tt_controls_border_color": "#DCEE8D"
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-typing-text-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Typing Text - Nocturne",
+    "type": "section"
+}
