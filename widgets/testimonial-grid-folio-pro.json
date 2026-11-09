@@ -1,0 +1,232 @@
+{
+    "content": [
+        {
+            "id": "2acb7db8",
+            "settings": {
+                "content_width": "boxed",
+                "boxed_width": {
+                    "size": 1200,
+                    "unit": "px",
+                    "sizes": []
+                },
+                "padding": {
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "unit": "px",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "6eb65aac",
+                    "settings": {
+                        "design_skin": "editorial",
+                        "items": [
+                            {
+                                "_id": "tg-person-0",
+                                "avatar": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/interactive-team-accordion/ada.webp"
+                                },
+                                "avatar_alt": "Fictional portrait of Ada",
+                                "name": "Ada Vale",
+                                "role": "Creative lead",
+                                "company": "Sample Studio",
+                                "quote": "The process felt clear from the first conversation. Every detail had a purpose, and the final result gave our small team the confidence to share our work.",
+                                "rating": "5",
+                                "date_label": "Sample story",
+                                "featured": "yes",
+                                "verified": "",
+                                "profile_url": {
+                                    "url": "https://example.com/stories/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "tg-person-1",
+                                "avatar": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/interactive-team-accordion/leo.webp"
+                                },
+                                "avatar_alt": "Fictional portrait of Leo",
+                                "name": "Leo Bennett",
+                                "role": "Project partner",
+                                "company": "Illustrative Works",
+                                "quote": "We appreciated the thoughtful questions as much as the thoughtful design. A calm, collaborative approach helped us turn a loose idea into something genuinely useful.",
+                                "rating": "4",
+                                "date_label": "Sample story",
+                                "featured": "",
+                                "verified": "",
+                                "profile_url": {
+                                    "url": "https://example.com/stories/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            },
+                            {
+                                "_id": "tg-person-2",
+                                "avatar": {
+                                    "id": 0,
+                                    "url": "https://raw.githubusercontent.com/sermedias/Calio_Addon_Templates/main/media/interactive-team-accordion/mina.webp"
+                                },
+                                "avatar_alt": "Fictional portrait of Mina",
+                                "name": "Mina Park",
+                                "role": "Founder",
+                                "company": "Example Collective",
+                                "quote": "The little things made the difference: clear communication, considered choices and room to make the project our own. We felt supported at every stage.",
+                                "rating": "5",
+                                "date_label": "Sample story",
+                                "featured": "",
+                                "verified": "",
+                                "profile_url": {
+                                    "url": "https://example.com/stories/",
+                                    "is_external": "yes",
+                                    "nofollow": "yes",
+                                    "custom_attributes": ""
+                                }
+                            }
+                        ],
+                        "tg_intro_eyebrow": "VOICES / IN GOOD COMPANY",
+                        "tg_intro_title": "The details people remember.",
+                        "tg_intro_description": "Illustrative stories from fictional clients. Replace these sample reviews with your own.",
+                        "columns": "2",
+                        "columns_tablet": "2",
+                        "columns_mobile": "1",
+                        "gap": {
+                            "size": 22,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "gap_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "featured_span": "yes",
+                        "card_padding": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_padding_mobile": {
+                            "top": "24",
+                            "right": "24",
+                            "bottom": "24",
+                            "left": "24",
+                            "unit": "px",
+                            "isLinked": true
+                        },
+                        "card_content_gap": {
+                            "size": 10,
+                            "unit": "px"
+                        },
+                        "avatar_size": {
+                            "size": 48,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "avatar_position": "left",
+                        "meta_layout": "inline",
+                        "show_verified_badge": "",
+                        "show_profile_link": "yes",
+                        "profile_link_text": "Sample story",
+                        "show_date": "",
+                        "show_replay": "",
+                        "entry_animation": "none",
+                        "entrance_duration": 420,
+                        "animation_stagger": 70,
+                        "tg_accent": "#63513C",
+                        "tg_focus": "#63513C",
+                        "tg_intro_title_typography_typography": "custom",
+                        "tg_intro_title_typography_font_family": "Georgia",
+                        "tg_intro_title_typography_font_size": {
+                            "size": 44,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tg_intro_title_typography_font_size_mobile": {
+                            "size": 30,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tg_intro_title_typography_line_height": {
+                            "size": 1.12,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "tg_intro_title_color": "#63513C",
+                        "tg_intro_eyebrow_color": "#63513C",
+                        "tg_intro_description_color": "#63513C",
+                        "quote_typography_typography": "custom",
+                        "quote_typography_font_family": "Georgia",
+                        "quote_typography_font_size": {
+                            "size": 16,
+                            "unit": "px"
+                        },
+                        "quote_typography_font_size_mobile": {
+                            "size": 18,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "quote_typography_line_height": {
+                            "size": 1.6,
+                            "unit": "em",
+                            "sizes": []
+                        },
+                        "name_typography_typography": "custom",
+                        "name_typography_font_family": "Arial",
+                        "name_typography_font_size": {
+                            "size": 15,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "role_typography_typography": "custom",
+                        "role_typography_font_family": "Arial",
+                        "role_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "company_typography_typography": "custom",
+                        "company_typography_font_family": "Arial",
+                        "company_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "profile_link_typography_typography": "custom",
+                        "profile_link_typography_font_family": "Arial",
+                        "profile_link_typography_font_size": {
+                            "size": 12,
+                            "unit": "px",
+                            "sizes": []
+                        },
+                        "tg_avatar_position": "50% 35%",
+                        "card_min_height": {
+                            "size": 180,
+                            "unit": "px"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-testimonial-grid-pro",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Testimonial Grid - Folio",
+    "type": "section"
+}

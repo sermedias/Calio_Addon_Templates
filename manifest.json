@@ -4463,6 +4463,78 @@
       ],
       "file": "widgets/team-showcase-studio-pro.json",
       "thumbnail": "screenshots/team-showcase-studio-pro.webp"
+    },
+    {
+      "id": "testimonial-grid-folio-pro",
+      "title": "Testimonial Grid - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "Testimonial Grid",
+        "Testimonials",
+        "Reviews"
+      ],
+      "file": "widgets/testimonial-grid-folio-pro.json",
+      "thumbnail": "screenshots/testimonial-grid-folio-pro.webp"
+    },
+    {
+      "id": "testimonial-grid-still-pro",
+      "title": "Testimonial Grid - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "Testimonial Grid",
+        "Testimonials",
+        "Reviews"
+      ],
+      "file": "widgets/testimonial-grid-still-pro.json",
+      "thumbnail": "screenshots/testimonial-grid-still-pro.webp"
+    },
+    {
+      "id": "testimonial-grid-prism-pro",
+      "title": "Testimonial Grid - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "Testimonial Grid",
+        "Testimonials",
+        "Reviews"
+      ],
+      "file": "widgets/testimonial-grid-prism-pro.json",
+      "thumbnail": "screenshots/testimonial-grid-prism-pro.webp"
+    },
+    {
+      "id": "testimonial-grid-nocturne-pro",
+      "title": "Testimonial Grid - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "Testimonial Grid",
+        "Testimonials",
+        "Reviews"
+      ],
+      "file": "widgets/testimonial-grid-nocturne-pro.json",
+      "thumbnail": "screenshots/testimonial-grid-nocturne-pro.webp"
+    },
+    {
+      "id": "testimonial-grid-trace-pro",
+      "title": "Testimonial Grid - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "Testimonial Grid",
+        "Testimonials",
+        "Reviews"
+      ],
+      "file": "widgets/testimonial-grid-trace-pro.json",
+      "thumbnail": "screenshots/testimonial-grid-trace-pro.webp"
+    },
+    {
+      "id": "testimonial-grid-letter-pro",
+      "title": "Testimonial Grid - Letter / Pro",
+      "type": "widgets",
+      "categories": [
+        "Testimonial Grid",
+        "Testimonials",
+        "Reviews"
+      ],
+      "file": "widgets/testimonial-grid-letter-pro.json",
+      "thumbnail": "screenshots/testimonial-grid-letter-pro.webp"
     }
   ]
 }
