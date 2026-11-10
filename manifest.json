@@ -4823,6 +4823,78 @@
       ],
       "file": "widgets/woocommerce-cart-page-market-pro.json",
       "thumbnail": "screenshots/woocommerce-cart-page-market-pro.webp"
+    },
+    {
+      "id": "woocommerce-grid-folio-pro",
+      "title": "WooCommerce Grid - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-grid-folio-pro.json",
+      "thumbnail": "screenshots/woocommerce-grid-folio-pro.webp"
+    },
+    {
+      "id": "woocommerce-grid-still-pro",
+      "title": "WooCommerce Grid - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-grid-still-pro.json",
+      "thumbnail": "screenshots/woocommerce-grid-still-pro.webp"
+    },
+    {
+      "id": "woocommerce-grid-prism-pro",
+      "title": "WooCommerce Grid - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-grid-prism-pro.json",
+      "thumbnail": "screenshots/woocommerce-grid-prism-pro.webp"
+    },
+    {
+      "id": "woocommerce-grid-nocturne-pro",
+      "title": "WooCommerce Grid - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-grid-nocturne-pro.json",
+      "thumbnail": "screenshots/woocommerce-grid-nocturne-pro.webp"
+    },
+    {
+      "id": "woocommerce-grid-trace-pro",
+      "title": "WooCommerce Grid - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-grid-trace-pro.json",
+      "thumbnail": "screenshots/woocommerce-grid-trace-pro.webp"
+    },
+    {
+      "id": "woocommerce-grid-atelier-pro",
+      "title": "WooCommerce Grid - Atelier / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-grid-atelier-pro.json",
+      "thumbnail": "screenshots/woocommerce-grid-atelier-pro.webp"
     }
   ]
 }
