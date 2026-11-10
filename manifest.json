@@ -4751,6 +4751,78 @@
       ],
       "file": "widgets/unfold-chapter-pro.json",
       "thumbnail": "screenshots/unfold-chapter-pro.webp"
+    },
+    {
+      "id": "woocommerce-cart-page-folio-pro",
+      "title": "WooCommerce Cart Page - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Cart Page",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-cart-page-folio-pro.json",
+      "thumbnail": "screenshots/woocommerce-cart-page-folio-pro.webp"
+    },
+    {
+      "id": "woocommerce-cart-page-still-pro",
+      "title": "WooCommerce Cart Page - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Cart Page",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-cart-page-still-pro.json",
+      "thumbnail": "screenshots/woocommerce-cart-page-still-pro.webp"
+    },
+    {
+      "id": "woocommerce-cart-page-prism-pro",
+      "title": "WooCommerce Cart Page - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Cart Page",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-cart-page-prism-pro.json",
+      "thumbnail": "screenshots/woocommerce-cart-page-prism-pro.webp"
+    },
+    {
+      "id": "woocommerce-cart-page-nocturne-pro",
+      "title": "WooCommerce Cart Page - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Cart Page",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-cart-page-nocturne-pro.json",
+      "thumbnail": "screenshots/woocommerce-cart-page-nocturne-pro.webp"
+    },
+    {
+      "id": "woocommerce-cart-page-trace-pro",
+      "title": "WooCommerce Cart Page - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Cart Page",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-cart-page-trace-pro.json",
+      "thumbnail": "screenshots/woocommerce-cart-page-trace-pro.webp"
+    },
+    {
+      "id": "woocommerce-cart-page-market-pro",
+      "title": "WooCommerce Cart Page - Market / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Cart Page",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-cart-page-market-pro.json",
+      "thumbnail": "screenshots/woocommerce-cart-page-market-pro.webp"
     }
   ]
 }
