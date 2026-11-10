@@ -40,7 +40,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 366 editable designs across 61 widget families (150 Free and 216 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+The **Ready Widgets** tab contains 372 editable designs across 62 widget families (150 Free and 222 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
 
 ### Accent Headline designs
 
@@ -415,3 +415,7 @@ Folio, Still, Prism, Nocturne, Trace and Market each contain one editable native
 ### WooCommerce Grid / Pro
 
 Folio, Still, Prism, Nocturne, Trace and Atelier each contain one editable native WooCommerce Grid Pro widget. The destination store supplies all queried products, prices, categories, availability and ratings. Native product links, cart buttons, responsive image layout and independent paint remain editable. No preview fixture products, local IDs or custom CSS are exported.
+
+### WooCommerce Product Grid / Pro
+
+Folio, Still, Prism, Nocturne, Trace and Boutique each contain one editable native WooCommerce Product Grid Pro widget. The destination store supplies products, native galleries, prices, categories and cart actions. Native gallery controls, loaded-product sorting, pagination/load-more and responsive styling remain editable. Preview-only art-print examples, local fixture IDs and custom CSS are excluded from exports.

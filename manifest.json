@@ -4895,6 +4895,78 @@
       ],
       "file": "widgets/woocommerce-grid-atelier-pro.json",
       "thumbnail": "screenshots/woocommerce-grid-atelier-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-grid-folio-pro",
+      "title": "WooCommerce Product Grid - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-grid-folio-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-grid-folio-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-grid-still-pro",
+      "title": "WooCommerce Product Grid - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-grid-still-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-grid-still-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-grid-prism-pro",
+      "title": "WooCommerce Product Grid - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-grid-prism-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-grid-prism-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-grid-nocturne-pro",
+      "title": "WooCommerce Product Grid - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-grid-nocturne-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-grid-nocturne-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-grid-trace-pro",
+      "title": "WooCommerce Product Grid - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-grid-trace-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-grid-trace-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-grid-boutique-pro",
+      "title": "WooCommerce Product Grid - Boutique / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Grid",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-grid-boutique-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-grid-boutique-pro.webp"
     }
   ]
 }
