@@ -4967,6 +4967,78 @@
       ],
       "file": "widgets/woocommerce-product-grid-boutique-pro.json",
       "thumbnail": "screenshots/woocommerce-product-grid-boutique-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-marquee-folio-pro",
+      "title": "WooCommerce Product Marquee - Folio / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Marquee",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-marquee-folio-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-marquee-folio-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-marquee-still-pro",
+      "title": "WooCommerce Product Marquee - Still / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Marquee",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-marquee-still-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-marquee-still-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-marquee-prism-pro",
+      "title": "WooCommerce Product Marquee - Prism / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Marquee",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-marquee-prism-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-marquee-prism-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-marquee-nocturne-pro",
+      "title": "WooCommerce Product Marquee - Nocturne / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Marquee",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-marquee-nocturne-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-marquee-nocturne-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-marquee-trace-pro",
+      "title": "WooCommerce Product Marquee - Trace / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Marquee",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-marquee-trace-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-marquee-trace-pro.webp"
+    },
+    {
+      "id": "woocommerce-product-marquee-boutique-pro",
+      "title": "WooCommerce Product Marquee - Boutique / Pro",
+      "type": "widgets",
+      "categories": [
+        "WooCommerce Product Marquee",
+        "WooCommerce",
+        "Commerce"
+      ],
+      "file": "widgets/woocommerce-product-marquee-boutique-pro.json",
+      "thumbnail": "screenshots/woocommerce-product-marquee-boutique-pro.webp"
     }
   ]
 }
