@@ -1,0 +1,164 @@
+{
+    "content": [
+        {
+            "id": "25dd746f",
+            "settings": {
+                "content_width": "full",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+            },
+            "elements": [
+                {
+                    "id": "397a62c",
+                    "settings": {
+                        "design_skin": "bloom",
+                        "heading": "Choose your wedding flowers",
+                        "intro": "Select a floral package and add arrangements for the spaces you want to dress.",
+                        "packages_heading": "Wedding packages",
+                        "addons_heading": "Additional arrangements",
+                        "summary_heading": "Your floral estimate",
+                        "show_estimate_note": "yes",
+                        "estimate_note": "Final pricing depends on the date, venue access and seasonal flower availability.",
+                        "show_copy": "yes",
+                        "copy_label": "Copy floral brief",
+                        "currency": "USD",
+                        "price_locale": "en-US",
+                        "packages": [
+                            {
+                                "_id": "14d4792",
+                                "name": "Wedding Party",
+                                "description": "Bridal bouquet, two attendant bouquets and three boutonnieres.",
+                                "price": 425
+                            },
+                            {
+                                "_id": "017a8a5",
+                                "name": "Ceremony & Dinner",
+                                "description": "Wedding party flowers, two ceremony pieces and six centerpieces.",
+                                "price": 1420
+                            },
+                            {
+                                "_id": "5d36a00",
+                                "name": "Full Venue",
+                                "description": "Ceremony installation, ten centerpieces and onsite setup.",
+                                "price": 2980
+                            }
+                        ],
+                        "addons": [
+                            {
+                                "_id": "c4ec462",
+                                "name": "Welcome arrangement",
+                                "description": "A seasonal arrangement for your entrance or welcome table.",
+                                "price": 125
+                            },
+                            {
+                                "_id": "fed31f0",
+                                "name": "Cake flowers",
+                                "description": "A small set of florist-prepared stems for the cake table.",
+                                "price": 65
+                            }
+                        ],
+                        "surface_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "surface_background_slideshow_gallery": [],
+                        "summary_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "summary_background_slideshow_gallery": [],
+                        "_background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-project-estimator",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Project Estimator - Bloom",
+    "type": "section"
+}

@@ -1,0 +1,164 @@
+{
+    "content": [
+        {
+            "id": "7ff33605",
+            "settings": {
+                "content_width": "full",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+            },
+            "elements": [
+                {
+                    "id": "295f0905",
+                    "settings": {
+                        "design_skin": "signal",
+                        "heading": "Scope your video campaign",
+                        "intro": "Choose a production package and add the formats you need for distribution.",
+                        "packages_heading": "Production packages",
+                        "addons_heading": "Delivery add-ons",
+                        "summary_heading": "Your production estimate",
+                        "show_estimate_note": "yes",
+                        "estimate_note": "Talent, location permits and paid media licensing are scoped separately.",
+                        "show_copy": "yes",
+                        "copy_label": "Copy production brief",
+                        "currency": "USD",
+                        "price_locale": "en-US",
+                        "packages": [
+                            {
+                                "_id": "5fe579e",
+                                "name": "Social Edit",
+                                "description": "A 30-second edit using your footage, with captions and sound mix.",
+                                "price": 950
+                            },
+                            {
+                                "_id": "9af444d",
+                                "name": "Campaign Shoot",
+                                "description": "One shoot day and a 60-second master edit.",
+                                "price": 4200
+                            },
+                            {
+                                "_id": "1ed1dfd",
+                                "name": "Launch Series",
+                                "description": "Two shoot days, a master edit and three short social versions.",
+                                "price": 7850
+                            }
+                        ],
+                        "addons": [
+                            {
+                                "_id": "09fb8fd",
+                                "name": "Motion graphics",
+                                "description": "An animated title sequence and two on-screen callouts.",
+                                "price": 680
+                            },
+                            {
+                                "_id": "f72be0d",
+                                "name": "Vertical versions",
+                                "description": "9:16 edits for up to three approved videos.",
+                                "price": 315
+                            }
+                        ],
+                        "surface_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "surface_background_slideshow_gallery": [],
+                        "summary_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "summary_background_slideshow_gallery": [],
+                        "_background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-project-estimator",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Project Estimator - Signal",
+    "type": "section"
+}

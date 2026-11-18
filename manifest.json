@@ -5040,5 +5040,69 @@
       "file": "widgets/woocommerce-product-marquee-boutique-pro.json",
       "thumbnail": "screenshots/woocommerce-product-marquee-boutique-pro.webp"
     }
-  ]
+  ],
+  "widget_packs": {
+    "project-estimator": [
+      {
+        "id": "project-estimator-folio-free",
+        "title": "Project Estimator - Folio / Free",
+        "type": "widgets",
+        "categories": [
+          "Project Estimator",
+          "Brand Design",
+          "Pricing"
+        ],
+        "file": "widgets/project-estimator-folio-free.json",
+        "thumbnail": "screenshots/project-estimator-folio-free.webp"
+      },
+      {
+        "id": "project-estimator-blueprint-free",
+        "title": "Project Estimator - Blueprint / Free",
+        "type": "widgets",
+        "categories": [
+          "Project Estimator",
+          "Architecture",
+          "Pricing"
+        ],
+        "file": "widgets/project-estimator-blueprint-free.json",
+        "thumbnail": "screenshots/project-estimator-blueprint-free.webp"
+      },
+      {
+        "id": "project-estimator-bloom-free",
+        "title": "Project Estimator - Bloom / Free",
+        "type": "widgets",
+        "categories": [
+          "Project Estimator",
+          "Event Florals",
+          "Pricing"
+        ],
+        "file": "widgets/project-estimator-bloom-free.json",
+        "thumbnail": "screenshots/project-estimator-bloom-free.webp"
+      },
+      {
+        "id": "project-estimator-signal-free",
+        "title": "Project Estimator - Signal / Free",
+        "type": "widgets",
+        "categories": [
+          "Project Estimator",
+          "Digital Production",
+          "Pricing"
+        ],
+        "file": "widgets/project-estimator-signal-free.json",
+        "thumbnail": "screenshots/project-estimator-signal-free.webp"
+      },
+      {
+        "id": "project-estimator-atelier-free",
+        "title": "Project Estimator - Atelier / Free",
+        "type": "widgets",
+        "categories": [
+          "Project Estimator",
+          "Interior Design",
+          "Pricing"
+        ],
+        "file": "widgets/project-estimator-atelier-free.json",
+        "thumbnail": "screenshots/project-estimator-atelier-free.webp"
+      }
+    ]
+  }
 }

@@ -1,0 +1,164 @@
+{
+    "content": [
+        {
+            "id": "751cd6d2",
+            "settings": {
+                "content_width": "full",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+            },
+            "elements": [
+                {
+                    "id": "7db2c80d",
+                    "settings": {
+                        "design_skin": "atelier",
+                        "heading": "Design your room",
+                        "intro": "Choose the level of design support you need and add help sourcing the final pieces.",
+                        "packages_heading": "Design services",
+                        "addons_heading": "Sourcing and specification",
+                        "summary_heading": "Your interior design estimate",
+                        "show_estimate_note": "yes",
+                        "estimate_note": "Fees cover design services for one room. Furnishings, delivery and installation are priced separately.",
+                        "show_copy": "yes",
+                        "copy_label": "Copy room brief",
+                        "currency": "EUR",
+                        "price_locale": "en-IE",
+                        "packages": [
+                            {
+                                "_id": "cdca426",
+                                "name": "Room Consultation",
+                                "description": "A 90-minute session with a layout sketch and material direction.",
+                                "price": 260
+                            },
+                            {
+                                "_id": "c3d5836",
+                                "name": "Room Concept",
+                                "description": "A floor plan, material palette and furniture shortlist.",
+                                "price": 1120
+                            },
+                            {
+                                "_id": "e8eef90",
+                                "name": "Detailed Room Plan",
+                                "description": "Dimensioned layout, finish specifications and a purchasing schedule.",
+                                "price": 2350
+                            }
+                        ],
+                        "addons": [
+                            {
+                                "_id": "4fc0ac1",
+                                "name": "Lighting plan",
+                                "description": "Fixture selections and switching advice for one room.",
+                                "price": 340
+                            },
+                            {
+                                "_id": "b84b197",
+                                "name": "Vintage sourcing",
+                                "description": "A curated shortlist of up to five vintage pieces.",
+                                "price": 285
+                            }
+                        ],
+                        "surface_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "surface_background_slideshow_gallery": [],
+                        "summary_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "summary_background_slideshow_gallery": [],
+                        "_background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-project-estimator",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Project Estimator - Atelier",
+    "type": "section"
+}

@@ -1,0 +1,164 @@
+{
+    "content": [
+        {
+            "id": "2af6bb41",
+            "settings": {
+                "content_width": "full",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+            },
+            "elements": [
+                {
+                    "id": "7fddf054",
+                    "settings": {
+                        "design_skin": "folio",
+                        "heading": "Build your brand identity",
+                        "intro": "Choose an identity package, then add the pieces you need for launch.",
+                        "packages_heading": "Identity packages",
+                        "addons_heading": "Launch add-ons",
+                        "summary_heading": "Your brand estimate",
+                        "show_estimate_note": "yes",
+                        "estimate_note": "Final fees depend on the number of applications and the launch schedule.",
+                        "show_copy": "yes",
+                        "copy_label": "Copy brand brief",
+                        "currency": "USD",
+                        "price_locale": "en-US",
+                        "packages": [
+                            {
+                                "_id": "78a3efe",
+                                "name": "Core Identity",
+                                "description": "Logo suite, color palette and typography for a new brand.",
+                                "price": 1800
+                            },
+                            {
+                                "_id": "fc41ec0",
+                                "name": "Brand System",
+                                "description": "Core identity, art direction and a practical brand guide.",
+                                "price": 3650
+                            },
+                            {
+                                "_id": "7ab1286",
+                                "name": "Launch Identity",
+                                "description": "A complete brand system with social and campaign templates.",
+                                "price": 5900
+                            }
+                        ],
+                        "addons": [
+                            {
+                                "_id": "71680fd",
+                                "name": "Packaging artwork",
+                                "description": "Print-ready artwork for one product format.",
+                                "price": 780
+                            },
+                            {
+                                "_id": "52891a4",
+                                "name": "Pitch deck template",
+                                "description": "Ten editable slides built around your identity.",
+                                "price": 460
+                            }
+                        ],
+                        "surface_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "surface_background_slideshow_gallery": [],
+                        "summary_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "summary_background_slideshow_gallery": [],
+                        "_background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-project-estimator",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Project Estimator - Folio",
+    "type": "section"
+}

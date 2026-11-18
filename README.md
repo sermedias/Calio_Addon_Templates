@@ -40,7 +40,19 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-The **Ready Widgets** tab contains 378 editable designs across 63 widget families (150 Free and 228 Pro). The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+; the earlier published families are available in Free 1.20. Each export is a native Elementor `section` containing one container and one editable Calio Free widget. Choose **Free → Multicolumn Pricing Table** to explore the new comparison tables.
+Calio versions that support widget packs display **383 Ready Widgets designs from 64 families (155 Free and 228 Pro)** and 433 catalog entries overall. Legacy clients display **378 designs from 63 families (150 Free and 228 Pro)** and 428 catalog entries overall. The base catalog remains available to both readers. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+. Each Ready Widgets export is a native Elementor `section` with one editable Calio widget.
+
+### Project Estimator / Free
+
+Choose **Free → Project Estimator** in a Calio version that supports the Project Estimator widget and widget packs. Each design contains one editable estimator with service packages, optional add-ons, an itemized total and a copyable project brief.
+
+- **Folio:** Brand identity packages and visual assets for launch.
+- **Blueprint:** Architectural renovation drawings and optional surveys.
+- **Bloom:** Wedding floral packages and arrangements.
+- **Signal:** Video campaign production and delivery formats.
+- **Atelier:** Interior design packages, lighting and sourcing.
+
+Replace the example services and prices before using a preset for your business. All five presets use native Elementor controls and require no media, external fonts, custom CSS or Pro plugin.
 
 ### Accent Headline designs
 

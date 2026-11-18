@@ -1,0 +1,164 @@
+{
+    "content": [
+        {
+            "id": "6c47bdc8",
+            "settings": {
+                "content_width": "full",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": true
+                },
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_slideshow_gallery": [],
+                "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_hover_slideshow_gallery": [],
+                "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_slideshow_gallery": [],
+                "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                },
+                "background_overlay_hover_slideshow_gallery": []
+            },
+            "elements": [
+                {
+                    "id": "3f8deb4b",
+                    "settings": {
+                        "design_skin": "blueprint",
+                        "heading": "Plan your renovation",
+                        "intro": "Choose the drawing package that fits your home renovation and add specialist surveys as needed.",
+                        "packages_heading": "Drawing packages",
+                        "addons_heading": "Surveys and studies",
+                        "summary_heading": "Your design fee estimate",
+                        "show_estimate_note": "yes",
+                        "estimate_note": "Planning fees and structural engineering are quoted separately after the site review.",
+                        "show_copy": "yes",
+                        "copy_label": "Copy renovation brief",
+                        "currency": "GBP",
+                        "price_locale": "en-GB",
+                        "packages": [
+                            {
+                                "_id": "6d16e04",
+                                "name": "Feasibility Study",
+                                "description": "Site review, two layout options and a planning appraisal.",
+                                "price": 1250
+                            },
+                            {
+                                "_id": "ca7f3b4",
+                                "name": "Planning Drawings",
+                                "description": "One developed design with drawings for a planning application.",
+                                "price": 2850
+                            },
+                            {
+                                "_id": "e3c6d46",
+                                "name": "Technical Drawing Set",
+                                "description": "Construction drawings and details for contractor pricing.",
+                                "price": 4750
+                            }
+                        ],
+                        "addons": [
+                            {
+                                "_id": "c732db9",
+                                "name": "Measured survey",
+                                "description": "An on-site survey with existing floor plans and elevations.",
+                                "price": 650
+                            },
+                            {
+                                "_id": "d3cf875",
+                                "name": "Daylight study",
+                                "description": "A daylight comparison for two proposed layouts.",
+                                "price": 385
+                            }
+                        ],
+                        "surface_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "surface_background_slideshow_gallery": [],
+                        "summary_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "summary_background_slideshow_gallery": [],
+                        "_background_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_slideshow_gallery": [],
+                        "_background_hover_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_video_fallback": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        },
+                        "_background_hover_slideshow_gallery": [],
+                        "_mask_image": {
+                            "url": "",
+                            "id": "",
+                            "size": ""
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "calio-project-estimator",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ],
+    "page_settings": [],
+    "version": "0.4",
+    "title": "Project Estimator - Blueprint",
+    "type": "section"
+}
