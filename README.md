@@ -23,6 +23,9 @@ Add original, tested Elementor exports and actual screenshots before adding thei
 - **Gather â€” Creative Conference / Free**: a responsive two-day creative-conference page built with exactly ten Calio Free widget types: Countdown, Cube Slider, Team Member, Fancy Chart, Table, Advanced Heading, Advanced Button, Animated Link, Fancy Tabs and Accordion. Three original workshop posters and four fictional initials-based speaker portraits are bundled in `media/gather/`. The 12-session program and its 6/4/2 track chart share one source, and the countdown targets March 12, 2027 at 09:30 UTC. No stock photography, external fonts, Elementor Pro, Calio Pro, WooCommerce, menu IDs or saved-template IDs are required. Replace `hello@example.com`, the fictional speakers, program and event details before publishing a real event.
 - **Relay â€” SaaS Product / Free**: a responsive product-launch page for a fictional team-operations platform. It uses exactly ten Calio Free widget types: Progress Pie, Feature List Simple, Stylish List, Fancy Tabs, Table, Multicolumn Pricing Table, Accordion, Call Out, Advanced Heading and Advanced Button. The design is built entirely with Elementor containers and widget styling, so it needs no stock images, external fonts, Elementor Pro, Calio Pro, WooCommerce, menu IDs or saved-template IDs. Replace the fictional product claims, illustrative metrics, prices and `hello@example.com` before publishing a real product.
 - **Beacon â€” Climate Impact / Free**: a responsive sustainability-consulting page built with exactly ten Calio Free widget types: Accent Headline, Accordion, Advanced Button, Advanced Heading, Call Out, Fancy Chart, Feature List, Progress Pie, Stylish List and Table. Its impact snapshot, emissions mix and evidence register are explicitly illustrative; the layout uses no stock images, external fonts, Elementor Pro, Calio Pro, WooCommerce, menu IDs or saved-template IDs. Replace the fictional service claims, example figures and `hello@example.com` before publishing a real consultancy site.
+- **Kiln House / Free**: A ceramics workshop page with class descriptions, a first-visit guide, studio hours and access information.
+- **Afterhours Radio / Free**: An independent late-night radio guide with a running order, programme tabs, a presenter profile and listening notes.
+- **Tide Atlas / Free**: A coastal field guide with three captioned photo plates, a field notebook, a visual reference table and questions for a shoreline visit.
 - **Accordion**: the original uploaded accordion section.
 
 ## Included reusable sections
@@ -40,7 +43,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-Calio versions that support widget packs display **383 Ready Widgets designs from 64 families (155 Free and 228 Pro)** and 433 catalog entries overall. Legacy clients display **378 designs from 63 families (150 Free and 228 Pro)** and 428 catalog entries overall. The base catalog remains available to both readers. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+. Each Ready Widgets export is a native Elementor `section` with one editable Calio widget.
+Calio versions that support widget packs display **383 Ready Widgets designs from 64 families (155 Free and 228 Pro)** and 436 catalog entries overall. Legacy clients display **378 designs from 63 families (150 Free and 228 Pro)** and 431 catalog entries overall. The base catalog remains available to both readers. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+. Each Ready Widgets export is a native Elementor `section` with one editable Calio widget.
 
 ### Project Estimator / Free
 

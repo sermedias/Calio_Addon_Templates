@@ -5039,6 +5039,42 @@
       ],
       "file": "widgets/woocommerce-product-marquee-boutique-pro.json",
       "thumbnail": "screenshots/woocommerce-product-marquee-boutique-pro.webp"
+    },
+    {
+      "id": "kiln-house-free",
+      "title": "Kiln House",
+      "type": "templates",
+      "categories": [
+        "Craft",
+        "Workshops",
+        "Education"
+      ],
+      "file": "templates/kiln-house-free.json",
+      "thumbnail": "screenshots/kiln-house-free.webp"
+    },
+    {
+      "id": "afterhours-radio-free",
+      "title": "Afterhours Radio",
+      "type": "templates",
+      "categories": [
+        "Music",
+        "Radio",
+        "Editorial"
+      ],
+      "file": "templates/afterhours-radio-free.json",
+      "thumbnail": "screenshots/afterhours-radio-free.webp"
+    },
+    {
+      "id": "tide-atlas-free",
+      "title": "Tide Atlas",
+      "type": "templates",
+      "categories": [
+        "Nature",
+        "Outdoors",
+        "Editorial"
+      ],
+      "file": "templates/tide-atlas-free.json",
+      "thumbnail": "screenshots/tide-atlas-free.webp"
     }
   ],
   "widget_packs": {
