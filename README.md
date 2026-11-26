@@ -26,6 +26,9 @@ Add original, tested Elementor exports and actual screenshots before adding thei
 - **Kiln House / Free**: A ceramics workshop page with class descriptions, a first-visit guide, studio hours and access information.
 - **Afterhours Radio / Free**: An independent late-night radio guide with a running order, programme tabs, a presenter profile and listening notes.
 - **Tide Atlas / Free**: A coastal field guide with three captioned photo plates, a field notebook, a visual reference table and questions for a shoreline visit.
+- **Canal & Quire / Free**: An independent bookshop and reading club page with shelf recommendations and a guide for readers.
+- **Little Ember / Free**: A coffee roaster page with an editable home brewing guide.
+- **Ridgeline Hut / Free**: An alpine hut visitor guide with practical notes for a walking holiday.
 - **Accordion**: the original uploaded accordion section.
 
 ## Included reusable sections
@@ -43,7 +46,7 @@ Navigation headers and footers remain part of the complete templates and are int
 
 ## Ready Widgets
 
-Calio versions that support widget packs display **383 Ready Widgets designs from 64 families (155 Free and 228 Pro)** and 436 catalog entries overall. Legacy clients display **378 designs from 63 families (150 Free and 228 Pro)** and 431 catalog entries overall. The base catalog remains available to both readers. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+. Each Ready Widgets export is a native Elementor `section` with one editable Calio widget.
+Calio versions that support widget packs display **383 Ready Widgets designs from 64 families (155 Free and 228 Pro)** and 439 catalog entries overall. Legacy clients display **378 designs from 63 families (150 Free and 228 Pro)** and 434 catalog entries overall. The base catalog remains available to both readers. The Multicolumn Pricing Table and Navbar designs require Calio Free 1.21+. Each Ready Widgets export is a native Elementor `section` with one editable Calio widget.
 
 ### Project Estimator / Free
 

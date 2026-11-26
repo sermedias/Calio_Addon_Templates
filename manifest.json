@@ -5075,6 +5075,42 @@
       ],
       "file": "templates/tide-atlas-free.json",
       "thumbnail": "screenshots/tide-atlas-free.webp"
+    },
+    {
+      "id": "canal-and-quire-free",
+      "title": "Canal & Quire",
+      "type": "templates",
+      "categories": [
+        "Books",
+        "Community",
+        "Retail"
+      ],
+      "file": "templates/canal-and-quire-free.json",
+      "thumbnail": "screenshots/canal-and-quire-free.webp"
+    },
+    {
+      "id": "little-ember-free",
+      "title": "Little Ember",
+      "type": "templates",
+      "categories": [
+        "Coffee",
+        "Food & Drink",
+        "Education"
+      ],
+      "file": "templates/little-ember-free.json",
+      "thumbnail": "screenshots/little-ember-free.webp"
+    },
+    {
+      "id": "ridgeline-hut-free",
+      "title": "Ridgeline Hut",
+      "type": "templates",
+      "categories": [
+        "Hospitality",
+        "Outdoors",
+        "Travel"
+      ],
+      "file": "templates/ridgeline-hut-free.json",
+      "thumbnail": "screenshots/ridgeline-hut-free.webp"
     }
   ],
   "widget_packs": {
